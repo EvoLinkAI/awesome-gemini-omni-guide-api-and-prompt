@@ -1,11 +1,8 @@
 <div align="center">
-
 <a href="https://evolink.ai/gemini-omni?utm_source=github&utm_medium=banner&utm_campaign=awesome-gemini-omni"><img src="image/logo.png" alt="awesome-gemini-omni-api-and-prompt logo"></a>
-
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/gemini-omni?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
 [![Model API](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
-
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
 [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md)
@@ -17,50 +14,35 @@
 [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md)
 [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md)
 [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
-
 </div>
-
 ## 🍌 はじめに
-
 Gemini Omni APIとプロンプトリポジトリへようこそ！🤗
-
 **変換、モーション、カメラ制御、テキストシーケンス、マルチ入力ワークフローなど、幅広いクリエイティブタスクに対応したGoogle Gemini Omniの高品質プロンプトと動画サンプルを収集しています。**
-
 本リポジトリのケースの多くは、DeepMind公式デモ、プロンプトガイド、コミュニティの実験から厳選されたものです。
-
 Evolinkで試す: [Gemini Omni](https://evolink.ai/gemini-omni?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
-
 お役に立てましたら、ぜひスターをお願いします。⭐
-
 > [!NOTE]
 > 本リポジトリは、EvolinkでのGemini Omni動画生成に向けた再利用可能なプロンプトパターンとリファレンスケースに焦点を当てています。
-
 ## 📰 ニュース
-
 - **2026年5月23日:** トレンドツイートからコミュニティショーケース10件を追加
 - **2026年5月22日:** 厳選されたGemini Omniプロンプト25件で初回リポジトリ更新
-
 ## 📑 メニュー
-
 - [🎯 プロンプトの構成要素](#-プロンプトの構成要素)
 - [✂️ 編集](#️-編集)
   - [🔄 要素の置き換え](#-要素の置き換え)
-  - [📷 カメラ演出](#-カメラ演出)
+  - [🎬 ベースシーン](#-ベースシーン)\n  - [📷 カメラ演出](#-カメラ演出)
   - [🎬 アクション＆同期](#-アクション同期)
 - [🎨 高度なマルチモーダル](#-高度なマルチモーダル)
   - [🪞 アーティスティックスタイル](#-アーティスティックスタイル)
-  - [🔗 クロスモーダル](#-クロスモーダル)
+  - [✨ ビジュアルエフェクト](#-ビジュアルエフェクト)\n  - [🔗 クロスモーダル](#-クロスモーダル)
   - [📋 ストーリーボード](#-ストーリーボード)
   - [🔤 テキストレンダリング](#-テキストレンダリング)
 - [⚖️ 比較](#️-比較)
+- [🧪 評価](#-評価)
 - [🙏 謝辞](#-謝辞)
-
 ## 🎯 プロンプトの構成要素
-
 Gemini Omniは強力な**世界理解**能力を持っています。歴史、科学、文化に関する現実世界の知識を活用します。すべての詳細を過度に説明する必要はありません。自然言語でクリエイティブな意図を表現すれば、Omniの推論が残りを補完します。
-
 ゼロから新しい動画を作成する際は、以下の要素を組み合わせて出力を制御します：
-
 | 要素 | 指定する内容 | 例 |
 | :--- | :--- | :--- |
 | **ショットフレーミング＆モーション** | 広角、ミディアム、クローズアップ。カメラの軌道：ゆるやかなグライド、突然のラッシュ、静止ロック、ドリーズームなど。 | `A close-up tracking shot smoothly pushing in` |
@@ -68,12 +50,9 @@ Gemini Omniは強力な**世界理解**能力を持っています。歴史、�
 | **ライティング** | シーンのムードと照明設定 | `Warm champagne lighting`, `dim overhead gym lights` |
 | **ロケーション** | 環境と背景 | `Small underground gym`, `futuristic neon cityscape` |
 | **アクション** | 被写体の動作と動き | `The person touches the mirror`, `a marble rolling fast on a chain reaction track` |
-
 > [!TIP]
 > **反復編集：** Omniはマルチターン会話編集をサポートしています。うまくいっている部分はそのまま保持し、指示された部分のみを変更します。毎回シーン全体を再記述する必要はありません。次に変更したい内容を伝えるだけです。
-
 ## ✂️ 編集
-
 ### 🔄 要素の置き換え
 
 **ケース1: 蝶からハチへ** `🎬 Video→Video`
@@ -103,7 +82,6 @@ https://github.com/user-attachments/assets/60f31f6d-895e-4048-b477-9a46a5d20b90
 Change the butterfly to a bee.
 ```
 
----
 
 **ケース2: ハチからホタルへ** `🎬 Video→Video`
 
@@ -213,50 +191,9 @@ Remove the person from this video perfectly.
 
 > 出典： [元のツイート](https://x.com/arrakis_ai/status/2057939231755178439)
 
-### 📷 カメラ演出
-
-**ケース1: バイオリニスト ベースショット** `🔤 Text→Video`
-
-https://github.com/user-attachments/assets/93de5898-88ee-4bfc-a36f-19d8aa99dfc1
-
-**プロンプト：**
-
-```
-A video of a violinist playing a song.
-```
-
 ---
 
-**ケース2: 新しい環境への移動** `🎬+🖼️ Video+Image→Video`
-
-<table>
-<tr>
-<td width="300">
-
-**入力：**
-
-https://github.com/user-attachments/assets/93de5898-88ee-4bfc-a36f-19d8aa99dfc1
-
-</td>
-<td width="300">
-
-**出力：**
-
-https://github.com/user-attachments/assets/88176743-d17e-48fe-89f3-528fe60df7fd
-
-</td>
-</tr>
-</table>
-
-**プロンプト：**
-
-```
-Transport the violinist to the image environment
-```
-
----
-
-**ケース3: 透明なバイオリン** `🎬 Video→Video`
+**ケース8: 透明なバイオリン** `🎬 Video→Video`
 
 <table>
 <tr>
@@ -283,9 +220,22 @@ https://github.com/user-attachments/assets/ac6457aa-158c-4a0b-852f-ce1f3367bc3f
 Make the violin invisible
 ```
 
----
+### 🎬 ベースシーン
 
-**ケース4: 肩越しアングル** `🎬 Video→Video`
+**ケース1: バイオリニスト ベースショット** `🔤 Text→Video`
+
+https://github.com/user-attachments/assets/93de5898-88ee-4bfc-a36f-19d8aa99dfc1
+
+**プロンプト：**
+
+```
+A video of a violinist playing a song.
+```
+
+
+### 📷 カメラ演出
+
+**ケース1: 肩越しアングル** `🎬 Video→Video`
 
 <table>
 <tr>
@@ -312,9 +262,8 @@ https://github.com/user-attachments/assets/71aa1c8d-0287-4591-b239-68322919293d
 Change the camera angle to be over the violinist's shoulder.
 ```
 
----
 
-**ケース5: カメラティルト 靴からミディアムショットへ** `🎬 Video→Video`
+**ケース2: カメラティルト 靴からミディアムショットへ** `🎬 Video→Video`
 
 <table>
 <tr>
@@ -343,7 +292,7 @@ Change the camera angle, a close-up on his shoes, quickly tilting up to medium s
 
 ---
 
-**ケース6: トラベルセルフィー ハイパーラプス (by [@ZaraIrahh](https://x.com/ZaraIrahh))** `🔤 Text→Video`
+**ケース3: トラベルセルフィー ハイパーラプス (by [@ZaraIrahh](https://x.com/ZaraIrahh))** `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/31fa5a56-6113-4376-873b-5e40d26803f1
 
@@ -357,7 +306,7 @@ Create a 10-second cinematic hyper-lapse selfie travel video of the uploaded fem
 
 ---
 
-**ケース7: ファッション ドローンショット (by [@ariaxawan](https://x.com/ariaxawan))** `🔤 Text→Video`
+**ケース4: ファッション ドローンショット (by [@ariaxawan](https://x.com/ariaxawan))** `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/b199a5ab-e008-4a72-aa03-094bc6d573e6
 
@@ -371,49 +320,7 @@ A 10 second ultra cinematic hyper realistic FPV fashion drone shot filmed in a s
 
 ---
 
-**ケース8: 3x3 分割画面 (by [@alexanderchen](https://x.com/alexanderchen))** `🎬 Video→Video`
-
-https://github.com/user-attachments/assets/587fc95e-526f-4d8d-94c8-feefe34edba9
-
-**プロンプト：**
-
-```
-Generate a 3x3 split screen video based on different details you see here. Make each cell different, varying the perspective, composition, zoom, angle, camera movement (some static, some moving). Make some of the cells extreme close-ups with detailed textures. Keep it photorealistic, handheld, raw. Only natural sounds.
-```
-
-> 出典： [元のツイート](https://x.com/alexanderchen/status/2057861567396368841)
-
----
-
-**ケース9: 異なるアングルからのアクションリプレイ (by [@jerrod_lew](https://x.com/jerrod_lew))** `🎬 Video→Video`
-
-https://github.com/user-attachments/assets/a1179492-74bd-488c-b594-6bc023269c10
-
-**プロンプト：**
-
-```
-Gemini Omni can create action replays from different angles. I referenced a video clip with agent instructions to generate replays.
-```
-
-> 出典： [元のツイート](https://x.com/jerrod_lew/status/2057838324140953773)
-
----
-
-**ケース10: 分割画面動画 (by [@jerrod_lew](https://x.com/jerrod_lew))** `🎬 Video→Video`
-
-https://github.com/user-attachments/assets/8755d95d-a9b2-4f7c-a56d-bfbbcc47f80e
-
-**プロンプト：**
-
-```
-Use a reference video and ask the agent for a split screen video.
-```
-
-> 出典： [元のツイート](https://x.com/jerrod_lew/status/2057944349846249975)
-
----
-
-**ケース11: 上面図から360度回転 (by [@npaka123](https://x.com/npaka123))** `🖼️ Image→Video`
+**ケース5: 上面図から360度回転 (by [@npaka123](https://x.com/npaka123))** `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
 
@@ -427,19 +334,8 @@ https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
 
 ### 🎬 アクション＆同期
 
-**ケース1: 手の穴スーパーズーム** `🎬 Video→Video`
 
-https://github.com/user-attachments/assets/06683ef4-16e0-47b0-93ec-c6222560ee13
-
-**プロンプト：**
-
-```
-Make it look like the weird shape of my hand hole super zooms and magnifies the ground it's looking at in sharper quality.
-```
-
----
-
-**ケース2: 動物おもちゃの鳴き声** `🎬 Video→Video`
+**ケース1: 動物おもちゃの鳴き声** `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/fbf377d7-1b39-43af-92e6-665792d05de0
 
@@ -451,7 +347,7 @@ When the finger in <video> touches the animal toy play the sound the animal make
 
 ---
 
-**ケース3: アパートの照明同期** `🎬+🎵 Video+Audio→Video`
+**ケース2: アパートの照明同期** `🎬+🎵 Video+Audio→Video`
 
 <table>
 <tr>
@@ -480,7 +376,7 @@ The lights of the apartments start turning on in sync with the music.
 
 ---
 
-**ケース4: ビー玉チェーンリアクション** `🔤 Text→Video`
+**ケース3: ビー玉チェーンリアクション** `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/1ece8df7-f29a-4ebd-ad68-9c910f811590
 
@@ -492,7 +388,7 @@ A marble rolling fast on a chain reaction style track, continuous smooth shot
 
 ---
 
-**ケース5: ビルの照明** `🎬+🎵 Video+Audio→Video`
+**ケース4: ビルの照明** `🎬+🎵 Video+Audio→Video`
 
 <table>
 <tr>
@@ -521,19 +417,7 @@ The lights of the buildings start turning on in sync with the music.
 
 ---
 
-**ケース6: スケートボード モーションエフェクト** `🎬 Video→Video`
-
-https://github.com/user-attachments/assets/44c120a2-38a7-43d7-89fa-a23d0842078c
-
-**プロンプト：**
-
-```
-Edit this keeping everything the same. Add animated motion effects coming out of the skateboard.
-```
-
----
-
-**ケース7: ボクシング リアルファイト (by [@RuzainaMeer](https://x.com/RuzainaMeer))** `🔤 Text→Video`
+**ケース5: ボクシング リアルファイト (by [@RuzainaMeer](https://x.com/RuzainaMeer))** `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/6796bf78-8bad-441c-889d-30621ee62cd7
 
@@ -591,7 +475,6 @@ Case 2: When the person touches the mirror, the person transforms into a detaile
 Case 3: When the person touches the mirror, the person suddenly transforms into a cute felted stuffed puppet version with large googley eyes and glasses
 ```
 
----
 
 **ケース4: アニメーション広告 ワンショット (by [@DenneyDara](https://x.com/DenneyDara))** `🔤 Text→Video`
 
@@ -619,9 +502,62 @@ Extract the key object in this video. Render a video showing that object as a bl
 
 > 出典： [元のツイート](https://x.com/alexanderchen/status/2057925025915666673)
 
+---
+
+### ✨ ビジュアルエフェクト
+
+**ケース1: 手の穴スーパーズーム** `🎬 Video→Video`
+
+https://github.com/user-attachments/assets/06683ef4-16e0-47b0-93ec-c6222560ee13
+
+**プロンプト：**
+
+```
+Make it look like the weird shape of my hand hole super zooms and magnifies the ground it's looking at in sharper quality.
+```
+
+
+**ケース2: スケートボード モーションエフェクト** `🎬 Video→Video`
+
+https://github.com/user-attachments/assets/44c120a2-38a7-43d7-89fa-a23d0842078c
+
+**プロンプト：**
+
+```
+Edit this keeping everything the same. Add animated motion effects coming out of the skateboard.
+```
+
 ### 🔗 クロスモーダル
 
-**ケース1: 鳥の形とオーディオ** `🎬+🖼️+🎵 Multi-Modal`
+**ケース1: 新しい環境への移動** `🎬+🖼️ Video+Image→Video`
+
+<table>
+<tr>
+<td width="300">
+
+**入力：**
+
+https://github.com/user-attachments/assets/93de5898-88ee-4bfc-a36f-19d8aa99dfc1
+
+</td>
+<td width="300">
+
+**出力：**
+
+https://github.com/user-attachments/assets/88176743-d17e-48fe-89f3-528fe60df7fd
+
+</td>
+</tr>
+</table>
+
+**プロンプト：**
+
+```
+Transport the violinist to the image environment
+```
+
+
+**ケース2: 鳥の形とオーディオ** `🎬+🖼️+🎵 Multi-Modal`
 
 <table>
 <tr>
@@ -656,9 +592,36 @@ https://github.com/user-attachments/assets/a94efea9-14ac-47c2-ab5f-9492400fdc3a
 The birds from <video> loosely form the imperfect shape of a bird based on <image>. They move to the music from <audio> and dissipate as they fly
 ```
 
+---
+
+**ケース3: スライドからモーション (by [@yoshifujidesign](https://x.com/yoshifujidesign))** `🖼️ Image→Video`
+
+https://github.com/user-attachments/assets/f07a861b-cd0d-4894-8ef1-b74520c7cbd7
+
+**プロンプト：**
+
+```
+GPT image2でスライド作成 → Gemini Omniでモーション。画面遷移もさせられるし、イラストの動かし方も自然。
+```
+
+> 出典： [元のツイート](https://x.com/yoshifujidesign/status/2058032203175731293)
+
 ### 📋 ストーリーボード
 
-**ケース1: この物語に登場させて** `🖼️ Image→Video`
+**ケース1: 高級コスメCM (by [@aiwithaly](https://x.com/aiwithaly))** `🔤 Text→Video`
+
+https://github.com/user-attachments/assets/6d003859-eb77-4466-9f70-5a76a2269667
+
+**プロンプト：**
+
+```
+Create a cinematic 10-second ultra-realistic luxury cosmetic commercial in a high-end skincare advertisement style. Use warm champagne lighting, glossy beauty-film aesthetic, shallow depth of field, macro beauty cinematography, smooth cinematic camera movement. 10 scenes from macro serum droplets to final payoff shot.
+```
+
+> 出典： [元のツイート](https://x.com/aiwithaly/status/2057806821138858314)
+
+
+**ケース2: この物語に登場させて** `🖼️ Image→Video`
 
 <table>
 <tr>
@@ -688,31 +651,47 @@ Show me in this story. Follow the story exactly in order starting top left. Enti
 
 ---
 
-**ケース2: 高級コスメCM (by [@aiwithaly](https://x.com/aiwithaly))** `🔤 Text→Video`
+**ケース3: 3x3 分割画面 (by [@alexanderchen](https://x.com/alexanderchen))** `🎬 Video→Video`
 
-https://github.com/user-attachments/assets/6d003859-eb77-4466-9f70-5a76a2269667
+https://github.com/user-attachments/assets/587fc95e-526f-4d8d-94c8-feefe34edba9
 
 **プロンプト：**
 
 ```
-Create a cinematic 10-second ultra-realistic luxury cosmetic commercial in a high-end skincare advertisement style. Use warm champagne lighting, glossy beauty-film aesthetic, shallow depth of field, macro beauty cinematography, smooth cinematic camera movement. 10 scenes from macro serum droplets to final payoff shot.
+Generate a 3x3 split screen video based on different details you see here. Make each cell different, varying the perspective, composition, zoom, angle, camera movement (some static, some moving). Make some of the cells extreme close-ups with detailed textures. Keep it photorealistic, handheld, raw. Only natural sounds.
 ```
 
-> 出典： [元のツイート](https://x.com/aiwithaly/status/2057806821138858314)
+> 出典： [元のツイート](https://x.com/alexanderchen/status/2057861567396368841)
 
 ---
 
-**ケース3: スライドからモーション (by [@yoshifujidesign](https://x.com/yoshifujidesign))** `🖼️ Image→Video`
+**ケース4: 異なるアングルからのアクションリプレイ (by [@jerrod_lew](https://x.com/jerrod_lew))** `🎬 Video→Video`
 
-https://github.com/user-attachments/assets/f07a861b-cd0d-4894-8ef1-b74520c7cbd7
+https://github.com/user-attachments/assets/a1179492-74bd-488c-b594-6bc023269c10
 
 **プロンプト：**
 
 ```
-GPT image2でスライド作成 → Gemini Omniでモーション。画面遷移もさせられるし、イラストの動かし方も自然。
+Gemini Omni can create action replays from different angles. I referenced a video clip with agent instructions to generate replays.
 ```
 
-> 出典： [元のツイート](https://x.com/yoshifujidesign/status/2058032203175731293)
+> 出典： [元のツイート](https://x.com/jerrod_lew/status/2057838324140953773)
+
+---
+
+**ケース5: 分割画面動画 (by [@jerrod_lew](https://x.com/jerrod_lew))** `🎬 Video→Video`
+
+https://github.com/user-attachments/assets/8755d95d-a9b2-4f7c-a56d-bfbbcc47f80e
+
+**プロンプト：**
+
+```
+Use a reference video and ask the agent for a split screen video.
+```
+
+> 出典： [元のツイート](https://x.com/jerrod_lew/status/2057944349846249975)
+
+---
 
 ### 🔤 テキストレンダリング
 
@@ -726,7 +705,6 @@ https://github.com/user-attachments/assets/f7693ec2-ac70-4ac8-813f-8fcb46d90d3d
 The video shows items of the alphabet. An unusual item starting with each letter is shown sitting on a table. All 26 letters must be represented by 26 items with matching lower thirds displaying the letter. Only one item and lower third at a time. Rapid fire, roughly 9 frames per item at 24FPS. Last frame is a slip of paper "THE END".
 ```
 
----
 
 **ケース2: 単語ごとのテキスト同期** `🔤 Text→Video`
 
@@ -788,7 +766,9 @@ https://github.com/user-attachments/assets/33e09b7d-2357-481d-8536-dab39e75524b
 
 ---
 
-**ケース3: Gemini Omni 品質評価 (by [@kenichiota0711](https://x.com/kenichiota0711))** `⚖️ Comparison`
+## 🧪 評価
+
+**ケース1: Gemini Omni 品質評価 (by [@kenichiota0711](https://x.com/kenichiota0711))** `🧪 Evaluation`
 
 https://github.com/user-attachments/assets/a9adf476-fac9-4ea2-b5ea-90a50192ccfb
 

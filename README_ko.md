@@ -1,11 +1,8 @@
 <div align="center">
-
 <a href="https://evolink.ai/gemini-omni?utm_source=github&utm_medium=banner&utm_campaign=awesome-gemini-omni"><img src="image/logo.png" alt="awesome-gemini-omni-api-and-prompt logo"></a>
-
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/gemini-omni?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
 [![Model API](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
-
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
 [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md)
@@ -17,50 +14,35 @@
 [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md)
 [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md)
 [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
-
 </div>
-
 ## 🍌 소개
-
 Gemini Omni API 및 프롬프트 저장소에 오신 것을 환영합니다! 🤗
-
 **변환, 모션, 카메라 제어, 텍스트 시퀀스, 멀티 입력 워크플로우 등 다양한 창작 작업을 위한 Google Gemini Omni의 고품질 프롬프트와 비디오 예제를 수집합니다.**
-
 이 저장소의 대부분의 사례는 DeepMind 공식 데모, 프롬프트 가이드 및 커뮤니티 실험에서 선별되었습니다.
-
 Evolink에서 체험하기: [Gemini Omni](https://evolink.ai/gemini-omni?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
-
 유용하다고 생각하시면 스타를 눌러주세요. ⭐
-
 > [!NOTE]
 > 이 저장소는 Evolink에서의 Gemini Omni 비디오 생성을 위한 재사용 가능한 프롬프트 패턴과 참고 사례에 중점을 둡니다.
-
 ## 📰 뉴스
-
 - **2026년 5월 23일:** 트렌딩 트윗에서 커뮤니티 쇼케이스 사례 10개 추가
 - **2026년 5월 22일:** 엄선된 Gemini Omni 프롬프트 25개로 첫 저장소 업데이트
-
 ## 📑 메뉴
-
 - [🎯 프롬프트 구성 요소](#-프롬프트-구성-요소)
 - [✂️ 편집](#️-편집)
   - [🔄 요소 교체](#-요소-교체)
-  - [📷 카메라 연출](#-카메라-연출)
+  - [🎬 베이스 장면](#-베이스-장면)\n  - [📷 카메라 연출](#-카메라-연출)
   - [🎬 액션 & 싱크](#-액션--싱크)
 - [🎨 고급 멀티모달](#-고급-멀티모달)
   - [🪞 아티스틱 스타일](#-아티스틱-스타일)
-  - [🔗 크로스모달](#-크로스모달)
+  - [✨ 비주얼 이펙트](#-비주얼-이펙트)\n  - [🔗 크로스모달](#-크로스모달)
   - [📋 스토리보드](#-스토리보드)
   - [🔤 텍스트 렌더링](#-텍스트-렌더링)
 - [⚖️ 비교](#️-비교)
+- [🧪 평가](#-평가)
 - [🙏 감사의 말](#-감사의-말)
-
 ## 🎯 프롬프트 구성 요소
-
 Gemini Omni는 강력한 **세계 이해력**을 갖추고 있어 역사, 과학, 문화에 대한 실제 지식을 활용합니다. 모든 세부 사항을 과도하게 설명할 필요가 없습니다. 대신 자연어로 창작 의도를 표현하면 Omni의 추론이 나머지를 채워줍니다.
-
 처음부터 새로운 비디오를 만들 때, 다음 차원들을 조합하여 출력을 제어하세요:
-
 | 차원 | 지정할 내용 | 예시 |
 | :--- | :--- | :--- |
 | **샷 프레이밍 & 모션** | 와이드 앵글, 미디엄, 또는 클로즈업. 카메라 궤적: 부드러운 글라이드, 갑작스러운 러시, 고정 잠금, 돌리 줌 등. | `A close-up tracking shot smoothly pushing in` |
@@ -68,12 +50,9 @@ Gemini Omni는 강력한 **세계 이해력**을 갖추고 있어 역사, 과학
 | **조명** | 장면 분위기와 조명 설정 | `Warm champagne lighting`, `dim overhead gym lights` |
 | **장소** | 환경과 배경 | `Small underground gym`, `futuristic neon cityscape` |
 | **액션** | 피사체의 행동과 움직임 | `The person touches the mirror`, `a marble rolling fast on a chain reaction track` |
-
 > [!TIP]
 > **반복 편집:** Omni는 멀티턴 대화 편집을 지원합니다. 잘 된 부분은 유지하고 요청한 부분만 수정합니다 — 매번 전체 장면을 다시 설명할 필요가 없습니다. 다음에 변경할 내용만 말하면 됩니다.
-
 ## ✂️ 편집
-
 ### 🔄 요소 교체
 
 **사례 1: 나비를 벌로** `🎬 Video→Video`
@@ -103,7 +82,6 @@ https://github.com/user-attachments/assets/60f31f6d-895e-4048-b477-9a46a5d20b90
 Change the butterfly to a bee.
 ```
 
----
 
 **사례 2: 벌을 반딧불이로** `🎬 Video→Video`
 
@@ -213,50 +191,9 @@ Remove the person from this video perfectly.
 
 > 출처: [원본 트윗](https://x.com/arrakis_ai/status/2057939231755178439)
 
-### 📷 카메라 연출
-
-**사례 1: 바이올리니스트 기본 샷** `🔤 Text→Video`
-
-https://github.com/user-attachments/assets/93de5898-88ee-4bfc-a36f-19d8aa99dfc1
-
-**프롬프트:**
-
-```
-A video of a violinist playing a song.
-```
-
 ---
 
-**사례 2: 새로운 환경으로 이동** `🎬+🖼️ Video+Image→Video`
-
-<table>
-<tr>
-<td width="300">
-
-**입력:**
-
-https://github.com/user-attachments/assets/93de5898-88ee-4bfc-a36f-19d8aa99dfc1
-
-</td>
-<td width="300">
-
-**출력:**
-
-https://github.com/user-attachments/assets/88176743-d17e-48fe-89f3-528fe60df7fd
-
-</td>
-</tr>
-</table>
-
-**프롬프트:**
-
-```
-Transport the violinist to the image environment
-```
-
----
-
-**사례 3: 투명 바이올린** `🎬 Video→Video`
+**사례 8: 투명 바이올린** `🎬 Video→Video`
 
 <table>
 <tr>
@@ -283,9 +220,22 @@ https://github.com/user-attachments/assets/ac6457aa-158c-4a0b-852f-ce1f3367bc3f
 Make the violin invisible
 ```
 
----
+### 🎬 베이스 장면
 
-**사례 4: 오버더숄더 앵글** `🎬 Video→Video`
+**사례 1: 바이올리니스트 기본 샷** `🔤 Text→Video`
+
+https://github.com/user-attachments/assets/93de5898-88ee-4bfc-a36f-19d8aa99dfc1
+
+**프롬프트:**
+
+```
+A video of a violinist playing a song.
+```
+
+
+### 📷 카메라 연출
+
+**사례 1: 오버더숄더 앵글** `🎬 Video→Video`
 
 <table>
 <tr>
@@ -312,9 +262,8 @@ https://github.com/user-attachments/assets/71aa1c8d-0287-4591-b239-68322919293d
 Change the camera angle to be over the violinist's shoulder.
 ```
 
----
 
-**사례 5: 카메라 틸트 - 신발에서 미디엄 샷으로** `🎬 Video→Video`
+**사례 2: 카메라 틸트 - 신발에서 미디엄 샷으로** `🎬 Video→Video`
 
 <table>
 <tr>
@@ -343,7 +292,7 @@ Change the camera angle, a close-up on his shoes, quickly tilting up to medium s
 
 ---
 
-**사례 6: 여행 셀피 하이퍼랩스 (by [@ZaraIrahh](https://x.com/ZaraIrahh))** `🔤 Text→Video`
+**사례 3: 여행 셀피 하이퍼랩스 (by [@ZaraIrahh](https://x.com/ZaraIrahh))** `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/31fa5a56-6113-4376-873b-5e40d26803f1
 
@@ -357,7 +306,7 @@ Create a 10-second cinematic hyper-lapse selfie travel video of the uploaded fem
 
 ---
 
-**사례 7: 패션 드론 샷 (by [@ariaxawan](https://x.com/ariaxawan))** `🔤 Text→Video`
+**사례 4: 패션 드론 샷 (by [@ariaxawan](https://x.com/ariaxawan))** `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/b199a5ab-e008-4a72-aa03-094bc6d573e6
 
@@ -371,49 +320,7 @@ A 10 second ultra cinematic hyper realistic FPV fashion drone shot filmed in a s
 
 ---
 
-**사례 8: 3x3 분할 화면 (by [@alexanderchen](https://x.com/alexanderchen))** `🎬 Video→Video`
-
-https://github.com/user-attachments/assets/587fc95e-526f-4d8d-94c8-feefe34edba9
-
-**프롬프트:**
-
-```
-Generate a 3x3 split screen video based on different details you see here. Make each cell different, varying the perspective, composition, zoom, angle, camera movement (some static, some moving). Make some of the cells extreme close-ups with detailed textures. Keep it photorealistic, handheld, raw. Only natural sounds.
-```
-
-> 출처: [원본 트윗](https://x.com/alexanderchen/status/2057861567396368841)
-
----
-
-**사례 9: 다른 각도에서의 액션 리플레이 (by [@jerrod_lew](https://x.com/jerrod_lew))** `🎬 Video→Video`
-
-https://github.com/user-attachments/assets/a1179492-74bd-488c-b594-6bc023269c10
-
-**프롬프트:**
-
-```
-Gemini Omni can create action replays from different angles. I referenced a video clip with agent instructions to generate replays.
-```
-
-> 출처: [원본 트윗](https://x.com/jerrod_lew/status/2057838324140953773)
-
----
-
-**사례 10: 분할 화면 비디오 (by [@jerrod_lew](https://x.com/jerrod_lew))** `🎬 Video→Video`
-
-https://github.com/user-attachments/assets/8755d95d-a9b2-4f7c-a56d-bfbbcc47f80e
-
-**프롬프트:**
-
-```
-Use a reference video and ask the agent for a split screen video.
-```
-
-> 출처: [원본 트윗](https://x.com/jerrod_lew/status/2057944349846249975)
-
----
-
-**사례 11: 탑뷰에서 360도 회전으로 (by [@npaka123](https://x.com/npaka123))** `🖼️ Image→Video`
+**사례 5: 탑뷰에서 360도 회전으로 (by [@npaka123](https://x.com/npaka123))** `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
 
@@ -427,19 +334,8 @@ https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
 
 ### 🎬 액션 & 싱크
 
-**사례 1: 손 구멍 슈퍼 줌** `🎬 Video→Video`
 
-https://github.com/user-attachments/assets/06683ef4-16e0-47b0-93ec-c6222560ee13
-
-**프롬프트:**
-
-```
-Make it look like the weird shape of my hand hole super zooms and magnifies the ground it's looking at in sharper quality.
-```
-
----
-
-**사례 2: 동물 장난감 소리** `🎬 Video→Video`
+**사례 1: 동물 장난감 소리** `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/fbf377d7-1b39-43af-92e6-665792d05de0
 
@@ -451,7 +347,7 @@ When the finger in <video> touches the animal toy play the sound the animal make
 
 ---
 
-**사례 3: 아파트 조명 싱크** `🎬+🎵 Video+Audio→Video`
+**사례 2: 아파트 조명 싱크** `🎬+🎵 Video+Audio→Video`
 
 <table>
 <tr>
@@ -480,7 +376,7 @@ The lights of the apartments start turning on in sync with the music.
 
 ---
 
-**사례 4: 구슬 연쇄 반응** `🔤 Text→Video`
+**사례 3: 구슬 연쇄 반응** `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/1ece8df7-f29a-4ebd-ad68-9c910f811590
 
@@ -492,7 +388,7 @@ A marble rolling fast on a chain reaction style track, continuous smooth shot
 
 ---
 
-**사례 5: 빌딩 조명** `🎬+🎵 Video+Audio→Video`
+**사례 4: 빌딩 조명** `🎬+🎵 Video+Audio→Video`
 
 <table>
 <tr>
@@ -521,19 +417,7 @@ The lights of the buildings start turning on in sync with the music.
 
 ---
 
-**사례 6: 스케이트보드 모션 이펙트** `🎬 Video→Video`
-
-https://github.com/user-attachments/assets/44c120a2-38a7-43d7-89fa-a23d0842078c
-
-**프롬프트:**
-
-```
-Edit this keeping everything the same. Add animated motion effects coming out of the skateboard.
-```
-
----
-
-**사례 7: 복싱 경기 리얼리스틱 (by [@RuzainaMeer](https://x.com/RuzainaMeer))** `🔤 Text→Video`
+**사례 5: 복싱 경기 리얼리스틱 (by [@RuzainaMeer](https://x.com/RuzainaMeer))** `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/6796bf78-8bad-441c-889d-30621ee62cd7
 
@@ -591,7 +475,6 @@ Case 2: When the person touches the mirror, the person transforms into a detaile
 Case 3: When the person touches the mirror, the person suddenly transforms into a cute felted stuffed puppet version with large googley eyes and glasses
 ```
 
----
 
 **사례 4: 애니메이션 광고 원샷 (by [@DenneyDara](https://x.com/DenneyDara))** `🔤 Text→Video`
 
@@ -619,9 +502,62 @@ Extract the key object in this video. Render a video showing that object as a bl
 
 > 출처: [원본 트윗](https://x.com/alexanderchen/status/2057925025915666673)
 
+---
+
+### ✨ 비주얼 이펙트
+
+**사례 1: 손 구멍 슈퍼 줌** `🎬 Video→Video`
+
+https://github.com/user-attachments/assets/06683ef4-16e0-47b0-93ec-c6222560ee13
+
+**프롬프트:**
+
+```
+Make it look like the weird shape of my hand hole super zooms and magnifies the ground it's looking at in sharper quality.
+```
+
+
+**사례 2: 스케이트보드 모션 이펙트** `🎬 Video→Video`
+
+https://github.com/user-attachments/assets/44c120a2-38a7-43d7-89fa-a23d0842078c
+
+**프롬프트:**
+
+```
+Edit this keeping everything the same. Add animated motion effects coming out of the skateboard.
+```
+
 ### 🔗 크로스모달
 
-**사례 1: 오디오와 함께하는 새 형상** `🎬+🖼️+🎵 Multi-Modal`
+**사례 1: 새로운 환경으로 이동** `🎬+🖼️ Video+Image→Video`
+
+<table>
+<tr>
+<td width="300">
+
+**입력:**
+
+https://github.com/user-attachments/assets/93de5898-88ee-4bfc-a36f-19d8aa99dfc1
+
+</td>
+<td width="300">
+
+**출력:**
+
+https://github.com/user-attachments/assets/88176743-d17e-48fe-89f3-528fe60df7fd
+
+</td>
+</tr>
+</table>
+
+**프롬프트:**
+
+```
+Transport the violinist to the image environment
+```
+
+
+**사례 2: 오디오와 함께하는 새 형상** `🎬+🖼️+🎵 Multi-Modal`
 
 <table>
 <tr>
@@ -656,9 +592,36 @@ https://github.com/user-attachments/assets/a94efea9-14ac-47c2-ab5f-9492400fdc3a
 The birds from <video> loosely form the imperfect shape of a bird based on <image>. They move to the music from <audio> and dissipate as they fly
 ```
 
+---
+
+**사례 3: 슬라이드를 모션으로 (by [@yoshifujidesign](https://x.com/yoshifujidesign))** `🖼️ Image→Video`
+
+https://github.com/user-attachments/assets/f07a861b-cd0d-4894-8ef1-b74520c7cbd7
+
+**프롬프트:**
+
+```
+GPT image2でスライド作成 → Gemini Omniでモーション。画面遷移もさせられるし、イラストの動かし方も自然。
+```
+
+> 출처: [원본 트윗](https://x.com/yoshifujidesign/status/2058032203175731293)
+
 ### 📋 스토리보드
 
-**사례 1: 이 이야기 속에 나를 보여줘** `🖼️ Image→Video`
+**사례 1: 럭셔리 화장품 광고 (by [@aiwithaly](https://x.com/aiwithaly))** `🔤 Text→Video`
+
+https://github.com/user-attachments/assets/6d003859-eb77-4466-9f70-5a76a2269667
+
+**프롬프트:**
+
+```
+Create a cinematic 10-second ultra-realistic luxury cosmetic commercial in a high-end skincare advertisement style. Use warm champagne lighting, glossy beauty-film aesthetic, shallow depth of field, macro beauty cinematography, smooth cinematic camera movement. 10 scenes from macro serum droplets to final payoff shot.
+```
+
+> 출처: [원본 트윗](https://x.com/aiwithaly/status/2057806821138858314)
+
+
+**사례 2: 이 이야기 속에 나를 보여줘** `🖼️ Image→Video`
 
 <table>
 <tr>
@@ -688,31 +651,47 @@ Show me in this story. Follow the story exactly in order starting top left. Enti
 
 ---
 
-**사례 2: 럭셔리 화장품 광고 (by [@aiwithaly](https://x.com/aiwithaly))** `🔤 Text→Video`
+**사례 3: 3x3 분할 화면 (by [@alexanderchen](https://x.com/alexanderchen))** `🎬 Video→Video`
 
-https://github.com/user-attachments/assets/6d003859-eb77-4466-9f70-5a76a2269667
+https://github.com/user-attachments/assets/587fc95e-526f-4d8d-94c8-feefe34edba9
 
 **프롬프트:**
 
 ```
-Create a cinematic 10-second ultra-realistic luxury cosmetic commercial in a high-end skincare advertisement style. Use warm champagne lighting, glossy beauty-film aesthetic, shallow depth of field, macro beauty cinematography, smooth cinematic camera movement. 10 scenes from macro serum droplets to final payoff shot.
+Generate a 3x3 split screen video based on different details you see here. Make each cell different, varying the perspective, composition, zoom, angle, camera movement (some static, some moving). Make some of the cells extreme close-ups with detailed textures. Keep it photorealistic, handheld, raw. Only natural sounds.
 ```
 
-> 출처: [원본 트윗](https://x.com/aiwithaly/status/2057806821138858314)
+> 출처: [원본 트윗](https://x.com/alexanderchen/status/2057861567396368841)
 
 ---
 
-**사례 3: 슬라이드를 모션으로 (by [@yoshifujidesign](https://x.com/yoshifujidesign))** `🖼️ Image→Video`
+**사례 4: 다른 각도에서의 액션 리플레이 (by [@jerrod_lew](https://x.com/jerrod_lew))** `🎬 Video→Video`
 
-https://github.com/user-attachments/assets/f07a861b-cd0d-4894-8ef1-b74520c7cbd7
+https://github.com/user-attachments/assets/a1179492-74bd-488c-b594-6bc023269c10
 
 **프롬프트:**
 
 ```
-GPT image2でスライド作成 → Gemini Omniでモーション。画面遷移もさせられるし、イラストの動かし方も自然。
+Gemini Omni can create action replays from different angles. I referenced a video clip with agent instructions to generate replays.
 ```
 
-> 출처: [원본 트윗](https://x.com/yoshifujidesign/status/2058032203175731293)
+> 출처: [원본 트윗](https://x.com/jerrod_lew/status/2057838324140953773)
+
+---
+
+**사례 5: 분할 화면 비디오 (by [@jerrod_lew](https://x.com/jerrod_lew))** `🎬 Video→Video`
+
+https://github.com/user-attachments/assets/8755d95d-a9b2-4f7c-a56d-bfbbcc47f80e
+
+**프롬프트:**
+
+```
+Use a reference video and ask the agent for a split screen video.
+```
+
+> 출처: [원본 트윗](https://x.com/jerrod_lew/status/2057944349846249975)
+
+---
 
 ### 🔤 텍스트 렌더링
 
@@ -726,7 +705,6 @@ https://github.com/user-attachments/assets/f7693ec2-ac70-4ac8-813f-8fcb46d90d3d
 The video shows items of the alphabet. An unusual item starting with each letter is shown sitting on a table. All 26 letters must be represented by 26 items with matching lower thirds displaying the letter. Only one item and lower third at a time. Rapid fire, roughly 9 frames per item at 24FPS. Last frame is a slip of paper "THE END".
 ```
 
----
 
 **사례 2: 단어별 텍스트 싱크** `🔤 Text→Video`
 
@@ -788,7 +766,9 @@ https://github.com/user-attachments/assets/33e09b7d-2357-481d-8536-dab39e75524b
 
 ---
 
-**사례 3: Gemini Omni 품질 평가 (by [@kenichiota0711](https://x.com/kenichiota0711))** `⚖️ Comparison`
+## 🧪 평가
+
+**사례 1: Gemini Omni 품질 평가 (by [@kenichiota0711](https://x.com/kenichiota0711))** `🧪 Evaluation`
 
 https://github.com/user-attachments/assets/a9adf476-fac9-4ea2-b5ea-90a50192ccfb
 

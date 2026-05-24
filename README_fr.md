@@ -1,11 +1,8 @@
 <div align="center">
-
 <a href="https://evolink.ai/gemini-omni?utm_source=github&utm_medium=banner&utm_campaign=awesome-gemini-omni"><img src="image/logo.png" alt="awesome-gemini-omni-api-and-prompt logo"></a>
-
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/gemini-omni?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
 [![Model API](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
-
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
 [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md)
@@ -17,50 +14,35 @@
 [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md)
 [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md)
 [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
-
 </div>
-
 ## 🍌 Introduction
-
 Bienvenue dans le dépôt Gemini Omni API et Prompts ! 🤗
-
 **Nous collectons des prompts de haute qualité et des exemples vidéo pour Google Gemini Omni couvrant un large éventail de tâches créatives incluant la transformation, le mouvement, le contrôle de caméra, les séquences de texte et les flux de travail multi-entrées.**
-
 La plupart des cas de ce dépôt sont sélectionnés à partir de démos officielles DeepMind, de guides de prompts et d'expériences communautaires.
-
 Essayez-le sur Evolink : [Gemini Omni](https://evolink.ai/gemini-omni?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
-
 Si vous trouvez cela utile, pensez à mettre une étoile. ⭐
-
 > [!NOTE]
 > Ce dépôt se concentre sur les modèles de prompts réutilisables et les cas de référence pour la génération vidéo Gemini Omni sur Evolink.
-
 ## 📰 Actualités
-
 - **23 mai 2026 :** Ajout de 10 cas de démonstration communautaire issus de tweets tendance
 - **22 mai 2026 :** Première mise à jour du dépôt avec 25 prompts Gemini Omni sélectionnés
-
 ## 📑 Menu
-
 - [🎯 Ingrédients du Prompt](#-ingrédients-du-prompt)
 - [✂️ Édition](#️-édition)
   - [🔄 Remplacement d'éléments](#-remplacement-déléments)
-  - [📷 Direction de caméra](#-direction-de-caméra)
+  - [🎬 Scène de Base](#-scène-de-base)\n  - [📷 Direction de caméra](#-direction-de-caméra)
   - [🎬 Action et synchronisation](#-action--synchronisation)
 - [🎨 Multi-Modal avancé](#-multi-modal-avancé)
   - [🪞 Style artistique](#-style-artistique)
-  - [🔗 Cross-Modal](#-cross-modal)
+  - [✨ Effets Visuels](#-effets-visuels)\n  - [🔗 Cross-Modal](#-cross-modal)
   - [📋 Storyboard](#-storyboard)
   - [🔤 Rendu de texte](#-rendu-de-texte)
 - [⚖️ Comparaison](#️-comparaison)
+- [🧪 Évaluation](#-évaluation)
 - [🙏 Remerciements](#-remerciements)
-
 ## 🎯 Ingrédients du Prompt
-
 Gemini Omni possède une forte **compréhension du monde** — il s'appuie sur des connaissances du monde réel en histoire, science et culture. Vous n'avez pas besoin de sur-expliquer chaque détail. Exprimez plutôt votre intention créative en langage naturel et laissez le raisonnement d'Omni compléter le reste.
-
 Lors de la création d'une nouvelle vidéo à partir de zéro, combinez ces dimensions pour contrôler le résultat :
-
 | Dimension | Quoi spécifier | Exemple |
 | :--- | :--- | :--- |
 | **Cadrage et mouvement** | Grand angle, plan moyen ou gros plan. Trajectoire de caméra : glissement doux, rush soudain, verrouillage statique, dolly zoom, etc. | `A close-up tracking shot smoothly pushing in` |
@@ -68,12 +50,9 @@ Lors de la création d'une nouvelle vidéo à partir de zéro, combinez ces dime
 | **Éclairage** | Ambiance de la scène et configuration lumineuse | `Warm champagne lighting`, `dim overhead gym lights` |
 | **Lieu** | Environnement et arrière-plan | `Small underground gym`, `futuristic neon cityscape` |
 | **Action** | Comportement et mouvement du sujet | `The person touches the mirror`, `a marble rolling fast on a chain reaction track` |
-
 > [!TIP]
 > **Édition itérative :** Omni prend en charge l'édition par conversation multi-tours. Il préserve ce qui fonctionne et ne modifie que ce que vous demandez — pas besoin de re-décrire toute la scène à chaque fois. Dites simplement ce qu'il faut changer ensuite.
-
 ## ✂️ Édition
-
 ### 🔄 Remplacement d'éléments
 
 **Cas 1 : Papillon en abeille** `🎬 Video→Video`
@@ -103,7 +82,6 @@ https://github.com/user-attachments/assets/60f31f6d-895e-4048-b477-9a46a5d20b90
 Change the butterfly to a bee.
 ```
 
----
 
 **Cas 2 : Abeille en lucioles** `🎬 Video→Video`
 
@@ -213,47 +191,6 @@ Remove the person from this video perfectly.
 
 > Source : [Tweet original](https://x.com/arrakis_ai/status/2057939231755178439)
 
-### 📷 Direction de caméra
-
-**Cas 1 : Plan de base du violoniste** `🔤 Text→Video`
-
-https://github.com/user-attachments/assets/93de5898-88ee-4bfc-a36f-19d8aa99dfc1
-
-**Prompt :**
-
-```
-A video of a violinist playing a song.
-```
-
----
-
-**Cas 2 : Transport vers un nouvel environnement** `🎬+🖼️ Video+Image→Video`
-
-<table>
-<tr>
-<td width="300">
-
-**Entrée :**
-
-https://github.com/user-attachments/assets/93de5898-88ee-4bfc-a36f-19d8aa99dfc1
-
-</td>
-<td width="300">
-
-**Sortie :**
-
-https://github.com/user-attachments/assets/88176743-d17e-48fe-89f3-528fe60df7fd
-
-</td>
-</tr>
-</table>
-
-**Prompt :**
-
-```
-Transport the violinist to the image environment
-```
-
 ---
 
 **Cas 3 : Violon invisible** `🎬 Video→Video`
@@ -283,7 +220,20 @@ https://github.com/user-attachments/assets/ac6457aa-158c-4a0b-852f-ce1f3367bc3f
 Make the violin invisible
 ```
 
----
+### 🎬 Scène de Base
+
+**Cas 1 : Plan de base du violoniste** `🔤 Text→Video`
+
+https://github.com/user-attachments/assets/93de5898-88ee-4bfc-a36f-19d8aa99dfc1
+
+**Prompt :**
+
+```
+A video of a violinist playing a song.
+```
+
+
+### 📷 Direction de caméra
 
 **Cas 4 : Angle par-dessus l'épaule** `🎬 Video→Video`
 
@@ -312,7 +262,6 @@ https://github.com/user-attachments/assets/71aa1c8d-0287-4591-b239-68322919293d
 Change the camera angle to be over the violinist's shoulder.
 ```
 
----
 
 **Cas 5 : Inclinaison de caméra des chaussures au plan moyen** `🎬 Video→Video`
 
@@ -371,48 +320,6 @@ A 10 second ultra cinematic hyper realistic FPV fashion drone shot filmed in a s
 
 ---
 
-**Cas 8 : Écran partagé 3x3 (par [@alexanderchen](https://x.com/alexanderchen))** `🎬 Video→Video`
-
-https://github.com/user-attachments/assets/587fc95e-526f-4d8d-94c8-feefe34edba9
-
-**Prompt :**
-
-```
-Generate a 3x3 split screen video based on different details you see here. Make each cell different, varying the perspective, composition, zoom, angle, camera movement (some static, some moving). Make some of the cells extreme close-ups with detailed textures. Keep it photorealistic, handheld, raw. Only natural sounds.
-```
-
-> Source : [Tweet original](https://x.com/alexanderchen/status/2057861567396368841)
-
----
-
-**Cas 9 : Replay d'action sous différents angles (par [@jerrod_lew](https://x.com/jerrod_lew))** `🎬 Video→Video`
-
-https://github.com/user-attachments/assets/a1179492-74bd-488c-b594-6bc023269c10
-
-**Prompt :**
-
-```
-Gemini Omni can create action replays from different angles. I referenced a video clip with agent instructions to generate replays.
-```
-
-> Source : [Tweet original](https://x.com/jerrod_lew/status/2057838324140953773)
-
----
-
-**Cas 10 : Vidéo en écran partagé (par [@jerrod_lew](https://x.com/jerrod_lew))** `🎬 Video→Video`
-
-https://github.com/user-attachments/assets/8755d95d-a9b2-4f7c-a56d-bfbbcc47f80e
-
-**Prompt :**
-
-```
-Use a reference video and ask the agent for a split screen video.
-```
-
-> Source : [Tweet original](https://x.com/jerrod_lew/status/2057944349846249975)
-
----
-
 **Cas 11 : Vue du dessus vers rotation 360 (par [@npaka123](https://x.com/npaka123))** `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
@@ -427,17 +334,6 @@ https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
 
 ### 🎬 Action et synchronisation
 
-**Cas 1 : Super zoom à travers la main** `🎬 Video→Video`
-
-https://github.com/user-attachments/assets/06683ef4-16e0-47b0-93ec-c6222560ee13
-
-**Prompt :**
-
-```
-Make it look like the weird shape of my hand hole super zooms and magnifies the ground it's looking at in sharper quality.
-```
-
----
 
 **Cas 2 : Son de jouet animal** `🎬 Video→Video`
 
@@ -521,18 +417,6 @@ The lights of the buildings start turning on in sync with the music.
 
 ---
 
-**Cas 6 : Effets de mouvement sur skateboard** `🎬 Video→Video`
-
-https://github.com/user-attachments/assets/44c120a2-38a7-43d7-89fa-a23d0842078c
-
-**Prompt :**
-
-```
-Edit this keeping everything the same. Add animated motion effects coming out of the skateboard.
-```
-
----
-
 **Cas 7 : Combat de boxe réaliste (par [@RuzainaMeer](https://x.com/RuzainaMeer))** `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/6796bf78-8bad-441c-889d-30621ee62cd7
@@ -591,7 +475,6 @@ Case 2: When the person touches the mirror, the person transforms into a detaile
 Case 3: When the person touches the mirror, the person suddenly transforms into a cute felted stuffed puppet version with large googley eyes and glasses
 ```
 
----
 
 **Cas 4 : Publicité animée en un plan (par [@DenneyDara](https://x.com/DenneyDara))** `🔤 Text→Video`
 
@@ -619,7 +502,60 @@ Extract the key object in this video. Render a video showing that object as a bl
 
 > Source : [Tweet original](https://x.com/alexanderchen/status/2057925025915666673)
 
+---
+
+### ✨ Effets Visuels
+
+**Cas 1 : Super zoom à travers la main** `🎬 Video→Video`
+
+https://github.com/user-attachments/assets/06683ef4-16e0-47b0-93ec-c6222560ee13
+
+**Prompt :**
+
+```
+Make it look like the weird shape of my hand hole super zooms and magnifies the ground it's looking at in sharper quality.
+```
+
+
+**Cas 6 : Effets de mouvement sur skateboard** `🎬 Video→Video`
+
+https://github.com/user-attachments/assets/44c120a2-38a7-43d7-89fa-a23d0842078c
+
+**Prompt :**
+
+```
+Edit this keeping everything the same. Add animated motion effects coming out of the skateboard.
+```
+
 ### 🔗 Cross-Modal
+
+**Cas 2 : Transport vers un nouvel environnement** `🎬+🖼️ Video+Image→Video`
+
+<table>
+<tr>
+<td width="300">
+
+**Entrée :**
+
+https://github.com/user-attachments/assets/93de5898-88ee-4bfc-a36f-19d8aa99dfc1
+
+</td>
+<td width="300">
+
+**Sortie :**
+
+https://github.com/user-attachments/assets/88176743-d17e-48fe-89f3-528fe60df7fd
+
+</td>
+</tr>
+</table>
+
+**Prompt :**
+
+```
+Transport the violinist to the image environment
+```
+
 
 **Cas 1 : Forme d'oiseaux avec audio** `🎬+🖼️+🎵 Multi-Modal`
 
@@ -656,7 +592,34 @@ https://github.com/user-attachments/assets/a94efea9-14ac-47c2-ab5f-9492400fdc3a
 The birds from <video> loosely form the imperfect shape of a bird based on <image>. They move to the music from <audio> and dissipate as they fly
 ```
 
+---
+
+**Cas 3 : De la diapositive au mouvement (par [@yoshifujidesign](https://x.com/yoshifujidesign))** `🖼️ Image→Video`
+
+https://github.com/user-attachments/assets/f07a861b-cd0d-4894-8ef1-b74520c7cbd7
+
+**Prompt :**
+
+```
+GPT image2でスライド作成 → Gemini Omniでモーション。画面遷移もさせられるし、イラストの動かし方も自然。
+```
+
+> Source : [Tweet original](https://x.com/yoshifujidesign/status/2058032203175731293)
+
 ### 📋 Storyboard
+
+**Cas 2 : Publicité cosmétique de luxe (par [@aiwithaly](https://x.com/aiwithaly))** `🔤 Text→Video`
+
+https://github.com/user-attachments/assets/6d003859-eb77-4466-9f70-5a76a2269667
+
+**Prompt :**
+
+```
+Create a cinematic 10-second ultra-realistic luxury cosmetic commercial in a high-end skincare advertisement style. Use warm champagne lighting, glossy beauty-film aesthetic, shallow depth of field, macro beauty cinematography, smooth cinematic camera movement. 10 scenes from macro serum droplets to final payoff shot.
+```
+
+> Source : [Tweet original](https://x.com/aiwithaly/status/2057806821138858314)
+
 
 **Cas 1 : Montre-moi dans cette histoire** `🖼️ Image→Video`
 
@@ -688,31 +651,47 @@ Show me in this story. Follow the story exactly in order starting top left. Enti
 
 ---
 
-**Cas 2 : Publicité cosmétique de luxe (par [@aiwithaly](https://x.com/aiwithaly))** `🔤 Text→Video`
+**Cas 8 : Écran partagé 3x3 (par [@alexanderchen](https://x.com/alexanderchen))** `🎬 Video→Video`
 
-https://github.com/user-attachments/assets/6d003859-eb77-4466-9f70-5a76a2269667
+https://github.com/user-attachments/assets/587fc95e-526f-4d8d-94c8-feefe34edba9
 
 **Prompt :**
 
 ```
-Create a cinematic 10-second ultra-realistic luxury cosmetic commercial in a high-end skincare advertisement style. Use warm champagne lighting, glossy beauty-film aesthetic, shallow depth of field, macro beauty cinematography, smooth cinematic camera movement. 10 scenes from macro serum droplets to final payoff shot.
+Generate a 3x3 split screen video based on different details you see here. Make each cell different, varying the perspective, composition, zoom, angle, camera movement (some static, some moving). Make some of the cells extreme close-ups with detailed textures. Keep it photorealistic, handheld, raw. Only natural sounds.
 ```
 
-> Source : [Tweet original](https://x.com/aiwithaly/status/2057806821138858314)
+> Source : [Tweet original](https://x.com/alexanderchen/status/2057861567396368841)
 
 ---
 
-**Cas 3 : De la diapositive au mouvement (par [@yoshifujidesign](https://x.com/yoshifujidesign))** `🖼️ Image→Video`
+**Cas 9 : Replay d'action sous différents angles (par [@jerrod_lew](https://x.com/jerrod_lew))** `🎬 Video→Video`
 
-https://github.com/user-attachments/assets/f07a861b-cd0d-4894-8ef1-b74520c7cbd7
+https://github.com/user-attachments/assets/a1179492-74bd-488c-b594-6bc023269c10
 
 **Prompt :**
 
 ```
-GPT image2でスライド作成 → Gemini Omniでモーション。画面遷移もさせられるし、イラストの動かし方も自然。
+Gemini Omni can create action replays from different angles. I referenced a video clip with agent instructions to generate replays.
 ```
 
-> Source : [Tweet original](https://x.com/yoshifujidesign/status/2058032203175731293)
+> Source : [Tweet original](https://x.com/jerrod_lew/status/2057838324140953773)
+
+---
+
+**Cas 10 : Vidéo en écran partagé (par [@jerrod_lew](https://x.com/jerrod_lew))** `🎬 Video→Video`
+
+https://github.com/user-attachments/assets/8755d95d-a9b2-4f7c-a56d-bfbbcc47f80e
+
+**Prompt :**
+
+```
+Use a reference video and ask the agent for a split screen video.
+```
+
+> Source : [Tweet original](https://x.com/jerrod_lew/status/2057944349846249975)
+
+---
 
 ### 🔤 Rendu de texte
 
@@ -726,7 +705,6 @@ https://github.com/user-attachments/assets/f7693ec2-ac70-4ac8-813f-8fcb46d90d3d
 The video shows items of the alphabet. An unusual item starting with each letter is shown sitting on a table. All 26 letters must be represented by 26 items with matching lower thirds displaying the letter. Only one item and lower third at a time. Rapid fire, roughly 9 frames per item at 24FPS. Last frame is a slip of paper "THE END".
 ```
 
----
 
 **Cas 2 : Synchronisation texte mot par mot** `🔤 Text→Video`
 
@@ -788,7 +766,9 @@ https://github.com/user-attachments/assets/33e09b7d-2357-481d-8536-dab39e75524b
 
 ---
 
-**Cas 3 : Évaluation de la qualité Gemini Omni (par [@kenichiota0711](https://x.com/kenichiota0711))** `⚖️ Comparison`
+## 🧪 Évaluation
+
+**Cas 3 : Évaluation de la qualité Gemini Omni (par [@kenichiota0711](https://x.com/kenichiota0711))** `🧪 Evaluation`
 
 https://github.com/user-attachments/assets/a9adf476-fac9-4ea2-b5ea-90a50192ccfb
 
