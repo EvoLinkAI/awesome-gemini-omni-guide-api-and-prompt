@@ -363,7 +363,7 @@ When the finger in <video> touches the animal toy play the sound the animal make
 
 **Girdi:**
 
-https://github.com/user-attachments/assets/0669a7be-bc02-4c96-9a5d-fe2268b66c63
+https://github.com/user-attachments/assets/6fa879c3-5ee8-4ff1-bbe9-6648d750277d
 
 </td>
 <td width="300">

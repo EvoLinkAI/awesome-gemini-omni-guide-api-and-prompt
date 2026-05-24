@@ -284,7 +284,7 @@ Change the camera angle to be over the violinist's shoulder.
 
 **Input:**
 
-https://github.com/user-attachments/assets/93de5898-88ee-4bfc-a36f-19d8aa99dfc1
+https://github.com/user-attachments/assets/60f31f6d-895e-4048-b477-9a46a5d20b90
 
 </td>
 <td width="300">
@@ -367,7 +367,7 @@ When the finger in <video> touches the animal toy play the sound the animal make
 
 **Input:**
 
-https://github.com/user-attachments/assets/0669a7be-bc02-4c96-9a5d-fe2268b66c63
+https://github.com/user-attachments/assets/6fa879c3-5ee8-4ff1-bbe9-6648d750277d
 
 </td>
 <td width="300">
