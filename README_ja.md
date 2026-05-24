@@ -1,8 +1,11 @@
 <div align="center">
+
 <a href="https://evolink.ai/gemini-omni?utm_source=github&utm_medium=banner&utm_campaign=awesome-gemini-omni"><img src="image/logo.png" alt="awesome-gemini-omni-api-and-prompt logo"></a>
+
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/gemini-omni?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
 [![Model API](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
+
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
 [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md)
@@ -14,7 +17,9 @@
 [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md)
 [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md)
 [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
+
 </div>
+
 ## 🍌 はじめに
 Gemini Omni APIとプロンプトリポジトリへようこそ！🤗
 **変換、モーション、カメラ制御、テキストシーケンス、マルチ入力ワークフローなど、幅広いクリエイティブタスクに対応したGoogle Gemini Omniの高品質プロンプトと動画サンプルを収集しています。**
@@ -23,23 +28,28 @@ Evolinkで試す: [Gemini Omni](https://evolink.ai/gemini-omni?utm_source=github
 お役に立てましたら、ぜひスターをお願いします。⭐
 > [!NOTE]
 > 本リポジトリは、EvolinkでのGemini Omni動画生成に向けた再利用可能なプロンプトパターンとリファレンスケースに焦点を当てています。
+
 ## 📰 ニュース
 - **2026年5月23日:** トレンドツイートからコミュニティショーケース10件を追加
 - **2026年5月22日:** 厳選されたGemini Omniプロンプト25件で初回リポジトリ更新
+
 ## 📑 メニュー
 - [🎯 プロンプトの構成要素](#-プロンプトの構成要素)
 - [✂️ 編集](#️-編集)
   - [🔄 要素の置き換え](#-要素の置き換え)
-  - [🎬 ベースシーン](#-ベースシーン)\n  - [📷 カメラ演出](#-カメラ演出)
+  - [🎬 ベースシーン](#-ベースシーン)
+  - [📷 カメラ演出](#-カメラ演出)
   - [🎬 アクション＆同期](#-アクション同期)
 - [🎨 高度なマルチモーダル](#-高度なマルチモーダル)
   - [🪞 アーティスティックスタイル](#-アーティスティックスタイル)
-  - [✨ ビジュアルエフェクト](#-ビジュアルエフェクト)\n  - [🔗 クロスモーダル](#-クロスモーダル)
+  - [✨ ビジュアルエフェクト](#-ビジュアルエフェクト)
+  - [🔗 クロスモーダル](#-クロスモーダル)
   - [📋 ストーリーボード](#-ストーリーボード)
   - [🔤 テキストレンダリング](#-テキストレンダリング)
 - [⚖️ 比較](#️-比較)
 - [🧪 評価](#-評価)
 - [🙏 謝辞](#-謝辞)
+
 ## 🎯 プロンプトの構成要素
 Gemini Omniは強力な**世界理解**能力を持っています。歴史、科学、文化に関する現実世界の知識を活用します。すべての詳細を過度に説明する必要はありません。自然言語でクリエイティブな意図を表現すれば、Omniの推論が残りを補完します。
 ゼロから新しい動画を作成する際は、以下の要素を組み合わせて出力を制御します：
@@ -52,7 +62,9 @@ Gemini Omniは強力な**世界理解**能力を持っています。歴史、�
 | **アクション** | 被写体の動作と動き | `The person touches the mirror`, `a marble rolling fast on a chain reaction track` |
 > [!TIP]
 > **反復編集：** Omniはマルチターン会話編集をサポートしています。うまくいっている部分はそのまま保持し、指示された部分のみを変更します。毎回シーン全体を再記述する必要はありません。次に変更したい内容を伝えるだけです。
+
 ## ✂️ 編集
+
 ### 🔄 要素の置き換え
 
 **ケース1: 蝶からハチへ** `🎬 Video→Video`
@@ -82,6 +94,7 @@ https://github.com/user-attachments/assets/60f31f6d-895e-4048-b477-9a46a5d20b90
 Change the butterfly to a bee.
 ```
 
+---
 
 **ケース2: ハチからホタルへ** `🎬 Video→Video`
 
@@ -232,7 +245,6 @@ https://github.com/user-attachments/assets/93de5898-88ee-4bfc-a36f-19d8aa99dfc1
 A video of a violinist playing a song.
 ```
 
-
 ### 📷 カメラ演出
 
 **ケース1: 肩越しアングル** `🎬 Video→Video`
@@ -262,6 +274,7 @@ https://github.com/user-attachments/assets/71aa1c8d-0287-4591-b239-68322919293d
 Change the camera angle to be over the violinist's shoulder.
 ```
 
+---
 
 **ケース2: カメラティルト 靴からミディアムショットへ** `🎬 Video→Video`
 
@@ -333,7 +346,6 @@ https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
 > 出典： [元のツイート](https://x.com/npaka123/status/2058033145845575735)
 
 ### 🎬 アクション＆同期
-
 
 **ケース1: 動物おもちゃの鳴き声** `🎬 Video→Video`
 
@@ -475,6 +487,7 @@ Case 2: When the person touches the mirror, the person transforms into a detaile
 Case 3: When the person touches the mirror, the person suddenly transforms into a cute felted stuffed puppet version with large googley eyes and glasses
 ```
 
+---
 
 **ケース4: アニメーション広告 ワンショット (by [@DenneyDara](https://x.com/DenneyDara))** `🔤 Text→Video`
 
@@ -516,6 +529,7 @@ https://github.com/user-attachments/assets/06683ef4-16e0-47b0-93ec-c6222560ee13
 Make it look like the weird shape of my hand hole super zooms and magnifies the ground it's looking at in sharper quality.
 ```
 
+---
 
 **ケース2: スケートボード モーションエフェクト** `🎬 Video→Video`
 
@@ -556,6 +570,7 @@ https://github.com/user-attachments/assets/88176743-d17e-48fe-89f3-528fe60df7fd
 Transport the violinist to the image environment
 ```
 
+---
 
 **ケース2: 鳥の形とオーディオ** `🎬+🖼️+🎵 Multi-Modal`
 
@@ -620,6 +635,7 @@ Create a cinematic 10-second ultra-realistic luxury cosmetic commercial in a hig
 
 > 出典： [元のツイート](https://x.com/aiwithaly/status/2057806821138858314)
 
+---
 
 **ケース2: この物語に登場させて** `🖼️ Image→Video`
 
@@ -705,6 +721,7 @@ https://github.com/user-attachments/assets/f7693ec2-ac70-4ac8-813f-8fcb46d90d3d
 The video shows items of the alphabet. An unusual item starting with each letter is shown sitting on a table. All 26 letters must be represented by 26 items with matching lower thirds displaying the letter. Only one item and lower third at a time. Rapid fire, roughly 9 frames per item at 24FPS. Last frame is a slip of paper "THE END".
 ```
 
+---
 
 **ケース2: 単語ごとのテキスト同期** `🔤 Text→Video`
 

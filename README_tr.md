@@ -1,8 +1,11 @@
 <div align="center">
+
 <a href="https://evolink.ai/gemini-omni?utm_source=github&utm_medium=banner&utm_campaign=awesome-gemini-omni"><img src="image/logo.png" alt="awesome-gemini-omni-api-and-prompt logo"></a>
+
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/gemini-omni?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
 [![Model API](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
+
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
 [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md)
@@ -14,7 +17,9 @@
 [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md)
 [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md)
 [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
+
 </div>
+
 ## 🍌 Giriş
 Gemini Omni API ve Prompt deposuna hoş geldiniz! 🤗
 **Google Gemini Omni için dönüştürme, hareket, kamera kontrolü, metin dizileri ve çoklu girdi iş akışları dahil geniş bir yaratıcı görev yelpazesinde yüksek kaliteli promptlar ve video örnekleri topluyoruz.**
@@ -23,23 +28,28 @@ Evolink'te deneyin: [Gemini Omni](https://evolink.ai/gemini-omni?utm_source=gith
 Faydalı bulduysanız, bir yıldız bırakmayı düşünün. ⭐
 > [!NOTE]
 > Bu depo, Evolink üzerinde Gemini Omni video üretimi için yeniden kullanılabilir prompt kalıplarına ve referans vakalara odaklanmaktadır.
+
 ## 📰 Haberler
 - **23 Mayıs 2026:** Trend tweetlerden 10 topluluk vitrin vakası eklendi
 - **22 Mayıs 2026:** 25 derlenmiş Gemini Omni prompt ile ilk depo güncellemesi
+
 ## 📑 Menü
 - [🎯 Prompt Bileşenleri](#-prompt-bileşenleri)
 - [✂️ Düzenleme](#️-düzenleme)
   - [🔄 Eleman Değiştirme](#-eleman-değiştirme)
-  - [🎬 Temel Sahne](#-temel-sahne)\n  - [📷 Kamera Yönlendirme](#-kamera-yönlendirme)
+  - [🎬 Temel Sahne](#-temel-sahne)
+  - [📷 Kamera Yönlendirme](#-kamera-yönlendirme)
   - [🎬 Aksiyon ve Senkronizasyon](#-aksiyon-ve-senkronizasyon)
 - [🎨 Gelişmiş Çoklu Modal](#-gelişmiş-çoklu-modal)
   - [🪞 Sanatsal Stil](#-sanatsal-stil)
-  - [✨ Görsel Efektler](#-görsel-efektler)\n  - [🔗 Çapraz Modal](#-çapraz-modal)
+  - [✨ Görsel Efektler](#-görsel-efektler)
+  - [🔗 Çapraz Modal](#-çapraz-modal)
   - [📋 Storyboard](#-storyboard)
   - [🔤 Metin Oluşturma](#-metin-oluşturma)
 - [⚖️ Karşılaştırma](#️-karşılaştırma)
 - [🧪 Değerlendirme](#-değerlendirme)
 - [🙏 Teşekkürler](#-teşekkürler)
+
 ## 🎯 Prompt Bileşenleri
 Gemini Omni güçlü bir **dünya anlayışına** sahiptir — tarih, bilim ve kültür hakkında gerçek dünya bilgisinden yararlanır. Her detayı aşırı açıklamanıza gerek yoktur. Bunun yerine, yaratıcı niyetinizi doğal dilde ifade edin ve Omni'nin muhakemesinin gerisini doldurmasına izin verin.
 Sıfırdan yeni bir video oluştururken, çıktıyı kontrol etmek için bu boyutları karıştırın:
@@ -52,7 +62,9 @@ Sıfırdan yeni bir video oluştururken, çıktıyı kontrol etmek için bu boyu
 | **Aksiyon** | Özne davranışı ve hareketi | `The person touches the mirror`, `a marble rolling fast on a chain reaction track` |
 > [!TIP]
 > **Yinelemeli Düzenleme:** Omni çok turlu konuşma düzenlemesini destekler. İşe yarayanı korur ve yalnızca istediğiniz şeyi değiştirir — her seferinde tüm sahneyi yeniden tanımlamanıza gerek yoktur. Sadece neyi değiştireceğinizi söyleyin.
+
 ## ✂️ Düzenleme
+
 ### 🔄 Eleman Değiştirme
 
 **Vaka 1: Kelebekten Arıya** `🎬 Video→Video`
@@ -81,7 +93,6 @@ https://github.com/user-attachments/assets/60f31f6d-895e-4048-b477-9a46a5d20b90
 ```
 Change the butterfly to a bee.
 ```
-
 
 **Vaka 2: Arıdan Ateşböceklerine** `🎬 Video→Video`
 
@@ -232,7 +243,6 @@ https://github.com/user-attachments/assets/93de5898-88ee-4bfc-a36f-19d8aa99dfc1
 A video of a violinist playing a song.
 ```
 
-
 ### 📷 Kamera Yönlendirme
 
 **Vaka 1: Omuz Üstü Açı** `🎬 Video→Video`
@@ -261,7 +271,6 @@ https://github.com/user-attachments/assets/71aa1c8d-0287-4591-b239-68322919293d
 ```
 Change the camera angle to be over the violinist's shoulder.
 ```
-
 
 **Vaka 2: Kamera Tilt Ayakkabılardan Orta Çekime** `🎬 Video→Video`
 
@@ -333,7 +342,6 @@ https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
 > Kaynak: [Orijinal Tweet](https://x.com/npaka123/status/2058033145845575735)
 
 ### 🎬 Aksiyon ve Senkronizasyon
-
 
 **Vaka 1: Hayvan Oyuncağı Sesi** `🎬 Video→Video`
 
@@ -475,7 +483,6 @@ Case 2: When the person touches the mirror, the person transforms into a detaile
 Case 3: When the person touches the mirror, the person suddenly transforms into a cute felted stuffed puppet version with large googley eyes and glasses
 ```
 
-
 **Vaka 4: Animasyon Reklam Tek Çekim ([@DenneyDara](https://x.com/DenneyDara))** `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/edacf1c5-94db-4687-8eaa-f87ebf5fabee
@@ -516,7 +523,6 @@ https://github.com/user-attachments/assets/06683ef4-16e0-47b0-93ec-c6222560ee13
 Make it look like the weird shape of my hand hole super zooms and magnifies the ground it's looking at in sharper quality.
 ```
 
-
 **Vaka 2: Kaykay Hareket Efektleri** `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/44c120a2-38a7-43d7-89fa-a23d0842078c
@@ -555,7 +561,6 @@ https://github.com/user-attachments/assets/88176743-d17e-48fe-89f3-528fe60df7fd
 ```
 Transport the violinist to the image environment
 ```
-
 
 **Vaka 2: Sesli Kuş Şekli** `🎬+🖼️+🎵 Multi-Modal`
 
@@ -619,7 +624,6 @@ Create a cinematic 10-second ultra-realistic luxury cosmetic commercial in a hig
 ```
 
 > Kaynak: [Orijinal Tweet](https://x.com/aiwithaly/status/2057806821138858314)
-
 
 **Vaka 2: Beni Bu Hikayede Göster** `🖼️ Image→Video`
 
@@ -704,7 +708,6 @@ https://github.com/user-attachments/assets/f7693ec2-ac70-4ac8-813f-8fcb46d90d3d
 ```
 The video shows items of the alphabet. An unusual item starting with each letter is shown sitting on a table. All 26 letters must be represented by 26 items with matching lower thirds displaying the letter. Only one item and lower third at a time. Rapid fire, roughly 9 frames per item at 24FPS. Last frame is a slip of paper "THE END".
 ```
-
 
 **Vaka 2: Kelime Kelime Metin Senkronizasyonu** `🔤 Text→Video`
 

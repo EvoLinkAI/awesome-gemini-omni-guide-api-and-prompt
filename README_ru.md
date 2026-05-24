@@ -1,8 +1,11 @@
 <div align="center">
+
 <a href="https://evolink.ai/gemini-omni?utm_source=github&utm_medium=banner&utm_campaign=awesome-gemini-omni"><img src="image/logo.png" alt="awesome-gemini-omni-api-and-prompt logo"></a>
+
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/gemini-omni?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
 [![Model API](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
+
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
 [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md)
@@ -14,7 +17,9 @@
 [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md)
 [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md)
 [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
+
 </div>
+
 ## 🍌 Введение
 Добро пожаловать в репозиторий Gemini Omni API и промптов! 🤗
 **Мы собираем высококачественные промпты и видеопримеры для Google Gemini Omni, охватывающие широкий спектр творческих задач, включая трансформацию, движение, управление камерой, текстовые последовательности и мультимодальные рабочие процессы.**
@@ -23,23 +28,28 @@
 Если вам это полезно, поставьте звезду. ⭐
 > [!NOTE]
 > Этот репозиторий сосредоточен на переиспользуемых паттернах промптов и справочных кейсах для генерации видео Gemini Omni на Evolink.
+
 ## 📰 Новости
 - **23 мая 2026:** Добавлено 10 кейсов из сообщества на основе популярных твитов
 - **22 мая 2026:** Первое обновление репозитория с 25 отобранными промптами Gemini Omni
+
 ## 📑 Меню
 - [🎯 Ингредиенты промптов](#-ингредиенты-промптов)
 - [✂️ Редактирование](#️-редактирование)
   - [🔄 Замена элементов](#-замена-элементов)
-  - [🎬 Базовая сцена](#-базовая-сцена)\n  - [📷 Управление камерой](#-управление-камерой)
+  - [🎬 Базовая сцена](#-базовая-сцена)
+  - [📷 Управление камерой](#-управление-камерой)
   - [🎬 Действие и синхронизация](#-действие-и-синхронизация)
 - [🎨 Продвинутый мультимодальный режим](#-продвинутый-мультимодальный-режим)
   - [🪞 Художественный стиль](#-художественный-стиль)
-  - [✨ Визуальные эффекты](#-визуальные-эффекты)\n  - [🔗 Кросс-модальность](#-кросс-модальность)
+  - [✨ Визуальные эффекты](#-визуальные-эффекты)
+  - [🔗 Кросс-модальность](#-кросс-модальность)
   - [📋 Раскадровка](#-раскадровка)
   - [🔤 Рендеринг текста](#-рендеринг-текста)
 - [⚖️ Сравнение](#️-сравнение)
 - [🧪 Оценка](#-оценка)
 - [🙏 Благодарности](#-благодарности)
+
 ## 🎯 Ингредиенты промптов
 Gemini Omni обладает глубоким **пониманием мира** — модель опирается на реальные знания из истории, науки и культуры. Вам не нужно объяснять каждую деталь. Вместо этого выразите свой творческий замысел на естественном языке, и Omni дополнит остальное своими рассуждениями.
 При создании нового видео с нуля комбинируйте эти параметры для управления результатом:
@@ -52,7 +62,9 @@ Gemini Omni обладает глубоким **пониманием мира** 
 | **Действие** | Поведение и движение объекта | `The person touches the mirror`, `a marble rolling fast on a chain reaction track` |
 > [!TIP]
 > **Итеративное редактирование:** Omni поддерживает многоходовое редактирование в диалоге. Модель сохраняет то, что работает, и изменяет только то, что вы просите — не нужно заново описывать всю сцену каждый раз. Просто скажите, что изменить дальше.
+
 ## ✂️ Редактирование
+
 ### 🔄 Замена элементов
 
 **Кейс 1: Бабочка в пчелу** `🎬 Video→Video`
@@ -81,7 +93,6 @@ https://github.com/user-attachments/assets/60f31f6d-895e-4048-b477-9a46a5d20b90
 ```
 Change the butterfly to a bee.
 ```
-
 
 **Кейс 2: Пчела в светлячков** `🎬 Video→Video`
 
@@ -232,7 +243,6 @@ https://github.com/user-attachments/assets/93de5898-88ee-4bfc-a36f-19d8aa99dfc1
 A video of a violinist playing a song.
 ```
 
-
 ### 📷 Управление камерой
 
 **Кейс 1: Ракурс через плечо** `🎬 Video→Video`
@@ -261,7 +271,6 @@ https://github.com/user-attachments/assets/71aa1c8d-0287-4591-b239-68322919293d
 ```
 Change the camera angle to be over the violinist's shoulder.
 ```
-
 
 **Кейс 2: Наклон камеры от обуви к среднему плану** `🎬 Video→Video`
 
@@ -333,7 +342,6 @@ https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
 > Источник: [Original Tweet](https://x.com/npaka123/status/2058033145845575735)
 
 ### 🎬 Действие и синхронизация
-
 
 **Кейс 1: Звук игрушечного животного** `🎬 Video→Video`
 
@@ -475,7 +483,6 @@ Case 2: When the person touches the mirror, the person transforms into a detaile
 Case 3: When the person touches the mirror, the person suddenly transforms into a cute felted stuffed puppet version with large googley eyes and glasses
 ```
 
-
 **Кейс 4: Анимационная реклама в один кадр (от [@DenneyDara](https://x.com/DenneyDara))** `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/edacf1c5-94db-4687-8eaa-f87ebf5fabee
@@ -516,7 +523,6 @@ https://github.com/user-attachments/assets/06683ef4-16e0-47b0-93ec-c6222560ee13
 Make it look like the weird shape of my hand hole super zooms and magnifies the ground it's looking at in sharper quality.
 ```
 
-
 **Кейс 2: Эффекты движения скейтборда** `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/44c120a2-38a7-43d7-89fa-a23d0842078c
@@ -555,7 +561,6 @@ https://github.com/user-attachments/assets/88176743-d17e-48fe-89f3-528fe60df7fd
 ```
 Transport the violinist to the image environment
 ```
-
 
 **Кейс 2: Форма птиц со звуком** `🎬+🖼️+🎵 Multi-Modal`
 
@@ -619,7 +624,6 @@ Create a cinematic 10-second ultra-realistic luxury cosmetic commercial in a hig
 ```
 
 > Источник: [Original Tweet](https://x.com/aiwithaly/status/2057806821138858314)
-
 
 **Кейс 2: Покажи меня в этой истории** `🖼️ Image→Video`
 
@@ -704,7 +708,6 @@ https://github.com/user-attachments/assets/f7693ec2-ac70-4ac8-813f-8fcb46d90d3d
 ```
 The video shows items of the alphabet. An unusual item starting with each letter is shown sitting on a table. All 26 letters must be represented by 26 items with matching lower thirds displaying the letter. Only one item and lower third at a time. Rapid fire, roughly 9 frames per item at 24FPS. Last frame is a slip of paper "THE END".
 ```
-
 
 **Кейс 2: Пословная синхронизация текста** `🔤 Text→Video`
 

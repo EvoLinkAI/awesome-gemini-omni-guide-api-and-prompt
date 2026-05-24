@@ -1,8 +1,11 @@
 <div align="center">
+
 <a href="https://evolink.ai/gemini-omni?utm_source=github&utm_medium=banner&utm_campaign=awesome-gemini-omni"><img src="image/logo.png" alt="awesome-gemini-omni-api-and-prompt logo"></a>
+
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/gemini-omni?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
 [![Model API](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
+
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
 [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md)
@@ -14,7 +17,9 @@
 [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md)
 [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md)
 [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
+
 </div>
+
 ## 🍌 Introduction
 Welcome to the Gemini Omni API and Prompts repository! 🤗
 **We collect high-quality prompts and video examples for Google Gemini Omni across a wide range of creative tasks including transform, motion, camera control, text sequences, and multi-input workflows.**
@@ -23,23 +28,28 @@ Try it on Evolink: [Gemini Omni](https://evolink.ai/gemini-omni?utm_source=githu
 If you find this useful, consider giving it a star. ⭐
 > [!NOTE]
 > This repository focuses on reusable prompt patterns and reference cases for Gemini Omni video generation on Evolink.
+
 ## 📰 News
 - **May 23, 2026:** Added 10 community showcase cases from trending tweets
 - **May 22, 2026:** First repository update with 25 curated Gemini Omni prompts
+
 ## 📑 Menu
 - [🎯 Prompt Ingredients](#-prompt-ingredients)
 - [✂️ Edit](#️-edit)
   - [🔄 Element Replacement](#-element-replacement)
-  - [🎬 Base Scene](#-base-scene)\n  - [📷 Camera Direction](#-camera-direction)
+  - [🎬 Base Scene](#-base-scene)
+  - [📷 Camera Direction](#-camera-direction)
   - [🎬 Action & Sync](#-action--sync)
 - [🎨 Advanced Multi-Modal](#-advanced-multi-modal)
   - [🪞 Artistic Style](#-artistic-style)
-  - [✨ Visual Effects](#-visual-effects)\n  - [🔗 Cross-Modal](#-cross-modal)
+  - [✨ Visual Effects](#-visual-effects)
+  - [🔗 Cross-Modal](#-cross-modal)
   - [📋 Storyboard](#-storyboard)
   - [🔤 Text Rendering](#-text-rendering)
 - [⚖️ Comparison](#️-comparison)
 - [🧪 Evaluation](#-evaluation)
 - [🙏 Acknowledge](#-acknowledge)
+
 ## 🎯 Prompt Ingredients
 Gemini Omni has strong **world understanding** — it draws on real-world knowledge of history, science, and culture. You don't need to over-explain every detail. Instead, express your creative intent in natural language and let Omni's reasoning fill in the rest.
 When creating a new video from scratch, mix these dimensions to control the output:
@@ -52,7 +62,9 @@ When creating a new video from scratch, mix these dimensions to control the outp
 | **Action** | Subject behavior and movement | `The person touches the mirror`, `a marble rolling fast on a chain reaction track` |
 > [!TIP]
 > **Iterative Editing:** Omni supports multi-turn conversation editing. It preserves what works and only modifies what you ask — no need to re-describe the entire scene each time. Just say what to change next.
+
 ## ✂️ Edit
+
 ### 🔄 Element Replacement
 
 **Case 1: Butterfly to Bee** `🎬 Video→Video`
@@ -82,6 +94,7 @@ https://github.com/user-attachments/assets/60f31f6d-895e-4048-b477-9a46a5d20b90
 Change the butterfly to a bee.
 ```
 
+---
 
 **Case 2: Bee to Fireflies** `🎬 Video→Video`
 
@@ -261,6 +274,7 @@ https://github.com/user-attachments/assets/71aa1c8d-0287-4591-b239-68322919293d
 Change the camera angle to be over the violinist's shoulder.
 ```
 
+---
 
 **Case 2: Camera Tilt Shoes to Medium Shot** `🎬 Video→Video`
 
@@ -319,8 +333,6 @@ A 10 second ultra cinematic hyper realistic FPV fashion drone shot filmed in a s
 
 ---
 
----
-
 **Case 5: Top View to 360 Rotation (by [@npaka123](https://x.com/npaka123))** `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
@@ -345,6 +357,7 @@ https://github.com/user-attachments/assets/fbf377d7-1b39-43af-92e6-665792d05de0
 When the finger in <video> touches the animal toy play the sound the animal makes
 ```
 
+---
 
 **Case 2: Apartments Lights Sync** `🎬+🎵 Video+Audio→Video`
 
@@ -474,6 +487,7 @@ Case 2: When the person touches the mirror, the person transforms into a detaile
 Case 3: When the person touches the mirror, the person suddenly transforms into a cute felted stuffed puppet version with large googley eyes and glasses
 ```
 
+---
 
 **Case 4: Animation Ads One Shot (by [@DenneyDara](https://x.com/DenneyDara))** `🔤 Text→Video`
 
@@ -513,6 +527,7 @@ https://github.com/user-attachments/assets/06683ef4-16e0-47b0-93ec-c6222560ee13
 Make it look like the weird shape of my hand hole super zooms and magnifies the ground it's looking at in sharper quality.
 ```
 
+---
 
 **Case 2: Skateboard Motion Effects** `🎬 Video→Video`
 
@@ -553,6 +568,7 @@ https://github.com/user-attachments/assets/88176743-d17e-48fe-89f3-528fe60df7fd
 Transport the violinist to the image environment
 ```
 
+---
 
 **Case 2: Birds Shape With Audio** `🎬+🖼️+🎵 Multi-Modal`
 
@@ -617,6 +633,7 @@ Create a cinematic 10-second ultra-realistic luxury cosmetic commercial in a hig
 
 > Source: [Original Tweet](https://x.com/aiwithaly/status/2057806821138858314)
 
+---
 
 **Case 2: Show Me in This Story** `🖼️ Image→Video`
 
@@ -700,6 +717,7 @@ https://github.com/user-attachments/assets/f7693ec2-ac70-4ac8-813f-8fcb46d90d3d
 The video shows items of the alphabet. An unusual item starting with each letter is shown sitting on a table. All 26 letters must be represented by 26 items with matching lower thirds displaying the letter. Only one item and lower third at a time. Rapid fire, roughly 9 frames per item at 24FPS. Last frame is a slip of paper "THE END".
 ```
 
+---
 
 **Case 2: Word-by-Word Text Sync** `🔤 Text→Video`
 

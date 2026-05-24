@@ -1,8 +1,11 @@
 <div align="center">
+
 <a href="https://evolink.ai/gemini-omni?utm_source=github&utm_medium=banner&utm_campaign=awesome-gemini-omni"><img src="image/logo.png" alt="awesome-gemini-omni-api-and-prompt logo"></a>
+
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/gemini-omni?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
 [![Model API](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
+
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
 [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md)
@@ -14,7 +17,9 @@
 [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md)
 [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md)
 [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
+
 </div>
+
 ## 🍌 소개
 Gemini Omni API 및 프롬프트 저장소에 오신 것을 환영합니다! 🤗
 **변환, 모션, 카메라 제어, 텍스트 시퀀스, 멀티 입력 워크플로우 등 다양한 창작 작업을 위한 Google Gemini Omni의 고품질 프롬프트와 비디오 예제를 수집합니다.**
@@ -23,23 +28,28 @@ Evolink에서 체험하기: [Gemini Omni](https://evolink.ai/gemini-omni?utm_sou
 유용하다고 생각하시면 스타를 눌러주세요. ⭐
 > [!NOTE]
 > 이 저장소는 Evolink에서의 Gemini Omni 비디오 생성을 위한 재사용 가능한 프롬프트 패턴과 참고 사례에 중점을 둡니다.
+
 ## 📰 뉴스
 - **2026년 5월 23일:** 트렌딩 트윗에서 커뮤니티 쇼케이스 사례 10개 추가
 - **2026년 5월 22일:** 엄선된 Gemini Omni 프롬프트 25개로 첫 저장소 업데이트
+
 ## 📑 메뉴
 - [🎯 프롬프트 구성 요소](#-프롬프트-구성-요소)
 - [✂️ 편집](#️-편집)
   - [🔄 요소 교체](#-요소-교체)
-  - [🎬 베이스 장면](#-베이스-장면)\n  - [📷 카메라 연출](#-카메라-연출)
+  - [🎬 베이스 장면](#-베이스-장면)
+  - [📷 카메라 연출](#-카메라-연출)
   - [🎬 액션 & 싱크](#-액션--싱크)
 - [🎨 고급 멀티모달](#-고급-멀티모달)
   - [🪞 아티스틱 스타일](#-아티스틱-스타일)
-  - [✨ 비주얼 이펙트](#-비주얼-이펙트)\n  - [🔗 크로스모달](#-크로스모달)
+  - [✨ 비주얼 이펙트](#-비주얼-이펙트)
+  - [🔗 크로스모달](#-크로스모달)
   - [📋 스토리보드](#-스토리보드)
   - [🔤 텍스트 렌더링](#-텍스트-렌더링)
 - [⚖️ 비교](#️-비교)
 - [🧪 평가](#-평가)
 - [🙏 감사의 말](#-감사의-말)
+
 ## 🎯 프롬프트 구성 요소
 Gemini Omni는 강력한 **세계 이해력**을 갖추고 있어 역사, 과학, 문화에 대한 실제 지식을 활용합니다. 모든 세부 사항을 과도하게 설명할 필요가 없습니다. 대신 자연어로 창작 의도를 표현하면 Omni의 추론이 나머지를 채워줍니다.
 처음부터 새로운 비디오를 만들 때, 다음 차원들을 조합하여 출력을 제어하세요:
@@ -52,7 +62,9 @@ Gemini Omni는 강력한 **세계 이해력**을 갖추고 있어 역사, 과학
 | **액션** | 피사체의 행동과 움직임 | `The person touches the mirror`, `a marble rolling fast on a chain reaction track` |
 > [!TIP]
 > **반복 편집:** Omni는 멀티턴 대화 편집을 지원합니다. 잘 된 부분은 유지하고 요청한 부분만 수정합니다 — 매번 전체 장면을 다시 설명할 필요가 없습니다. 다음에 변경할 내용만 말하면 됩니다.
+
 ## ✂️ 편집
+
 ### 🔄 요소 교체
 
 **사례 1: 나비를 벌로** `🎬 Video→Video`
@@ -81,7 +93,6 @@ https://github.com/user-attachments/assets/60f31f6d-895e-4048-b477-9a46a5d20b90
 ```
 Change the butterfly to a bee.
 ```
-
 
 **사례 2: 벌을 반딧불이로** `🎬 Video→Video`
 
@@ -232,7 +243,6 @@ https://github.com/user-attachments/assets/93de5898-88ee-4bfc-a36f-19d8aa99dfc1
 A video of a violinist playing a song.
 ```
 
-
 ### 📷 카메라 연출
 
 **사례 1: 오버더숄더 앵글** `🎬 Video→Video`
@@ -261,7 +271,6 @@ https://github.com/user-attachments/assets/71aa1c8d-0287-4591-b239-68322919293d
 ```
 Change the camera angle to be over the violinist's shoulder.
 ```
-
 
 **사례 2: 카메라 틸트 - 신발에서 미디엄 샷으로** `🎬 Video→Video`
 
@@ -333,7 +342,6 @@ https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
 > 출처: [원본 트윗](https://x.com/npaka123/status/2058033145845575735)
 
 ### 🎬 액션 & 싱크
-
 
 **사례 1: 동물 장난감 소리** `🎬 Video→Video`
 
@@ -475,7 +483,6 @@ Case 2: When the person touches the mirror, the person transforms into a detaile
 Case 3: When the person touches the mirror, the person suddenly transforms into a cute felted stuffed puppet version with large googley eyes and glasses
 ```
 
-
 **사례 4: 애니메이션 광고 원샷 (by [@DenneyDara](https://x.com/DenneyDara))** `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/edacf1c5-94db-4687-8eaa-f87ebf5fabee
@@ -516,7 +523,6 @@ https://github.com/user-attachments/assets/06683ef4-16e0-47b0-93ec-c6222560ee13
 Make it look like the weird shape of my hand hole super zooms and magnifies the ground it's looking at in sharper quality.
 ```
 
-
 **사례 2: 스케이트보드 모션 이펙트** `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/44c120a2-38a7-43d7-89fa-a23d0842078c
@@ -555,7 +561,6 @@ https://github.com/user-attachments/assets/88176743-d17e-48fe-89f3-528fe60df7fd
 ```
 Transport the violinist to the image environment
 ```
-
 
 **사례 2: 오디오와 함께하는 새 형상** `🎬+🖼️+🎵 Multi-Modal`
 
@@ -619,7 +624,6 @@ Create a cinematic 10-second ultra-realistic luxury cosmetic commercial in a hig
 ```
 
 > 출처: [원본 트윗](https://x.com/aiwithaly/status/2057806821138858314)
-
 
 **사례 2: 이 이야기 속에 나를 보여줘** `🖼️ Image→Video`
 
@@ -704,7 +708,6 @@ https://github.com/user-attachments/assets/f7693ec2-ac70-4ac8-813f-8fcb46d90d3d
 ```
 The video shows items of the alphabet. An unusual item starting with each letter is shown sitting on a table. All 26 letters must be represented by 26 items with matching lower thirds displaying the letter. Only one item and lower third at a time. Rapid fire, roughly 9 frames per item at 24FPS. Last frame is a slip of paper "THE END".
 ```
-
 
 **사례 2: 단어별 텍스트 싱크** `🔤 Text→Video`
 

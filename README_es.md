@@ -1,8 +1,11 @@
 <div align="center">
+
 <a href="https://evolink.ai/gemini-omni?utm_source=github&utm_medium=banner&utm_campaign=awesome-gemini-omni"><img src="image/logo.png" alt="awesome-gemini-omni-api-and-prompt logo"></a>
+
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/gemini-omni?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
 [![Model API](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
+
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
 [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md)
@@ -14,7 +17,9 @@
 [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md)
 [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md)
 [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
+
 </div>
+
 ## 🍌 Introducción
 Bienvenido al repositorio de Gemini Omni API y Prompts! 🤗
 **Recopilamos prompts de alta calidad y ejemplos en video para Google Gemini Omni en una amplia variedad de tareas creativas, incluyendo transformación, movimiento, control de cámara, secuencias de texto y flujos de trabajo multi-entrada.**
@@ -23,23 +28,28 @@ Pruébalo en Evolink: [Gemini Omni](https://evolink.ai/gemini-omni?utm_source=gi
 Si te resulta útil, considera darle una estrella. ⭐
 > [!NOTE]
 > Este repositorio se centra en patrones de prompts reutilizables y casos de referencia para la generación de video con Gemini Omni en Evolink.
+
 ## 📰 Novedades
 - **23 de mayo de 2026:** Se añadieron 10 casos de la comunidad desde tweets destacados
 - **22 de mayo de 2026:** Primera actualización del repositorio con 25 prompts seleccionados de Gemini Omni
+
 ## 📑 Menú
 - [🎯 Ingredientes del Prompt](#-ingredientes-del-prompt)
 - [✂️ Edición](#️-edición)
   - [🔄 Reemplazo de Elementos](#-reemplazo-de-elementos)
-  - [🎬 Escena Base](#-escena-base)\n  - [📷 Dirección de Cámara](#-dirección-de-cámara)
+  - [🎬 Escena Base](#-escena-base)
+  - [📷 Dirección de Cámara](#-dirección-de-cámara)
   - [🎬 Acción y Sincronización](#-acción--sincronización)
 - [🎨 Multi-Modal Avanzado](#-multi-modal-avanzado)
   - [🪞 Estilo Artístico](#-estilo-artístico)
-  - [✨ Efectos Visuales](#-efectos-visuales)\n  - [🔗 Cross-Modal](#-cross-modal)
+  - [✨ Efectos Visuales](#-efectos-visuales)
+  - [🔗 Cross-Modal](#-cross-modal)
   - [📋 Storyboard](#-storyboard)
   - [🔤 Renderizado de Texto](#-renderizado-de-texto)
 - [⚖️ Comparación](#️-comparación)
 - [🧪 Evaluación](#-evaluación)
 - [🙏 Agradecimientos](#-agradecimientos)
+
 ## 🎯 Ingredientes del Prompt
 Gemini Omni tiene una fuerte **comprensión del mundo** — se basa en conocimientos del mundo real sobre historia, ciencia y cultura. No necesitas explicar cada detalle en exceso. En su lugar, expresa tu intención creativa en lenguaje natural y deja que el razonamiento de Omni complete el resto.
 Al crear un nuevo video desde cero, combina estas dimensiones para controlar el resultado:
@@ -52,7 +62,9 @@ Al crear un nuevo video desde cero, combina estas dimensiones para controlar el 
 | **Acción** | Comportamiento y movimiento del sujeto | `The person touches the mirror`, `a marble rolling fast on a chain reaction track` |
 > [!TIP]
 > **Edición Iterativa:** Omni soporta edición mediante conversación multi-turno. Preserva lo que funciona y solo modifica lo que pides — no necesitas re-describir toda la escena cada vez. Solo di qué cambiar a continuación.
+
 ## ✂️ Edición
+
 ### 🔄 Reemplazo de Elementos
 
 **Caso 1: Mariposa a Abeja** `🎬 Video→Video`
@@ -82,6 +94,7 @@ https://github.com/user-attachments/assets/60f31f6d-895e-4048-b477-9a46a5d20b90
 Change the butterfly to a bee.
 ```
 
+---
 
 **Caso 2: Abeja a Luciérnagas** `🎬 Video→Video`
 
@@ -261,6 +274,7 @@ https://github.com/user-attachments/assets/71aa1c8d-0287-4591-b239-68322919293d
 Change the camera angle to be over the violinist's shoulder.
 ```
 
+---
 
 **Caso 2: Inclinación de Cámara de Zapatos a Plano Medio** `🎬 Video→Video`
 
@@ -319,8 +333,6 @@ A 10 second ultra cinematic hyper realistic FPV fashion drone shot filmed in a s
 
 ---
 
----
-
 **Caso 5: Vista Superior a Rotación 360 (por [@npaka123](https://x.com/npaka123))** `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
@@ -334,7 +346,6 @@ https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
 > Fuente: [Tweet Original](https://x.com/npaka123/status/2058033145845575735)
 
 ### 🎬 Acción y Sincronización
-
 
 **Caso 1: Sonido de Juguete Animal** `🎬 Video→Video`
 
@@ -476,6 +487,7 @@ Case 2: When the person touches the mirror, the person transforms into a detaile
 Case 3: When the person touches the mirror, the person suddenly transforms into a cute felted stuffed puppet version with large googley eyes and glasses
 ```
 
+---
 
 **Caso 4: Anuncio Animado en Una Toma (por [@DenneyDara](https://x.com/DenneyDara))** `🔤 Text→Video`
 
@@ -515,6 +527,7 @@ https://github.com/user-attachments/assets/06683ef4-16e0-47b0-93ec-c6222560ee13
 Make it look like the weird shape of my hand hole super zooms and magnifies the ground it's looking at in sharper quality.
 ```
 
+---
 
 **Caso 2: Efectos de Movimiento en Skateboard** `🎬 Video→Video`
 
@@ -555,6 +568,7 @@ https://github.com/user-attachments/assets/88176743-d17e-48fe-89f3-528fe60df7fd
 Transport the violinist to the image environment
 ```
 
+---
 
 **Caso 2: Forma de Pájaros con Audio** `🎬+🖼️+🎵 Multi-Modal`
 
@@ -619,6 +633,7 @@ Create a cinematic 10-second ultra-realistic luxury cosmetic commercial in a hig
 
 > Fuente: [Tweet Original](https://x.com/aiwithaly/status/2057806821138858314)
 
+---
 
 **Caso 2: Muéstrame en Esta Historia** `🖼️ Image→Video`
 
@@ -702,6 +717,7 @@ https://github.com/user-attachments/assets/f7693ec2-ac70-4ac8-813f-8fcb46d90d3d
 The video shows items of the alphabet. An unusual item starting with each letter is shown sitting on a table. All 26 letters must be represented by 26 items with matching lower thirds displaying the letter. Only one item and lower third at a time. Rapid fire, roughly 9 frames per item at 24FPS. Last frame is a slip of paper "THE END".
 ```
 
+---
 
 **Caso 2: Sincronización de Texto Palabra por Palabra** `🔤 Text→Video`
 

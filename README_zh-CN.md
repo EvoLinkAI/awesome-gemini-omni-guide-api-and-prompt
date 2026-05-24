@@ -1,8 +1,11 @@
 <div align="center">
+
 <a href="https://evolink.ai/gemini-omni?utm_source=github&utm_medium=banner&utm_campaign=awesome-gemini-omni"><img src="image/logo.png" alt="awesome-gemini-omni-api-and-prompt logo"></a>
+
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/gemini-omni?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
 [![Model API](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
+
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
 [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md)
@@ -14,7 +17,9 @@
 [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md)
 [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md)
 [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
+
 </div>
+
 ## 🍌 简介
 欢迎来到 Gemini Omni API 与提示词仓库！🤗
 **我们收集了高质量的提示词和视频示例，涵盖 Google Gemini Omni 的各种创意任务，包括变换、运动、镜头控制、文字序列和多输入工作流。**
@@ -23,23 +28,28 @@
 如果觉得有用，欢迎给个 Star ⭐
 > [!NOTE]
 > 本仓库专注于可复用的提示词模式和 Gemini Omni 视频生成在 Evolink 上的参考案例。
+
 ## 📰 最新动态
 - **2026年5月23日：** 新增 10 个来自热门推文的社区展示案例
 - **2026年5月22日：** 首次仓库更新，收录 25 个精选 Gemini Omni 提示词
+
 ## 📑 目录
 - [🎯 提示词要素](#-提示词要素)
 - [✂️ 编辑](#️-编辑)
   - [🔄 元素替换](#-元素替换)
-  - [🎬 基础场景](#-基础场景)\n  - [📷 镜头调度](#-镜头调度)
+  - [🎬 基础场景](#-基础场景)
+  - [📷 镜头调度](#-镜头调度)
   - [🎬 动作与同步](#-动作与同步)
 - [🎨 高级多模态](#-高级多模态)
   - [🪞 艺术风格](#-艺术风格)
-  - [✨ 视觉特效](#-视觉特效)\n  - [🔗 跨模态](#-跨模态)
+  - [✨ 视觉特效](#-视觉特效)
+  - [🔗 跨模态](#-跨模态)
   - [📋 分镜](#-分镜)
   - [🔤 文字渲染](#-文字渲染)
 - [⚖️ 对比](#️-对比)
 - [🧪 评估](#-评估)
 - [🙏 致谢](#-致谢)
+
 ## 🎯 提示词要素
 Gemini Omni 具有强大的**世界理解能力**——它能调用历史、科学和文化方面的真实世界知识。你不需要过度解释每个细节，只需用自然语言表达你的创意意图，让 Omni 的推理能力来补充其余部分。
 从零开始创建新视频时，可以混合以下维度来控制输出：
@@ -52,7 +62,9 @@ Gemini Omni 具有强大的**世界理解能力**——它能调用历史、科�
 | **动作** | 主体行为和运动 | `The person touches the mirror`, `a marble rolling fast on a chain reaction track` |
 > [!TIP]
 > **迭代编辑：** Omni 支持多轮对话编辑。它会保留有效的部分，只修改你要求更改的内容——无需每次重新描述整个场景。只需说出下一步要改什么。
+
 ## ✂️ 编辑
+
 ### 🔄 元素替换
 
 **案例 1：蝴蝶变蜜蜂** `🎬 Video→Video`
@@ -82,6 +94,7 @@ https://github.com/user-attachments/assets/60f31f6d-895e-4048-b477-9a46a5d20b90
 Change the butterfly to a bee.
 ```
 
+---
 
 **案例 2：蜜蜂变萤火虫** `🎬 Video→Video`
 
@@ -232,7 +245,6 @@ https://github.com/user-attachments/assets/93de5898-88ee-4bfc-a36f-19d8aa99dfc1
 A video of a violinist playing a song.
 ```
 
-
 ### 📷 镜头调度
 
 **案例 1：过肩角度** `🎬 Video→Video`
@@ -262,6 +274,7 @@ https://github.com/user-attachments/assets/71aa1c8d-0287-4591-b239-68322919293d
 Change the camera angle to be over the violinist's shoulder.
 ```
 
+---
 
 **案例 2：镜头从鞋子上摇到中景** `🎬 Video→Video`
 
@@ -333,7 +346,6 @@ https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
 > 来源：[原始推文](https://x.com/npaka123/status/2058033145845575735)
 
 ### 🎬 动作与同步
-
 
 **案例 1：动物玩具声音** `🎬 Video→Video`
 
@@ -475,6 +487,7 @@ Case 2: When the person touches the mirror, the person transforms into a detaile
 Case 3: When the person touches the mirror, the person suddenly transforms into a cute felted stuffed puppet version with large googley eyes and glasses
 ```
 
+---
 
 **案例 4：动画广告一镜到底（作者 [@DenneyDara](https://x.com/DenneyDara)）** `🔤 Text→Video`
 
@@ -516,6 +529,7 @@ https://github.com/user-attachments/assets/06683ef4-16e0-47b0-93ec-c6222560ee13
 Make it look like the weird shape of my hand hole super zooms and magnifies the ground it's looking at in sharper quality.
 ```
 
+---
 
 **案例 2：滑板运动特效** `🎬 Video→Video`
 
@@ -556,6 +570,7 @@ https://github.com/user-attachments/assets/88176743-d17e-48fe-89f3-528fe60df7fd
 Transport the violinist to the image environment
 ```
 
+---
 
 **案例 2：鸟群形状配合音频** `🎬+🖼️+🎵 Multi-Modal`
 
@@ -620,6 +635,7 @@ Create a cinematic 10-second ultra-realistic luxury cosmetic commercial in a hig
 
 > 来源：[原始推文](https://x.com/aiwithaly/status/2057806821138858314)
 
+---
 
 **案例 2：让我出现在这个故事中** `🖼️ Image→Video`
 
@@ -705,6 +721,7 @@ https://github.com/user-attachments/assets/f7693ec2-ac70-4ac8-813f-8fcb46d90d3d
 The video shows items of the alphabet. An unusual item starting with each letter is shown sitting on a table. All 26 letters must be represented by 26 items with matching lower thirds displaying the letter. Only one item and lower third at a time. Rapid fire, roughly 9 frames per item at 24FPS. Last frame is a slip of paper "THE END".
 ```
 
+---
 
 **案例 2：逐字文字同步** `🔤 Text→Video`
 
