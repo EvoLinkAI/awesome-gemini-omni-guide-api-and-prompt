@@ -929,85 +929,90 @@ https://github.com/user-attachments/assets/a9adf476-fac9-4ea2-b5ea-90a50192ccfb
 
 Creative experiments and showcases from the community. These cases demonstrate the breadth of what's possible with Gemini Omni.
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Concept-Driven Educational Video (by [@VORTEX_Promos](https://x.com/VORTEX_Promos))**
+**Concept-Driven Educational Video** — by [@VORTEX_Promos](https://x.com/VORTEX_Promos)
 
 https://github.com/user-attachments/assets/ca450aec-a6c8-455f-973d-087bfb3da742
 
-> You don't need to spell out every step — it's enough to formulate the concept of the video. It independently finds the theory, descriptions of objects and details, visualizes them, and adds text.
+> You don't need to spell out every step — it's enough to formulate the concept of the video. It independently finds the theory, descriptions of objects and details, visualizes them, and adds text. · [Source](https://x.com/VORTEX_Promos/status/2058083405204459621)
 
-> Source: [Original Tweet](https://x.com/VORTEX_Promos/status/2058083405204459621)
+</td>
+<td width="50%" valign="top">
 
----
-
-**Showcase (by [@paji_a](https://x.com/paji_a))**
+**Showcase** — by [@paji_a](https://x.com/paji_a)
 
 https://github.com/user-attachments/assets/8ecfe4b0-6de7-47f0-9b83-3dc736512e54
 
-> Source: [Original Tweet](https://x.com/paji_a/status/2058070248436445600)
+> [Source](https://x.com/paji_a/status/2058070248436445600)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Nano Banana for Video — Consistency Test (by [@WolfRiccardo](https://x.com/WolfRiccardo))**
+**Nano Banana for Video — Consistency Test** — by [@WolfRiccardo](https://x.com/WolfRiccardo)
 
 https://github.com/user-attachments/assets/0cabc195-8a2b-47e6-a649-d95b15003964
 
-> Simple, consistent and extremely successful. "Nano Banana for video."
+> Simple, consistent and extremely successful. "Nano Banana for video." · [Source](https://x.com/WolfRiccardo/status/2058296266270945483)
 
-> Source: [Original Tweet](https://x.com/WolfRiccardo/status/2058296266270945483)
+</td>
+<td width="50%" valign="top">
 
----
-
-**Presenting Isometric Character (by [@kumiko_shiraki](https://x.com/kumiko_shiraki))**
+**Presenting Isometric Character** — by [@kumiko_shiraki](https://x.com/kumiko_shiraki)
 
 https://github.com/user-attachments/assets/d38627cd-6f23-4ea3-8a95-7cd831229364
 
-> Source: [Original Tweet](https://x.com/kumiko_shiraki/status/2058699566938194382)
+> [Source](https://x.com/kumiko_shiraki/status/2058699566938194382)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**One-Sentence Cinematic Zen (by [@Dheepanratnam](https://x.com/Dheepanratnam))**
+**One-Sentence Cinematic Zen** — by [@Dheepanratnam](https://x.com/Dheepanratnam)
 
 https://github.com/user-attachments/assets/d33d9c9d-a68f-4e01-bf1e-c4c8ee60c8ee
 
-**Prompt:**
+**Prompt:** `Create a 30 second motivational video by an anthropomorphic Himalayan monk cat yogi`
 
-```
-Create a 30 second motivational video by an anthropomorphic Himalayan monk cat yogi
-```
+> No character sheet. No detailed shot list. One sentence generated 3 perfect 10-second scenes with flawless consistency. · [Source](https://x.com/Dheepanratnam/status/2058372209681342806)
 
-> No character sheet. No detailed shot list. No editing tricks. One sentence generated 3 perfect 10-second scenes with flawless consistency.
+</td>
+<td width="50%" valign="top">
 
-> Source: [Original Tweet](https://x.com/Dheepanratnam/status/2058372209681342806)
-
----
-
-**Character Transformation — Glamorous to Everyday (by [@HBCoop_](https://x.com/HBCoop_))**
+**Character Transformation — Glamorous to Everyday** — by [@HBCoop_](https://x.com/HBCoop_)
 
 https://github.com/user-attachments/assets/239ca343-cb71-4254-8478-d8947d6c33aa
 
-> Changing a glamorous character into an everyday worker.
+> Changing a glamorous character into an everyday worker. · [Source](https://x.com/HBCoop_/status/2058221428780970398)
 
-> Source: [Original Tweet](https://x.com/HBCoop_/status/2058221428780970398)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
-
-**Waymo to India (by [@iHarnoorSingh](https://x.com/iHarnoorSingh))**
+**Waymo to India** — by [@iHarnoorSingh](https://x.com/iHarnoorSingh)
 
 https://github.com/user-attachments/assets/7d23ad1f-63bf-4a3c-ab94-09e8f26c570e
 
-> Took a Waymo ride video and transported it to India using Gemini Omni.
+> Took a Waymo ride video and transported it to India using Gemini Omni. · [Source](https://x.com/iHarnoorSingh/status/2058352557819621617)
 
-> Source: [Original Tweet](https://x.com/iHarnoorSingh/status/2058352557819621617)
+</td>
+<td width="50%" valign="top">
 
----
-
-**The Letter Never Sent — Short Film (by [@Strength04_X](https://x.com/Strength04_X))**
+**The Letter Never Sent — Short Film** — by [@Strength04_X](https://x.com/Strength04_X)
 
 https://github.com/user-attachments/assets/df8dcb7c-c918-4fc2-b952-0cb2bcdddfee
 
-> Source: [Original Tweet](https://x.com/Strength04_X/status/2058367252299452851)
+> [Source](https://x.com/Strength04_X/status/2058367252299452851)
+
+</td>
+</tr>
+</table>
 
 ## 🙏 Acknowledge
 
