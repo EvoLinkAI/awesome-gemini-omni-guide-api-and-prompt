@@ -38,17 +38,61 @@ If you find this useful, consider giving it a star. ⭐
 - [🎯 Prompt Ingredients](#-prompt-ingredients)
 - [✂️ Edit](#️-edit)
   - [🔄 Element Replacement](#-element-replacement)
+    - [Case 1: Butterfly to Bee](#case-1-butterfly-to-bee)
+    - [Case 2: Bee to Fireflies](#case-2-bee-to-fireflies)
+    - [Case 3-5: Spaceships & Astronaut Series](#case-3-5-spaceships--astronaut-series)
+    - [Case 6: Train 1896 Transform (by @emollick)](#case-6-train-1896-transform-by-emollick)
+    - [Case 7: Remove Person from Video (by @arrakis_ai)](#case-7-remove-person-from-video-by-arrakis_ai)
+    - [Case 8: Invisible Violin](#case-8-invisible-violin)
+    - [Case 9: Location Change via World Knowledge (by @venturetwins)](#case-9-location-change-via-world-knowledge-by-venturetwins)
+    - [Case 10: Animation to Live Action (by @arrakis_ai)](#case-10-animation-to-live-action-by-arrakis_ai)
   - [🎬 Base Scene](#-base-scene)
+    - [Case 1: Violinist Base Shot](#case-1-violinist-base-shot)
   - [📷 Camera Direction](#-camera-direction)
+    - [Case 1: Over-the-Shoulder Angle](#case-1-over-the-shoulder-angle)
+    - [Case 2: Camera Tilt Shoes to Medium Shot](#case-2-camera-tilt-shoes-to-medium-shot)
+    - [Case 3: Travel Selfie Hyperlapse (by @ZaraIrahh)](#case-3-travel-selfie-hyperlapse-by-zarairahh)
+    - [Case 4: Fashion Drone Shot (by @ariaxawan)](#case-4-fashion-drone-shot-by-ariaxawan)
+    - [Case 5: Top View to 360 Rotation (by @npaka123)](#case-5-top-view-to-360-rotation-by-npaka123)
+    - [Case 6: Omnizoom — Diving Into a Photo (by @alexanderchen)](#case-6-omnizoom--diving-into-a-photo-by-alexanderchen)
   - [🎬 Action & Sync](#-action--sync)
+    - [Case 1: Animal Toy Sound](#case-1-animal-toy-sound)
+    - [Case 2: Apartments Lights Sync](#case-2-apartments-lights-sync)
+    - [Case 3: Marble Chain Reaction](#case-3-marble-chain-reaction)
+    - [Case 4: Building Lights](#case-4-building-lights)
+    - [Case 5: Boxing Fight Realistic (by @RuzainaMeer)](#case-5-boxing-fight-realistic-by-ruzainameer)
 - [🎨 Advanced Multi-Modal](#-advanced-multi-modal)
   - [🪞 Artistic Style](#-artistic-style)
+    - [Case 1-3: Mirror Series](#case-1-3-mirror-series)
+    - [Case 4: Animation Ads One Shot (by @DenneyDara)](#case-4-animation-ads-one-shot-by-denneydara)
+    - [Case 5: Line Drawing Isolation (by @alexanderchen)](#case-5-line-drawing-isolation-by-alexanderchen)
   - [✨ Visual Effects](#-visual-effects)
+    - [Case 1: Hand Hole Super Zoom](#case-1-hand-hole-super-zoom)
+    - [Case 2: Skateboard Motion Effects](#case-2-skateboard-motion-effects)
+    - [Case 3: AR HUD Overlay (by @jerrod_lew)](#case-3-ar-hud-overlay-by-jerrod_lew)
   - [🔗 Cross-Modal](#-cross-modal)
+    - [Case 1: Transport to New Environment](#case-1-transport-to-new-environment)
+    - [Case 2: Birds Shape With Audio](#case-2-birds-shape-with-audio)
+    - [Case 3: Slide to Motion (by @yoshifujidesign)](#case-3-slide-to-motion-by-yoshifujidesign)
+    - [Case 4: Isometric Cooking Character with Reference Image (by @kumiko_shiraki)](#case-4-isometric-cooking-character-with-reference-image-by-kumiko_shiraki)
+    - [Case 5: ChatGPT Instruction Image as Input (by @Majin_AppSheet)](#case-5-chatgpt-instruction-image-as-input-by-majin_appsheet)
+    - [Case 6: ChatGPT Illustration to Omni Animation (by @mmmiyama_D)](#case-6-chatgpt-illustration-to-omni-animation-by-mmmiyama_d)
   - [📋 Storyboard](#-storyboard)
+    - [Case 1: Luxury Cosmetic Commercial (by @aiwithaly)](#case-1-luxury-cosmetic-commercial-by-aiwithaly)
+    - [Case 2: Show Me in This Story](#case-2-show-me-in-this-story)
+    - [Case 3: 3x3 Split Screen (by @alexanderchen)](#case-3-3x3-split-screen-by-alexanderchen)
+    - [Case 4: Action Replay from Different Angles (by @jerrod_lew)](#case-4-action-replay-from-different-angles-by-jerrod_lew)
+    - [Case 5: Split Screen Video (by @jerrod_lew)](#case-5-split-screen-video-by-jerrod_lew)
   - [🔤 Text Rendering](#-text-rendering)
+    - [Case 1: Alphabet Items Sequence](#case-1-alphabet-items-sequence)
+    - [Case 2: Word-by-Word Text Sync](#case-2-word-by-word-text-sync)
+    - [Case 3: Text Rendering AI News (by @chrisfirst)](#case-3-text-rendering-ai-news-by-chrisfirst)
+    - [Case 4: Font Fashion Show (by @HBCoop_)](#case-4-font-fashion-show-by-hbcoop_)
 - [⚖️ Comparison](#️-comparison)
+  - [Case 1: Seedance 2.0 vs Gemini Omni Flash (by @JSFILMZ0412)](#case-1-seedance-20-vs-gemini-omni-flash-by-jsfilmz0412)
+  - [Case 2: Gemini Omni vs Seedance 2.0 Action Scenes (by @CuriousRefuge)](#case-2-gemini-omni-vs-seedance-20-action-scenes-by-curiousrefuge)
 - [🧪 Evaluation](#-evaluation)
+  - [Case 1: Gemini Omni Quality Evaluation (by @kenichiota0711)](#case-1-gemini-omni-quality-evaluation-by-kenichiota0711)
 - [🌐 Community Gallery](#-community-gallery)
 - [🙏 Acknowledge](#-acknowledge)
 
@@ -74,7 +118,7 @@ When creating a new video from scratch, mix these dimensions to control the outp
 
 ### 🔄 Element Replacement
 
-**Case 1: Butterfly to Bee** `🎬 Video→Video`
+#### Case 1: Butterfly to Bee `🎬 Video→Video`
 
 <table>
 <tr>
@@ -103,7 +147,7 @@ Change the butterfly to a bee.
 
 ---
 
-**Case 2: Bee to Fireflies** `🎬 Video→Video`
+#### Case 2: Bee to Fireflies `🎬 Video→Video`
 
 <table>
 <tr>
@@ -132,7 +176,7 @@ Change the bee into a small swarm of fireflies.
 
 ---
 
-**Case 3-5: Spaceships & Astronaut Series** `🎬 Video→Video`
+#### Case 3-5: Spaceships & Astronaut Series `🎬 Video→Video`
 
 <table>
 <tr>
@@ -149,21 +193,21 @@ https://github.com/user-attachments/assets/26ea7e43-9787-4096-82f9-e10543229bec
 
 https://github.com/user-attachments/assets/dd9ae5b1-0205-45ac-a651-258af1c4f12c
 
-**Case 3: Spaceships to White Origami**
+#### Case 3: Spaceships to White Origami
 
 </td>
 <td width="300">
 
 https://github.com/user-attachments/assets/78ef5301-b759-4dda-9995-3ee0d259a7b1
 
-**Case 4: Astronaut to Sea Anemone**
+#### Case 4: Astronaut to Sea Anemone
 
 </td>
 <td width="300">
 
 https://github.com/user-attachments/assets/0cbadb19-8a5b-4a2c-9093-e3a84f3dd988
 
-**Case 5: Small Ships to Stingrays**
+#### Case 5: Small Ships to Stingrays
 
 </td>
 </tr>
@@ -185,7 +229,7 @@ Case 5: Change the small ships to stingrays.
 
 ---
 
-**Case 6: [Train 1896 Transform](https://x.com/emollick/status/2057874739817808223) (by [@emollick](https://x.com/emollick))** `🎬 Video→Video`
+#### Case 6: [Train 1896 Transform](https://x.com/emollick/status/2057874739817808223) (by [@emollick](https://x.com/emollick)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/275cc90e-adaa-48ff-9ff8-1e96ea29d44f
 
@@ -197,7 +241,7 @@ I took the famous "train" movie from 1896 & made it a bullet train, LEGO, added 
 
 ---
 
-**Case 7: [Remove Person from Video](https://x.com/arrakis_ai/status/2057939231755178439) (by [@arrakis_ai](https://x.com/arrakis_ai))** `🎬 Video→Video`
+#### Case 7: [Remove Person from Video](https://x.com/arrakis_ai/status/2057939231755178439) (by [@arrakis_ai](https://x.com/arrakis_ai)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/72379fb2-ac30-4d1e-a6b4-143052f8f061
 
@@ -209,7 +253,7 @@ Remove the person from this video perfectly.
 
 ---
 
-**Case 8: Invisible Violin** `🎬 Video→Video`
+#### Case 8: Invisible Violin `🎬 Video→Video`
 
 <table>
 <tr>
@@ -238,7 +282,7 @@ Make the violin invisible
 
 ---
 
-**Case 9: [Location Change via World Knowledge](https://x.com/venturetwins/status/2058235415883313361) (by [@venturetwins](https://x.com/venturetwins))** `🎬 Video→Video`
+#### Case 9: [Location Change via World Knowledge](https://x.com/venturetwins/status/2058235415883313361) (by [@venturetwins](https://x.com/venturetwins)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/daa90750-fc7b-49ea-b85d-364411159663
 
@@ -252,7 +296,7 @@ Re-shoot this video in [location] based on the screenshot from Google Maps.
 
 ---
 
-**Case 10: [Animation to Live Action](https://x.com/arrakis_ai/status/2058488373057302797) (by [@arrakis_ai](https://x.com/arrakis_ai))** `🎬 Video→Video`
+#### Case 10: [Animation to Live Action](https://x.com/arrakis_ai/status/2058488373057302797) (by [@arrakis_ai](https://x.com/arrakis_ai)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/3c6be2a9-3e67-4deb-8ccd-fb493b715f65
 
@@ -264,7 +308,7 @@ Turn this animation into live action.
 
 ### 🎬 Base Scene
 
-**Case 1: Violinist Base Shot** `🔤 Text→Video`
+#### Case 1: Violinist Base Shot `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/93de5898-88ee-4bfc-a36f-19d8aa99dfc1
 
@@ -276,7 +320,7 @@ A video of a violinist playing a song.
 
 ### 📷 Camera Direction
 
-**Case 1: Over-the-Shoulder Angle** `🎬 Video→Video`
+#### Case 1: Over-the-Shoulder Angle `🎬 Video→Video`
 
 <table>
 <tr>
@@ -305,7 +349,7 @@ Change the camera angle to be over the violinist's shoulder.
 
 ---
 
-**Case 2: Camera Tilt Shoes to Medium Shot** `🎬 Video→Video`
+#### Case 2: Camera Tilt Shoes to Medium Shot `🎬 Video→Video`
 
 <table>
 <tr>
@@ -334,7 +378,7 @@ Change the camera angle, a close-up on his shoes, quickly tilting up to medium s
 
 ---
 
-**Case 3: [Travel Selfie Hyperlapse](https://x.com/ZaraIrahh/status/2057775215749349520) (by [@ZaraIrahh](https://x.com/ZaraIrahh))** `🔤 Text→Video`
+#### Case 3: [Travel Selfie Hyperlapse](https://x.com/ZaraIrahh/status/2057775215749349520) (by [@ZaraIrahh](https://x.com/ZaraIrahh)) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/31fa5a56-6113-4376-873b-5e40d26803f1
 
@@ -346,7 +390,7 @@ Create a 10-second cinematic hyper-lapse selfie travel video of the uploaded fem
 
 ---
 
-**Case 4: [Fashion Drone Shot](https://x.com/ariaxawan/status/2057794715744084042) (by [@ariaxawan](https://x.com/ariaxawan))** `🔤 Text→Video`
+#### Case 4: [Fashion Drone Shot](https://x.com/ariaxawan/status/2057794715744084042) (by [@ariaxawan](https://x.com/ariaxawan)) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/b199a5ab-e008-4a72-aa03-094bc6d573e6
 
@@ -358,7 +402,7 @@ A 10 second ultra cinematic hyper realistic FPV fashion drone shot filmed in a s
 
 ---
 
-**Case 5: [Top View to 360 Rotation](https://x.com/npaka123/status/2058033145845575735) (by [@npaka123](https://x.com/npaka123))** `🖼️ Image→Video`
+#### Case 5: [Top View to 360 Rotation](https://x.com/npaka123/status/2058033145845575735) (by [@npaka123](https://x.com/npaka123)) `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
 
@@ -370,7 +414,7 @@ https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
 
 ---
 
-**Case 6: [Omnizoom — Diving Into a Photo](https://x.com/alexanderchen/status/2058330610574221672) (by [@alexanderchen](https://x.com/alexanderchen))** `🖼️ Image→Video`
+#### Case 6: [Omnizoom — Diving Into a Photo](https://x.com/alexanderchen/status/2058330610574221672) (by [@alexanderchen](https://x.com/alexanderchen)) `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/9fd3ad2a-6e4a-4ac0-ab29-48f1c303b95f
 
@@ -382,7 +426,7 @@ Omnizoom — diving into a photo.
 
 ### 🎬 Action & Sync
 
-**Case 1: Animal Toy Sound** `🎬 Video→Video`
+#### Case 1: Animal Toy Sound `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/fbf377d7-1b39-43af-92e6-665792d05de0
 
@@ -394,7 +438,7 @@ When the finger in <video> touches the animal toy play the sound the animal make
 
 ---
 
-**Case 2: Apartments Lights Sync** `🎬+🎵 Video+Audio→Video`
+#### Case 2: Apartments Lights Sync `🎬+🎵 Video+Audio→Video`
 
 <table>
 <tr>
@@ -423,7 +467,7 @@ The lights of the apartments start turning on in sync with the music.
 
 ---
 
-**Case 3: Marble Chain Reaction** `🔤 Text→Video`
+#### Case 3: Marble Chain Reaction `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/1ece8df7-f29a-4ebd-ad68-9c910f811590
 
@@ -435,7 +479,7 @@ A marble rolling fast on a chain reaction style track, continuous smooth shot
 
 ---
 
-**Case 4: Building Lights** `🎬+🎵 Video+Audio→Video`
+#### Case 4: Building Lights `🎬+🎵 Video+Audio→Video`
 
 <table>
 <tr>
@@ -464,7 +508,7 @@ The lights of the buildings start turning on in sync with the music.
 
 ---
 
-**Case 5: [Boxing Fight Realistic](https://x.com/RuzainaMeer/status/2057785474446741728) (by [@RuzainaMeer](https://x.com/RuzainaMeer))** `🔤 Text→Video`
+#### Case 5: [Boxing Fight Realistic](https://x.com/RuzainaMeer/status/2057785474446741728) (by [@RuzainaMeer](https://x.com/RuzainaMeer)) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/6796bf78-8bad-441c-889d-30621ee62cd7
 
@@ -478,7 +522,7 @@ Ultra-realistic 10-second boxing fight between two women inside a small undergro
 
 ### 🪞 Artistic Style
 
-**Case 1-3: Mirror Series** `🎬 Video→Video`
+#### Case 1-3: Mirror Series `🎬 Video→Video`
 
 <table>
 <tr>
@@ -486,21 +530,21 @@ Ultra-realistic 10-second boxing fight between two women inside a small undergro
 
 https://github.com/user-attachments/assets/747cdc6b-f5fa-4482-b745-2839551e9ba2
 
-**Case 1: Mirror Liquid Metal Ripple**
+#### Case 1: Mirror Liquid Metal Ripple
 
 </td>
 <td width="300">
 
 https://github.com/user-attachments/assets/36ea02a2-3716-44aa-9bc2-a5cc1480d0bf
 
-**Case 2: Mirror Line Art**
+#### Case 2: Mirror Line Art
 
 </td>
 <td width="300">
 
 https://github.com/user-attachments/assets/dbca6772-dd7a-4418-a0e6-a39796a91c97
 
-**Case 3: Mirror Puppet**
+#### Case 3: Mirror Puppet
 
 </td>
 </tr>
@@ -522,7 +566,7 @@ Case 3: When the person touches the mirror, the person suddenly transforms into 
 
 ---
 
-**Case 4: [Animation Ads One Shot](https://x.com/DenneyDara/status/2057844409639551380) (by [@DenneyDara](https://x.com/DenneyDara))** `🔤 Text→Video`
+#### Case 4: [Animation Ads One Shot](https://x.com/DenneyDara/status/2057844409639551380) (by [@DenneyDara](https://x.com/DenneyDara)) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/edacf1c5-94db-4687-8eaa-f87ebf5fabee
 
@@ -534,7 +578,7 @@ Make a Pixar-style video of an aloe leaf that is walking through the forest that
 
 ---
 
-**Case 5: [Line Drawing Isolation](https://x.com/alexanderchen/status/2057925025915666673) (by [@alexanderchen](https://x.com/alexanderchen))** `🎬 Video→Video`
+#### Case 5: [Line Drawing Isolation](https://x.com/alexanderchen/status/2057925025915666673) (by [@alexanderchen](https://x.com/alexanderchen)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/787813c0-2e20-4999-8383-fd76a9b21f91
 
@@ -546,7 +590,7 @@ Extract the key object in this video. Render a video showing that object as a bl
 
 ### ✨ Visual Effects
 
-**Case 1: Hand Hole Super Zoom** `🎬 Video→Video`
+#### Case 1: Hand Hole Super Zoom `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/06683ef4-16e0-47b0-93ec-c6222560ee13
 
@@ -558,7 +602,7 @@ Make it look like the weird shape of my hand hole super zooms and magnifies the 
 
 ---
 
-**Case 2: Skateboard Motion Effects** `🎬 Video→Video`
+#### Case 2: Skateboard Motion Effects `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/44c120a2-38a7-43d7-89fa-a23d0842078c
 
@@ -570,7 +614,7 @@ Edit this keeping everything the same. Add animated motion effects coming out of
 
 ---
 
-**Case 3: [AR HUD Overlay](https://x.com/jerrod_lew/status/2058337271947079977) (by [@jerrod_lew](https://x.com/jerrod_lew))** `🎬 Video→Video`
+#### Case 3: [AR HUD Overlay](https://x.com/jerrod_lew/status/2058337271947079977) (by [@jerrod_lew](https://x.com/jerrod_lew)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/04b11cd7-d345-4172-b6e5-38301e73bb77
 
@@ -582,7 +626,7 @@ Create a virtual HUD and UI overlay for this recorded phone video, like an AR gl
 
 ### 🔗 Cross-Modal
 
-**Case 1: Transport to New Environment** `🎬+🖼️ Video+Image→Video`
+#### Case 1: Transport to New Environment `🎬+🖼️ Video+Image→Video`
 
 <table>
 <tr>
@@ -611,7 +655,7 @@ Transport the violinist to the image environment
 
 ---
 
-**Case 2: Birds Shape With Audio** `🎬+🖼️+🎵 Multi-Modal`
+#### Case 2: Birds Shape With Audio `🎬+🖼️+🎵 Multi-Modal`
 
 <table>
 <tr>
@@ -648,7 +692,7 @@ The birds from <video> loosely form the imperfect shape of a bird based on <imag
 
 ---
 
-**Case 3: [Slide to Motion](https://x.com/yoshifujidesign/status/2058032203175731293) (by [@yoshifujidesign](https://x.com/yoshifujidesign))** `🖼️ Image→Video`
+#### Case 3: [Slide to Motion](https://x.com/yoshifujidesign/status/2058032203175731293) (by [@yoshifujidesign](https://x.com/yoshifujidesign)) `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/f07a861b-cd0d-4894-8ef1-b74520c7cbd7
 
@@ -660,7 +704,7 @@ GPT image2でスライド作成 → Gemini Omniでモーション。画面遷移
 
 ---
 
-**Case 4: [Isometric Cooking Character with Reference Image](https://x.com/kumiko_shiraki/status/2058337185099546885) (by [@kumiko_shiraki](https://x.com/kumiko_shiraki))** `🖼️ Image→Video`
+#### Case 4: [Isometric Cooking Character with Reference Image](https://x.com/kumiko_shiraki/status/2058337185099546885) (by [@kumiko_shiraki](https://x.com/kumiko_shiraki)) `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/d5e9b97e-cefa-4cd8-bf70-4e633020f092
 
@@ -674,7 +718,7 @@ Narrow down reference images and add negative prompts to get closer to your idea
 
 ---
 
-**Case 5: [ChatGPT Instruction Image as Input](https://x.com/Majin_AppSheet/status/2058191091070058846) (by [@Majin_AppSheet](https://x.com/Majin_AppSheet))** `🖼️ Image→Video`
+#### Case 5: [ChatGPT Instruction Image as Input](https://x.com/Majin_AppSheet/status/2058191091070058846) (by [@Majin_AppSheet](https://x.com/Majin_AppSheet)) `🖼️ Image→Video`
 
 <table>
 <tr>
@@ -699,7 +743,7 @@ https://github.com/user-attachments/assets/578d6968-c6dd-417a-b6fe-100468851f3d
 
 ---
 
-**Case 6: [ChatGPT Illustration to Omni Animation](https://x.com/mmmiyama_D/status/2058654389326516656) (by [@mmmiyama_D](https://x.com/mmmiyama_D))** `🖼️ Image→Video`
+#### Case 6: [ChatGPT Illustration to Omni Animation](https://x.com/mmmiyama_D/status/2058654389326516656) (by [@mmmiyama_D](https://x.com/mmmiyama_D)) `🖼️ Image→Video`
 
 <table>
 <tr>
@@ -725,7 +769,7 @@ https://github.com/user-attachments/assets/289e5378-60ad-472b-ba51-da710da81270
 
 ### 📋 Storyboard
 
-**Case 1: [Luxury Cosmetic Commercial](https://x.com/aiwithaly/status/2057806821138858314) (by [@aiwithaly](https://x.com/aiwithaly))** `🔤 Text→Video`
+#### Case 1: [Luxury Cosmetic Commercial](https://x.com/aiwithaly/status/2057806821138858314) (by [@aiwithaly](https://x.com/aiwithaly)) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/6d003859-eb77-4466-9f70-5a76a2269667
 
@@ -737,7 +781,7 @@ Create a cinematic 10-second ultra-realistic luxury cosmetic commercial in a hig
 
 ---
 
-**Case 2: Show Me in This Story** `🖼️ Image→Video`
+#### Case 2: Show Me in This Story `🖼️ Image→Video`
 
 <table>
 <tr>
@@ -767,7 +811,7 @@ Show me in this story. Follow the story exactly in order starting top left. Enti
 
 ---
 
-**Case 3: [3x3 Split Screen](https://x.com/alexanderchen/status/2057861567396368841) (by [@alexanderchen](https://x.com/alexanderchen))** `🎬 Video→Video`
+#### Case 3: [3x3 Split Screen](https://x.com/alexanderchen/status/2057861567396368841) (by [@alexanderchen](https://x.com/alexanderchen)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/587fc95e-526f-4d8d-94c8-feefe34edba9
 
@@ -779,7 +823,7 @@ Generate a 3x3 split screen video based on different details you see here. Make 
 
 ---
 
-**Case 4: [Action Replay from Different Angles](https://x.com/jerrod_lew/status/2057838324140953773) (by [@jerrod_lew](https://x.com/jerrod_lew))** `🎬 Video→Video`
+#### Case 4: [Action Replay from Different Angles](https://x.com/jerrod_lew/status/2057838324140953773) (by [@jerrod_lew](https://x.com/jerrod_lew)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/a1179492-74bd-488c-b594-6bc023269c10
 
@@ -791,7 +835,7 @@ Gemini Omni can create action replays from different angles. I referenced a vide
 
 ---
 
-**Case 5: [Split Screen Video](https://x.com/jerrod_lew/status/2057944349846249975) (by [@jerrod_lew](https://x.com/jerrod_lew))** `🎬 Video→Video`
+#### Case 5: [Split Screen Video](https://x.com/jerrod_lew/status/2057944349846249975) (by [@jerrod_lew](https://x.com/jerrod_lew)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/8755d95d-a9b2-4f7c-a56d-bfbbcc47f80e
 
@@ -803,7 +847,7 @@ Use a reference video and ask the agent for a split screen video.
 
 ### 🔤 Text Rendering
 
-**Case 1: Alphabet Items Sequence** `🔤 Text→Video`
+#### Case 1: Alphabet Items Sequence `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/f7693ec2-ac70-4ac8-813f-8fcb46d90d3d
 
@@ -815,7 +859,7 @@ The video shows items of the alphabet. An unusual item starting with each letter
 
 ---
 
-**Case 2: Word-by-Word Text Sync** `🔤 Text→Video`
+#### Case 2: Word-by-Word Text Sync `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/03620abc-bcb2-4011-a52b-ce13409853c4
 
@@ -827,7 +871,7 @@ word by word, one word on the screen at a time: did, you, know, that, this, mode
 
 ---
 
-**Case 3: [Text Rendering AI News](https://x.com/chrisfirst/status/2057863432469361098) (by [@chrisfirst](https://x.com/chrisfirst))** `🔤 Text→Video`
+#### Case 3: [Text Rendering AI News](https://x.com/chrisfirst/status/2057863432469361098) (by [@chrisfirst](https://x.com/chrisfirst)) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/e7d23502-1ca0-4f47-be76-47ff05390508
 
@@ -839,7 +883,7 @@ Static shot we see them turn the page 3 times. Every flip we see content on both
 
 ---
 
-**Case 4: [Font Fashion Show](https://x.com/HBCoop_/status/2057856570558452142) (by [@HBCoop_](https://x.com/HBCoop_))** `🔤 Text→Video`
+#### Case 4: [Font Fashion Show](https://x.com/HBCoop_/status/2057856570558452142) (by [@HBCoop_](https://x.com/HBCoop_)) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/395d767c-7d8e-4367-941b-0190da9a0284
 
@@ -851,7 +895,7 @@ Create a 10-second avant-garde fashion editorial where every outfit is inspired 
 
 ## ⚖️ Comparison
 
-**Case 1: [Seedance 2.0 vs Gemini Omni Flash](https://x.com/JSFILMZ0412/status/2057926749598736635) (by [@JSFILMZ0412](https://x.com/JSFILMZ0412))** `⚖️ Comparison`
+#### Case 1: [Seedance 2.0 vs Gemini Omni Flash](https://x.com/JSFILMZ0412/status/2057926749598736635) (by [@JSFILMZ0412](https://x.com/JSFILMZ0412)) `⚖️ Comparison`
 
 https://github.com/user-attachments/assets/a03e70b5-99c0-4ad8-b26b-9aed6e037f02
 
@@ -859,7 +903,7 @@ https://github.com/user-attachments/assets/a03e70b5-99c0-4ad8-b26b-9aed6e037f02
 
 ---
 
-**Case 2: [Gemini Omni vs Seedance 2.0 Action Scenes](https://x.com/CuriousRefuge/status/2057929340562907451) (by [@CuriousRefuge](https://x.com/CuriousRefuge))** `⚖️ Comparison`
+#### Case 2: [Gemini Omni vs Seedance 2.0 Action Scenes](https://x.com/CuriousRefuge/status/2057929340562907451) (by [@CuriousRefuge](https://x.com/CuriousRefuge)) `⚖️ Comparison`
 
 https://github.com/user-attachments/assets/33e09b7d-2357-481d-8536-dab39e75524b
 
@@ -867,7 +911,7 @@ https://github.com/user-attachments/assets/33e09b7d-2357-481d-8536-dab39e75524b
 
 ## 🧪 Evaluation
 
-**Case 1: [Gemini Omni Quality Evaluation](https://x.com/kenichiota0711/status/2057820346850660769) (by [@kenichiota0711](https://x.com/kenichiota0711))** `🧪 Evaluation`
+#### Case 1: [Gemini Omni Quality Evaluation](https://x.com/kenichiota0711/status/2057820346850660769) (by [@kenichiota0711](https://x.com/kenichiota0711)) `🧪 Evaluation`
 
 https://github.com/user-attachments/assets/a9adf476-fac9-4ea2-b5ea-90a50192ccfb
 
