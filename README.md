@@ -30,6 +30,7 @@ If you find this useful, consider giving it a star. ⭐
 > This repository focuses on reusable prompt patterns and reference cases for Gemini Omni video generation on Evolink.
 
 ## 📰 News
+- **May 25, 2026:** Added 16 new community cases + new Community Gallery section
 - **May 23, 2026:** Added 10 community showcase cases from trending tweets
 - **May 22, 2026:** First repository update with 25 curated Gemini Omni prompts
 
@@ -48,6 +49,7 @@ If you find this useful, consider giving it a star. ⭐
   - [🔤 Text Rendering](#-text-rendering)
 - [⚖️ Comparison](#️-comparison)
 - [🧪 Evaluation](#-evaluation)
+- [🌐 Community Gallery](#-community-gallery)
 - [🙏 Acknowledge](#-acknowledge)
 
 ## 🎯 Prompt Ingredients
@@ -62,6 +64,13 @@ When creating a new video from scratch, mix these dimensions to control the outp
 | **Action** | Subject behavior and movement | `The person touches the mirror`, `a marble rolling fast on a chain reaction track` |
 > [!TIP]
 > **Iterative Editing:** Omni supports multi-turn conversation editing. It preserves what works and only modifies what you ask — no need to re-describe the entire scene each time. Just say what to change next.
+
+> [!TIP]
+> **Preserve Unchanged Areas (by [@tanabe_fragm](https://x.com/tanabe_fragm)):** When editing video, add phrases like "Don't change anything else" or "Keep everything else the same" to your prompt. This significantly reduces unwanted changes to parts of the video you didn't intend to modify.
+>
+> https://github.com/user-attachments/assets/285ee7d8-7dfe-4304-a9a4-648026073b80
+>
+> Source: [Original Tweet](https://x.com/tanabe_fragm/status/2058103447006896406)
 
 ## ✂️ Edit
 
@@ -233,6 +242,36 @@ https://github.com/user-attachments/assets/ac6457aa-158c-4a0b-852f-ce1f3367bc3f
 Make the violin invisible
 ```
 
+---
+
+**Case 9: Location Change via World Knowledge (by [@venturetwins](https://x.com/venturetwins))** `🎬 Video→Video`
+
+https://github.com/user-attachments/assets/daa90750-fc7b-49ea-b85d-364411159663
+
+**Prompt:**
+
+```
+Re-shoot this video in [location] based on the screenshot from Google Maps.
+```
+
+> Uploaded a Waymo ride video, then asked Omni to re-shoot in different locations using Google Maps screenshots. The model leverages its world knowledge to seamlessly change environments.
+
+> Source: [Original Tweet](https://x.com/venturetwins/status/2058235415883313361)
+
+---
+
+**Case 10: Animation to Live Action (by [@arrakis_ai](https://x.com/arrakis_ai))** `🎬 Video→Video`
+
+https://github.com/user-attachments/assets/3c6be2a9-3e67-4deb-8ccd-fb493b715f65
+
+**Prompt:**
+
+```
+Turn this animation into live action.
+```
+
+> Source: [Original Tweet](https://x.com/arrakis_ai/status/2058488373057302797)
+
 ### 🎬 Base Scene
 
 **Case 1: Violinist Base Shot** `🔤 Text→Video`
@@ -344,6 +383,20 @@ https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
 ```
 
 > Source: [Original Tweet](https://x.com/npaka123/status/2058033145845575735)
+
+---
+
+**Case 6: Omnizoom — Diving Into a Photo (by [@alexanderchen](https://x.com/alexanderchen))** `🖼️ Image→Video`
+
+https://github.com/user-attachments/assets/9fd3ad2a-6e4a-4ac0-ab29-48f1c303b95f
+
+**Prompt:**
+
+```
+Omnizoom — diving into a photo.
+```
+
+> Source: [Original Tweet](https://x.com/alexanderchen/status/2058330610574221672)
 
 ### 🎬 Action & Sync
 
@@ -539,6 +592,20 @@ https://github.com/user-attachments/assets/44c120a2-38a7-43d7-89fa-a23d0842078c
 Edit this keeping everything the same. Add animated motion effects coming out of the skateboard.
 ```
 
+---
+
+**Case 3: AR HUD Overlay (by [@jerrod_lew](https://x.com/jerrod_lew))** `🎬 Video→Video`
+
+https://github.com/user-attachments/assets/04b11cd7-d345-4172-b6e5-38301e73bb77
+
+**Prompt:**
+
+```
+Create a virtual HUD and UI overlay for this recorded phone video, like an AR glasses experience with secondary screens.
+```
+
+> Source: [Original Tweet](https://x.com/jerrod_lew/status/2058337271947079977)
+
 ### 🔗 Cross-Modal
 
 **Case 1: Transport to New Environment** `🎬+🖼️ Video+Image→Video`
@@ -618,6 +685,77 @@ GPT image2でスライド作成 → Gemini Omniでモーション。画面遷移
 ```
 
 > Source: [Original Tweet](https://x.com/yoshifujidesign/status/2058032203175731293)
+
+---
+
+**Case 4: Isometric Cooking Character with Reference Image (by [@kumiko_shiraki](https://x.com/kumiko_shiraki))** `🖼️ Image→Video`
+
+https://github.com/user-attachments/assets/d5e9b97e-cefa-4cd8-bf70-4e633020f092
+
+**Prompt:**
+
+```
+Narrow down reference images and add negative prompts to get closer to your ideal output.
+```
+
+> Technique: When the generated video doesn't match your vision, (1) narrow down reference images, and (2) add negative prompts to suppress unwanted elements.
+
+> Source: [Original Tweet](https://x.com/kumiko_shiraki/status/2058337185099546885)
+
+---
+
+**Case 5: ChatGPT Instruction Image as Input (by [@Majin_AppSheet](https://x.com/Majin_AppSheet))** `🖼️ Image→Video`
+
+<table>
+<tr>
+<td width="300">
+
+**Input (instruction images from ChatGPT):**
+
+<img src="image/049_majin_appsheet_instruction_image_photo_0.jpg" width="280">
+
+</td>
+<td width="300">
+
+**Output:**
+
+https://github.com/user-attachments/assets/578d6968-c6dd-417a-b6fe-100468851f3d
+
+</td>
+</tr>
+</table>
+
+> Workflow: Generate instruction/storyboard images in ChatGPT, then feed them directly to Gemini Omni as visual prompts.
+
+> Source: [Original Tweet](https://x.com/Majin_AppSheet/status/2058191091070058846)
+
+---
+
+**Case 6: ChatGPT Illustration to Omni Animation (by [@mmmiyama_D](https://x.com/mmmiyama_D))** `🖼️ Image→Video`
+
+<table>
+<tr>
+<td width="280">
+
+https://github.com/user-attachments/assets/5759f07e-6b2a-4b7d-bb36-52e960a6559e
+
+</td>
+<td width="280">
+
+https://github.com/user-attachments/assets/b4fea213-9a0e-46c9-8a6e-9e98b566ffab
+
+</td>
+<td width="280">
+
+https://github.com/user-attachments/assets/289e5378-60ad-472b-ba51-da710da81270
+
+</td>
+</tr>
+</table>
+
+> Workflow: Generate illustration diagrams with ChatGPT image generation → animate them with Gemini Omni. Text rendering can be improved by adding specific prompts to suppress text corruption.
+
+> Source: [Original Tweet](https://x.com/mmmiyama_D/status/2058654389326516656)
 
 ### 📋 Storyboard
 
@@ -787,6 +925,90 @@ https://github.com/user-attachments/assets/a9adf476-fac9-4ea2-b5ea-90a50192ccfb
 
 > Source: [Original Tweet](https://x.com/kenichiota0711/status/2057820346850660769)
 
+## 🌐 Community Gallery
+
+Creative experiments and showcases from the community. These cases demonstrate the breadth of what's possible with Gemini Omni.
+
+---
+
+**Concept-Driven Educational Video (by [@VORTEX_Promos](https://x.com/VORTEX_Promos))**
+
+https://github.com/user-attachments/assets/ca450aec-a6c8-455f-973d-087bfb3da742
+
+> You don't need to spell out every step — it's enough to formulate the concept of the video. It independently finds the theory, descriptions of objects and details, visualizes them, and adds text.
+
+> Source: [Original Tweet](https://x.com/VORTEX_Promos/status/2058083405204459621)
+
+---
+
+**Showcase (by [@paji_a](https://x.com/paji_a))**
+
+https://github.com/user-attachments/assets/8ecfe4b0-6de7-47f0-9b83-3dc736512e54
+
+> Source: [Original Tweet](https://x.com/paji_a/status/2058070248436445600)
+
+---
+
+**Nano Banana for Video — Consistency Test (by [@WolfRiccardo](https://x.com/WolfRiccardo))**
+
+https://github.com/user-attachments/assets/0cabc195-8a2b-47e6-a649-d95b15003964
+
+> Simple, consistent and extremely successful. "Nano Banana for video."
+
+> Source: [Original Tweet](https://x.com/WolfRiccardo/status/2058296266270945483)
+
+---
+
+**Presenting Isometric Character (by [@kumiko_shiraki](https://x.com/kumiko_shiraki))**
+
+https://github.com/user-attachments/assets/d38627cd-6f23-4ea3-8a95-7cd831229364
+
+> Source: [Original Tweet](https://x.com/kumiko_shiraki/status/2058699566938194382)
+
+---
+
+**One-Sentence Cinematic Zen (by [@Dheepanratnam](https://x.com/Dheepanratnam))**
+
+https://github.com/user-attachments/assets/d33d9c9d-a68f-4e01-bf1e-c4c8ee60c8ee
+
+**Prompt:**
+
+```
+Create a 30 second motivational video by an anthropomorphic Himalayan monk cat yogi
+```
+
+> No character sheet. No detailed shot list. No editing tricks. One sentence generated 3 perfect 10-second scenes with flawless consistency.
+
+> Source: [Original Tweet](https://x.com/Dheepanratnam/status/2058372209681342806)
+
+---
+
+**Character Transformation — Glamorous to Everyday (by [@HBCoop_](https://x.com/HBCoop_))**
+
+https://github.com/user-attachments/assets/239ca343-cb71-4254-8478-d8947d6c33aa
+
+> Changing a glamorous character into an everyday worker.
+
+> Source: [Original Tweet](https://x.com/HBCoop_/status/2058221428780970398)
+
+---
+
+**Waymo to India (by [@iHarnoorSingh](https://x.com/iHarnoorSingh))**
+
+https://github.com/user-attachments/assets/7d23ad1f-63bf-4a3c-ab94-09e8f26c570e
+
+> Took a Waymo ride video and transported it to India using Gemini Omni.
+
+> Source: [Original Tweet](https://x.com/iHarnoorSingh/status/2058352557819621617)
+
+---
+
+**The Letter Never Sent — Short Film (by [@Strength04_X](https://x.com/Strength04_X))**
+
+https://github.com/user-attachments/assets/df8dcb7c-c918-4fc2-b952-0cb2bcdddfee
+
+> Source: [Original Tweet](https://x.com/Strength04_X/status/2058367252299452851)
+
 ## 🙏 Acknowledge
 
 This repository was inspired by excellent open prompt collections and community-shared examples.
@@ -795,7 +1017,7 @@ Thanks to Google DeepMind for publishing official Gemini Omni demos and prompt g
 
 **Community Contributors:**
 
-[@emollick](https://x.com/emollick), [@jerrod_lew](https://x.com/jerrod_lew), [@arrakis_ai](https://x.com/arrakis_ai), [@npaka123](https://x.com/npaka123), [@yoshifujidesign](https://x.com/yoshifujidesign), [@chrisfirst](https://x.com/chrisfirst), [@DenneyDara](https://x.com/DenneyDara), [@ZaraIrahh](https://x.com/ZaraIrahh), [@alexanderchen](https://x.com/alexanderchen), [@ariaxawan](https://x.com/ariaxawan), [@RuzainaMeer](https://x.com/RuzainaMeer), [@aiwithaly](https://x.com/aiwithaly), [@HBCoop_](https://x.com/HBCoop_), [@JSFILMZ0412](https://x.com/JSFILMZ0412), [@CuriousRefuge](https://x.com/CuriousRefuge), [@kenichiota0711](https://x.com/kenichiota0711)
+[@emollick](https://x.com/emollick), [@jerrod_lew](https://x.com/jerrod_lew), [@arrakis_ai](https://x.com/arrakis_ai), [@npaka123](https://x.com/npaka123), [@yoshifujidesign](https://x.com/yoshifujidesign), [@chrisfirst](https://x.com/chrisfirst), [@DenneyDara](https://x.com/DenneyDara), [@ZaraIrahh](https://x.com/ZaraIrahh), [@alexanderchen](https://x.com/alexanderchen), [@ariaxawan](https://x.com/ariaxawan), [@RuzainaMeer](https://x.com/RuzainaMeer), [@aiwithaly](https://x.com/aiwithaly), [@HBCoop_](https://x.com/HBCoop_), [@JSFILMZ0412](https://x.com/JSFILMZ0412), [@CuriousRefuge](https://x.com/CuriousRefuge), [@kenichiota0711](https://x.com/kenichiota0711), [@tanabe_fragm](https://x.com/tanabe_fragm), [@venturetwins](https://x.com/venturetwins), [@kumiko_shiraki](https://x.com/kumiko_shiraki), [@Majin_AppSheet](https://x.com/Majin_AppSheet), [@mmmiyama_D](https://x.com/mmmiyama_D), [@VORTEX_Promos](https://x.com/VORTEX_Promos), [@paji_a](https://x.com/paji_a), [@WolfRiccardo](https://x.com/WolfRiccardo), [@Dheepanratnam](https://x.com/Dheepanratnam), [@iHarnoorSingh](https://x.com/iHarnoorSingh), [@Strength04_X](https://x.com/Strength04_X)
 
 *If anything needs to be corrected, please contact us and we will update it.*
 
