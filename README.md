@@ -66,11 +66,9 @@ When creating a new video from scratch, mix these dimensions to control the outp
 > **Iterative Editing:** Omni supports multi-turn conversation editing. It preserves what works and only modifies what you ask — no need to re-describe the entire scene each time. Just say what to change next.
 
 > [!TIP]
-> **Preserve Unchanged Areas (by [@tanabe_fragm](https://x.com/tanabe_fragm)):** When editing video, add phrases like "Don't change anything else" or "Keep everything else the same" to your prompt. This significantly reduces unwanted changes to parts of the video you didn't intend to modify.
+> **[Preserve Unchanged Areas](https://x.com/tanabe_fragm/status/2058103447006896406) (by [@tanabe_fragm](https://x.com/tanabe_fragm)):** When editing video, add phrases like "Don't change anything else" or "Keep everything else the same" to your prompt. This significantly reduces unwanted changes to parts of the video you didn't intend to modify.
 >
 > https://github.com/user-attachments/assets/285ee7d8-7dfe-4304-a9a4-648026073b80
->
-> Source: [Original Tweet](https://x.com/tanabe_fragm/status/2058103447006896406)
 
 ## ✂️ Edit
 
@@ -187,7 +185,7 @@ Case 5: Change the small ships to stingrays.
 
 ---
 
-**Case 6: Train 1896 Transform (by [@emollick](https://x.com/emollick))** `🎬 Video→Video`
+**Case 6: [Train 1896 Transform](https://x.com/emollick/status/2057874739817808223) (by [@emollick](https://x.com/emollick))** `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/275cc90e-adaa-48ff-9ff8-1e96ea29d44f
 
@@ -197,11 +195,9 @@ https://github.com/user-attachments/assets/275cc90e-adaa-48ff-9ff8-1e96ea29d44f
 I took the famous "train" movie from 1896 & made it a bullet train, LEGO, added a time traveler, a centipede, muppets...
 ```
 
-> Source: [Original Tweet](https://x.com/emollick/status/2057874739817808223)
-
 ---
 
-**Case 7: Remove Person from Video (by [@arrakis_ai](https://x.com/arrakis_ai))** `🎬 Video→Video`
+**Case 7: [Remove Person from Video](https://x.com/arrakis_ai/status/2057939231755178439) (by [@arrakis_ai](https://x.com/arrakis_ai))** `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/72379fb2-ac30-4d1e-a6b4-143052f8f061
 
@@ -210,8 +206,6 @@ https://github.com/user-attachments/assets/72379fb2-ac30-4d1e-a6b4-143052f8f061
 ```
 Remove the person from this video perfectly.
 ```
-
-> Source: [Original Tweet](https://x.com/arrakis_ai/status/2057939231755178439)
 
 ---
 
@@ -244,7 +238,7 @@ Make the violin invisible
 
 ---
 
-**Case 9: Location Change via World Knowledge (by [@venturetwins](https://x.com/venturetwins))** `🎬 Video→Video`
+**Case 9: [Location Change via World Knowledge](https://x.com/venturetwins/status/2058235415883313361) (by [@venturetwins](https://x.com/venturetwins))** `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/daa90750-fc7b-49ea-b85d-364411159663
 
@@ -256,11 +250,9 @@ Re-shoot this video in [location] based on the screenshot from Google Maps.
 
 > Uploaded a Waymo ride video, then asked Omni to re-shoot in different locations using Google Maps screenshots. The model leverages its world knowledge to seamlessly change environments.
 
-> Source: [Original Tweet](https://x.com/venturetwins/status/2058235415883313361)
-
 ---
 
-**Case 10: Animation to Live Action (by [@arrakis_ai](https://x.com/arrakis_ai))** `🎬 Video→Video`
+**Case 10: [Animation to Live Action](https://x.com/arrakis_ai/status/2058488373057302797) (by [@arrakis_ai](https://x.com/arrakis_ai))** `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/3c6be2a9-3e67-4deb-8ccd-fb493b715f65
 
@@ -269,8 +261,6 @@ https://github.com/user-attachments/assets/3c6be2a9-3e67-4deb-8ccd-fb493b715f65
 ```
 Turn this animation into live action.
 ```
-
-> Source: [Original Tweet](https://x.com/arrakis_ai/status/2058488373057302797)
 
 ### 🎬 Base Scene
 
@@ -344,7 +334,7 @@ Change the camera angle, a close-up on his shoes, quickly tilting up to medium s
 
 ---
 
-**Case 3: Travel Selfie Hyperlapse (by [@ZaraIrahh](https://x.com/ZaraIrahh))** `🔤 Text→Video`
+**Case 3: [Travel Selfie Hyperlapse](https://x.com/ZaraIrahh/status/2057775215749349520) (by [@ZaraIrahh](https://x.com/ZaraIrahh))** `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/31fa5a56-6113-4376-873b-5e40d26803f1
 
@@ -354,11 +344,9 @@ https://github.com/user-attachments/assets/31fa5a56-6113-4376-873b-5e40d26803f1
 Create a 10-second cinematic hyper-lapse selfie travel video of the uploaded female character across 20 world-famous destinations in 2026. Hard cuts every 0.5 seconds synced to the beat. Handheld selfie-stick camera, wide-angle lens, close selfie framing, energetic travel-vlogger style, vibrant cinematic colors, realistic lighting, dynamic motion blur, natural crowds, and clear landmarks in every shot.
 ```
 
-> Source: [Original Tweet](https://x.com/ZaraIrahh/status/2057775215749349520)
-
 ---
 
-**Case 4: Fashion Drone Shot (by [@ariaxawan](https://x.com/ariaxawan))** `🔤 Text→Video`
+**Case 4: [Fashion Drone Shot](https://x.com/ariaxawan/status/2057794715744084042) (by [@ariaxawan](https://x.com/ariaxawan))** `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/b199a5ab-e008-4a72-aa03-094bc6d573e6
 
@@ -368,11 +356,9 @@ https://github.com/user-attachments/assets/b199a5ab-e008-4a72-aa03-094bc6d573e6
 A 10 second ultra cinematic hyper realistic FPV fashion drone shot filmed in a single continuous take inside a futuristic luxury tunnel. Single continuous take, aggressive FPV motion, ultra smooth cinematic flight path, luxury high-fashion editorial atmosphere.
 ```
 
-> Source: [Original Tweet](https://x.com/ariaxawan/status/2057794715744084042)
-
 ---
 
-**Case 5: Top View to 360 Rotation (by [@npaka123](https://x.com/npaka123))** `🖼️ Image→Video`
+**Case 5: [Top View to 360 Rotation](https://x.com/npaka123/status/2058033145845575735) (by [@npaka123](https://x.com/npaka123))** `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
 
@@ -382,11 +368,9 @@ https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
 この教室の中央から黒板を見ているファーストパーソンなゲーム視点。360度カメラを回転。教室の黒板右側の窓の外は廊下、黒板左側の窓の外は校庭。
 ```
 
-> Source: [Original Tweet](https://x.com/npaka123/status/2058033145845575735)
-
 ---
 
-**Case 6: Omnizoom — Diving Into a Photo (by [@alexanderchen](https://x.com/alexanderchen))** `🖼️ Image→Video`
+**Case 6: [Omnizoom — Diving Into a Photo](https://x.com/alexanderchen/status/2058330610574221672) (by [@alexanderchen](https://x.com/alexanderchen))** `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/9fd3ad2a-6e4a-4ac0-ab29-48f1c303b95f
 
@@ -395,8 +379,6 @@ https://github.com/user-attachments/assets/9fd3ad2a-6e4a-4ac0-ab29-48f1c303b95f
 ```
 Omnizoom — diving into a photo.
 ```
-
-> Source: [Original Tweet](https://x.com/alexanderchen/status/2058330610574221672)
 
 ### 🎬 Action & Sync
 
@@ -482,7 +464,7 @@ The lights of the buildings start turning on in sync with the music.
 
 ---
 
-**Case 5: Boxing Fight Realistic (by [@RuzainaMeer](https://x.com/RuzainaMeer))** `🔤 Text→Video`
+**Case 5: [Boxing Fight Realistic](https://x.com/RuzainaMeer/status/2057785474446741728) (by [@RuzainaMeer](https://x.com/RuzainaMeer))** `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/6796bf78-8bad-441c-889d-30621ee62cd7
 
@@ -491,8 +473,6 @@ https://github.com/user-attachments/assets/6796bf78-8bad-441c-889d-30621ee62cd7
 ```
 Ultra-realistic 10-second boxing fight between two women inside a small underground gym. Both fighters look naturally athletic with realistic skin texture, sweat, bruises, and detailed facial expressions. The fight feels raw and authentic, like real professional sparring footage. The camera moves handheld around the ring at close range, capturing fast punches, defensive movement, realistic footwork, and heavy breathing.
 ```
-
-> Source: [Original Tweet](https://x.com/RuzainaMeer/status/2057785474446741728)
 
 ## 🎨 Advanced Multi-Modal
 
@@ -542,7 +522,7 @@ Case 3: When the person touches the mirror, the person suddenly transforms into 
 
 ---
 
-**Case 4: Animation Ads One Shot (by [@DenneyDara](https://x.com/DenneyDara))** `🔤 Text→Video`
+**Case 4: [Animation Ads One Shot](https://x.com/DenneyDara/status/2057844409639551380) (by [@DenneyDara](https://x.com/DenneyDara))** `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/edacf1c5-94db-4687-8eaa-f87ebf5fabee
 
@@ -552,11 +532,9 @@ https://github.com/user-attachments/assets/edacf1c5-94db-4687-8eaa-f87ebf5fabee
 Make a Pixar-style video of an aloe leaf that is walking through the forest that talks about how good nature makes it feel. Have it say, "Organic and healthy ingredients make me feel so good."
 ```
 
-> Source: [Original Tweet](https://x.com/DenneyDara/status/2057844409639551380)
-
 ---
 
-**Case 5: Line Drawing Isolation (by [@alexanderchen](https://x.com/alexanderchen))** `🎬 Video→Video`
+**Case 5: [Line Drawing Isolation](https://x.com/alexanderchen/status/2057925025915666673) (by [@alexanderchen](https://x.com/alexanderchen))** `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/787813c0-2e20-4999-8383-fd76a9b21f91
 
@@ -565,8 +543,6 @@ https://github.com/user-attachments/assets/787813c0-2e20-4999-8383-fd76a9b21f91
 ```
 Extract the key object in this video. Render a video showing that object as a black diagram-style line art drawing on solid 100% white background, nothing else in background. Keep the motion and sound exactly as is.
 ```
-
-> Source: [Original Tweet](https://x.com/alexanderchen/status/2057925025915666673)
 
 ### ✨ Visual Effects
 
@@ -594,7 +570,7 @@ Edit this keeping everything the same. Add animated motion effects coming out of
 
 ---
 
-**Case 3: AR HUD Overlay (by [@jerrod_lew](https://x.com/jerrod_lew))** `🎬 Video→Video`
+**Case 3: [AR HUD Overlay](https://x.com/jerrod_lew/status/2058337271947079977) (by [@jerrod_lew](https://x.com/jerrod_lew))** `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/04b11cd7-d345-4172-b6e5-38301e73bb77
 
@@ -603,8 +579,6 @@ https://github.com/user-attachments/assets/04b11cd7-d345-4172-b6e5-38301e73bb77
 ```
 Create a virtual HUD and UI overlay for this recorded phone video, like an AR glasses experience with secondary screens.
 ```
-
-> Source: [Original Tweet](https://x.com/jerrod_lew/status/2058337271947079977)
 
 ### 🔗 Cross-Modal
 
@@ -674,7 +648,7 @@ The birds from <video> loosely form the imperfect shape of a bird based on <imag
 
 ---
 
-**Case 3: Slide to Motion (by [@yoshifujidesign](https://x.com/yoshifujidesign))** `🖼️ Image→Video`
+**Case 3: [Slide to Motion](https://x.com/yoshifujidesign/status/2058032203175731293) (by [@yoshifujidesign](https://x.com/yoshifujidesign))** `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/f07a861b-cd0d-4894-8ef1-b74520c7cbd7
 
@@ -684,11 +658,9 @@ https://github.com/user-attachments/assets/f07a861b-cd0d-4894-8ef1-b74520c7cbd7
 GPT image2でスライド作成 → Gemini Omniでモーション。画面遷移もさせられるし、イラストの動かし方も自然。
 ```
 
-> Source: [Original Tweet](https://x.com/yoshifujidesign/status/2058032203175731293)
-
 ---
 
-**Case 4: Isometric Cooking Character with Reference Image (by [@kumiko_shiraki](https://x.com/kumiko_shiraki))** `🖼️ Image→Video`
+**Case 4: [Isometric Cooking Character with Reference Image](https://x.com/kumiko_shiraki/status/2058337185099546885) (by [@kumiko_shiraki](https://x.com/kumiko_shiraki))** `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/d5e9b97e-cefa-4cd8-bf70-4e633020f092
 
@@ -700,11 +672,9 @@ Narrow down reference images and add negative prompts to get closer to your idea
 
 > Technique: When the generated video doesn't match your vision, (1) narrow down reference images, and (2) add negative prompts to suppress unwanted elements.
 
-> Source: [Original Tweet](https://x.com/kumiko_shiraki/status/2058337185099546885)
-
 ---
 
-**Case 5: ChatGPT Instruction Image as Input (by [@Majin_AppSheet](https://x.com/Majin_AppSheet))** `🖼️ Image→Video`
+**Case 5: [ChatGPT Instruction Image as Input](https://x.com/Majin_AppSheet/status/2058191091070058846) (by [@Majin_AppSheet](https://x.com/Majin_AppSheet))** `🖼️ Image→Video`
 
 <table>
 <tr>
@@ -727,11 +697,9 @@ https://github.com/user-attachments/assets/578d6968-c6dd-417a-b6fe-100468851f3d
 
 > Workflow: Generate instruction/storyboard images in ChatGPT, then feed them directly to Gemini Omni as visual prompts.
 
-> Source: [Original Tweet](https://x.com/Majin_AppSheet/status/2058191091070058846)
-
 ---
 
-**Case 6: ChatGPT Illustration to Omni Animation (by [@mmmiyama_D](https://x.com/mmmiyama_D))** `🖼️ Image→Video`
+**Case 6: [ChatGPT Illustration to Omni Animation](https://x.com/mmmiyama_D/status/2058654389326516656) (by [@mmmiyama_D](https://x.com/mmmiyama_D))** `🖼️ Image→Video`
 
 <table>
 <tr>
@@ -755,11 +723,9 @@ https://github.com/user-attachments/assets/289e5378-60ad-472b-ba51-da710da81270
 
 > Workflow: Generate illustration diagrams with ChatGPT image generation → animate them with Gemini Omni. Text rendering can be improved by adding specific prompts to suppress text corruption.
 
-> Source: [Original Tweet](https://x.com/mmmiyama_D/status/2058654389326516656)
-
 ### 📋 Storyboard
 
-**Case 1: Luxury Cosmetic Commercial (by [@aiwithaly](https://x.com/aiwithaly))** `🔤 Text→Video`
+**Case 1: [Luxury Cosmetic Commercial](https://x.com/aiwithaly/status/2057806821138858314) (by [@aiwithaly](https://x.com/aiwithaly))** `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/6d003859-eb77-4466-9f70-5a76a2269667
 
@@ -768,8 +734,6 @@ https://github.com/user-attachments/assets/6d003859-eb77-4466-9f70-5a76a2269667
 ```
 Create a cinematic 10-second ultra-realistic luxury cosmetic commercial in a high-end skincare advertisement style. Use warm champagne lighting, glossy beauty-film aesthetic, shallow depth of field, macro beauty cinematography, smooth cinematic camera movement. 10 scenes from macro serum droplets to final payoff shot.
 ```
-
-> Source: [Original Tweet](https://x.com/aiwithaly/status/2057806821138858314)
 
 ---
 
@@ -803,7 +767,7 @@ Show me in this story. Follow the story exactly in order starting top left. Enti
 
 ---
 
-**Case 3: 3x3 Split Screen (by [@alexanderchen](https://x.com/alexanderchen))** `🎬 Video→Video`
+**Case 3: [3x3 Split Screen](https://x.com/alexanderchen/status/2057861567396368841) (by [@alexanderchen](https://x.com/alexanderchen))** `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/587fc95e-526f-4d8d-94c8-feefe34edba9
 
@@ -813,11 +777,9 @@ https://github.com/user-attachments/assets/587fc95e-526f-4d8d-94c8-feefe34edba9
 Generate a 3x3 split screen video based on different details you see here. Make each cell different, varying the perspective, composition, zoom, angle, camera movement (some static, some moving). Make some of the cells extreme close-ups with detailed textures. Keep it photorealistic, handheld, raw. Only natural sounds.
 ```
 
-> Source: [Original Tweet](https://x.com/alexanderchen/status/2057861567396368841)
-
 ---
 
-**Case 4: Action Replay from Different Angles (by [@jerrod_lew](https://x.com/jerrod_lew))** `🎬 Video→Video`
+**Case 4: [Action Replay from Different Angles](https://x.com/jerrod_lew/status/2057838324140953773) (by [@jerrod_lew](https://x.com/jerrod_lew))** `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/a1179492-74bd-488c-b594-6bc023269c10
 
@@ -827,11 +789,9 @@ https://github.com/user-attachments/assets/a1179492-74bd-488c-b594-6bc023269c10
 Gemini Omni can create action replays from different angles. I referenced a video clip with agent instructions to generate replays.
 ```
 
-> Source: [Original Tweet](https://x.com/jerrod_lew/status/2057838324140953773)
-
 ---
 
-**Case 5: Split Screen Video (by [@jerrod_lew](https://x.com/jerrod_lew))** `🎬 Video→Video`
+**Case 5: [Split Screen Video](https://x.com/jerrod_lew/status/2057944349846249975) (by [@jerrod_lew](https://x.com/jerrod_lew))** `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/8755d95d-a9b2-4f7c-a56d-bfbbcc47f80e
 
@@ -840,8 +800,6 @@ https://github.com/user-attachments/assets/8755d95d-a9b2-4f7c-a56d-bfbbcc47f80e
 ```
 Use a reference video and ask the agent for a split screen video.
 ```
-
-> Source: [Original Tweet](https://x.com/jerrod_lew/status/2057944349846249975)
 
 ### 🔤 Text Rendering
 
@@ -869,7 +827,7 @@ word by word, one word on the screen at a time: did, you, know, that, this, mode
 
 ---
 
-**Case 3: Text Rendering AI News (by [@chrisfirst](https://x.com/chrisfirst))** `🔤 Text→Video`
+**Case 3: [Text Rendering AI News](https://x.com/chrisfirst/status/2057863432469361098) (by [@chrisfirst](https://x.com/chrisfirst))** `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/e7d23502-1ca0-4f47-be76-47ff05390508
 
@@ -879,11 +837,9 @@ https://github.com/user-attachments/assets/e7d23502-1ca0-4f47-be76-47ff05390508
 Static shot we see them turn the page 3 times. Every flip we see content on both left and right side of book pages. Each contains a big news story around AI for the year of 2025. Include images and crystal clear text.
 ```
 
-> Source: [Original Tweet](https://x.com/chrisfirst/status/2057863432469361098)
-
 ---
 
-**Case 4: Font Fashion Show (by [@HBCoop_](https://x.com/HBCoop_))** `🔤 Text→Video`
+**Case 4: [Font Fashion Show](https://x.com/HBCoop_/status/2057856570558452142) (by [@HBCoop_](https://x.com/HBCoop_))** `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/395d767c-7d8e-4367-941b-0190da9a0284
 
@@ -893,37 +849,29 @@ https://github.com/user-attachments/assets/395d767c-7d8e-4367-941b-0190da9a0284
 Create a 10-second avant-garde fashion editorial where every outfit is inspired by a specific Google Font personality. Each second introduces a new model styled around fonts like Playfair Display, Bebas Neue, Orbitron, Pacifico, Rubik Mono One, and Cormorant Garamond. Font names appear integrated into the environment using their exact typography style. High-fashion runway cinematography with bold lighting, mirrored sets, and surreal motion.
 ```
 
-> Source: [Original Tweet](https://x.com/HBCoop_/status/2057856570558452142)
-
 ## ⚖️ Comparison
 
-**Case 1: Seedance 2.0 vs Gemini Omni Flash (by [@JSFILMZ0412](https://x.com/JSFILMZ0412))** `⚖️ Comparison`
+**Case 1: [Seedance 2.0 vs Gemini Omni Flash](https://x.com/JSFILMZ0412/status/2057926749598736635) (by [@JSFILMZ0412](https://x.com/JSFILMZ0412))** `⚖️ Comparison`
 
 https://github.com/user-attachments/assets/a03e70b5-99c0-4ad8-b26b-9aed6e037f02
 
 > Seedance 2.0 Fast vs Gemini Omni Flash — style transfer, motion quality, and censorship comparison.
 
-> Source: [Original Tweet](https://x.com/JSFILMZ0412/status/2057926749598736635)
-
 ---
 
-**Case 2: Gemini Omni vs Seedance 2.0 Action Scenes (by [@CuriousRefuge](https://x.com/CuriousRefuge))** `⚖️ Comparison`
+**Case 2: [Gemini Omni vs Seedance 2.0 Action Scenes](https://x.com/CuriousRefuge/status/2057929340562907451) (by [@CuriousRefuge](https://x.com/CuriousRefuge))** `⚖️ Comparison`
 
 https://github.com/user-attachments/assets/33e09b7d-2357-481d-8536-dab39e75524b
 
 > Gemini Omni video editing model vs Seedance 2.0 — big action scenes comparison.
 
-> Source: [Original Tweet](https://x.com/CuriousRefuge/status/2057929340562907451)
-
 ## 🧪 Evaluation
 
-**Case 1: Gemini Omni Quality Evaluation (by [@kenichiota0711](https://x.com/kenichiota0711))** `🧪 Evaluation`
+**Case 1: [Gemini Omni Quality Evaluation](https://x.com/kenichiota0711/status/2057820346850660769) (by [@kenichiota0711](https://x.com/kenichiota0711))** `🧪 Evaluation`
 
 https://github.com/user-attachments/assets/a9adf476-fac9-4ea2-b5ea-90a50192ccfb
 
 > ほぼ理想的なアウトプットで感動。わずかに揺れる花と髪、まばたきの表現、ノートに書く動作の滑らかさ。
-
-> Source: [Original Tweet](https://x.com/kenichiota0711/status/2057820346850660769)
 
 ## 🌐 Community Gallery
 
@@ -933,82 +881,64 @@ Creative experiments and showcases from the community. These cases demonstrate t
 <tr>
 <td width="50%" valign="top">
 
-**Concept-Driven Educational Video** — by [@VORTEX_Promos](https://x.com/VORTEX_Promos)
+**[Concept-Driven Educational Video](https://x.com/VORTEX_Promos/status/2058083405204459621)** — by [@VORTEX_Promos](https://x.com/VORTEX_Promos)
 
 https://github.com/user-attachments/assets/ca450aec-a6c8-455f-973d-087bfb3da742
 
-> You don't need to spell out every step — it's enough to formulate the concept of the video. It independently finds the theory, descriptions of objects and details, visualizes them, and adds text. · [Source](https://x.com/VORTEX_Promos/status/2058083405204459621)
-
 </td>
 <td width="50%" valign="top">
 
-**Showcase** — by [@paji_a](https://x.com/paji_a)
+**[Showcase](https://x.com/paji_a/status/2058070248436445600)** — by [@paji_a](https://x.com/paji_a)
 
 https://github.com/user-attachments/assets/8ecfe4b0-6de7-47f0-9b83-3dc736512e54
 
-> [Source](https://x.com/paji_a/status/2058070248436445600)
-
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**Nano Banana for Video — Consistency Test** — by [@WolfRiccardo](https://x.com/WolfRiccardo)
+**[Nano Banana for Video — Consistency Test](https://x.com/WolfRiccardo/status/2058296266270945483)** — by [@WolfRiccardo](https://x.com/WolfRiccardo)
 
 https://github.com/user-attachments/assets/0cabc195-8a2b-47e6-a649-d95b15003964
 
-> Simple, consistent and extremely successful. "Nano Banana for video." · [Source](https://x.com/WolfRiccardo/status/2058296266270945483)
-
 </td>
 <td width="50%" valign="top">
 
-**Presenting Isometric Character** — by [@kumiko_shiraki](https://x.com/kumiko_shiraki)
+**[Presenting Isometric Character](https://x.com/kumiko_shiraki/status/2058699566938194382)** — by [@kumiko_shiraki](https://x.com/kumiko_shiraki)
 
 https://github.com/user-attachments/assets/d38627cd-6f23-4ea3-8a95-7cd831229364
 
-> [Source](https://x.com/kumiko_shiraki/status/2058699566938194382)
-
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**One-Sentence Cinematic Zen** — by [@Dheepanratnam](https://x.com/Dheepanratnam)
+**[One-Sentence Cinematic Zen](https://x.com/Dheepanratnam/status/2058372209681342806)** — by [@Dheepanratnam](https://x.com/Dheepanratnam)
 
 https://github.com/user-attachments/assets/d33d9c9d-a68f-4e01-bf1e-c4c8ee60c8ee
 
-**Prompt:** `Create a 30 second motivational video by an anthropomorphic Himalayan monk cat yogi`
-
-> No character sheet. No detailed shot list. One sentence generated 3 perfect 10-second scenes with flawless consistency. · [Source](https://x.com/Dheepanratnam/status/2058372209681342806)
-
 </td>
 <td width="50%" valign="top">
 
-**Character Transformation — Glamorous to Everyday** — by [@HBCoop_](https://x.com/HBCoop_)
+**[Character Transformation — Glamorous to Everyday](https://x.com/HBCoop_/status/2058221428780970398)** — by [@HBCoop_](https://x.com/HBCoop_)
 
 https://github.com/user-attachments/assets/239ca343-cb71-4254-8478-d8947d6c33aa
-
-> Changing a glamorous character into an everyday worker. · [Source](https://x.com/HBCoop_/status/2058221428780970398)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**Waymo to India** — by [@iHarnoorSingh](https://x.com/iHarnoorSingh)
+**[Waymo to India](https://x.com/iHarnoorSingh/status/2058352557819621617)** — by [@iHarnoorSingh](https://x.com/iHarnoorSingh)
 
 https://github.com/user-attachments/assets/7d23ad1f-63bf-4a3c-ab94-09e8f26c570e
-
-> Took a Waymo ride video and transported it to India using Gemini Omni. · [Source](https://x.com/iHarnoorSingh/status/2058352557819621617)
 
 </td>
 <td width="50%" valign="top">
 
-**The Letter Never Sent — Short Film** — by [@Strength04_X](https://x.com/Strength04_X)
+**[The Letter Never Sent — Short Film](https://x.com/Strength04_X/status/2058367252299452851)** — by [@Strength04_X](https://x.com/Strength04_X)
 
 https://github.com/user-attachments/assets/df8dcb7c-c918-4fc2-b952-0cb2bcdddfee
-
-> [Source](https://x.com/Strength04_X/status/2058367252299452851)
 
 </td>
 </tr>
