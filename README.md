@@ -357,7 +357,7 @@ Change the camera angle to be over the violinist's shoulder.
 
 **Input:**
 
-https://github.com/user-attachments/assets/60f31f6d-895e-4048-b477-9a46a5d20b90
+https://github.com/user-attachments/assets/19dbc1ae-1e9e-4b7b-9069-e979fffe3651
 
 </td>
 <td width="300">
