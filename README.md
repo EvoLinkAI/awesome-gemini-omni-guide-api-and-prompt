@@ -29,11 +29,6 @@ If you find this useful, consider giving it a star. ⭐
 > [!NOTE]
 > This repository focuses on reusable prompt patterns and reference cases for Gemini Omni video generation on Evolink.
 
-## 📰 News
-- **May 25, 2026:** Added 16 new community cases + new Community Gallery section
-- **May 23, 2026:** Added 10 community showcase cases from trending tweets
-- **May 22, 2026:** First repository update with 25 curated Gemini Omni prompts
-
 ## 📑 Menu
 - [🎯 Prompt Ingredients](#-prompt-ingredients)
 - [✂️ Edit](#️-edit)
