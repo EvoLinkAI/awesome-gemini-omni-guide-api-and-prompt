@@ -20,6 +20,32 @@
 
 </div>
 
+## EvoLink Quick Start
+
+Turn a Gemini Omni prompt pattern into a video generation task:
+
+- [Open the Gemini Omni model page](https://evolink.ai/gemini-omni?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-api-and-prompt)
+- [Read EvoLink API docs](https://docs.evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-api-and-prompt)
+- [Get your EvoLink API key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-api-and-prompt)
+- [Browse AI video model examples](https://github.com/EvoLinkAI/awesome-ai-video-models-api-guide)
+- [Install the EvoLink Media MCP server](https://github.com/EvoLinkAI/evolink-media-mcp)
+
+```bash
+export EVOLINK_API_KEY="your_key_here"
+
+curl --request POST \
+  --url https://api.evolink.ai/v1/videos/generations \
+  --header "Authorization: Bearer ${EVOLINK_API_KEY}" \
+  --header 'Content-Type: application/json' \
+  --data '{
+    "model": "gemini-omni",
+    "prompt": "A cinematic product transformation shot with precise camera motion, realistic lighting, and clear visual continuity",
+    "duration": 5,
+    "quality": "720p",
+    "aspect_ratio": "16:9"
+  }'
+```
+
 ## 🍌 Introduction
 Welcome to the Gemini Omni API and Prompts repository! 🤗
 **We collect high-quality prompts and video examples for Google Gemini Omni across a wide range of creative tasks including transform, motion, camera control, text sequences, and multi-input workflows.**
