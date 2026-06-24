@@ -29,6 +29,7 @@ Turn a Gemini Omni prompt pattern into a video generation task:
   <a href="https://docs.evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-api-and-prompt"><strong>Docs</strong></a> &nbsp;·&nbsp;
   <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-api-and-prompt"><strong>API Key</strong></a> &nbsp;·&nbsp;
   <a href="https://github.com/EvoLinkAI/awesome-ai-video-models-api-guide"><strong>Video Models</strong></a> &nbsp;·&nbsp;
+  <a href="https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-api-and-prompt"><strong>Seedance 2.5 Early Access</strong></a> &nbsp;·&nbsp;
   <a href="https://github.com/EvoLinkAI/evolink-media-mcp"><strong>Media MCP</strong></a>
 </p>
 
