@@ -1,40 +1,66 @@
 <div align="center">
 
-<a href="https://evolink.ai/gemini-omni?utm_source=github&utm_medium=banner&utm_campaign=awesome-gemini-omni"><img src="image/logo.png" alt="awesome-gemini-omni-api-and-prompt logo"></a>
+<a href="https://evolink.ai/gemini-omni?utm_source=github&utm_medium=banner&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=readme_banner"><img src="image/guide-banner.svg" width="760" alt="Gemini Omni 가이드 및 프롬프트 라이브러리"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/gemini-omni?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
-[![Model API](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
+[![Try Gemini Omni 1.2 Flash](https://img.shields.io/badge/Try_Gemini_Omni_1.2_Flash-EvoLink-black)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=badge&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=model_try)
 
-[![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
-[![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
-[![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md)
-[![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md)
-[![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md)
-[![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md)
-[![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md)
-[![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md)
-[![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md)
-[![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md)
-[![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
+[![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md) [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md) [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md) [![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md) [![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md) [![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md) [![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md) [![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md) [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md) [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md) [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
 </div>
 
-## 🍌 소개
-Gemini Omni API 및 프롬프트 저장소에 오신 것을 환영합니다! 🤗
-**변환, 모션, 카메라 제어, 텍스트 시퀀스, 멀티 입력 워크플로우 등 다양한 창작 작업을 위한 Google Gemini Omni의 고품질 프롬프트와 비디오 예제를 수집합니다.**
-이 저장소의 대부분의 사례는 DeepMind 공식 데모, 프롬프트 가이드 및 커뮤니티 실험에서 선별되었습니다.
-Evolink에서 체험하기: [Gemini Omni](https://evolink.ai/gemini-omni?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
-유용하다고 생각하시면 스타를 눌러주세요. ⭐
-> [!NOTE]
-> 이 저장소는 Evolink에서의 Gemini Omni 비디오 생성을 위한 재사용 가능한 프롬프트 패턴과 참고 사례에 중점을 둡니다.
+# Gemini Omni 1.2 Flash 가이드 및 프롬프트 라이브러리
 
-## 📰 뉴스
-- **2026년 5월 25일:** 16개의 새로운 커뮤니티 사례 + 새로운 커뮤니티 갤러리 섹션 추가
-- **2026년 5월 23일:** 트렌딩 트윗에서 커뮤니티 쇼케이스 사례 10개 추가
-- **2026년 5월 22일:** 엄선된 Gemini Omni 프롬프트 25개로 첫 저장소 업데이트
+## 🍌 소개
+**Gemini Omni 1.2 Flash 가이드와 함께, Gemini Omni 제품군의 프롬프트, 편집 데모, 비교, 커뮤니티 영상을 보존한 라이브러리입니다.** 크리에이터와 개발자가 작업을 선택하고 입력 및 출력 제한을 이해할 수 있도록 정리했습니다.
+
+> [!NOTE]
+> 기존 프롬프트 사례, 비교, 커뮤니티 갤러리는 과거 Gemini Omni 제품군에 관한 자료입니다. 원본 프롬프트, 출처, 미디어를 그대로 보존하며, 이를 Gemini Omni 1.2 Flash의 생성 결과나 벤치마크로 제시하지 않습니다.
+
+<a id="omni-1-2-guide"></a>
+## 🆕 Gemini Omni 1.2 Flash
+
+Google은 Gemini Omni 1.2 Flash를 **2026년 11월 5일** 출시한 GA 모델로 명시합니다. 1.1 대비 주요 변경 사항은 해당 경로에서 최대 **15초**까지 생성할 수 있다는 점과 **독립적인 영상 업스케일**입니다. [Google 모델 사양 읽기](https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/omni-1-2-flash), [EvoLink의 11월 5일 발표 읽기](https://evolink.ai/changelog?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=release_source#2026-11-05-gemini-omni-1-2-flash).
+
+- 텍스트, 이미지, 영상을 입력하고, 말소리·음악·효과음이 동기화된 영상을 출력합니다. 오디오 파일 입력과 소리 편집은 지원하지 않습니다.
+- 네이티브 출력은 **360p / 720p**입니다. **1080p / 4K는 업스케일 출력**이며 네이티브 4K가 아닙니다. 문서에 명시된 출력은 24 fps이며 화면비는 16:9 또는 9:16입니다.
+- 텍스트 기반 영상 생성과 첫 프레임 이미지 1장을 사용하는 생성은 **3~15초**를 지원합니다. 첫 프레임과 마지막 프레임 사이의 보간은 기존과 같이 **3~10초**입니다.
+- 영상 연장은 **3~10초**를 덧붙입니다. 이 값은 추가할 길이이며 완성된 영상 전체 길이가 아닙니다.
+
+### EvoLink 작업 선택
+
+각 작업 링크에서 해당 작업의 요청 사양을 확인할 수 있습니다. 경로를 변경하기 전에 [전체 매개변수 개요 읽기](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-overview?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=parameter_overview).
+
+| 작업 | 용도 | 경로별 제한 |
+| :--- | :--- | :--- |
+| [텍스트 기반 영상 생성 문서 읽기](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-text-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_text) | 텍스트 프롬프트로 장면을 생성합니다. | 3~15초. |
+| [이미지 기반 영상 생성 문서 읽기](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-image-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_image) | 첫 프레임 1장에 움직임을 주거나 첫 프레임과 마지막 프레임을 연결합니다. | 이미지 1장: 3~15초. 이미지 2장: 3~10초. |
+| [참조 기반 영상 생성 문서 읽기](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-reference-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_reference) | 이미지와 영상 참조 자료를 사용해 새 장면을 생성합니다. | 이미지 최대 10장과 참조 영상 최대 3개. 출력이 10초를 초과하면 참조 영상은 최대 1개. |
+| [영상 편집 문서 읽기](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-video-edit?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_edit) | 프롬프트로 기존 클립을 변경합니다. | 최대 15초의 입력 영상 1개. 참조 이미지는 선택 사항. 화질 기본값은 `auto`. |
+| [영상 연장 문서 읽기](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-video-extend?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_extend) | 클립 끝부분에서 이어지는 영상을 생성합니다. | 최대 30초의 입력 영상 1개. 3~10초 추가. |
+| [영상 업스케일 문서 읽기](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-video-upscale?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_upscale) | 선택한 완성 클립의 해상도를 높입니다. | 지원되는 표준 크기의 입력 영상, 최대 15초. 프롬프트 불필요. 아래의 플랫폼 간 차이를 확인하세요. |
+
+### 플랫폼 및 버전의 차이
+
+- **참조 자료:** [AI Studio 사용 가이드 읽기](https://aistudio.google.com/docs/omni). AI Studio는 이미지를 최대 6장까지 허용하지만 Google Cloud와 EvoLink 문서는 최대 10장으로 명시합니다. 참조 영상의 제한도 출력 길이에 따라 달라지므로 선택한 플랫폼의 사양을 따르세요.
+- **업스케일:** Google Cloud는 360p→720p/1080p와 720p→1080p/4K를 명시하며, 1080p→4K는 제외합니다. EvoLink 문서에는 1080p→4K도 기재되어 있습니다. 이 추가 조합은 선택한 플랫폼에서 확인하세요. 모든 플랫폼이 공통으로 보장하는 기능은 아닙니다. [Google 업스케일 제한 읽기](https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/video/upscale-videos).
+- **대화 상태:** Google의 Interactions API는 대화형 편집을 지원합니다. EvoLink의 비동기 영상 작업은 별도의 요청 사양을 사용하므로 `previous_interaction_id` 등 Google 전용 매개변수를 그대로 전달하지 마세요.
+- **마이그레이션:** [Google 모델 페이지 읽기](https://aistudio.google.com/docs/models/gemini-omni-flash). Gemini API의 1.1 stable ID는 2026년 12월 3일부터 1.2로 연결될 예정입니다. 이것이 EvoLink의 1.1 경로도 마이그레이션된다는 뜻은 아닙니다. 기존의 일반 ID를 별칭으로 취급하지 말고 명시적인 1.2 작업을 선택하세요.
+- **비용:** EvoLink 모델 페이지는 토큰 기반 요금을 표시합니다. 토큰 단가는 초당 또는 완성 클립 1개당 고정 가격이 아닙니다. 작업 비용을 추산하기 전에 현재 경로, 해상도, 실제 사용량을 확인하세요.
+
+출처 확인일: **2026년 11월 6일**.
+
+<a id="quick-start"></a>
+## ⚡ 빠른 시작
+
+[브라우저에서 Gemini Omni 1.2 Flash 체험하기](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=browser_try) 또는 [최신 작업 문서 읽기](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-overview?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=task_docs).
+
+위 작업 표에서 텍스트 기반 영상 생성, 이미지 기반 영상 생성, 참조 기반 생성, 편집, 연장 또는 업스케일을 선택하세요. 입력, 제한 사항, 결과 처리 흐름은 선택한 작업의 최신 문서를 따르세요.
 
 ## 📑 메뉴
+- [Gemini Omni 1.2 Flash 가이드](#omni-1-2-guide)
+- [빠른 시작](#quick-start)
+- [Gemini Omni 1.2 공식 데모](#omni12-demos)
 - [🎯 프롬프트 구성 요소](#-프롬프트-구성-요소)
 - [✂️ 편집](#️-편집)
   - [🔄 요소 교체](#-요소-교체)
@@ -94,7 +120,104 @@ Evolink에서 체험하기: [Gemini Omni](https://evolink.ai/gemini-omni?utm_sou
 - [🧪 평가](#-평가)
   - [사례 1: Gemini Omni 품질 평가 (작성자 @kenichiota0711)](#사례-1-gemini-omni-품질-평가-작성자-kenichiota0711)
 - [🌐 커뮤니티 갤러리](#-커뮤니티-갤러리)
+- [관련 저장소](#related-repositories)
 - [🙏 감사의 말](#-감사의-말)
+
+<a id="omni12-demos"></a>
+## 🎬 Gemini Omni 1.2 데모
+
+Google이 **2026년 11월 5일** 공개한 공식 데모 8개입니다. [원본 출시 글](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/)을 읽고, 포스터를 선택해 Google의 원본 영상을 시청하세요.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-1"></a>
+**[15초 가상 피팅](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/ECom_Try_On_Demo.mp4)**
+
+[![15초 가상 피팅](image/omni-1.2/15-second-virtual-try-on.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/ECom_Try_On_Demo.mp4)
+
+모델 사진 한 장과 의상 세 벌을 바탕으로 15초 가상 피팅 몽타주를 구성합니다.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-2"></a>
+**[레이어별 타이포그래피 애니메이션](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Typographic_Motion_Graphics_Demo.mp4)**
+
+[![레이어별 타이포그래피 애니메이션](image/omni-1.2/layered-typography-animation.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Typographic_Motion_Graphics_Demo.mp4)
+
+애니메이션 포스터가 소재와 글자를 조합합니다. Google은 1.1과 1.2의 출력을 함께 보여 줍니다.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-3"></a>
+**[대화형 배경 변경](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Video_Background_Editing_Demo.mp4)**
+
+[![대화형 배경 변경](image/omni-1.2/conversational-background-changes.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Video_Background_Editing_Demo.mp4)
+
+대화를 거듭하며 갑옷을 입은 두 인물은 유지한 채 클립의 배경을 바꿉니다.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-4"></a>
+**[판테온을 통과하는 연속 비행](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Pantheon_Tour_Demo_FuU0KUh.mp4)**
+
+[![판테온을 통과하는 연속 비행](image/omni-1.2/continuous-pantheon-flythrough.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Pantheon_Tour_Demo_FuU0KUh.mp4)
+
+건축 사진 두 장을 참조해 판테온의 돔을 통과하는 연속 카메라 비행을 구성합니다.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-5"></a>
+**[15초 벌집 설명 영상](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Bee_Hive_Live_Infographic_Demo_ninuxtc.mp4)**
+
+[![15초 벌집 설명 영상](image/omni-1.2/15-second-beehive-explainer.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Bee_Hive_Live_Infographic_Demo_ninuxtc.mp4)
+
+스타일 프레임 한 장이 네 개의 샷으로 구성된 15초짜리 벌집 설명 일러스트 영상이 됩니다.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-6"></a>
+**[문어에서 무용수로의 동작 전이](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Unexpected_Motion_Tracking_Demo_QRzpS2T.mp4)**
+
+[![문어에서 무용수로의 동작 전이](image/omni-1.2/octopus-to-dancer-motion-transfer.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Unexpected_Motion_Tracking_Demo_QRzpS2T.mp4)
+
+후속 편집으로 문어의 유연한 움직임을 무용수의 드레스에 옮깁니다.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-7"></a>
+**[첫 프레임과 마지막 프레임으로 연결한 라멘 가게](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Ramen_Bar_Demo_jeWGtqx.mp4)**
+
+[![첫 프레임과 마지막 프레임으로 연결한 라멘 가게](image/omni-1.2/first-to-last-frame-ramen-shop.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Ramen_Bar_Demo_jeWGtqx.mp4)
+
+첫 프레임과 마지막 프레임으로 라멘 가게의 외부와 내부를 연결합니다. Google의 비교 영상에는 눈에 띄는 불일치도 포함됩니다.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-8"></a>
+**[섬에서 연속 줌아웃](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Castaway_Crash_Zoom_Out_Demo.mp4)**
+
+[![섬에서 연속 줌아웃](image/omni-1.2/continuous-island-zoom-out.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Castaway_Crash_Zoom_Out_Demo.mp4)
+
+10초짜리 한 샷에서 해안의 클로즈업으로부터 섬의 넓은 전경까지 멀어집니다.
+
+</td>
+</tr>
+</table>
 
 ## 🎯 프롬프트 구성 요소
 Gemini Omni는 강력한 **세계 이해력**을 갖추고 있어 역사, 과학, 문화에 대한 실제 지식을 활용합니다. 모든 세부 사항을 과도하게 설명할 필요가 없습니다. 대신 자연어로 창작 의도를 표현하면 Omni의 추론이 나머지를 채워줍니다.
@@ -118,7 +241,8 @@ Gemini Omni는 강력한 **세계 이해력**을 갖추고 있어 역사, 과학
 
 ### 🔄 요소 교체
 
-#### 사례 1: 나비를 벌로 `🎬 Video→Video`
+<a id="사례-1-나비를-벌로"></a>
+### 사례 1: 나비를 벌로 `🎬 Video→Video`
 
 <table>
 <tr>
@@ -147,7 +271,8 @@ Change the butterfly to a bee.
 
 ---
 
-#### 사례 2: 벌을 반딧불이로 `🎬 Video→Video`
+<a id="사례-2-벌을-반딧불이로"></a>
+### 사례 2: 벌을 반딧불이로 `🎬 Video→Video`
 
 <table>
 <tr>
@@ -176,7 +301,8 @@ Change the bee into a small swarm of fireflies.
 
 ---
 
-#### 사례 3-5: 우주선 & 우주비행사 시리즈 `🎬 Video→Video`
+<a id="사례-3-5-우주선--우주비행사-시리즈"></a>
+### 사례 3-5: 우주선 & 우주비행사 시리즈 `🎬 Video→Video`
 
 <table>
 <tr>
@@ -193,21 +319,21 @@ https://github.com/user-attachments/assets/26ea7e43-9787-4096-82f9-e10543229bec
 
 https://github.com/user-attachments/assets/dd9ae5b1-0205-45ac-a651-258af1c4f12c
 
-#### 사례 3: 우주선을 흰색 종이접기로
+### 사례 3: 우주선을 흰색 종이접기로
 
 </td>
 <td width="300">
 
 https://github.com/user-attachments/assets/78ef5301-b759-4dda-9995-3ee0d259a7b1
 
-#### 사례 4: 우주비행사를 말미잘로
+### 사례 4: 우주비행사를 말미잘로
 
 </td>
 <td width="300">
 
 https://github.com/user-attachments/assets/0cbadb19-8a5b-4a2c-9093-e3a84f3dd988
 
-#### 사례 5: 소형 우주선을 가오리로
+### 사례 5: 소형 우주선을 가오리로
 
 </td>
 </tr>
@@ -229,7 +355,8 @@ Case 5: Change the small ships to stingrays.
 
 ---
 
-#### 사례 6: [1896년 기차 변환](https://x.com/emollick/status/2057874739817808223) (작성자 [@emollick](https://x.com/emollick)) `🎬 Video→Video`
+<a id="사례-6-1896년-기차-변환-작성자-emollick"></a>
+### 사례 6: [1896년 기차 변환](https://x.com/emollick/status/2057874739817808223) (작성자 [@emollick](https://x.com/emollick)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/275cc90e-adaa-48ff-9ff8-1e96ea29d44f
 
@@ -241,7 +368,8 @@ I took the famous "train" movie from 1896 & made it a bullet train, LEGO, added 
 
 ---
 
-#### 사례 7: [비디오에서 사람 제거](https://x.com/arrakis_ai/status/2057939231755178439) (작성자 [@arrakis_ai](https://x.com/arrakis_ai)) `🎬 Video→Video`
+<a id="사례-7-비디오에서-사람-제거-작성자-arrakis_ai"></a>
+### 사례 7: [비디오에서 사람 제거](https://x.com/arrakis_ai/status/2057939231755178439) (작성자 [@arrakis_ai](https://x.com/arrakis_ai)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/72379fb2-ac30-4d1e-a6b4-143052f8f061
 
@@ -253,7 +381,8 @@ Remove the person from this video perfectly.
 
 ---
 
-#### 사례 8: 투명 바이올린 `🎬 Video→Video`
+<a id="사례-8-투명-바이올린"></a>
+### 사례 8: 투명 바이올린 `🎬 Video→Video`
 
 <table>
 <tr>
@@ -282,7 +411,8 @@ Make the violin invisible
 
 ---
 
-#### 사례 9: [세계 지식을 활용한 위치 변경](https://x.com/venturetwins/status/2058235415883313361) (작성자 [@venturetwins](https://x.com/venturetwins)) `🎬 Video→Video`
+<a id="사례-9-세계-지식을-활용한-위치-변경-작성자-venturetwins"></a>
+### 사례 9: [세계 지식을 활용한 위치 변경](https://x.com/venturetwins/status/2058235415883313361) (작성자 [@venturetwins](https://x.com/venturetwins)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/daa90750-fc7b-49ea-b85d-364411159663
 
@@ -296,7 +426,8 @@ Re-shoot this video in [location] based on the screenshot from Google Maps.
 
 ---
 
-#### 사례 10: [애니메이션을 실사로](https://x.com/arrakis_ai/status/2058488373057302797) (작성자 [@arrakis_ai](https://x.com/arrakis_ai)) `🎬 Video→Video`
+<a id="사례-10-애니메이션을-실사로-작성자-arrakis_ai"></a>
+### 사례 10: [애니메이션을 실사로](https://x.com/arrakis_ai/status/2058488373057302797) (작성자 [@arrakis_ai](https://x.com/arrakis_ai)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/3c6be2a9-3e67-4deb-8ccd-fb493b715f65
 
@@ -308,7 +439,8 @@ Turn this animation into live action.
 
 ### 🎬 베이스 장면
 
-#### 사례 1: 바이올리니스트 기본 샷 `🔤 Text→Video`
+<a id="사례-1-바이올리니스트-기본-샷"></a>
+### 사례 1: 바이올리니스트 기본 샷 `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/93de5898-88ee-4bfc-a36f-19d8aa99dfc1
 
@@ -320,7 +452,8 @@ A video of a violinist playing a song.
 
 ### 📷 카메라 연출
 
-#### 사례 1: 오버더숄더 앵글 `🎬 Video→Video`
+<a id="사례-1-오버더숄더-앵글"></a>
+### 사례 1: 오버더숄더 앵글 `🎬 Video→Video`
 
 <table>
 <tr>
@@ -349,7 +482,8 @@ Change the camera angle to be over the violinist's shoulder.
 
 ---
 
-#### 사례 2: 카메라 틸트 - 신발에서 미디엄 샷으로 `🎬 Video→Video`
+<a id="사례-2-카메라-틸트---신발에서-미디엄-샷으로"></a>
+### 사례 2: 카메라 틸트 - 신발에서 미디엄 샷으로 `🎬 Video→Video`
 
 <table>
 <tr>
@@ -378,7 +512,8 @@ Change the camera angle, a close-up on his shoes, quickly tilting up to medium s
 
 ---
 
-#### 사례 3: [여행 셀피 하이퍼랩스](https://x.com/ZaraIrahh/status/2057775215749349520) (작성자 [@ZaraIrahh](https://x.com/ZaraIrahh)) `🔤 Text→Video`
+<a id="사례-3-여행-셀피-하이퍼랩스-작성자-zarairahh"></a>
+### 사례 3: [여행 셀피 하이퍼랩스](https://x.com/ZaraIrahh/status/2057775215749349520) (작성자 [@ZaraIrahh](https://x.com/ZaraIrahh)) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/31fa5a56-6113-4376-873b-5e40d26803f1
 
@@ -390,7 +525,8 @@ Create a 10-second cinematic hyper-lapse selfie travel video of the uploaded fem
 
 ---
 
-#### 사례 4: [패션 드론 샷](https://x.com/ariaxawan/status/2057794715744084042) (작성자 [@ariaxawan](https://x.com/ariaxawan)) `🔤 Text→Video`
+<a id="사례-4-패션-드론-샷-작성자-ariaxawan"></a>
+### 사례 4: [패션 드론 샷](https://x.com/ariaxawan/status/2057794715744084042) (작성자 [@ariaxawan](https://x.com/ariaxawan)) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/b199a5ab-e008-4a72-aa03-094bc6d573e6
 
@@ -402,7 +538,8 @@ A 10 second ultra cinematic hyper realistic FPV fashion drone shot filmed in a s
 
 ---
 
-#### 사례 5: [탑뷰에서 360도 회전으로](https://x.com/npaka123/status/2058033145845575735) (작성자 [@npaka123](https://x.com/npaka123)) `🖼️ Image→Video`
+<a id="사례-5-탑뷰에서-360도-회전으로-작성자-npaka123"></a>
+### 사례 5: [탑뷰에서 360도 회전으로](https://x.com/npaka123/status/2058033145845575735) (작성자 [@npaka123](https://x.com/npaka123)) `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
 
@@ -414,7 +551,8 @@ https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
 
 ---
 
-#### 사례 6: [Omnizoom — 사진 속으로 다이브](https://x.com/alexanderchen/status/2058330610574221672) (작성자 [@alexanderchen](https://x.com/alexanderchen)) `🖼️ Image→Video`
+<a id="사례-6-omnizoom--사진-속으로-다이브-작성자-alexanderchen"></a>
+### 사례 6: [Omnizoom — 사진 속으로 다이브](https://x.com/alexanderchen/status/2058330610574221672) (작성자 [@alexanderchen](https://x.com/alexanderchen)) `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/9fd3ad2a-6e4a-4ac0-ab29-48f1c303b95f
 
@@ -426,7 +564,8 @@ Omnizoom — diving into a photo.
 
 ### 🎬 액션 & 싱크
 
-#### 사례 1: 동물 장난감 소리 `🎬 Video→Video`
+<a id="사례-1-동물-장난감-소리"></a>
+### 사례 1: 동물 장난감 소리 `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/fbf377d7-1b39-43af-92e6-665792d05de0
 
@@ -438,7 +577,8 @@ When the finger in <video> touches the animal toy play the sound the animal make
 
 ---
 
-#### 사례 2: 아파트 조명 싱크 `🎬+🎵 Video+Audio→Video`
+<a id="사례-2-아파트-조명-싱크"></a>
+### 사례 2: 아파트 조명 싱크 `🎬+🎵 Video+Audio→Video`
 
 <table>
 <tr>
@@ -467,7 +607,8 @@ The lights of the apartments start turning on in sync with the music.
 
 ---
 
-#### 사례 3: 구슬 연쇄 반응 `🔤 Text→Video`
+<a id="사례-3-구슬-연쇄-반응"></a>
+### 사례 3: 구슬 연쇄 반응 `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/1ece8df7-f29a-4ebd-ad68-9c910f811590
 
@@ -479,7 +620,8 @@ A marble rolling fast on a chain reaction style track, continuous smooth shot
 
 ---
 
-#### 사례 4: 빌딩 조명 `🎬+🎵 Video+Audio→Video`
+<a id="사례-4-빌딩-조명"></a>
+### 사례 4: 빌딩 조명 `🎬+🎵 Video+Audio→Video`
 
 <table>
 <tr>
@@ -508,7 +650,8 @@ The lights of the buildings start turning on in sync with the music.
 
 ---
 
-#### 사례 5: [복싱 경기 리얼리스틱](https://x.com/RuzainaMeer/status/2057785474446741728) (작성자 [@RuzainaMeer](https://x.com/RuzainaMeer)) `🔤 Text→Video`
+<a id="사례-5-복싱-경기-리얼리스틱-작성자-ruzainameer"></a>
+### 사례 5: [복싱 경기 리얼리스틱](https://x.com/RuzainaMeer/status/2057785474446741728) (작성자 [@RuzainaMeer](https://x.com/RuzainaMeer)) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/6796bf78-8bad-441c-889d-30621ee62cd7
 
@@ -522,7 +665,8 @@ Ultra-realistic 10-second boxing fight between two women inside a small undergro
 
 ### 🪞 아티스틱 스타일
 
-#### 사례 1-3: 거울 시리즈 `🎬 Video→Video`
+<a id="사례-1-3-거울-시리즈"></a>
+### 사례 1-3: 거울 시리즈 `🎬 Video→Video`
 
 <table>
 <tr>
@@ -530,21 +674,21 @@ Ultra-realistic 10-second boxing fight between two women inside a small undergro
 
 https://github.com/user-attachments/assets/747cdc6b-f5fa-4482-b745-2839551e9ba2
 
-#### 사례 1: 거울 액체 금속 파동
+### 사례 1: 거울 액체 금속 파동
 
 </td>
 <td width="300">
 
 https://github.com/user-attachments/assets/36ea02a2-3716-44aa-9bc2-a5cc1480d0bf
 
-#### 사례 2: 거울 라인 아트
+### 사례 2: 거울 라인 아트
 
 </td>
 <td width="300">
 
 https://github.com/user-attachments/assets/dbca6772-dd7a-4418-a0e6-a39796a91c97
 
-#### 사례 3: 거울 퍼펫
+### 사례 3: 거울 퍼펫
 
 </td>
 </tr>
@@ -566,7 +710,8 @@ Case 3: When the person touches the mirror, the person suddenly transforms into 
 
 ---
 
-#### 사례 4: [애니메이션 광고 원샷](https://x.com/DenneyDara/status/2057844409639551380) (작성자 [@DenneyDara](https://x.com/DenneyDara)) `🔤 Text→Video`
+<a id="사례-4-애니메이션-광고-원샷-작성자-denneydara"></a>
+### 사례 4: [애니메이션 광고 원샷](https://x.com/DenneyDara/status/2057844409639551380) (작성자 [@DenneyDara](https://x.com/DenneyDara)) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/edacf1c5-94db-4687-8eaa-f87ebf5fabee
 
@@ -578,7 +723,8 @@ Make a Pixar-style video of an aloe leaf that is walking through the forest that
 
 ---
 
-#### 사례 5: [라인 드로잉 분리](https://x.com/alexanderchen/status/2057925025915666673) (작성자 [@alexanderchen](https://x.com/alexanderchen)) `🎬 Video→Video`
+<a id="사례-5-라인-드로잉-분리-작성자-alexanderchen"></a>
+### 사례 5: [라인 드로잉 분리](https://x.com/alexanderchen/status/2057925025915666673) (작성자 [@alexanderchen](https://x.com/alexanderchen)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/787813c0-2e20-4999-8383-fd76a9b21f91
 
@@ -590,7 +736,8 @@ Extract the key object in this video. Render a video showing that object as a bl
 
 ### ✨ 비주얼 이펙트
 
-#### 사례 1: 손 구멍 슈퍼 줌 `🎬 Video→Video`
+<a id="사례-1-손-구멍-슈퍼-줌"></a>
+### 사례 1: 손 구멍 슈퍼 줌 `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/06683ef4-16e0-47b0-93ec-c6222560ee13
 
@@ -602,7 +749,8 @@ Make it look like the weird shape of my hand hole super zooms and magnifies the 
 
 ---
 
-#### 사례 2: 스케이트보드 모션 이펙트 `🎬 Video→Video`
+<a id="사례-2-스케이트보드-모션-이펙트"></a>
+### 사례 2: 스케이트보드 모션 이펙트 `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/44c120a2-38a7-43d7-89fa-a23d0842078c
 
@@ -614,7 +762,8 @@ Edit this keeping everything the same. Add animated motion effects coming out of
 
 ---
 
-#### 사례 3: [AR HUD 오버레이](https://x.com/jerrod_lew/status/2058337271947079977) (작성자 [@jerrod_lew](https://x.com/jerrod_lew)) `🎬 Video→Video`
+<a id="사례-3-ar-hud-오버레이-작성자-jerrod_lew"></a>
+### 사례 3: [AR HUD 오버레이](https://x.com/jerrod_lew/status/2058337271947079977) (작성자 [@jerrod_lew](https://x.com/jerrod_lew)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/04b11cd7-d345-4172-b6e5-38301e73bb77
 
@@ -626,7 +775,8 @@ Create a virtual HUD and UI overlay for this recorded phone video, like an AR gl
 
 ### 🔗 크로스모달
 
-#### 사례 1: 새로운 환경으로 이동 `🎬+🖼️ Video+Image→Video`
+<a id="사례-1-새로운-환경으로-이동"></a>
+### 사례 1: 새로운 환경으로 이동 `🎬+🖼️ Video+Image→Video`
 
 <table>
 <tr>
@@ -655,7 +805,8 @@ Transport the violinist to the image environment
 
 ---
 
-#### 사례 2: 오디오와 함께하는 새 형상 `🎬+🖼️+🎵 Multi-Modal`
+<a id="사례-2-오디오와-함께하는-새-형상"></a>
+### 사례 2: 오디오와 함께하는 새 형상 `🎬+🖼️+🎵 Multi-Modal`
 
 <table>
 <tr>
@@ -692,7 +843,8 @@ The birds from <video> loosely form the imperfect shape of a bird based on <imag
 
 ---
 
-#### 사례 3: [슬라이드를 모션으로](https://x.com/yoshifujidesign/status/2058032203175731293) (작성자 [@yoshifujidesign](https://x.com/yoshifujidesign)) `🖼️ Image→Video`
+<a id="사례-3-슬라이드를-모션으로-작성자-yoshifujidesign"></a>
+### 사례 3: [슬라이드를 모션으로](https://x.com/yoshifujidesign/status/2058032203175731293) (작성자 [@yoshifujidesign](https://x.com/yoshifujidesign)) `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/f07a861b-cd0d-4894-8ef1-b74520c7cbd7
 
@@ -704,7 +856,8 @@ GPT image2でスライド作成 → Gemini Omniでモーション。画面遷移
 
 ---
 
-#### 사례 4: [참조 이미지를 활용한 아이소메트릭 요리 캐릭터](https://x.com/kumiko_shiraki/status/2058337185099546885) (작성자 [@kumiko_shiraki](https://x.com/kumiko_shiraki)) `🖼️ Image→Video`
+<a id="사례-4-참조-이미지를-활용한-아이소메트릭-요리-캐릭터-작성자-kumiko_shiraki"></a>
+### 사례 4: [참조 이미지를 활용한 아이소메트릭 요리 캐릭터](https://x.com/kumiko_shiraki/status/2058337185099546885) (작성자 [@kumiko_shiraki](https://x.com/kumiko_shiraki)) `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/d5e9b97e-cefa-4cd8-bf70-4e633020f092
 
@@ -718,7 +871,8 @@ Narrow down reference images and add negative prompts to get closer to your idea
 
 ---
 
-#### 사례 5: [ChatGPT 지시서 이미지를 입력으로](https://x.com/Majin_AppSheet/status/2058191091070058846) (작성자 [@Majin_AppSheet](https://x.com/Majin_AppSheet)) `🖼️ Image→Video`
+<a id="사례-5-chatgpt-지시서-이미지를-입력으로-작성자-majin_appsheet"></a>
+### 사례 5: [ChatGPT 지시서 이미지를 입력으로](https://x.com/Majin_AppSheet/status/2058191091070058846) (작성자 [@Majin_AppSheet](https://x.com/Majin_AppSheet)) `🖼️ Image→Video`
 
 <table>
 <tr>
@@ -743,7 +897,8 @@ https://github.com/user-attachments/assets/578d6968-c6dd-417a-b6fe-100468851f3d
 
 ---
 
-#### 사례 6: [ChatGPT 일러스트를 Omni 애니메이션으로](https://x.com/mmmiyama_D/status/2058654389326516656) (작성자 [@mmmiyama_D](https://x.com/mmmiyama_D)) `🖼️ Image→Video`
+<a id="사례-6-chatgpt-일러스트를-omni-애니메이션으로-작성자-mmmiyama_d"></a>
+### 사례 6: [ChatGPT 일러스트를 Omni 애니메이션으로](https://x.com/mmmiyama_D/status/2058654389326516656) (작성자 [@mmmiyama_D](https://x.com/mmmiyama_D)) `🖼️ Image→Video`
 
 <table>
 <tr>
@@ -769,7 +924,8 @@ https://github.com/user-attachments/assets/289e5378-60ad-472b-ba51-da710da81270
 
 ### 📋 스토리보드
 
-#### 사례 1: [럭셔리 화장품 광고](https://x.com/aiwithaly/status/2057806821138858314) (작성자 [@aiwithaly](https://x.com/aiwithaly)) `🔤 Text→Video`
+<a id="사례-1-럭셔리-화장품-광고-작성자-aiwithaly"></a>
+### 사례 1: [럭셔리 화장품 광고](https://x.com/aiwithaly/status/2057806821138858314) (작성자 [@aiwithaly](https://x.com/aiwithaly)) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/6d003859-eb77-4466-9f70-5a76a2269667
 
@@ -781,7 +937,8 @@ Create a cinematic 10-second ultra-realistic luxury cosmetic commercial in a hig
 
 ---
 
-#### 사례 2: 이 이야기 속에 나를 보여줘 `🖼️ Image→Video`
+<a id="사례-2-이-이야기-속에-나를-보여줘"></a>
+### 사례 2: 이 이야기 속에 나를 보여줘 `🖼️ Image→Video`
 
 <table>
 <tr>
@@ -811,7 +968,8 @@ Show me in this story. Follow the story exactly in order starting top left. Enti
 
 ---
 
-#### 사례 3: [3x3 분할 화면](https://x.com/alexanderchen/status/2057861567396368841) (작성자 [@alexanderchen](https://x.com/alexanderchen)) `🎬 Video→Video`
+<a id="사례-3-3x3-분할-화면-작성자-alexanderchen"></a>
+### 사례 3: [3x3 분할 화면](https://x.com/alexanderchen/status/2057861567396368841) (작성자 [@alexanderchen](https://x.com/alexanderchen)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/587fc95e-526f-4d8d-94c8-feefe34edba9
 
@@ -823,7 +981,8 @@ Generate a 3x3 split screen video based on different details you see here. Make 
 
 ---
 
-#### 사례 4: [다른 각도에서의 액션 리플레이](https://x.com/jerrod_lew/status/2057838324140953773) (작성자 [@jerrod_lew](https://x.com/jerrod_lew)) `🎬 Video→Video`
+<a id="사례-4-다른-각도에서의-액션-리플레이-작성자-jerrod_lew"></a>
+### 사례 4: [다른 각도에서의 액션 리플레이](https://x.com/jerrod_lew/status/2057838324140953773) (작성자 [@jerrod_lew](https://x.com/jerrod_lew)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/a1179492-74bd-488c-b594-6bc023269c10
 
@@ -835,7 +994,8 @@ Gemini Omni can create action replays from different angles. I referenced a vide
 
 ---
 
-#### 사례 5: [분할 화면 비디오](https://x.com/jerrod_lew/status/2057944349846249975) (작성자 [@jerrod_lew](https://x.com/jerrod_lew)) `🎬 Video→Video`
+<a id="사례-5-분할-화면-비디오-작성자-jerrod_lew"></a>
+### 사례 5: [분할 화면 비디오](https://x.com/jerrod_lew/status/2057944349846249975) (작성자 [@jerrod_lew](https://x.com/jerrod_lew)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/8755d95d-a9b2-4f7c-a56d-bfbbcc47f80e
 
@@ -847,7 +1007,8 @@ Use a reference video and ask the agent for a split screen video.
 
 ### 🔤 텍스트 렌더링
 
-#### 사례 1: 알파벳 아이템 시퀀스 `🔤 Text→Video`
+<a id="사례-1-알파벳-아이템-시퀀스"></a>
+### 사례 1: 알파벳 아이템 시퀀스 `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/f7693ec2-ac70-4ac8-813f-8fcb46d90d3d
 
@@ -859,7 +1020,8 @@ The video shows items of the alphabet. An unusual item starting with each letter
 
 ---
 
-#### 사례 2: 단어별 텍스트 싱크 `🔤 Text→Video`
+<a id="사례-2-단어별-텍스트-싱크"></a>
+### 사례 2: 단어별 텍스트 싱크 `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/03620abc-bcb2-4011-a52b-ce13409853c4
 
@@ -871,7 +1033,8 @@ word by word, one word on the screen at a time: did, you, know, that, this, mode
 
 ---
 
-#### 사례 3: [텍스트 렌더링 AI 뉴스](https://x.com/chrisfirst/status/2057863432469361098) (작성자 [@chrisfirst](https://x.com/chrisfirst)) `🔤 Text→Video`
+<a id="사례-3-텍스트-렌더링-ai-뉴스-작성자-chrisfirst"></a>
+### 사례 3: [텍스트 렌더링 AI 뉴스](https://x.com/chrisfirst/status/2057863432469361098) (작성자 [@chrisfirst](https://x.com/chrisfirst)) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/e7d23502-1ca0-4f47-be76-47ff05390508
 
@@ -883,7 +1046,8 @@ Static shot we see them turn the page 3 times. Every flip we see content on both
 
 ---
 
-#### 사례 4: [폰트 패션쇼](https://x.com/HBCoop_/status/2057856570558452142) (작성자 [@HBCoop_](https://x.com/HBCoop_)) `🔤 Text→Video`
+<a id="사례-4-폰트-패션쇼-작성자-hbcoop_"></a>
+### 사례 4: [폰트 패션쇼](https://x.com/HBCoop_/status/2057856570558452142) (작성자 [@HBCoop_](https://x.com/HBCoop_)) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/395d767c-7d8e-4367-941b-0190da9a0284
 
@@ -895,7 +1059,8 @@ Create a 10-second avant-garde fashion editorial where every outfit is inspired 
 
 ## ⚖️ 비교
 
-#### 사례 1: [Seedance 2.0 vs Gemini Omni Flash](https://x.com/JSFILMZ0412/status/2057926749598736635) (작성자 [@JSFILMZ0412](https://x.com/JSFILMZ0412)) `⚖️ Comparison`
+<a id="사례-1-seedance-20-vs-gemini-omni-flash-작성자-jsfilmz0412"></a>
+### 사례 1: [Seedance 2.0 vs Gemini Omni Flash](https://x.com/JSFILMZ0412/status/2057926749598736635) (작성자 [@JSFILMZ0412](https://x.com/JSFILMZ0412)) `⚖️ Comparison`
 
 https://github.com/user-attachments/assets/a03e70b5-99c0-4ad8-b26b-9aed6e037f02
 
@@ -903,7 +1068,8 @@ https://github.com/user-attachments/assets/a03e70b5-99c0-4ad8-b26b-9aed6e037f02
 
 ---
 
-#### 사례 2: [Gemini Omni vs Seedance 2.0 액션 장면](https://x.com/CuriousRefuge/status/2057929340562907451) (작성자 [@CuriousRefuge](https://x.com/CuriousRefuge)) `⚖️ Comparison`
+<a id="사례-2-gemini-omni-vs-seedance-20-액션-장면-작성자-curiousrefuge"></a>
+### 사례 2: [Gemini Omni vs Seedance 2.0 액션 장면](https://x.com/CuriousRefuge/status/2057929340562907451) (작성자 [@CuriousRefuge](https://x.com/CuriousRefuge)) `⚖️ Comparison`
 
 https://github.com/user-attachments/assets/33e09b7d-2357-481d-8536-dab39e75524b
 
@@ -911,7 +1077,8 @@ https://github.com/user-attachments/assets/33e09b7d-2357-481d-8536-dab39e75524b
 
 ## 🧪 평가
 
-#### 사례 1: [Gemini Omni 품질 평가](https://x.com/kenichiota0711/status/2057820346850660769) (작성자 [@kenichiota0711](https://x.com/kenichiota0711)) `🧪 Evaluation`
+<a id="사례-1-gemini-omni-품질-평가-작성자-kenichiota0711"></a>
+### 사례 1: [Gemini Omni 품질 평가](https://x.com/kenichiota0711/status/2057820346850660769) (작성자 [@kenichiota0711](https://x.com/kenichiota0711)) `🧪 Evaluation`
 
 https://github.com/user-attachments/assets/a9adf476-fac9-4ea2-b5ea-90a50192ccfb
 
@@ -988,6 +1155,13 @@ https://github.com/user-attachments/assets/df8dcb7c-c918-4fc2-b952-0cb2bcdddfee
 </tr>
 </table>
 
+<a id="related-repositories"></a>
+## 🔗 관련 저장소
+
+- [EvoLink 영상 모델 API 가이드 살펴보기](https://github.com/EvoLinkAI/awesome-ai-video-models-api-guide).
+- [EvoLink Media MCP 저장소 사용하기](https://github.com/EvoLinkAI/evolink-media-mcp).
+- [EvoLink의 Seedance 2.5 소개 읽기](https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=related_seedance).
+
 ## 🙏 감사의 말
 
 이 저장소는 우수한 오픈 프롬프트 컬렉션과 커뮤니티 공유 예제에서 영감을 받았습니다.
@@ -1002,4 +1176,4 @@ https://github.com/user-attachments/assets/df8dcb7c-c918-4fc2-b952-0cb2bcdddfee
 
 더 흥미로운 프롬프트 사례를 공유하고 싶으시다면, 연락해 주셔서 Evolink 프롬프트 라이브러리 확장에 도움을 주세요.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/awesome-gemini-omni-api-and-prompt&type=Date)](https://www.star-history.com/#EvoLinkAI/awesome-gemini-omni-api-and-prompt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/awesome-gemini-omni-guide-api-and-prompt&type=Date)](https://www.star-history.com/#EvoLinkAI/awesome-gemini-omni-guide-api-and-prompt&Date)

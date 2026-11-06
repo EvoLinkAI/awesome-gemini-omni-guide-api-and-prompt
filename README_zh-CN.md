@@ -1,40 +1,66 @@
 <div align="center">
 
-<a href="https://evolink.ai/gemini-omni?utm_source=github&utm_medium=banner&utm_campaign=awesome-gemini-omni"><img src="image/logo.png" alt="awesome-gemini-omni-api-and-prompt logo"></a>
+<a href="https://evolink.ai/gemini-omni?utm_source=github&utm_medium=banner&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=readme_banner"><img src="image/guide-banner.svg" width="760" alt="Gemini Omni 指南与提示词库"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/gemini-omni?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
-[![Model API](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
+[![Try Gemini Omni 1.2 Flash](https://img.shields.io/badge/Try_Gemini_Omni_1.2_Flash-EvoLink-black)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=badge&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=model_try)
 
-[![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
-[![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
-[![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md)
-[![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md)
-[![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md)
-[![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md)
-[![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md)
-[![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md)
-[![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md)
-[![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md)
-[![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
+[![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md) [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md) [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md) [![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md) [![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md) [![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md) [![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md) [![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md) [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md) [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md) [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
 </div>
 
-## 🍌 简介
-欢迎来到 Gemini Omni API 与提示词仓库！🤗
-**我们收集了高质量的提示词和视频示例，涵盖 Google Gemini Omni 的各种创意任务，包括变换、运动、镜头控制、文字序列和多输入工作流。**
-本仓库中的大多数案例精选自 DeepMind 官方演示、提示词指南和社区实验。
-在 Evolink 上试用：[Gemini Omni](https://evolink.ai/gemini-omni?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
-如果觉得有用，欢迎给个 Star ⭐
-> [!NOTE]
-> 本仓库专注于可复用的提示词模式和 Gemini Omni 视频生成在 Evolink 上的参考案例。
+# Gemini Omni 1.2 Flash 指南与提示词库
 
-## 📰 最新动态
-- **2026年5月25日：** 新增 16 个社区案例 + 新增社区画廊章节
-- **2026年5月23日：** 新增 10 个来自热门推文的社区展示案例
-- **2026年5月22日：** 首次仓库更新，收录 25 个精选 Gemini Omni 提示词
+## 🍌 简介
+**Gemini Omni 1.2 Flash 使用指南，同时保留 Gemini Omni 家族的提示词、编辑演示、对比和社区视频。** 帮助创作者与开发者选择任务，了解各项输入和输出限制。
+
+> [!NOTE]
+> 原有提示词案例、对比和社区画廊属于 Gemini Omni 家族的历史资料。原有提示词、来源与媒体均予保留，不将其作为 Gemini Omni 1.2 Flash 的生成结果或基准测试。
+
+<a id="omni-1-2-guide"></a>
+## 🆕 Gemini Omni 1.2 Flash
+
+Google 将 Gemini Omni 1.2 Flash 列为 GA，发布日期为 **2026年11月5日**。相比 1.1，主要变化是适用路由最长可生成 **15秒**视频，以及新增**独立视频超分**。阅读 [Google 模型规格](https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/omni-1-2-flash)及 [EvoLink 11月5日公告](https://evolink.ai/changelog?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=release_source#2026-11-05-gemini-omni-1-2-flash)。
+
+- 接收文本、图片和视频输入，输出带同步语音、音乐与音效的视频。不支持音频文件输入或声音编辑。
+- 原生输出为 **360p / 720p**；**1080p / 4K 通过超分获得**，并非原生 4K。文档标明输出为 24 fps，画幅为 16:9 或 9:16。
+- 文生视频和单张首帧图片生成支持 **3–15秒**；首尾帧插值仍为 **3–10秒**。
+- 视频续写每次新增 **3–10秒**；这个值指新增时长，而非最终成片的总时长。
+
+### 选择 EvoLink 任务
+
+各任务均链接至相应请求规范。切换路由前，请先[阅读完整参数文档](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-overview?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=parameter_overview)。
+
+| 任务 | 适用场景 | 路由限制 |
+| :--- | :--- | :--- |
+| [阅读文生视频文档](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-text-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_text) | 根据文本提示词生成镜头。 | 3–15秒。 |
+| [阅读图生视频文档](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-image-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_image) | 让一张首帧图片动起来，或连接首帧与尾帧。 | 单张图片：3–15秒；两张图片：3–10秒。 |
+| [阅读参考生视频文档](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-reference-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_reference) | 用图片或视频参考素材引导新镜头。 | 最多10张图片和3段参考视频；输出超过10秒时，最多1段参考视频。 |
+| [阅读视频编辑文档](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-video-edit?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_edit) | 用提示词修改现有片段。 | 一段最长15秒的输入视频；可选参考图片；画质默认值为 `auto`。 |
+| [阅读视频续写文档](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-video-extend?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_extend) | 从现有片段末尾继续生成。 | 一段最长30秒的输入视频；新增3–10秒。 |
+| [阅读视频超分文档](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-video-upscale?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_upscale) | 提高选定成片的分辨率。 | 输入最长15秒，须为支持的标准尺寸；无需提示词。请同时查看下方的平台差异。 |
+
+### 平台与版本差异
+
+- **参考素材：** [AI Studio 使用指南](https://aistudio.google.com/docs/omni)允许最多6张图片，Google Cloud 与 EvoLink 文档则列出最多10张。参考视频限制也随输出时长变化，应以所选平台的请求规范为准。
+- **超分：** Google Cloud 列出 360p→720p/1080p 和 720p→1080p/4K，并明确排除 1080p→4K。EvoLink 文档另列有 1080p→4K。这一额外组合需要向所选平台确认，不能视为跨平台的共同保证。阅读 [Google 超分限制](https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/video/upscale-videos)。
+- **会话状态：** Google 的 Interactions API 支持对话式编辑。EvoLink 异步视频任务使用独立请求规范，不要直接传入 `previous_interaction_id` 或其他 Google 专用参数。
+- **迁移：** [Google 模型页](https://aistudio.google.com/docs/models/gemini-omni-flash)计划于2026年12月3日将 Gemini API 的 1.1 stable ID 转向 1.2。这不代表 EvoLink 的 1.1 路由也会迁移。应明确选择 1.2 任务，不要将旧通用 ID 当作别名。
+- **费用：** EvoLink 模型页展示按 token 计费的价格。token 单价不等于每秒或每条成片的固定费用。估算任务费用前，应核对当前路由、分辨率和实际用量。
+
+来源核对日期：**2026年11月6日**。
+
+<a id="quick-start"></a>
+## ⚡ 快速开始
+
+[在浏览器中试用 Gemini Omni 1.2 Flash](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=browser_try)，或[阅读最新任务文档](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-overview?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=task_docs)。
+
+从上方任务表中选择文生视频、图生视频、参考生成、编辑、续写或超分。各项输入、限制及结果处理流程，请以所选任务的最新文档为准。
 
 ## 📑 目录
+- [Gemini Omni 1.2 Flash 指南](#omni-1-2-guide)
+- [快速开始](#quick-start)
+- [Gemini Omni 1.2 官方演示](#omni12-demos)
 - [🎯 提示词要素](#-提示词要素)
 - [✂️ 编辑](#️-编辑)
   - [🔄 元素替换](#-元素替换)
@@ -94,7 +120,104 @@
 - [🧪 评估](#-评估)
   - [案例 1：Gemini Omni 质量评估（作者 @kenichiota0711）](#案例-1gemini-omni-质量评估作者-kenichiota0711)
 - [🌐 社区画廊](#-社区画廊)
+- [相关仓库](#related-repositories)
 - [🙏 致谢](#-致谢)
+
+<a id="omni12-demos"></a>
+## 🎬 Gemini Omni 1.2 演示
+
+Google 于 **2026年11月5日**发布的八组官方演示。阅读[原始发布文章](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/)；点击预览图观看 Google 原始视频。
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-1"></a>
+**[15 秒虚拟试衣](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/ECom_Try_On_Demo.mp4)**
+
+[![15 秒虚拟试衣](image/omni-1.2/15-second-virtual-try-on.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/ECom_Try_On_Demo.mp4)
+
+一张模特照片与三套服装引导生成一段 15 秒的虚拟试衣蒙太奇。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-2"></a>
+**[分层文字排版动画](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Typographic_Motion_Graphics_Demo.mp4)**
+
+[![分层文字排版动画](image/omni-1.2/layered-typography-animation.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Typographic_Motion_Graphics_Demo.mp4)
+
+动画海报组合材质与文字；Google 同时展示 1.1 和 1.2 的输出。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-3"></a>
+**[对话式背景替换](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Video_Background_Editing_Demo.mp4)**
+
+[![对话式背景替换](image/omni-1.2/conversational-background-changes.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Video_Background_Editing_Demo.mp4)
+
+通过连续对话替换片段背景，同时保留两名身穿盔甲的角色。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-4"></a>
+**[万神殿连续穿越镜头](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Pantheon_Tour_Demo_FuU0KUh.mp4)**
+
+[![万神殿连续穿越镜头](image/omni-1.2/continuous-pantheon-flythrough.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Pantheon_Tour_Demo_FuU0KUh.mp4)
+
+两张建筑照片引导镜头连续飞行，穿过万神殿的穹顶。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-5"></a>
+**[15 秒蜂巢解说](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Bee_Hive_Live_Infographic_Demo_ninuxtc.mp4)**
+
+[![15 秒蜂巢解说](image/omni-1.2/15-second-beehive-explainer.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Bee_Hive_Live_Infographic_Demo_ninuxtc.mp4)
+
+一张风格帧转化为由四个镜头组成的 15 秒蜂巢插画解说。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-6"></a>
+**[从章鱼到舞者的动作迁移](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Unexpected_Motion_Tracking_Demo_QRzpS2T.mp4)**
+
+[![从章鱼到舞者的动作迁移](image/omni-1.2/octopus-to-dancer-motion-transfer.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Unexpected_Motion_Tracking_Demo_QRzpS2T.mp4)
+
+后续编辑将章鱼流畅的动作迁移到舞者的裙装上。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-7"></a>
+**[拉面店首尾帧连接](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Ramen_Bar_Demo_jeWGtqx.mp4)**
+
+[![拉面店首尾帧连接](image/omni-1.2/first-to-last-frame-ramen-shop.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Ramen_Bar_Demo_jeWGtqx.mp4)
+
+通过首帧与尾帧连接拉面店外景和内景；Google 的对比中包含可见的不一致。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-8"></a>
+**[海岛连续拉远镜头](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Castaway_Crash_Zoom_Out_Demo.mp4)**
+
+[![海岛连续拉远镜头](image/omni-1.2/continuous-island-zoom-out.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Castaway_Crash_Zoom_Out_Demo.mp4)
+
+一个 10 秒镜头从海岸特写连续拉远到海岛广角景观。
+
+</td>
+</tr>
+</table>
 
 ## 🎯 提示词要素
 Gemini Omni 具有强大的**世界理解能力**——它能调用历史、科学和文化方面的真实世界知识。你不需要过度解释每个细节，只需用自然语言表达你的创意意图，让 Omni 的推理能力来补充其余部分。
@@ -118,7 +241,8 @@ Gemini Omni 具有强大的**世界理解能力**——它能调用历史、科�
 
 ### 🔄 元素替换
 
-#### 案例 1：蝴蝶变蜜蜂 `🎬 Video→Video`
+<a id="案例-1蝴蝶变蜜蜂"></a>
+### 案例 1：蝴蝶变蜜蜂 `🎬 Video→Video`
 
 <table>
 <tr>
@@ -147,7 +271,8 @@ Change the butterfly to a bee.
 
 ---
 
-#### 案例 2：蜜蜂变萤火虫 `🎬 Video→Video`
+<a id="案例-2蜜蜂变萤火虫"></a>
+### 案例 2：蜜蜂变萤火虫 `🎬 Video→Video`
 
 <table>
 <tr>
@@ -176,7 +301,8 @@ Change the bee into a small swarm of fireflies.
 
 ---
 
-#### 案例 3-5：飞船与宇航员系列 `🎬 Video→Video`
+<a id="案例-3-5飞船与宇航员系列"></a>
+### 案例 3-5：飞船与宇航员系列 `🎬 Video→Video`
 
 <table>
 <tr>
@@ -193,21 +319,21 @@ https://github.com/user-attachments/assets/26ea7e43-9787-4096-82f9-e10543229bec
 
 https://github.com/user-attachments/assets/dd9ae5b1-0205-45ac-a651-258af1c4f12c
 
-#### 案例 3：飞船变白色折纸
+### 案例 3：飞船变白色折纸
 
 </td>
 <td width="300">
 
 https://github.com/user-attachments/assets/78ef5301-b759-4dda-9995-3ee0d259a7b1
 
-#### 案例 4：宇航员变海葵
+### 案例 4：宇航员变海葵
 
 </td>
 <td width="300">
 
 https://github.com/user-attachments/assets/0cbadb19-8a5b-4a2c-9093-e3a84f3dd988
 
-#### 案例 5：小飞船变魔鬼鱼
+### 案例 5：小飞船变魔鬼鱼
 
 </td>
 </tr>
@@ -229,7 +355,8 @@ Case 5: Change the small ships to stingrays.
 
 ---
 
-#### 案例 6：[1896年火车变换](https://x.com/emollick/status/2057874739817808223)（作者 [@emollick](https://x.com/emollick)） `🎬 Video→Video`
+<a id="案例-61896年火车变换作者-emollick"></a>
+### 案例 6：[1896年火车变换](https://x.com/emollick/status/2057874739817808223)（作者 [@emollick](https://x.com/emollick)） `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/275cc90e-adaa-48ff-9ff8-1e96ea29d44f
 
@@ -241,7 +368,8 @@ I took the famous "train" movie from 1896 & made it a bullet train, LEGO, added 
 
 ---
 
-#### 案例 7：[从视频中移除人物](https://x.com/arrakis_ai/status/2057939231755178439)（作者 [@arrakis_ai](https://x.com/arrakis_ai)） `🎬 Video→Video`
+<a id="案例-7从视频中移除人物作者-arrakis_ai"></a>
+### 案例 7：[从视频中移除人物](https://x.com/arrakis_ai/status/2057939231755178439)（作者 [@arrakis_ai](https://x.com/arrakis_ai)） `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/72379fb2-ac30-4d1e-a6b4-143052f8f061
 
@@ -253,7 +381,8 @@ Remove the person from this video perfectly.
 
 ---
 
-#### 案例 8：隐形小提琴 `🎬 Video→Video`
+<a id="案例-8隐形小提琴"></a>
+### 案例 8：隐形小提琴 `🎬 Video→Video`
 
 <table>
 <tr>
@@ -282,7 +411,8 @@ Make the violin invisible
 
 ---
 
-#### 案例 9：[利用世界知识更换地点](https://x.com/venturetwins/status/2058235415883313361)（作者 [@venturetwins](https://x.com/venturetwins)） `🎬 Video→Video`
+<a id="案例-9利用世界知识更换地点作者-venturetwins"></a>
+### 案例 9：[利用世界知识更换地点](https://x.com/venturetwins/status/2058235415883313361)（作者 [@venturetwins](https://x.com/venturetwins)） `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/daa90750-fc7b-49ea-b85d-364411159663
 
@@ -296,7 +426,8 @@ Re-shoot this video in [location] based on the screenshot from Google Maps.
 
 ---
 
-#### 案例 10：[动画转真人实拍](https://x.com/arrakis_ai/status/2058488373057302797)（作者 [@arrakis_ai](https://x.com/arrakis_ai)） `🎬 Video→Video`
+<a id="案例-10动画转真人实拍作者-arrakis_ai"></a>
+### 案例 10：[动画转真人实拍](https://x.com/arrakis_ai/status/2058488373057302797)（作者 [@arrakis_ai](https://x.com/arrakis_ai)） `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/3c6be2a9-3e67-4deb-8ccd-fb493b715f65
 
@@ -308,7 +439,8 @@ Turn this animation into live action.
 
 ### 🎬 基础场景
 
-#### 案例 1：小提琴手基础镜头 `🔤 Text→Video`
+<a id="案例-1小提琴手基础镜头"></a>
+### 案例 1：小提琴手基础镜头 `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/93de5898-88ee-4bfc-a36f-19d8aa99dfc1
 
@@ -320,7 +452,8 @@ A video of a violinist playing a song.
 
 ### 📷 镜头调度
 
-#### 案例 1：过肩角度 `🎬 Video→Video`
+<a id="案例-1过肩角度"></a>
+### 案例 1：过肩角度 `🎬 Video→Video`
 
 <table>
 <tr>
@@ -349,7 +482,8 @@ Change the camera angle to be over the violinist's shoulder.
 
 ---
 
-#### 案例 2：镜头从鞋子上摇到中景 `🎬 Video→Video`
+<a id="案例-2镜头从鞋子上摇到中景"></a>
+### 案例 2：镜头从鞋子上摇到中景 `🎬 Video→Video`
 
 <table>
 <tr>
@@ -378,7 +512,8 @@ Change the camera angle, a close-up on his shoes, quickly tilting up to medium s
 
 ---
 
-#### 案例 3：[旅行自拍延时摄影](https://x.com/ZaraIrahh/status/2057775215749349520)（作者 [@ZaraIrahh](https://x.com/ZaraIrahh)） `🔤 Text→Video`
+<a id="案例-3旅行自拍延时摄影作者-zarairahh"></a>
+### 案例 3：[旅行自拍延时摄影](https://x.com/ZaraIrahh/status/2057775215749349520)（作者 [@ZaraIrahh](https://x.com/ZaraIrahh)） `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/31fa5a56-6113-4376-873b-5e40d26803f1
 
@@ -390,7 +525,8 @@ Create a 10-second cinematic hyper-lapse selfie travel video of the uploaded fem
 
 ---
 
-#### 案例 4：[时尚无人机镜头](https://x.com/ariaxawan/status/2057794715744084042)（作者 [@ariaxawan](https://x.com/ariaxawan)） `🔤 Text→Video`
+<a id="案例-4时尚无人机镜头作者-ariaxawan"></a>
+### 案例 4：[时尚无人机镜头](https://x.com/ariaxawan/status/2057794715744084042)（作者 [@ariaxawan](https://x.com/ariaxawan)） `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/b199a5ab-e008-4a72-aa03-094bc6d573e6
 
@@ -402,7 +538,8 @@ A 10 second ultra cinematic hyper realistic FPV fashion drone shot filmed in a s
 
 ---
 
-#### 案例 5：[俯视图到360度旋转](https://x.com/npaka123/status/2058033145845575735)（作者 [@npaka123](https://x.com/npaka123)） `🖼️ Image→Video`
+<a id="案例-5俯视图到360度旋转作者-npaka123"></a>
+### 案例 5：[俯视图到360度旋转](https://x.com/npaka123/status/2058033145845575735)（作者 [@npaka123](https://x.com/npaka123)） `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
 
@@ -414,7 +551,8 @@ https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
 
 ---
 
-#### 案例 6：[Omnizoom — 潜入照片](https://x.com/alexanderchen/status/2058330610574221672)（作者 [@alexanderchen](https://x.com/alexanderchen)） `🖼️ Image→Video`
+<a id="案例-6omnizoom--潜入照片作者-alexanderchen"></a>
+### 案例 6：[Omnizoom — 潜入照片](https://x.com/alexanderchen/status/2058330610574221672)（作者 [@alexanderchen](https://x.com/alexanderchen)） `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/9fd3ad2a-6e4a-4ac0-ab29-48f1c303b95f
 
@@ -426,7 +564,8 @@ Omnizoom — diving into a photo.
 
 ### 🎬 动作与同步
 
-#### 案例 1：动物玩具声音 `🎬 Video→Video`
+<a id="案例-1动物玩具声音"></a>
+### 案例 1：动物玩具声音 `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/fbf377d7-1b39-43af-92e6-665792d05de0
 
@@ -438,7 +577,8 @@ When the finger in <video> touches the animal toy play the sound the animal make
 
 ---
 
-#### 案例 2：公寓灯光同步 `🎬+🎵 Video+Audio→Video`
+<a id="案例-2公寓灯光同步"></a>
+### 案例 2：公寓灯光同步 `🎬+🎵 Video+Audio→Video`
 
 <table>
 <tr>
@@ -467,7 +607,8 @@ The lights of the apartments start turning on in sync with the music.
 
 ---
 
-#### 案例 3：弹珠链式反应 `🔤 Text→Video`
+<a id="案例-3弹珠链式反应"></a>
+### 案例 3：弹珠链式反应 `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/1ece8df7-f29a-4ebd-ad68-9c910f811590
 
@@ -479,7 +620,8 @@ A marble rolling fast on a chain reaction style track, continuous smooth shot
 
 ---
 
-#### 案例 4：建筑灯光 `🎬+🎵 Video+Audio→Video`
+<a id="案例-4建筑灯光"></a>
+### 案例 4：建筑灯光 `🎬+🎵 Video+Audio→Video`
 
 <table>
 <tr>
@@ -508,7 +650,8 @@ The lights of the buildings start turning on in sync with the music.
 
 ---
 
-#### 案例 5：[拳击对战写实风格](https://x.com/RuzainaMeer/status/2057785474446741728)（作者 [@RuzainaMeer](https://x.com/RuzainaMeer)） `🔤 Text→Video`
+<a id="案例-5拳击对战写实风格作者-ruzainameer"></a>
+### 案例 5：[拳击对战写实风格](https://x.com/RuzainaMeer/status/2057785474446741728)（作者 [@RuzainaMeer](https://x.com/RuzainaMeer)） `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/6796bf78-8bad-441c-889d-30621ee62cd7
 
@@ -522,7 +665,8 @@ Ultra-realistic 10-second boxing fight between two women inside a small undergro
 
 ### 🪞 艺术风格
 
-#### 案例 1-3：镜子系列 `🎬 Video→Video`
+<a id="案例-1-3镜子系列"></a>
+### 案例 1-3：镜子系列 `🎬 Video→Video`
 
 <table>
 <tr>
@@ -530,21 +674,21 @@ Ultra-realistic 10-second boxing fight between two women inside a small undergro
 
 https://github.com/user-attachments/assets/747cdc6b-f5fa-4482-b745-2839551e9ba2
 
-#### 案例 1：镜面液态金属波纹
+### 案例 1：镜面液态金属波纹
 
 </td>
 <td width="300">
 
 https://github.com/user-attachments/assets/36ea02a2-3716-44aa-9bc2-a5cc1480d0bf
 
-#### 案例 2：镜面线条画
+### 案例 2：镜面线条画
 
 </td>
 <td width="300">
 
 https://github.com/user-attachments/assets/dbca6772-dd7a-4418-a0e6-a39796a91c97
 
-#### 案例 3：镜面布偶
+### 案例 3：镜面布偶
 
 </td>
 </tr>
@@ -566,7 +710,8 @@ Case 3: When the person touches the mirror, the person suddenly transforms into 
 
 ---
 
-#### 案例 4：[动画广告一镜到底](https://x.com/DenneyDara/status/2057844409639551380)（作者 [@DenneyDara](https://x.com/DenneyDara)） `🔤 Text→Video`
+<a id="案例-4动画广告一镜到底作者-denneydara"></a>
+### 案例 4：[动画广告一镜到底](https://x.com/DenneyDara/status/2057844409639551380)（作者 [@DenneyDara](https://x.com/DenneyDara)） `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/edacf1c5-94db-4687-8eaa-f87ebf5fabee
 
@@ -578,7 +723,8 @@ Make a Pixar-style video of an aloe leaf that is walking through the forest that
 
 ---
 
-#### 案例 5：[线条画提取](https://x.com/alexanderchen/status/2057925025915666673)（作者 [@alexanderchen](https://x.com/alexanderchen)） `🎬 Video→Video`
+<a id="案例-5线条画提取作者-alexanderchen"></a>
+### 案例 5：[线条画提取](https://x.com/alexanderchen/status/2057925025915666673)（作者 [@alexanderchen](https://x.com/alexanderchen)） `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/787813c0-2e20-4999-8383-fd76a9b21f91
 
@@ -592,7 +738,8 @@ Extract the key object in this video. Render a video showing that object as a bl
 
 ### ✨ 视觉特效
 
-#### 案例 1：手洞超级变焦 `🎬 Video→Video`
+<a id="案例-1手洞超级变焦"></a>
+### 案例 1：手洞超级变焦 `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/06683ef4-16e0-47b0-93ec-c6222560ee13
 
@@ -604,7 +751,8 @@ Make it look like the weird shape of my hand hole super zooms and magnifies the 
 
 ---
 
-#### 案例 2：滑板运动特效 `🎬 Video→Video`
+<a id="案例-2滑板运动特效"></a>
+### 案例 2：滑板运动特效 `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/44c120a2-38a7-43d7-89fa-a23d0842078c
 
@@ -616,7 +764,8 @@ Edit this keeping everything the same. Add animated motion effects coming out of
 
 ---
 
-#### 案例 3：[AR HUD 叠加](https://x.com/jerrod_lew/status/2058337271947079977)（作者 [@jerrod_lew](https://x.com/jerrod_lew)） `🎬 Video→Video`
+<a id="案例-3ar-hud-叠加作者-jerrod_lew"></a>
+### 案例 3：[AR HUD 叠加](https://x.com/jerrod_lew/status/2058337271947079977)（作者 [@jerrod_lew](https://x.com/jerrod_lew)） `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/04b11cd7-d345-4172-b6e5-38301e73bb77
 
@@ -628,7 +777,8 @@ Create a virtual HUD and UI overlay for this recorded phone video, like an AR gl
 
 ### 🔗 跨模态
 
-#### 案例 1：转移到新环境 `🎬+🖼️ Video+Image→Video`
+<a id="案例-1转移到新环境"></a>
+### 案例 1：转移到新环境 `🎬+🖼️ Video+Image→Video`
 
 <table>
 <tr>
@@ -657,7 +807,8 @@ Transport the violinist to the image environment
 
 ---
 
-#### 案例 2：鸟群形状配合音频 `🎬+🖼️+🎵 Multi-Modal`
+<a id="案例-2鸟群形状配合音频"></a>
+### 案例 2：鸟群形状配合音频 `🎬+🖼️+🎵 Multi-Modal`
 
 <table>
 <tr>
@@ -694,7 +845,8 @@ The birds from <video> loosely form the imperfect shape of a bird based on <imag
 
 ---
 
-#### 案例 3：[幻灯片转动态](https://x.com/yoshifujidesign/status/2058032203175731293)（作者 [@yoshifujidesign](https://x.com/yoshifujidesign)） `🖼️ Image→Video`
+<a id="案例-3幻灯片转动态作者-yoshifujidesign"></a>
+### 案例 3：[幻灯片转动态](https://x.com/yoshifujidesign/status/2058032203175731293)（作者 [@yoshifujidesign](https://x.com/yoshifujidesign)） `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/f07a861b-cd0d-4894-8ef1-b74520c7cbd7
 
@@ -706,7 +858,8 @@ GPT image2でスライド作成 → Gemini Omniでモーション。画面遷移
 
 ---
 
-#### 案例 4：[料理担当等距人物（配合参照图）](https://x.com/kumiko_shiraki/status/2058337185099546885)（作者 [@kumiko_shiraki](https://x.com/kumiko_shiraki)） `🖼️ Image→Video`
+<a id="案例-4料理担当等距人物配合参照图作者-kumiko_shiraki"></a>
+### 案例 4：[料理担当等距人物（配合参照图）](https://x.com/kumiko_shiraki/status/2058337185099546885)（作者 [@kumiko_shiraki](https://x.com/kumiko_shiraki)） `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/d5e9b97e-cefa-4cd8-bf70-4e633020f092
 
@@ -720,7 +873,8 @@ Narrow down reference images and add negative prompts to get closer to your idea
 
 ---
 
-#### 案例 5：[ChatGPT 指示书图像作为输入](https://x.com/Majin_AppSheet/status/2058191091070058846)（作者 [@Majin_AppSheet](https://x.com/Majin_AppSheet)） `🖼️ Image→Video`
+<a id="案例-5chatgpt-指示书图像作为输入作者-majin_appsheet"></a>
+### 案例 5：[ChatGPT 指示书图像作为输入](https://x.com/Majin_AppSheet/status/2058191091070058846)（作者 [@Majin_AppSheet](https://x.com/Majin_AppSheet)） `🖼️ Image→Video`
 
 <table>
 <tr>
@@ -745,7 +899,8 @@ https://github.com/user-attachments/assets/578d6968-c6dd-417a-b6fe-100468851f3d
 
 ---
 
-#### 案例 6：[ChatGPT 插图转 Omni 动画](https://x.com/mmmiyama_D/status/2058654389326516656)（作者 [@mmmiyama_D](https://x.com/mmmiyama_D)） `🖼️ Image→Video`
+<a id="案例-6chatgpt-插图转-omni-动画作者-mmmiyama_d"></a>
+### 案例 6：[ChatGPT 插图转 Omni 动画](https://x.com/mmmiyama_D/status/2058654389326516656)（作者 [@mmmiyama_D](https://x.com/mmmiyama_D)） `🖼️ Image→Video`
 
 <table>
 <tr>
@@ -771,7 +926,8 @@ https://github.com/user-attachments/assets/289e5378-60ad-472b-ba51-da710da81270
 
 ### 📋 分镜
 
-#### 案例 1：[奢华化妆品广告](https://x.com/aiwithaly/status/2057806821138858314)（作者 [@aiwithaly](https://x.com/aiwithaly)） `🔤 Text→Video`
+<a id="案例-1奢华化妆品广告作者-aiwithaly"></a>
+### 案例 1：[奢华化妆品广告](https://x.com/aiwithaly/status/2057806821138858314)（作者 [@aiwithaly](https://x.com/aiwithaly)） `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/6d003859-eb77-4466-9f70-5a76a2269667
 
@@ -783,7 +939,8 @@ Create a cinematic 10-second ultra-realistic luxury cosmetic commercial in a hig
 
 ---
 
-#### 案例 2：让我出现在这个故事中 `🖼️ Image→Video`
+<a id="案例-2让我出现在这个故事中"></a>
+### 案例 2：让我出现在这个故事中 `🖼️ Image→Video`
 
 <table>
 <tr>
@@ -813,7 +970,8 @@ Show me in this story. Follow the story exactly in order starting top left. Enti
 
 ---
 
-#### 案例 3：[3x3 分屏](https://x.com/alexanderchen/status/2057861567396368841)（作者 [@alexanderchen](https://x.com/alexanderchen)） `🎬 Video→Video`
+<a id="案例-33x3-分屏作者-alexanderchen"></a>
+### 案例 3：[3x3 分屏](https://x.com/alexanderchen/status/2057861567396368841)（作者 [@alexanderchen](https://x.com/alexanderchen)） `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/587fc95e-526f-4d8d-94c8-feefe34edba9
 
@@ -825,7 +983,8 @@ Generate a 3x3 split screen video based on different details you see here. Make 
 
 ---
 
-#### 案例 4：[不同角度的动作回放](https://x.com/jerrod_lew/status/2057838324140953773)（作者 [@jerrod_lew](https://x.com/jerrod_lew)） `🎬 Video→Video`
+<a id="案例-4不同角度的动作回放作者-jerrod_lew"></a>
+### 案例 4：[不同角度的动作回放](https://x.com/jerrod_lew/status/2057838324140953773)（作者 [@jerrod_lew](https://x.com/jerrod_lew)） `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/a1179492-74bd-488c-b594-6bc023269c10
 
@@ -837,7 +996,8 @@ Gemini Omni can create action replays from different angles. I referenced a vide
 
 ---
 
-#### 案例 5：[分屏视频](https://x.com/jerrod_lew/status/2057944349846249975)（作者 [@jerrod_lew](https://x.com/jerrod_lew)） `🎬 Video→Video`
+<a id="案例-5分屏视频作者-jerrod_lew"></a>
+### 案例 5：[分屏视频](https://x.com/jerrod_lew/status/2057944349846249975)（作者 [@jerrod_lew](https://x.com/jerrod_lew)） `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/8755d95d-a9b2-4f7c-a56d-bfbbcc47f80e
 
@@ -851,7 +1011,8 @@ Use a reference video and ask the agent for a split screen video.
 
 ### 🔤 文字渲染
 
-#### 案例 1：字母表物品序列 `🔤 Text→Video`
+<a id="案例-1字母表物品序列"></a>
+### 案例 1：字母表物品序列 `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/f7693ec2-ac70-4ac8-813f-8fcb46d90d3d
 
@@ -863,7 +1024,8 @@ The video shows items of the alphabet. An unusual item starting with each letter
 
 ---
 
-#### 案例 2：逐字文字同步 `🔤 Text→Video`
+<a id="案例-2逐字文字同步"></a>
+### 案例 2：逐字文字同步 `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/03620abc-bcb2-4011-a52b-ce13409853c4
 
@@ -875,7 +1037,8 @@ word by word, one word on the screen at a time: did, you, know, that, this, mode
 
 ---
 
-#### 案例 3：[文字渲染 AI 新闻](https://x.com/chrisfirst/status/2057863432469361098)（作者 [@chrisfirst](https://x.com/chrisfirst)） `🔤 Text→Video`
+<a id="案例-3文字渲染-ai-新闻作者-chrisfirst"></a>
+### 案例 3：[文字渲染 AI 新闻](https://x.com/chrisfirst/status/2057863432469361098)（作者 [@chrisfirst](https://x.com/chrisfirst)） `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/e7d23502-1ca0-4f47-be76-47ff05390508
 
@@ -887,7 +1050,8 @@ Static shot we see them turn the page 3 times. Every flip we see content on both
 
 ---
 
-#### 案例 4：[字体时装秀](https://x.com/HBCoop_/status/2057856570558452142)（作者 [@HBCoop_](https://x.com/HBCoop_)） `🔤 Text→Video`
+<a id="案例-4字体时装秀作者-hbcoop_"></a>
+### 案例 4：[字体时装秀](https://x.com/HBCoop_/status/2057856570558452142)（作者 [@HBCoop_](https://x.com/HBCoop_)） `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/395d767c-7d8e-4367-941b-0190da9a0284
 
@@ -899,7 +1063,8 @@ Create a 10-second avant-garde fashion editorial where every outfit is inspired 
 
 ## ⚖️ 对比
 
-#### 案例 1：[Seedance 2.0 vs Gemini Omni Flash](https://x.com/JSFILMZ0412/status/2057926749598736635)（作者 [@JSFILMZ0412](https://x.com/JSFILMZ0412)） `⚖️ Comparison`
+<a id="案例-1seedance-20-vs-gemini-omni-flash作者-jsfilmz0412"></a>
+### 案例 1：[Seedance 2.0 vs Gemini Omni Flash](https://x.com/JSFILMZ0412/status/2057926749598736635)（作者 [@JSFILMZ0412](https://x.com/JSFILMZ0412)） `⚖️ Comparison`
 
 https://github.com/user-attachments/assets/a03e70b5-99c0-4ad8-b26b-9aed6e037f02
 
@@ -907,7 +1072,8 @@ https://github.com/user-attachments/assets/a03e70b5-99c0-4ad8-b26b-9aed6e037f02
 
 ---
 
-#### 案例 2：[Gemini Omni vs Seedance 2.0 动作场景](https://x.com/CuriousRefuge/status/2057929340562907451)（作者 [@CuriousRefuge](https://x.com/CuriousRefuge)） `⚖️ Comparison`
+<a id="案例-2gemini-omni-vs-seedance-20-动作场景作者-curiousrefuge"></a>
+### 案例 2：[Gemini Omni vs Seedance 2.0 动作场景](https://x.com/CuriousRefuge/status/2057929340562907451)（作者 [@CuriousRefuge](https://x.com/CuriousRefuge)） `⚖️ Comparison`
 
 https://github.com/user-attachments/assets/33e09b7d-2357-481d-8536-dab39e75524b
 
@@ -917,7 +1083,8 @@ https://github.com/user-attachments/assets/33e09b7d-2357-481d-8536-dab39e75524b
 
 ## 🧪 评估
 
-#### 案例 1：[Gemini Omni 质量评估](https://x.com/kenichiota0711/status/2057820346850660769)（作者 [@kenichiota0711](https://x.com/kenichiota0711)） `🧪 Evaluation`
+<a id="案例-1gemini-omni-质量评估作者-kenichiota0711"></a>
+### 案例 1：[Gemini Omni 质量评估](https://x.com/kenichiota0711/status/2057820346850660769)（作者 [@kenichiota0711](https://x.com/kenichiota0711)） `🧪 Evaluation`
 
 https://github.com/user-attachments/assets/a9adf476-fac9-4ea2-b5ea-90a50192ccfb
 
@@ -994,6 +1161,13 @@ https://github.com/user-attachments/assets/df8dcb7c-c918-4fc2-b952-0cb2bcdddfee
 </tr>
 </table>
 
+<a id="related-repositories"></a>
+## 🔗 相关仓库
+
+- [查看 EvoLink 视频模型 API 指南](https://github.com/EvoLinkAI/awesome-ai-video-models-api-guide)。
+- [使用 EvoLink Media MCP 仓库](https://github.com/EvoLinkAI/evolink-media-mcp)。
+- [在 EvoLink 上了解 Seedance 2.5](https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=related_seedance)。
+
 ## 🙏 致谢
 
 本仓库的灵感来源于优秀的开放提示词合集和社区分享的示例。
@@ -1008,4 +1182,4 @@ https://github.com/user-attachments/assets/df8dcb7c-c918-4fc2-b952-0cb2bcdddfee
 
 如果你有更多有趣的提示词案例想要分享，欢迎联系我们，帮助我们扩展 Evolink 提示词库。
 
-[![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/awesome-gemini-omni-api-and-prompt&type=Date)](https://www.star-history.com/#EvoLinkAI/awesome-gemini-omni-api-and-prompt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/awesome-gemini-omni-guide-api-and-prompt&type=Date)](https://www.star-history.com/#EvoLinkAI/awesome-gemini-omni-guide-api-and-prompt&Date)

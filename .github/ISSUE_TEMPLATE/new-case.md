@@ -8,6 +8,8 @@ assignees: ''
 
 ## Case Info
 
+**Model version:**
+
 **Category:** 
 <!-- Choose one: Element Replacement / Camera Direction / Action & Sync / Artistic Style / Cross-Modal / Storyboard / Text Rendering / Comparison -->
 
@@ -15,6 +17,8 @@ assignees: ''
 <!-- Choose one: 🎬 Video→Video / 🔤 Text→Video / 🖼️ Image→Video / 🎬+🖼️ Video+Image→Video / 🎬+🎵 Video+Audio→Video / 🎬+🖼️+🎵 Multi-Modal -->
 
 ## Prompt
+
+<!-- Copy the source's published prompt exactly. For a showcase without a copyable published prompt, omit the code block instead of inventing one. -->
 
 ```
 Paste your prompt here
@@ -28,7 +32,7 @@ Paste your prompt here
 
 <!-- Link to original tweet or source (if applicable) -->
 - Author: @
-- Tweet: https://x.com/...
+- Original public source URL:
 
 ## Notes
 
