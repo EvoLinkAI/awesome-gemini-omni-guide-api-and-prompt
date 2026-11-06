@@ -1,40 +1,66 @@
 <div align="center">
 
-<a href="https://evolink.ai/gemini-omni?utm_source=github&utm_medium=banner&utm_campaign=awesome-gemini-omni"><img src="image/logo.png" alt="awesome-gemini-omni-api-and-prompt logo"></a>
+<a href="https://evolink.ai/gemini-omni?utm_source=github&utm_medium=banner&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=readme_banner"><img src="image/guide-banner.svg" width="760" alt="Gemini Omni rehberi ve istem kütüphanesi"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/gemini-omni?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
-[![Model API](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
+[![Gemini Omni 1.2 Flash modelini deneyin](https://img.shields.io/badge/Try_Gemini_Omni_1.2_Flash-EvoLink-black)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=badge&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=model_try)
 
-[![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
-[![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
-[![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md)
-[![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md)
-[![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md)
-[![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md)
-[![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md)
-[![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md)
-[![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md)
-[![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md)
-[![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
+[![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md) [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md) [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md) [![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md) [![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md) [![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md) [![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md) [![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md) [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md) [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md) [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
 </div>
 
-## 🍌 Giriş
-Gemini Omni API ve Prompt deposuna hoş geldiniz! 🤗
-**Google Gemini Omni için dönüştürme, hareket, kamera kontrolü, metin dizileri ve çoklu girdi iş akışları dahil geniş bir yaratıcı görev yelpazesinde yüksek kaliteli promptlar ve video örnekleri topluyoruz.**
-Bu depodaki vakaların çoğu DeepMind resmi demolarından, prompt rehberlerinden ve topluluk deneylerinden derlenmiştir.
-Evolink'te deneyin: [Gemini Omni](https://evolink.ai/gemini-omni?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
-Faydalı bulduysanız, bir yıldız bırakmayı düşünün. ⭐
-> [!NOTE]
-> Bu depo, Evolink üzerinde Gemini Omni video üretimi için yeniden kullanılabilir prompt kalıplarına ve referans vakalara odaklanmaktadır.
+# Gemini Omni 1.2 Flash rehberi ve istem kütüphanesi
 
-## 📰 Haberler
-- **25 Mayıs 2026:** 16 yeni topluluk vakası + yeni Topluluk Galerisi bölümü eklendi
-- **23 Mayıs 2026:** Trend tweetlerden 10 topluluk vitrin vakası eklendi
-- **22 Mayıs 2026:** 25 derlenmiş Gemini Omni prompt ile ilk depo güncellemesi
+## 🍌 Giriş
+**Gemini Omni ailesine ait istemlerin, düzenleme demolarının, karşılaştırmaların ve topluluk videolarının korunduğu bir kütüphaneyle birlikte Gemini Omni 1.2 Flash rehberi.** Bu rehber, içerik üreticilerinin ve geliştiricilerin bir görev seçmesine ve girdi ile çıktı sınırlarını anlamasına yardımcı olur.
+
+> [!NOTE]
+> Önceki istem vakaları, karşılaştırmalar ve topluluk galerisi, Gemini Omni ailesine ait geçmiş materyallerdir. Özgün istemleri, kaynakları ve medya dosyaları korunmuştur; Gemini Omni 1.2 Flash sonuçları veya kıyaslama testleri olarak sunulmazlar.
+
+<a id="omni-1-2-guide"></a>
+## 🆕 Gemini Omni 1.2 Flash
+
+Google, **5 Kasım 2026** tarihinde yayımlanan Gemini Omni 1.2 Flash modelini genel kullanıma açık (GA) olarak listeler. 1.1 sürümüne göre başlıca değişiklikler, ilgili yollarda **15 saniyeye** kadar video üretimi ve **bağımsız video çözünürlüğü yükseltmedir**. [Google model özelliklerini](https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/omni-1-2-flash) ve [EvoLink'in 5 Kasım duyurusunu](https://evolink.ai/changelog?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=release_source#2026-11-05-gemini-omni-1-2-flash) okuyun.
+
+- Metin, görüntü ve video girdileri; eşzamanlı konuşma, müzik ve ses efektleri içeren video çıktısı. Ses dosyası girdisi ve ses düzenleme desteklenmez.
+- Yerel **360p / 720p** çıktı; **1080p / 4K, çözünürlük yükseltmeyle elde edilir**, yerel 4K değildir. Belgelenen çıktı 24 fps olup 16:9 veya 9:16 en-boy oranındadır.
+- Metinden videoya üretim ve tek bir ilk kare görüntüsüyle üretim **3–15 saniyeyi** destekler. İlk ve son kare arasındaki ara kare üretimi **3–10 saniye** ile sınırlı kalır.
+- Video uzatma **3–10 saniye** ekler; bu değer bitmiş videonun toplam süresi değil, eklenen süredir.
+
+### Bir EvoLink görevi seçin
+
+Her görev kendi istek sözleşmesine bağlantı verir. Görev yolunu değiştirmeden önce [tam parametre özetini](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-overview?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=parameter_overview) okuyun.
+
+| Görev | Ne zaman kullanılır? | Görev yoluna özgü sınırlar |
+| :--- | :--- | :--- |
+| [Metinden videoya belgelerini okuyun](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-text-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_text) | Metin isteminden bir çekim oluşturun. | 3–15 saniye. |
+| [Görüntüden videoya belgelerini okuyun](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-image-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_image) | Tek bir ilk kareyi canlandırın veya ilk ve son kareyi birbirine bağlayın. | Bir görüntü: 3–15 saniye; iki görüntü: 3–10 saniye. |
+| [Referanslardan videoya belgelerini okuyun](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-reference-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_reference) | Yeni bir çekimi görüntü veya video referanslarıyla yönlendirin. | En fazla 10 görüntü ve 3 referans video; çıktı süresi 10 saniyeyi aşıyorsa en fazla 1 referans video. |
+| [Video düzenleme belgelerini okuyun](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-video-edit?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_edit) | Var olan bir klibi istem kullanarak değiştirin. | En fazla 15 saniyelik tek bir girdi videosu; isteğe bağlı referans görüntüler; kalite varsayılanı `auto`. |
+| [Video uzatma belgelerini okuyun](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-video-extend?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_extend) | Bir klibin sonunu devam ettirin. | En fazla 30 saniyelik tek bir girdi videosu; 3–10 saniye eklenir. |
+| [Video çözünürlüğü yükseltme belgelerini okuyun](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-video-upscale?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_upscale) | Seçilmiş, tamamlanmış bir klibin çözünürlüğünü artırın. | Desteklenen standart boyutta, en fazla 15 saniyelik girdi; istem gerekmez. Aşağıdaki platform farklarına bakın. |
+
+### Platformlar ve sürümler arasındaki farklar
+
+- **Referanslar:** [AI Studio kullanım rehberi](https://aistudio.google.com/docs/omni) en fazla 6 görüntüye izin verirken Google Cloud ve EvoLink belgelerinde bu sayı 10'dur. Referans video sınırları da çıktı süresine bağlıdır; seçilen platformun sözleşmesini kullanın.
+- **Çözünürlük yükseltme:** Google Cloud, 360p→720p/1080p ve 720p→1080p/4K dönüşümlerini belgeler, 1080p→4K dönüşümünü ise kapsam dışında bırakır. EvoLink belgeleri ayrıca 1080p→4K dönüşümünü listeler. Bu ek eşleşmeyi seçtiğiniz platformla doğrulayın; tüm platformlar için ortak bir garanti değildir. [Google'ın çözünürlük yükseltme kısıtlarını](https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/video/upscale-videos) okuyun.
+- **Konuşma durumu:** Google'ın Interactions API'si konuşma üzerinden düzenlemeyi destekler. EvoLink'in asenkron video görevleri kendi istek sözleşmesini kullanır; `previous_interaction_id` veya yalnızca Google'a özgü diğer parametreleri bu görevlere aktarmayın.
+- **Geçiş:** [Google model sayfası](https://aistudio.google.com/docs/models/gemini-omni-flash), Gemini API'nin kararlı 1.1 kimliğinin 3 Aralık 2026 tarihinde 1.2'ye yönlendirilmesini planlar. Bu, EvoLink'in 1.1 yollarının da taşındığını göstermez. Eski genel kimliği bir takma ad olarak kabul etmek yerine açıkça belirtilen 1.2 görevini seçin.
+- **Maliyet:** EvoLink model sayfası token tabanlı fiyatlandırma gösterir; bir token ücreti, saniye veya tamamlanmış klip başına sabit fiyat değildir. Bir işin maliyetini tahmin etmeden önce güncel görev yolunu, çözünürlüğü ve gerçek kullanımı kontrol edin.
+
+Kaynakların kontrol tarihi: **6 Kasım 2026**.
+
+<a id="quick-start"></a>
+## ⚡ Hızlı başlangıç
+
+[Gemini Omni 1.2 Flash modelini tarayıcınızda deneyin](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=browser_try) veya [güncel görev belgelerini okuyun](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-overview?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=task_docs).
+
+Yukarıdaki görev tablosundan metinden videoya, görüntüden videoya, referanslar, düzenleme, uzatma veya çözünürlük yükseltme seçeneğini belirleyin. Girdiler, sınırlar ve sonuç iş akışı için seçtiğiniz görevin güncel belgelerini izleyin.
 
 ## 📑 Menü
+- [Gemini Omni 1.2 Flash rehberi](#omni-1-2-guide)
+- [Hızlı başlangıç](#quick-start)
+- [Gemini Omni 1.2 resmî demoları](#omni12-demos)
 - [🎯 Prompt Bileşenleri](#-prompt-bileşenleri)
 - [✂️ Düzenleme](#️-düzenleme)
   - [🔄 Eleman Değiştirme](#-eleman-değiştirme)
@@ -94,7 +120,104 @@ Faydalı bulduysanız, bir yıldız bırakmayı düşünün. ⭐
 - [🧪 Değerlendirme](#-değerlendirme)
   - [Vaka 1: Gemini Omni Kalite Değerlendirmesi (@kenichiota0711 tarafından)](#vaka-1-gemini-omni-kalite-değerlendirmesi-kenichiota0711-tarafından)
 - [🌐 Topluluk Galerisi](#-topluluk-galerisi)
+- [İlgili depolar](#related-repositories)
 - [🙏 Teşekkürler](#-teşekkürler)
+
+<a id="omni12-demos"></a>
+## 🎬 Gemini Omni 1.2 demoları
+
+Google tarafından **5 Kasım 2026** tarihinde yayımlanan sekiz resmî demo. [Özgün tanıtım yazısını](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/) okuyun; Google'ın özgün videosunu izlemek için bir önizleme görselini seçin.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-1"></a>
+**[15 saniyelik sanal kıyafet denemesi](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/ECom_Try_On_Demo.mp4)**
+
+[![15 saniyelik sanal kıyafet denemesi](image/omni-1.2/15-second-virtual-try-on.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/ECom_Try_On_Demo.mp4)
+
+Bir model fotoğrafı ve üç kıyafet, 15 saniyelik bir sanal deneme montajına yön verir.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-2"></a>
+**[Katmanlı tipografi animasyonu](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Typographic_Motion_Graphics_Demo.mp4)**
+
+[![Katmanlı tipografi animasyonu](image/omni-1.2/layered-typography-animation.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Typographic_Motion_Graphics_Demo.mp4)
+
+Animasyonlu bir afiş, malzemeleri ve harfleri bir araya getirir; Google, 1.1 ve 1.2 çıktılarını gösterir.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-3"></a>
+**[Konuşmayla arka plan değiştirme](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Video_Background_Editing_Demo.mp4)**
+
+[![Konuşmayla arka plan değiştirme](image/omni-1.2/conversational-background-changes.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Video_Background_Editing_Demo.mp4)
+
+Art arda yapılan konuşmalar, klipteki iki zırhlı karakteri koruyarak arka planı değiştirir.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-4"></a>
+**[Pantheon içinde kesintisiz kamera uçuşu](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Pantheon_Tour_Demo_FuU0KUh.mp4)**
+
+[![Pantheon içinde kesintisiz kamera uçuşu](image/omni-1.2/continuous-pantheon-flythrough.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Pantheon_Tour_Demo_FuU0KUh.mp4)
+
+İki mimari fotoğraf, Pantheon'un kubbesinden geçen kesintisiz bir kamera uçuşuna yön verir.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-5"></a>
+**[15 saniyelik arı kovanı anlatımı](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Bee_Hive_Live_Infographic_Demo_ninuxtc.mp4)**
+
+[![15 saniyelik arı kovanı anlatımı](image/omni-1.2/15-second-beehive-explainer.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Bee_Hive_Live_Infographic_Demo_ninuxtc.mp4)
+
+Tek bir stil referans karesi, dört çekimden oluşan 15 saniyelik resimli bir arı kovanı anlatımına dönüşür.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-6"></a>
+**[Ahtapottan dansçıya hareket aktarımı](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Unexpected_Motion_Tracking_Demo_QRzpS2T.mp4)**
+
+[![Ahtapottan dansçıya hareket aktarımı](image/omni-1.2/octopus-to-dancer-motion-transfer.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Unexpected_Motion_Tracking_Demo_QRzpS2T.mp4)
+
+Sonraki bir düzenleme, bir ahtapotun akıcı hareketini bir dansçının elbisesine aktarır.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-7"></a>
+**[İlk ve son kare arasında ramen dükkânı](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Ramen_Bar_Demo_jeWGtqx.mp4)**
+
+[![İlk ve son kare arasında ramen dükkânı](image/omni-1.2/first-to-last-frame-ramen-shop.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Ramen_Bar_Demo_jeWGtqx.mp4)
+
+İlk ve son kare, bir ramen dükkânının dışını ve içini birbirine bağlar; Google'ın karşılaştırmasında görünür tutarsızlıklar vardır.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-8"></a>
+**[Adadan kesintisiz uzaklaşan çekim](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Castaway_Crash_Zoom_Out_Demo.mp4)**
+
+[![Adadan kesintisiz uzaklaşan çekim](image/omni-1.2/continuous-island-zoom-out.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Castaway_Crash_Zoom_Out_Demo.mp4)
+
+On saniyelik bir çekim, kıyıdaki yakın plandan uzaklaşarak adanın geniş bir görünümüne ulaşır.
+
+</td>
+</tr>
+</table>
 
 ## 🎯 Prompt Bileşenleri
 Gemini Omni güçlü bir **dünya anlayışına** sahiptir — tarih, bilim ve kültür hakkında gerçek dünya bilgisinden yararlanır. Her detayı aşırı açıklamanıza gerek yoktur. Bunun yerine, yaratıcı niyetinizi doğal dilde ifade edin ve Omni'nin muhakemesinin gerisini doldurmasına izin verin.
@@ -118,7 +241,8 @@ Sıfırdan yeni bir video oluştururken, çıktıyı kontrol etmek için bu boyu
 
 ### 🔄 Eleman Değiştirme
 
-#### Vaka 1: Kelebekten Arıya `🎬 Video→Video`
+<a id="vaka-1-kelebekten-arıya"></a>
+### Vaka 1: Kelebekten Arıya `🎬 Video→Video`
 
 <table>
 <tr>
@@ -147,7 +271,8 @@ Change the butterfly to a bee.
 
 ---
 
-#### Vaka 2: Arıdan Ateşböceklerine `🎬 Video→Video`
+<a id="vaka-2-arıdan-ateşböceklerine"></a>
+### Vaka 2: Arıdan Ateşböceklerine `🎬 Video→Video`
 
 <table>
 <tr>
@@ -176,7 +301,8 @@ Change the bee into a small swarm of fireflies.
 
 ---
 
-#### Vaka 3-5: Uzay Gemileri ve Astronot Serisi `🎬 Video→Video`
+<a id="vaka-3-5-uzay-gemileri-ve-astronot-serisi"></a>
+### Vaka 3-5: Uzay Gemileri ve Astronot Serisi `🎬 Video→Video`
 
 <table>
 <tr>
@@ -193,21 +319,21 @@ https://github.com/user-attachments/assets/26ea7e43-9787-4096-82f9-e10543229bec
 
 https://github.com/user-attachments/assets/dd9ae5b1-0205-45ac-a651-258af1c4f12c
 
-#### Vaka 3: Uzay Gemilerini Beyaz Origamiye Dönüştürme
+### Vaka 3: Uzay Gemilerini Beyaz Origamiye Dönüştürme
 
 </td>
 <td width="300">
 
 https://github.com/user-attachments/assets/78ef5301-b759-4dda-9995-3ee0d259a7b1
 
-#### Vaka 4: Astronotu Deniz Anemonuna Dönüştürme
+### Vaka 4: Astronotu Deniz Anemonuna Dönüştürme
 
 </td>
 <td width="300">
 
 https://github.com/user-attachments/assets/0cbadb19-8a5b-4a2c-9093-e3a84f3dd988
 
-#### Vaka 5: Küçük Gemileri Vatoz Balıklarına Dönüştürme
+### Vaka 5: Küçük Gemileri Vatoz Balıklarına Dönüştürme
 
 </td>
 </tr>
@@ -229,7 +355,8 @@ Case 5: Change the small ships to stingrays.
 
 ---
 
-#### Vaka 6: [Tren 1896 Dönüşümü](https://x.com/emollick/status/2057874739817808223) ([@emollick](https://x.com/emollick) tarafından) `🎬 Video→Video`
+<a id="vaka-6-tren-1896-dönüşümü-emollick-tarafından"></a>
+### Vaka 6: [Tren 1896 Dönüşümü](https://x.com/emollick/status/2057874739817808223) ([@emollick](https://x.com/emollick) tarafından) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/275cc90e-adaa-48ff-9ff8-1e96ea29d44f
 
@@ -241,7 +368,8 @@ I took the famous "train" movie from 1896 & made it a bullet train, LEGO, added 
 
 ---
 
-#### Vaka 7: [Videodan Kişi Silme](https://x.com/arrakis_ai/status/2057939231755178439) ([@arrakis_ai](https://x.com/arrakis_ai) tarafından) `🎬 Video→Video`
+<a id="vaka-7-videodan-kişi-silme-arrakis_ai-tarafından"></a>
+### Vaka 7: [Videodan Kişi Silme](https://x.com/arrakis_ai/status/2057939231755178439) ([@arrakis_ai](https://x.com/arrakis_ai) tarafından) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/72379fb2-ac30-4d1e-a6b4-143052f8f061
 
@@ -253,7 +381,8 @@ Remove the person from this video perfectly.
 
 ---
 
-#### Vaka 8: Görünmez Keman `🎬 Video→Video`
+<a id="vaka-8-görünmez-keman"></a>
+### Vaka 8: Görünmez Keman `🎬 Video→Video`
 
 <table>
 <tr>
@@ -282,7 +411,8 @@ Make the violin invisible
 
 ---
 
-#### Vaka 9: [Dünya Bilgisi ile Konum Değişimi](https://x.com/venturetwins/status/2058235415883313361) ([@venturetwins](https://x.com/venturetwins) tarafından) `🎬 Video→Video`
+<a id="vaka-9-dünya-bilgisi-ile-konum-değişimi-venturetwins-tarafından"></a>
+### Vaka 9: [Dünya Bilgisi ile Konum Değişimi](https://x.com/venturetwins/status/2058235415883313361) ([@venturetwins](https://x.com/venturetwins) tarafından) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/daa90750-fc7b-49ea-b85d-364411159663
 
@@ -296,7 +426,8 @@ Re-shoot this video in [location] based on the screenshot from Google Maps.
 
 ---
 
-#### Vaka 10: [Animasyondan Gerçek Çekime](https://x.com/arrakis_ai/status/2058488373057302797) ([@arrakis_ai](https://x.com/arrakis_ai) tarafından) `🎬 Video→Video`
+<a id="vaka-10-animasyondan-gerçek-çekime-arrakis_ai-tarafından"></a>
+### Vaka 10: [Animasyondan Gerçek Çekime](https://x.com/arrakis_ai/status/2058488373057302797) ([@arrakis_ai](https://x.com/arrakis_ai) tarafından) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/3c6be2a9-3e67-4deb-8ccd-fb493b715f65
 
@@ -308,7 +439,8 @@ Turn this animation into live action.
 
 ### 🎬 Temel Sahne
 
-#### Vaka 1: Kemancı Temel Çekim `🔤 Text→Video`
+<a id="vaka-1-kemancı-temel-çekim"></a>
+### Vaka 1: Kemancı Temel Çekim `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/93de5898-88ee-4bfc-a36f-19d8aa99dfc1
 
@@ -320,7 +452,8 @@ A video of a violinist playing a song.
 
 ### 📷 Kamera Yönlendirme
 
-#### Vaka 1: Omuz Üstü Açı `🎬 Video→Video`
+<a id="vaka-1-omuz-üstü-açı"></a>
+### Vaka 1: Omuz Üstü Açı `🎬 Video→Video`
 
 <table>
 <tr>
@@ -349,7 +482,8 @@ Change the camera angle to be over the violinist's shoulder.
 
 ---
 
-#### Vaka 2: Kamera Tilt Ayakkabılardan Orta Çekime `🎬 Video→Video`
+<a id="vaka-2-kamera-tilt-ayakkabılardan-orta-çekime"></a>
+### Vaka 2: Kamera Tilt Ayakkabılardan Orta Çekime `🎬 Video→Video`
 
 <table>
 <tr>
@@ -378,7 +512,8 @@ Change the camera angle, a close-up on his shoes, quickly tilting up to medium s
 
 ---
 
-#### Vaka 3: [Seyahat Selfie Hyperlapse](https://x.com/ZaraIrahh/status/2057775215749349520) ([@ZaraIrahh](https://x.com/ZaraIrahh) tarafından) `🔤 Text→Video`
+<a id="vaka-3-seyahat-selfie-hyperlapse-zarairahh-tarafından"></a>
+### Vaka 3: [Seyahat Selfie Hyperlapse](https://x.com/ZaraIrahh/status/2057775215749349520) ([@ZaraIrahh](https://x.com/ZaraIrahh) tarafından) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/31fa5a56-6113-4376-873b-5e40d26803f1
 
@@ -390,7 +525,8 @@ Create a 10-second cinematic hyper-lapse selfie travel video of the uploaded fem
 
 ---
 
-#### Vaka 4: [Moda Drone Çekimi](https://x.com/ariaxawan/status/2057794715744084042) ([@ariaxawan](https://x.com/ariaxawan) tarafından) `🔤 Text→Video`
+<a id="vaka-4-moda-drone-çekimi-ariaxawan-tarafından"></a>
+### Vaka 4: [Moda Drone Çekimi](https://x.com/ariaxawan/status/2057794715744084042) ([@ariaxawan](https://x.com/ariaxawan) tarafından) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/b199a5ab-e008-4a72-aa03-094bc6d573e6
 
@@ -402,7 +538,8 @@ A 10 second ultra cinematic hyper realistic FPV fashion drone shot filmed in a s
 
 ---
 
-#### Vaka 5: [Üstten Görünümden 360 Dönüşe](https://x.com/npaka123/status/2058033145845575735) ([@npaka123](https://x.com/npaka123) tarafından) `🖼️ Image→Video`
+<a id="vaka-5-üstten-görünümden-360-dönüşe-npaka123-tarafından"></a>
+### Vaka 5: [Üstten Görünümden 360 Dönüşe](https://x.com/npaka123/status/2058033145845575735) ([@npaka123](https://x.com/npaka123) tarafından) `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
 
@@ -414,7 +551,8 @@ https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
 
 ---
 
-#### Vaka 6: [Omnizoom — Bir Fotoğrafa Dalış](https://x.com/alexanderchen/status/2058330610574221672) ([@alexanderchen](https://x.com/alexanderchen) tarafından) `🖼️ Image→Video`
+<a id="vaka-6-omnizoom--bir-fotoğrafa-dalış-alexanderchen-tarafından"></a>
+### Vaka 6: [Omnizoom — Bir Fotoğrafa Dalış](https://x.com/alexanderchen/status/2058330610574221672) ([@alexanderchen](https://x.com/alexanderchen) tarafından) `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/9fd3ad2a-6e4a-4ac0-ab29-48f1c303b95f
 
@@ -426,7 +564,8 @@ Omnizoom — diving into a photo.
 
 ### 🎬 Aksiyon ve Senkronizasyon
 
-#### Vaka 1: Hayvan Oyuncağı Sesi `🎬 Video→Video`
+<a id="vaka-1-hayvan-oyuncağı-sesi"></a>
+### Vaka 1: Hayvan Oyuncağı Sesi `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/fbf377d7-1b39-43af-92e6-665792d05de0
 
@@ -438,7 +577,8 @@ When the finger in <video> touches the animal toy play the sound the animal make
 
 ---
 
-#### Vaka 2: Apartman Işıkları Senkronizasyonu `🎬+🎵 Video+Audio→Video`
+<a id="vaka-2-apartman-ışıkları-senkronizasyonu"></a>
+### Vaka 2: Apartman Işıkları Senkronizasyonu `🎬+🎵 Video+Audio→Video`
 
 <table>
 <tr>
@@ -467,7 +607,8 @@ The lights of the apartments start turning on in sync with the music.
 
 ---
 
-#### Vaka 3: Bilye Zincirleme Reaksiyon `🔤 Text→Video`
+<a id="vaka-3-bilye-zincirleme-reaksiyon"></a>
+### Vaka 3: Bilye Zincirleme Reaksiyon `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/1ece8df7-f29a-4ebd-ad68-9c910f811590
 
@@ -479,7 +620,8 @@ A marble rolling fast on a chain reaction style track, continuous smooth shot
 
 ---
 
-#### Vaka 4: Bina Işıkları `🎬+🎵 Video+Audio→Video`
+<a id="vaka-4-bina-ışıkları"></a>
+### Vaka 4: Bina Işıkları `🎬+🎵 Video+Audio→Video`
 
 <table>
 <tr>
@@ -508,7 +650,8 @@ The lights of the buildings start turning on in sync with the music.
 
 ---
 
-#### Vaka 5: [Boks Maçı Gerçekçi](https://x.com/RuzainaMeer/status/2057785474446741728) ([@RuzainaMeer](https://x.com/RuzainaMeer) tarafından) `🔤 Text→Video`
+<a id="vaka-5-boks-maçı-gerçekçi-ruzainameer-tarafından"></a>
+### Vaka 5: [Boks Maçı Gerçekçi](https://x.com/RuzainaMeer/status/2057785474446741728) ([@RuzainaMeer](https://x.com/RuzainaMeer) tarafından) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/6796bf78-8bad-441c-889d-30621ee62cd7
 
@@ -522,7 +665,8 @@ Ultra-realistic 10-second boxing fight between two women inside a small undergro
 
 ### 🪞 Sanatsal Stil
 
-#### Vaka 1-3: Ayna Serisi `🎬 Video→Video`
+<a id="vaka-1-3-ayna-serisi"></a>
+### Vaka 1-3: Ayna Serisi `🎬 Video→Video`
 
 <table>
 <tr>
@@ -530,21 +674,21 @@ Ultra-realistic 10-second boxing fight between two women inside a small undergro
 
 https://github.com/user-attachments/assets/747cdc6b-f5fa-4482-b745-2839551e9ba2
 
-#### Vaka 1: Ayna Sıvı Metal Dalgalanma
+### Vaka 1: Ayna Sıvı Metal Dalgalanma
 
 </td>
 <td width="300">
 
 https://github.com/user-attachments/assets/36ea02a2-3716-44aa-9bc2-a5cc1480d0bf
 
-#### Vaka 2: Ayna Çizgi Sanatı
+### Vaka 2: Ayna Çizgi Sanatı
 
 </td>
 <td width="300">
 
 https://github.com/user-attachments/assets/dbca6772-dd7a-4418-a0e6-a39796a91c97
 
-#### Vaka 3: Ayna Kukla
+### Vaka 3: Ayna Kukla
 
 </td>
 </tr>
@@ -566,7 +710,8 @@ Case 3: When the person touches the mirror, the person suddenly transforms into 
 
 ---
 
-#### Vaka 4: [Animasyon Reklam Tek Çekim](https://x.com/DenneyDara/status/2057844409639551380) ([@DenneyDara](https://x.com/DenneyDara) tarafından) `🔤 Text→Video`
+<a id="vaka-4-animasyon-reklam-tek-çekim-denneydara-tarafından"></a>
+### Vaka 4: [Animasyon Reklam Tek Çekim](https://x.com/DenneyDara/status/2057844409639551380) ([@DenneyDara](https://x.com/DenneyDara) tarafından) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/edacf1c5-94db-4687-8eaa-f87ebf5fabee
 
@@ -578,7 +723,8 @@ Make a Pixar-style video of an aloe leaf that is walking through the forest that
 
 ---
 
-#### Vaka 5: [Çizgi Çizim İzolasyonu](https://x.com/alexanderchen/status/2057925025915666673) ([@alexanderchen](https://x.com/alexanderchen) tarafından) `🎬 Video→Video`
+<a id="vaka-5-çizgi-çizim-i̇zolasyonu-alexanderchen-tarafından"></a>
+### Vaka 5: [Çizgi Çizim İzolasyonu](https://x.com/alexanderchen/status/2057925025915666673) ([@alexanderchen](https://x.com/alexanderchen) tarafından) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/787813c0-2e20-4999-8383-fd76a9b21f91
 
@@ -590,7 +736,8 @@ Extract the key object in this video. Render a video showing that object as a bl
 
 ### ✨ Görsel Efektler
 
-#### Vaka 1: El Deliği Süper Yakınlaştırma `🎬 Video→Video`
+<a id="vaka-1-el-deliği-süper-yakınlaştırma"></a>
+### Vaka 1: El Deliği Süper Yakınlaştırma `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/06683ef4-16e0-47b0-93ec-c6222560ee13
 
@@ -602,7 +749,8 @@ Make it look like the weird shape of my hand hole super zooms and magnifies the 
 
 ---
 
-#### Vaka 2: Kaykay Hareket Efektleri `🎬 Video→Video`
+<a id="vaka-2-kaykay-hareket-efektleri"></a>
+### Vaka 2: Kaykay Hareket Efektleri `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/44c120a2-38a7-43d7-89fa-a23d0842078c
 
@@ -614,7 +762,8 @@ Edit this keeping everything the same. Add animated motion effects coming out of
 
 ---
 
-#### Vaka 3: [AR HUD Bindirme](https://x.com/jerrod_lew/status/2058337271947079977) ([@jerrod_lew](https://x.com/jerrod_lew) tarafından) `🎬 Video→Video`
+<a id="vaka-3-ar-hud-bindirme-jerrod_lew-tarafından"></a>
+### Vaka 3: [AR HUD Bindirme](https://x.com/jerrod_lew/status/2058337271947079977) ([@jerrod_lew](https://x.com/jerrod_lew) tarafından) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/04b11cd7-d345-4172-b6e5-38301e73bb77
 
@@ -626,7 +775,8 @@ Create a virtual HUD and UI overlay for this recorded phone video, like an AR gl
 
 ### 🔗 Çapraz Modal
 
-#### Vaka 1: Yeni Ortama Taşıma `🎬+🖼️ Video+Image→Video`
+<a id="vaka-1-yeni-ortama-taşıma"></a>
+### Vaka 1: Yeni Ortama Taşıma `🎬+🖼️ Video+Image→Video`
 
 <table>
 <tr>
@@ -655,7 +805,8 @@ Transport the violinist to the image environment
 
 ---
 
-#### Vaka 2: Sesli Kuş Şekli `🎬+🖼️+🎵 Multi-Modal`
+<a id="vaka-2-sesli-kuş-şekli"></a>
+### Vaka 2: Sesli Kuş Şekli `🎬+🖼️+🎵 Multi-Modal`
 
 <table>
 <tr>
@@ -692,7 +843,8 @@ The birds from <video> loosely form the imperfect shape of a bird based on <imag
 
 ---
 
-#### Vaka 3: [Slayttan Harekete](https://x.com/yoshifujidesign/status/2058032203175731293) ([@yoshifujidesign](https://x.com/yoshifujidesign) tarafından) `🖼️ Image→Video`
+<a id="vaka-3-slayttan-harekete-yoshifujidesign-tarafından"></a>
+### Vaka 3: [Slayttan Harekete](https://x.com/yoshifujidesign/status/2058032203175731293) ([@yoshifujidesign](https://x.com/yoshifujidesign) tarafından) `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/f07a861b-cd0d-4894-8ef1-b74520c7cbd7
 
@@ -704,7 +856,8 @@ GPT image2でスライド作成 → Gemini Omniでモーション。画面遷移
 
 ---
 
-#### Vaka 4: [Referans Görselli İzometrik Aşçı Karakter](https://x.com/kumiko_shiraki/status/2058337185099546885) ([@kumiko_shiraki](https://x.com/kumiko_shiraki) tarafından) `🖼️ Image→Video`
+<a id="vaka-4-referans-görselli-i̇zometrik-aşçı-karakter-kumiko_shiraki-tarafından"></a>
+### Vaka 4: [Referans Görselli İzometrik Aşçı Karakter](https://x.com/kumiko_shiraki/status/2058337185099546885) ([@kumiko_shiraki](https://x.com/kumiko_shiraki) tarafından) `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/d5e9b97e-cefa-4cd8-bf70-4e633020f092
 
@@ -718,7 +871,8 @@ Narrow down reference images and add negative prompts to get closer to your idea
 
 ---
 
-#### Vaka 5: [Girdi Olarak ChatGPT Talimat Görseli](https://x.com/Majin_AppSheet/status/2058191091070058846) ([@Majin_AppSheet](https://x.com/Majin_AppSheet) tarafından) `🖼️ Image→Video`
+<a id="vaka-5-girdi-olarak-chatgpt-talimat-görseli-majin_appsheet-tarafından"></a>
+### Vaka 5: [Girdi Olarak ChatGPT Talimat Görseli](https://x.com/Majin_AppSheet/status/2058191091070058846) ([@Majin_AppSheet](https://x.com/Majin_AppSheet) tarafından) `🖼️ Image→Video`
 
 <table>
 <tr>
@@ -743,7 +897,8 @@ https://github.com/user-attachments/assets/578d6968-c6dd-417a-b6fe-100468851f3d
 
 ---
 
-#### Vaka 6: [ChatGPT İllüstrasyonundan Omni Animasyonuna](https://x.com/mmmiyama_D/status/2058654389326516656) ([@mmmiyama_D](https://x.com/mmmiyama_D) tarafından) `🖼️ Image→Video`
+<a id="vaka-6-chatgpt-i̇llüstrasyonundan-omni-animasyonuna-mmmiyama_d-tarafından"></a>
+### Vaka 6: [ChatGPT İllüstrasyonundan Omni Animasyonuna](https://x.com/mmmiyama_D/status/2058654389326516656) ([@mmmiyama_D](https://x.com/mmmiyama_D) tarafından) `🖼️ Image→Video`
 
 <table>
 <tr>
@@ -769,7 +924,8 @@ https://github.com/user-attachments/assets/289e5378-60ad-472b-ba51-da710da81270
 
 ### 📋 Storyboard
 
-#### Vaka 1: [Lüks Kozmetik Reklamı](https://x.com/aiwithaly/status/2057806821138858314) ([@aiwithaly](https://x.com/aiwithaly) tarafından) `🔤 Text→Video`
+<a id="vaka-1-lüks-kozmetik-reklamı-aiwithaly-tarafından"></a>
+### Vaka 1: [Lüks Kozmetik Reklamı](https://x.com/aiwithaly/status/2057806821138858314) ([@aiwithaly](https://x.com/aiwithaly) tarafından) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/6d003859-eb77-4466-9f70-5a76a2269667
 
@@ -781,7 +937,8 @@ Create a cinematic 10-second ultra-realistic luxury cosmetic commercial in a hig
 
 ---
 
-#### Vaka 2: Beni Bu Hikayede Göster `🖼️ Image→Video`
+<a id="vaka-2-beni-bu-hikayede-göster"></a>
+### Vaka 2: Beni Bu Hikayede Göster `🖼️ Image→Video`
 
 <table>
 <tr>
@@ -811,7 +968,8 @@ Show me in this story. Follow the story exactly in order starting top left. Enti
 
 ---
 
-#### Vaka 3: [3x3 Bölünmüş Ekran](https://x.com/alexanderchen/status/2057861567396368841) ([@alexanderchen](https://x.com/alexanderchen) tarafından) `🎬 Video→Video`
+<a id="vaka-3-3x3-bölünmüş-ekran-alexanderchen-tarafından"></a>
+### Vaka 3: [3x3 Bölünmüş Ekran](https://x.com/alexanderchen/status/2057861567396368841) ([@alexanderchen](https://x.com/alexanderchen) tarafından) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/587fc95e-526f-4d8d-94c8-feefe34edba9
 
@@ -823,7 +981,8 @@ Generate a 3x3 split screen video based on different details you see here. Make 
 
 ---
 
-#### Vaka 4: [Farklı Açılardan Aksiyon Tekrarı](https://x.com/jerrod_lew/status/2057838324140953773) ([@jerrod_lew](https://x.com/jerrod_lew) tarafından) `🎬 Video→Video`
+<a id="vaka-4-farklı-açılardan-aksiyon-tekrarı-jerrod_lew-tarafından"></a>
+### Vaka 4: [Farklı Açılardan Aksiyon Tekrarı](https://x.com/jerrod_lew/status/2057838324140953773) ([@jerrod_lew](https://x.com/jerrod_lew) tarafından) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/a1179492-74bd-488c-b594-6bc023269c10
 
@@ -835,7 +994,8 @@ Gemini Omni can create action replays from different angles. I referenced a vide
 
 ---
 
-#### Vaka 5: [Bölünmüş Ekran Video](https://x.com/jerrod_lew/status/2057944349846249975) ([@jerrod_lew](https://x.com/jerrod_lew) tarafından) `🎬 Video→Video`
+<a id="vaka-5-bölünmüş-ekran-video-jerrod_lew-tarafından"></a>
+### Vaka 5: [Bölünmüş Ekran Video](https://x.com/jerrod_lew/status/2057944349846249975) ([@jerrod_lew](https://x.com/jerrod_lew) tarafından) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/8755d95d-a9b2-4f7c-a56d-bfbbcc47f80e
 
@@ -847,7 +1007,8 @@ Use a reference video and ask the agent for a split screen video.
 
 ### 🔤 Metin Oluşturma
 
-#### Vaka 1: Alfabe Öğeleri Dizisi `🔤 Text→Video`
+<a id="vaka-1-alfabe-öğeleri-dizisi"></a>
+### Vaka 1: Alfabe Öğeleri Dizisi `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/f7693ec2-ac70-4ac8-813f-8fcb46d90d3d
 
@@ -859,7 +1020,8 @@ The video shows items of the alphabet. An unusual item starting with each letter
 
 ---
 
-#### Vaka 2: Kelime Kelime Metin Senkronizasyonu `🔤 Text→Video`
+<a id="vaka-2-kelime-kelime-metin-senkronizasyonu"></a>
+### Vaka 2: Kelime Kelime Metin Senkronizasyonu `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/03620abc-bcb2-4011-a52b-ce13409853c4
 
@@ -871,7 +1033,8 @@ word by word, one word on the screen at a time: did, you, know, that, this, mode
 
 ---
 
-#### Vaka 3: [Metin Oluşturma AI Haberleri](https://x.com/chrisfirst/status/2057863432469361098) ([@chrisfirst](https://x.com/chrisfirst) tarafından) `🔤 Text→Video`
+<a id="vaka-3-metin-oluşturma-ai-haberleri-chrisfirst-tarafından"></a>
+### Vaka 3: [Metin Oluşturma AI Haberleri](https://x.com/chrisfirst/status/2057863432469361098) ([@chrisfirst](https://x.com/chrisfirst) tarafından) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/e7d23502-1ca0-4f47-be76-47ff05390508
 
@@ -883,7 +1046,8 @@ Static shot we see them turn the page 3 times. Every flip we see content on both
 
 ---
 
-#### Vaka 4: [Font Moda Defilesi](https://x.com/HBCoop_/status/2057856570558452142) ([@HBCoop_](https://x.com/HBCoop_) tarafından) `🔤 Text→Video`
+<a id="vaka-4-font-moda-defilesi-hbcoop_-tarafından"></a>
+### Vaka 4: [Font Moda Defilesi](https://x.com/HBCoop_/status/2057856570558452142) ([@HBCoop_](https://x.com/HBCoop_) tarafından) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/395d767c-7d8e-4367-941b-0190da9a0284
 
@@ -895,7 +1059,8 @@ Create a 10-second avant-garde fashion editorial where every outfit is inspired 
 
 ## ⚖️ Karşılaştırma
 
-#### Vaka 1: [Seedance 2.0 vs Gemini Omni Flash](https://x.com/JSFILMZ0412/status/2057926749598736635) ([@JSFILMZ0412](https://x.com/JSFILMZ0412) tarafından) `⚖️ Comparison`
+<a id="vaka-1-seedance-20-vs-gemini-omni-flash-jsfilmz0412-tarafından"></a>
+### Vaka 1: [Seedance 2.0 vs Gemini Omni Flash](https://x.com/JSFILMZ0412/status/2057926749598736635) ([@JSFILMZ0412](https://x.com/JSFILMZ0412) tarafından) `⚖️ Comparison`
 
 https://github.com/user-attachments/assets/a03e70b5-99c0-4ad8-b26b-9aed6e037f02
 
@@ -903,7 +1068,8 @@ https://github.com/user-attachments/assets/a03e70b5-99c0-4ad8-b26b-9aed6e037f02
 
 ---
 
-#### Vaka 2: [Gemini Omni vs Seedance 2.0 Aksiyon Sahneleri](https://x.com/CuriousRefuge/status/2057929340562907451) ([@CuriousRefuge](https://x.com/CuriousRefuge) tarafından) `⚖️ Comparison`
+<a id="vaka-2-gemini-omni-vs-seedance-20-aksiyon-sahneleri-curiousrefuge-tarafından"></a>
+### Vaka 2: [Gemini Omni vs Seedance 2.0 Aksiyon Sahneleri](https://x.com/CuriousRefuge/status/2057929340562907451) ([@CuriousRefuge](https://x.com/CuriousRefuge) tarafından) `⚖️ Comparison`
 
 https://github.com/user-attachments/assets/33e09b7d-2357-481d-8536-dab39e75524b
 
@@ -911,7 +1077,8 @@ https://github.com/user-attachments/assets/33e09b7d-2357-481d-8536-dab39e75524b
 
 ## 🧪 Değerlendirme
 
-#### Vaka 1: [Gemini Omni Kalite Değerlendirmesi](https://x.com/kenichiota0711/status/2057820346850660769) ([@kenichiota0711](https://x.com/kenichiota0711) tarafından) `🧪 Evaluation`
+<a id="vaka-1-gemini-omni-kalite-değerlendirmesi-kenichiota0711-tarafından"></a>
+### Vaka 1: [Gemini Omni Kalite Değerlendirmesi](https://x.com/kenichiota0711/status/2057820346850660769) ([@kenichiota0711](https://x.com/kenichiota0711) tarafından) `🧪 Evaluation`
 
 https://github.com/user-attachments/assets/a9adf476-fac9-4ea2-b5ea-90a50192ccfb
 
@@ -988,6 +1155,13 @@ https://github.com/user-attachments/assets/df8dcb7c-c918-4fc2-b952-0cb2bcdddfee
 </tr>
 </table>
 
+<a id="related-repositories"></a>
+## 🔗 İlgili depolar
+
+- [EvoLink video modelleri API rehberini inceleyin](https://github.com/EvoLinkAI/awesome-ai-video-models-api-guide).
+- [EvoLink Media MCP deposunu kullanın](https://github.com/EvoLinkAI/evolink-media-mcp).
+- [EvoLink'te Seedance 2.5 modelini inceleyin](https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=related_seedance).
+
 ## 🙏 Teşekkürler
 
 Bu depo, mükemmel açık prompt koleksiyonlarından ve topluluk tarafından paylaşılan örneklerden ilham almıştır.
@@ -1002,4 +1176,4 @@ Bu vaka çalışmalarını mümkün kılan resmi Gemini Omni demolarını ve pro
 
 Paylaşacak daha ilginç prompt vakalarınız varsa, Evolink prompt kütüphanesini genişletmemize yardımcı olmak için bize ulaşmaktan çekinmeyin.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/awesome-gemini-omni-api-and-prompt&type=Date)](https://www.star-history.com/#EvoLinkAI/awesome-gemini-omni-api-and-prompt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/awesome-gemini-omni-guide-api-and-prompt&type=Date)](https://www.star-history.com/#EvoLinkAI/awesome-gemini-omni-guide-api-and-prompt&Date)

@@ -1,40 +1,66 @@
 <div align="center">
 
-<a href="https://evolink.ai/gemini-omni?utm_source=github&utm_medium=banner&utm_campaign=awesome-gemini-omni"><img src="image/logo.png" alt="awesome-gemini-omni-api-and-prompt logo"></a>
+<a href="https://evolink.ai/gemini-omni?utm_source=github&utm_medium=banner&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=readme_banner"><img src="image/guide-banner.svg" width="760" alt="Guide et bibliothèque de prompts Gemini Omni"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/gemini-omni?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
-[![Model API](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
+[![Essayer Gemini Omni 1.2 Flash](https://img.shields.io/badge/Try_Gemini_Omni_1.2_Flash-EvoLink-black)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=badge&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=model_try)
 
-[![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
-[![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
-[![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md)
-[![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md)
-[![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md)
-[![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md)
-[![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md)
-[![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md)
-[![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md)
-[![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md)
-[![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
+[![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md) [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md) [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md) [![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md) [![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md) [![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md) [![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md) [![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md) [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md) [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md) [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
 </div>
 
-## 🍌 Introduction
-Bienvenue dans le dépôt Gemini Omni API et Prompts ! 🤗
-**Nous collectons des prompts de haute qualité et des exemples vidéo pour Google Gemini Omni couvrant un large éventail de tâches créatives incluant la transformation, le mouvement, le contrôle de caméra, les séquences de texte et les flux de travail multi-entrées.**
-La plupart des cas de ce dépôt sont sélectionnés à partir de démos officielles DeepMind, de guides de prompts et d'expériences communautaires.
-Essayez-le sur Evolink : [Gemini Omni](https://evolink.ai/gemini-omni?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni)
-Si vous trouvez cela utile, pensez à mettre une étoile. ⭐
-> [!NOTE]
-> Ce dépôt se concentre sur les modèles de prompts réutilisables et les cas de référence pour la génération vidéo Gemini Omni sur Evolink.
+# Gemini Omni 1.2 Flash : guide et bibliothèque de prompts
 
-## 📰 Actualités
-- **25 mai 2026 :** Ajout de 16 nouveaux cas communautaires + nouvelle section Galerie Communautaire
-- **23 mai 2026 :** Ajout de 10 cas de démonstration communautaire issus de tweets tendance
-- **22 mai 2026 :** Première mise à jour du dépôt avec 25 prompts Gemini Omni sélectionnés
+## 🍌 Introduction
+**Un guide de Gemini Omni 1.2 Flash, accompagné d’une bibliothèque préservée de prompts, de démonstrations d’édition, de comparaisons et de vidéos communautaires de la famille Gemini Omni.** Ce guide aide les créateurs et les développeurs à choisir une tâche et à comprendre ses limites d’entrée et de sortie.
+
+> [!NOTE]
+> Les anciens cas de prompts, les comparaisons et la galerie communautaire sont des contenus historiques de la famille Gemini Omni. Leurs prompts, sources et médias d’origine sont conservés ; ils ne sont pas présentés comme des résultats ou des benchmarks de Gemini Omni 1.2 Flash.
+
+<a id="omni-1-2-guide"></a>
+## 🆕 Gemini Omni 1.2 Flash
+
+Google indique que Gemini Omni 1.2 Flash est disponible en version générale (GA), avec une sortie le **5 novembre 2026**. Ses principales évolutions par rapport à la version 1.1 sont une génération allant jusqu’à **15 secondes** sur les routes compatibles et la **mise à l’échelle vidéo indépendante**. Consultez la [fiche technique du modèle Google](https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/omni-1-2-flash) et l’[annonce EvoLink du 5 novembre](https://evolink.ai/changelog?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=release_source#2026-11-05-gemini-omni-1-2-flash).
+
+- Entrées texte, image et vidéo ; sortie vidéo avec parole, musique et effets sonores synchronisés. Les fichiers audio en entrée et l’édition du son ne sont pas pris en charge.
+- Sortie native en **360p / 720p** ; le **1080p / 4K est obtenu par mise à l’échelle**, ce n’est pas du 4K natif. La sortie documentée est de 24 images par seconde, en 16:9 ou 9:16.
+- Le texte vers vidéo et la génération à partir d’une image initiale permettent **3–15 secondes**. L’interpolation entre les images initiale et finale reste limitée à **3–10 secondes**.
+- L’extension ajoute **3–10 secondes** ; cette valeur correspond à la durée ajoutée, pas à la durée totale du résultat final.
+
+### Choisir une tâche EvoLink
+
+Chaque tâche renvoie à son propre contrat de requête. Consultez la [documentation complète des paramètres](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-overview?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=parameter_overview) avant de changer de route.
+
+| Tâche | Quand l’utiliser | Limites propres à la route |
+| :--- | :--- | :--- |
+| [Consulter la documentation texte vers vidéo](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-text-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_text) | Créer un plan à partir d’un prompt texte. | 3–15 secondes. |
+| [Consulter la documentation image vers vidéo](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-image-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_image) | Animer une image initiale ou relier les images initiale et finale. | Une image : 3–15 secondes ; deux images : 3–10 secondes. |
+| [Consulter la documentation références vers vidéo](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-reference-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_reference) | Guider un nouveau plan à l’aide de références image ou vidéo. | Jusqu’à 10 images et 3 vidéos de référence ; au-delà de 10 secondes, au maximum 1 vidéo de référence. |
+| [Consulter la documentation d’édition vidéo](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-video-edit?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_edit) | Modifier un clip existant à l’aide d’un prompt. | Une vidéo d’entrée de 15 secondes maximum ; images de référence facultatives ; qualité définie sur `auto` par défaut. |
+| [Consulter la documentation d’extension vidéo](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-video-extend?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_extend) | Poursuivre la fin d’un clip. | Une vidéo d’entrée de 30 secondes maximum ; ajout de 3–10 secondes. |
+| [Consulter la documentation de mise à l’échelle vidéo](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-video-upscale?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_upscale) | Augmenter la résolution d’un clip terminé et sélectionné. | Entrée de 15 secondes maximum dans une taille standard prise en charge ; sans prompt. Voir la distinction entre plateformes ci-dessous. |
+
+### Distinctions entre plateformes et versions
+
+- **Références :** Le [guide d’utilisation d’AI Studio](https://aistudio.google.com/docs/omni) autorise jusqu’à 6 images, tandis que Google Cloud et EvoLink en documentent jusqu’à 10. Les limites des vidéos de référence dépendent aussi de la durée de sortie ; utilisez le contrat de la plateforme choisie.
+- **Mise à l’échelle :** Google Cloud documente 360p→720p/1080p et 720p→1080p/4K, et exclut 1080p→4K. La documentation d’EvoLink mentionne également 1080p→4K. Confirmez cette combinaison supplémentaire auprès de la plateforme choisie ; elle ne constitue pas une garantie commune à toutes les plateformes. Consultez les [contraintes de mise à l’échelle de Google](https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/video/upscale-videos).
+- **État de la conversation :** L’Interactions API de Google permet l’édition conversationnelle. Les tâches vidéo asynchrones d’EvoLink utilisent leur propre contrat de requête ; ne leur transmettez pas `previous_interaction_id` ni d’autres paramètres propres à Google.
+- **Migration :** La [page du modèle Google](https://aistudio.google.com/docs/models/gemini-omni-flash) prévoit que l’ID stable 1.1 de la Gemini API sera redirigé vers la version 1.2 le 3 décembre 2026. Cela ne prouve pas la migration des routes 1.1 d’EvoLink. Sélectionnez explicitement la tâche 1.2 plutôt que de considérer l’ancien ID générique comme un alias.
+- **Coût :** La page du modèle EvoLink affiche une tarification par token ; un tarif par token n’est pas un prix fixe par seconde ou par clip terminé. Vérifiez la route actuelle, la résolution et l’usage réel avant d’estimer le coût d’une tâche.
+
+Sources vérifiées le **6 novembre 2026**.
+
+<a id="quick-start"></a>
+## ⚡ Démarrage rapide
+
+[Essayer Gemini Omni 1.2 Flash dans votre navigateur](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=browser_try) ou [consulter la documentation actuelle des tâches](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-overview?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=task_docs).
+
+Choisissez texte vers vidéo, image vers vidéo, références, édition, extension ou mise à l’échelle dans le tableau des tâches ci-dessus. Suivez la documentation actuelle de la tâche choisie pour connaître les données d’entrée, les limites et la procédure d’obtention du résultat.
 
 ## 📑 Menu
+- [Guide de Gemini Omni 1.2 Flash](#omni-1-2-guide)
+- [Démarrage rapide](#quick-start)
+- [Démonstrations officielles de Gemini Omni 1.2](#omni12-demos)
 - [🎯 Ingrédients du Prompt](#-ingrédients-du-prompt)
 - [✂️ Édition](#️-édition)
   - [🔄 Remplacement d'éléments](#-remplacement-déléments)
@@ -94,7 +120,104 @@ Si vous trouvez cela utile, pensez à mettre une étoile. ⭐
 - [🧪 Évaluation](#-évaluation)
   - [Cas 1 : Évaluation de la qualité Gemini Omni (par @kenichiota0711)](#cas-1--évaluation-de-la-qualité-gemini-omni-par-kenichiota0711)
 - [🌐 Galerie Communautaire](#-galerie-communautaire)
+- [Dépôts associés](#related-repositories)
 - [🙏 Remerciements](#-remerciements)
+
+<a id="omni12-demos"></a>
+## 🎬 Démonstrations de Gemini Omni 1.2
+
+Huit démonstrations officielles publiées par Google le **5 novembre 2026**. Consultez l’[article de lancement original](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/); sélectionnez une image d’aperçu pour regarder la vidéo originale de Google.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-1"></a>
+**[Essayage virtuel de 15 secondes](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/ECom_Try_On_Demo.mp4)**
+
+[![Essayage virtuel de 15 secondes](image/omni-1.2/15-second-virtual-try-on.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/ECom_Try_On_Demo.mp4)
+
+Une photo de mannequin et trois tenues guident un montage d’essayage de 15 secondes.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-2"></a>
+**[Animation typographique en couches](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Typographic_Motion_Graphics_Demo.mp4)**
+
+[![Animation typographique en couches](image/omni-1.2/layered-typography-animation.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Typographic_Motion_Graphics_Demo.mp4)
+
+Une affiche animée assemble des matériaux et des lettres ; Google présente les résultats des versions 1.1 et 1.2.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-3"></a>
+**[Changements de fond par conversation](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Video_Background_Editing_Demo.mp4)**
+
+[![Changements de fond par conversation](image/omni-1.2/conversational-background-changes.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Video_Background_Editing_Demo.mp4)
+
+Des conversations successives remplacent l’arrière-plan d’un clip tout en conservant ses deux personnages en armure.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-4"></a>
+**[Vol continu dans le Panthéon](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Pantheon_Tour_Demo_FuU0KUh.mp4)**
+
+[![Vol continu dans le Panthéon](image/omni-1.2/continuous-pantheon-flythrough.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Pantheon_Tour_Demo_FuU0KUh.mp4)
+
+Deux photos d’architecture guident un vol continu de la caméra à travers la coupole du Panthéon.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-5"></a>
+**[Vidéo explicative sur une ruche en 15 secondes](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Bee_Hive_Live_Infographic_Demo_ninuxtc.mp4)**
+
+[![Vidéo explicative sur une ruche en 15 secondes](image/omni-1.2/15-second-beehive-explainer.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Bee_Hive_Live_Infographic_Demo_ninuxtc.mp4)
+
+Une image de référence stylistique devient une vidéo explicative illustrée sur une ruche, en quatre plans et 15 secondes.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-6"></a>
+**[Transfert de mouvement du poulpe à la danseuse](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Unexpected_Motion_Tracking_Demo_QRzpS2T.mp4)**
+
+[![Transfert de mouvement du poulpe à la danseuse](image/omni-1.2/octopus-to-dancer-motion-transfer.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Unexpected_Motion_Tracking_Demo_QRzpS2T.mp4)
+
+Une modification ultérieure transfère le mouvement fluide d’un poulpe à la robe d’une danseuse.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-7"></a>
+**[Restaurant de ramen : première et dernière images](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Ramen_Bar_Demo_jeWGtqx.mp4)**
+
+[![Restaurant de ramen : première et dernière images](image/omni-1.2/first-to-last-frame-ramen-shop.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Ramen_Bar_Demo_jeWGtqx.mp4)
+
+Les images initiale et finale relient l’extérieur et l’intérieur d’un restaurant de ramen ; la comparaison de Google présente des incohérences visibles.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-demo-8"></a>
+**[Zoom arrière continu sur une île](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Castaway_Crash_Zoom_Out_Demo.mp4)**
+
+[![Zoom arrière continu sur une île](image/omni-1.2/continuous-island-zoom-out.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Castaway_Crash_Zoom_Out_Demo.mp4)
+
+Un plan de dix secondes passe d’un gros plan sur le rivage à une vue large de l’île.
+
+</td>
+</tr>
+</table>
 
 ## 🎯 Ingrédients du Prompt
 Gemini Omni possède une forte **compréhension du monde** — il s'appuie sur des connaissances du monde réel en histoire, science et culture. Vous n'avez pas besoin de sur-expliquer chaque détail. Exprimez plutôt votre intention créative en langage naturel et laissez le raisonnement d'Omni compléter le reste.
@@ -118,7 +241,8 @@ Lors de la création d'une nouvelle vidéo à partir de zéro, combinez ces dime
 
 ### 🔄 Remplacement d'éléments
 
-#### Cas 1 : Papillon en abeille `🎬 Video→Video`
+<a id="cas-1--papillon-en-abeille"></a>
+### Cas 1 : Papillon en abeille `🎬 Video→Video`
 
 <table>
 <tr>
@@ -147,7 +271,8 @@ Change the butterfly to a bee.
 
 ---
 
-#### Cas 2 : Abeille en lucioles `🎬 Video→Video`
+<a id="cas-2--abeille-en-lucioles"></a>
+### Cas 2 : Abeille en lucioles `🎬 Video→Video`
 
 <table>
 <tr>
@@ -176,7 +301,8 @@ Change the bee into a small swarm of fireflies.
 
 ---
 
-#### Cas 3-5 : Série vaisseaux spatiaux et astronaute `🎬 Video→Video`
+<a id="cas-3-5--série-vaisseaux-spatiaux-et-astronaute"></a>
+### Cas 3-5 : Série vaisseaux spatiaux et astronaute `🎬 Video→Video`
 
 <table>
 <tr>
@@ -193,21 +319,21 @@ https://github.com/user-attachments/assets/26ea7e43-9787-4096-82f9-e10543229bec
 
 https://github.com/user-attachments/assets/dd9ae5b1-0205-45ac-a651-258af1c4f12c
 
-#### Cas 3 : Vaisseaux en origami blanc
+### Cas 3 : Vaisseaux en origami blanc
 
 </td>
 <td width="300">
 
 https://github.com/user-attachments/assets/78ef5301-b759-4dda-9995-3ee0d259a7b1
 
-#### Cas 4 : Astronaute en anémone de mer
+### Cas 4 : Astronaute en anémone de mer
 
 </td>
 <td width="300">
 
 https://github.com/user-attachments/assets/0cbadb19-8a5b-4a2c-9093-e3a84f3dd988
 
-#### Cas 5 : Petits vaisseaux en raies manta
+### Cas 5 : Petits vaisseaux en raies manta
 
 </td>
 </tr>
@@ -229,7 +355,8 @@ Case 5: Change the small ships to stingrays.
 
 ---
 
-#### Cas 6 : [Transformation du train de 1896](https://x.com/emollick/status/2057874739817808223) (par [@emollick](https://x.com/emollick)) `🎬 Video→Video`
+<a id="cas-6--transformation-du-train-de-1896-par-emollick"></a>
+### Cas 6 : [Transformation du train de 1896](https://x.com/emollick/status/2057874739817808223) (par [@emollick](https://x.com/emollick)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/275cc90e-adaa-48ff-9ff8-1e96ea29d44f
 
@@ -241,7 +368,8 @@ I took the famous "train" movie from 1896 & made it a bullet train, LEGO, added 
 
 ---
 
-#### Cas 7 : [Suppression d'une personne d'une vidéo](https://x.com/arrakis_ai/status/2057939231755178439) (par [@arrakis_ai](https://x.com/arrakis_ai)) `🎬 Video→Video`
+<a id="cas-7--suppression-dune-personne-dune-vidéo-par-arrakis_ai"></a>
+### Cas 7 : [Suppression d'une personne d'une vidéo](https://x.com/arrakis_ai/status/2057939231755178439) (par [@arrakis_ai](https://x.com/arrakis_ai)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/72379fb2-ac30-4d1e-a6b4-143052f8f061
 
@@ -253,7 +381,8 @@ Remove the person from this video perfectly.
 
 ---
 
-#### Cas 8 : Violon invisible `🎬 Video→Video`
+<a id="cas-8--violon-invisible"></a>
+### Cas 8 : Violon invisible `🎬 Video→Video`
 
 <table>
 <tr>
@@ -282,7 +411,8 @@ Make the violin invisible
 
 ---
 
-#### Cas 9 : [Changement de lieu via connaissance du monde](https://x.com/venturetwins/status/2058235415883313361) (par [@venturetwins](https://x.com/venturetwins)) `🎬 Video→Video`
+<a id="cas-9--changement-de-lieu-via-connaissance-du-monde-par-venturetwins"></a>
+### Cas 9 : [Changement de lieu via connaissance du monde](https://x.com/venturetwins/status/2058235415883313361) (par [@venturetwins](https://x.com/venturetwins)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/daa90750-fc7b-49ea-b85d-364411159663
 
@@ -296,7 +426,8 @@ Re-shoot this video in [location] based on the screenshot from Google Maps.
 
 ---
 
-#### Cas 10 : [Animation vers prise de vue réelle](https://x.com/arrakis_ai/status/2058488373057302797) (par [@arrakis_ai](https://x.com/arrakis_ai)) `🎬 Video→Video`
+<a id="cas-10--animation-vers-prise-de-vue-réelle-par-arrakis_ai"></a>
+### Cas 10 : [Animation vers prise de vue réelle](https://x.com/arrakis_ai/status/2058488373057302797) (par [@arrakis_ai](https://x.com/arrakis_ai)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/3c6be2a9-3e67-4deb-8ccd-fb493b715f65
 
@@ -308,7 +439,8 @@ Turn this animation into live action.
 
 ### 🎬 Scène de Base
 
-#### Cas 1 : Plan de base du violoniste `🔤 Text→Video`
+<a id="cas-1--plan-de-base-du-violoniste"></a>
+### Cas 1 : Plan de base du violoniste `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/93de5898-88ee-4bfc-a36f-19d8aa99dfc1
 
@@ -320,7 +452,8 @@ A video of a violinist playing a song.
 
 ### 📷 Direction de caméra
 
-#### Cas 1 : Angle par-dessus l'épaule `🎬 Video→Video`
+<a id="cas-1--angle-par-dessus-lépaule"></a>
+### Cas 1 : Angle par-dessus l'épaule `🎬 Video→Video`
 
 <table>
 <tr>
@@ -349,7 +482,8 @@ Change the camera angle to be over the violinist's shoulder.
 
 ---
 
-#### Cas 2 : Inclinaison de caméra des chaussures au plan moyen `🎬 Video→Video`
+<a id="cas-2--inclinaison-de-caméra-des-chaussures-au-plan-moyen"></a>
+### Cas 2 : Inclinaison de caméra des chaussures au plan moyen `🎬 Video→Video`
 
 <table>
 <tr>
@@ -378,7 +512,8 @@ Change the camera angle, a close-up on his shoes, quickly tilting up to medium s
 
 ---
 
-#### Cas 3 : [Hyperlapse selfie de voyage](https://x.com/ZaraIrahh/status/2057775215749349520) (par [@ZaraIrahh](https://x.com/ZaraIrahh)) `🔤 Text→Video`
+<a id="cas-3--hyperlapse-selfie-de-voyage-par-zarairahh"></a>
+### Cas 3 : [Hyperlapse selfie de voyage](https://x.com/ZaraIrahh/status/2057775215749349520) (par [@ZaraIrahh](https://x.com/ZaraIrahh)) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/31fa5a56-6113-4376-873b-5e40d26803f1
 
@@ -390,7 +525,8 @@ Create a 10-second cinematic hyper-lapse selfie travel video of the uploaded fem
 
 ---
 
-#### Cas 4 : [Plan drone mode](https://x.com/ariaxawan/status/2057794715744084042) (par [@ariaxawan](https://x.com/ariaxawan)) `🔤 Text→Video`
+<a id="cas-4--plan-drone-mode-par-ariaxawan"></a>
+### Cas 4 : [Plan drone mode](https://x.com/ariaxawan/status/2057794715744084042) (par [@ariaxawan](https://x.com/ariaxawan)) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/b199a5ab-e008-4a72-aa03-094bc6d573e6
 
@@ -402,7 +538,8 @@ A 10 second ultra cinematic hyper realistic FPV fashion drone shot filmed in a s
 
 ---
 
-#### Cas 5 : [Vue du dessus vers rotation 360](https://x.com/npaka123/status/2058033145845575735) (par [@npaka123](https://x.com/npaka123)) `🖼️ Image→Video`
+<a id="cas-5--vue-du-dessus-vers-rotation-360-par-npaka123"></a>
+### Cas 5 : [Vue du dessus vers rotation 360](https://x.com/npaka123/status/2058033145845575735) (par [@npaka123](https://x.com/npaka123)) `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
 
@@ -414,7 +551,8 @@ https://github.com/user-attachments/assets/1ad202cb-a485-4b7a-9c8c-d4fea4a3b6d5
 
 ---
 
-#### Cas 6 : [Omnizoom — Plongée dans une photo](https://x.com/alexanderchen/status/2058330610574221672) (par [@alexanderchen](https://x.com/alexanderchen)) `🖼️ Image→Video`
+<a id="cas-6--omnizoom--plongée-dans-une-photo-par-alexanderchen"></a>
+### Cas 6 : [Omnizoom — Plongée dans une photo](https://x.com/alexanderchen/status/2058330610574221672) (par [@alexanderchen](https://x.com/alexanderchen)) `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/9fd3ad2a-6e4a-4ac0-ab29-48f1c303b95f
 
@@ -426,7 +564,8 @@ Omnizoom — diving into a photo.
 
 ### 🎬 Action et synchronisation
 
-#### Cas 1 : Son de jouet animal `🎬 Video→Video`
+<a id="cas-1--son-de-jouet-animal"></a>
+### Cas 1 : Son de jouet animal `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/fbf377d7-1b39-43af-92e6-665792d05de0
 
@@ -438,7 +577,8 @@ When the finger in <video> touches the animal toy play the sound the animal make
 
 ---
 
-#### Cas 2 : Synchronisation des lumières d'appartements `🎬+🎵 Video+Audio→Video`
+<a id="cas-2--synchronisation-des-lumières-dappartements"></a>
+### Cas 2 : Synchronisation des lumières d'appartements `🎬+🎵 Video+Audio→Video`
 
 <table>
 <tr>
@@ -467,7 +607,8 @@ The lights of the apartments start turning on in sync with the music.
 
 ---
 
-#### Cas 3 : Réaction en chaîne de billes `🔤 Text→Video`
+<a id="cas-3--réaction-en-chaîne-de-billes"></a>
+### Cas 3 : Réaction en chaîne de billes `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/1ece8df7-f29a-4ebd-ad68-9c910f811590
 
@@ -479,7 +620,8 @@ A marble rolling fast on a chain reaction style track, continuous smooth shot
 
 ---
 
-#### Cas 4 : Lumières d'immeubles `🎬+🎵 Video+Audio→Video`
+<a id="cas-4--lumières-dimmeubles"></a>
+### Cas 4 : Lumières d'immeubles `🎬+🎵 Video+Audio→Video`
 
 <table>
 <tr>
@@ -508,7 +650,8 @@ The lights of the buildings start turning on in sync with the music.
 
 ---
 
-#### Cas 5 : [Combat de boxe réaliste](https://x.com/RuzainaMeer/status/2057785474446741728) (par [@RuzainaMeer](https://x.com/RuzainaMeer)) `🔤 Text→Video`
+<a id="cas-5--combat-de-boxe-réaliste-par-ruzainameer"></a>
+### Cas 5 : [Combat de boxe réaliste](https://x.com/RuzainaMeer/status/2057785474446741728) (par [@RuzainaMeer](https://x.com/RuzainaMeer)) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/6796bf78-8bad-441c-889d-30621ee62cd7
 
@@ -522,7 +665,8 @@ Ultra-realistic 10-second boxing fight between two women inside a small undergro
 
 ### 🪞 Style artistique
 
-#### Cas 1-3 : Série miroir `🎬 Video→Video`
+<a id="cas-1-3--série-miroir"></a>
+### Cas 1-3 : Série miroir `🎬 Video→Video`
 
 <table>
 <tr>
@@ -530,21 +674,21 @@ Ultra-realistic 10-second boxing fight between two women inside a small undergro
 
 https://github.com/user-attachments/assets/747cdc6b-f5fa-4482-b745-2839551e9ba2
 
-#### Cas 1 : Miroir ondulation métal liquide
+### Cas 1 : Miroir ondulation métal liquide
 
 </td>
 <td width="300">
 
 https://github.com/user-attachments/assets/36ea02a2-3716-44aa-9bc2-a5cc1480d0bf
 
-#### Cas 2 : Miroir dessin au trait
+### Cas 2 : Miroir dessin au trait
 
 </td>
 <td width="300">
 
 https://github.com/user-attachments/assets/dbca6772-dd7a-4418-a0e6-a39796a91c97
 
-#### Cas 3 : Miroir marionnette
+### Cas 3 : Miroir marionnette
 
 </td>
 </tr>
@@ -566,7 +710,8 @@ Case 3: When the person touches the mirror, the person suddenly transforms into 
 
 ---
 
-#### Cas 4 : [Publicité animée en un plan](https://x.com/DenneyDara/status/2057844409639551380) (par [@DenneyDara](https://x.com/DenneyDara)) `🔤 Text→Video`
+<a id="cas-4--publicité-animée-en-un-plan-par-denneydara"></a>
+### Cas 4 : [Publicité animée en un plan](https://x.com/DenneyDara/status/2057844409639551380) (par [@DenneyDara](https://x.com/DenneyDara)) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/edacf1c5-94db-4687-8eaa-f87ebf5fabee
 
@@ -578,7 +723,8 @@ Make a Pixar-style video of an aloe leaf that is walking through the forest that
 
 ---
 
-#### Cas 5 : [Isolation en dessin au trait](https://x.com/alexanderchen/status/2057925025915666673) (par [@alexanderchen](https://x.com/alexanderchen)) `🎬 Video→Video`
+<a id="cas-5--isolation-en-dessin-au-trait-par-alexanderchen"></a>
+### Cas 5 : [Isolation en dessin au trait](https://x.com/alexanderchen/status/2057925025915666673) (par [@alexanderchen](https://x.com/alexanderchen)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/787813c0-2e20-4999-8383-fd76a9b21f91
 
@@ -590,7 +736,8 @@ Extract the key object in this video. Render a video showing that object as a bl
 
 ### ✨ Effets Visuels
 
-#### Cas 1 : Super zoom à travers la main `🎬 Video→Video`
+<a id="cas-1--super-zoom-à-travers-la-main"></a>
+### Cas 1 : Super zoom à travers la main `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/06683ef4-16e0-47b0-93ec-c6222560ee13
 
@@ -602,7 +749,8 @@ Make it look like the weird shape of my hand hole super zooms and magnifies the 
 
 ---
 
-#### Cas 2 : Effets de mouvement sur skateboard `🎬 Video→Video`
+<a id="cas-2--effets-de-mouvement-sur-skateboard"></a>
+### Cas 2 : Effets de mouvement sur skateboard `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/44c120a2-38a7-43d7-89fa-a23d0842078c
 
@@ -614,7 +762,8 @@ Edit this keeping everything the same. Add animated motion effects coming out of
 
 ---
 
-#### Cas 3 : [Superposition HUD AR](https://x.com/jerrod_lew/status/2058337271947079977) (par [@jerrod_lew](https://x.com/jerrod_lew)) `🎬 Video→Video`
+<a id="cas-3--superposition-hud-ar-par-jerrod_lew"></a>
+### Cas 3 : [Superposition HUD AR](https://x.com/jerrod_lew/status/2058337271947079977) (par [@jerrod_lew](https://x.com/jerrod_lew)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/04b11cd7-d345-4172-b6e5-38301e73bb77
 
@@ -626,7 +775,8 @@ Create a virtual HUD and UI overlay for this recorded phone video, like an AR gl
 
 ### 🔗 Cross-Modal
 
-#### Cas 1 : Transport vers un nouvel environnement `🎬+🖼️ Video+Image→Video`
+<a id="cas-1--transport-vers-un-nouvel-environnement"></a>
+### Cas 1 : Transport vers un nouvel environnement `🎬+🖼️ Video+Image→Video`
 
 <table>
 <tr>
@@ -655,7 +805,8 @@ Transport the violinist to the image environment
 
 ---
 
-#### Cas 2 : Forme d'oiseaux avec audio `🎬+🖼️+🎵 Multi-Modal`
+<a id="cas-2--forme-doiseaux-avec-audio"></a>
+### Cas 2 : Forme d'oiseaux avec audio `🎬+🖼️+🎵 Multi-Modal`
 
 <table>
 <tr>
@@ -692,7 +843,8 @@ The birds from <video> loosely form the imperfect shape of a bird based on <imag
 
 ---
 
-#### Cas 3 : [De la diapositive au mouvement](https://x.com/yoshifujidesign/status/2058032203175731293) (par [@yoshifujidesign](https://x.com/yoshifujidesign)) `🖼️ Image→Video`
+<a id="cas-3--de-la-diapositive-au-mouvement-par-yoshifujidesign"></a>
+### Cas 3 : [De la diapositive au mouvement](https://x.com/yoshifujidesign/status/2058032203175731293) (par [@yoshifujidesign](https://x.com/yoshifujidesign)) `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/f07a861b-cd0d-4894-8ef1-b74520c7cbd7
 
@@ -704,7 +856,8 @@ GPT image2でスライド作成 → Gemini Omniでモーション。画面遷移
 
 ---
 
-#### Cas 4 : [Personnage isométrique cuisinier avec image de référence](https://x.com/kumiko_shiraki/status/2058337185099546885) (par [@kumiko_shiraki](https://x.com/kumiko_shiraki)) `🖼️ Image→Video`
+<a id="cas-4--personnage-isométrique-cuisinier-avec-image-de-référence-par-kumiko_shiraki"></a>
+### Cas 4 : [Personnage isométrique cuisinier avec image de référence](https://x.com/kumiko_shiraki/status/2058337185099546885) (par [@kumiko_shiraki](https://x.com/kumiko_shiraki)) `🖼️ Image→Video`
 
 https://github.com/user-attachments/assets/d5e9b97e-cefa-4cd8-bf70-4e633020f092
 
@@ -718,7 +871,8 @@ Narrow down reference images and add negative prompts to get closer to your idea
 
 ---
 
-#### Cas 5 : [Image d'instructions ChatGPT en entrée](https://x.com/Majin_AppSheet/status/2058191091070058846) (par [@Majin_AppSheet](https://x.com/Majin_AppSheet)) `🖼️ Image→Video`
+<a id="cas-5--image-dinstructions-chatgpt-en-entrée-par-majin_appsheet"></a>
+### Cas 5 : [Image d'instructions ChatGPT en entrée](https://x.com/Majin_AppSheet/status/2058191091070058846) (par [@Majin_AppSheet](https://x.com/Majin_AppSheet)) `🖼️ Image→Video`
 
 <table>
 <tr>
@@ -743,7 +897,8 @@ https://github.com/user-attachments/assets/578d6968-c6dd-417a-b6fe-100468851f3d
 
 ---
 
-#### Cas 6 : [Illustration ChatGPT vers animation Omni](https://x.com/mmmiyama_D/status/2058654389326516656) (par [@mmmiyama_D](https://x.com/mmmiyama_D)) `🖼️ Image→Video`
+<a id="cas-6--illustration-chatgpt-vers-animation-omni-par-mmmiyama_d"></a>
+### Cas 6 : [Illustration ChatGPT vers animation Omni](https://x.com/mmmiyama_D/status/2058654389326516656) (par [@mmmiyama_D](https://x.com/mmmiyama_D)) `🖼️ Image→Video`
 
 <table>
 <tr>
@@ -769,7 +924,8 @@ https://github.com/user-attachments/assets/289e5378-60ad-472b-ba51-da710da81270
 
 ### 📋 Storyboard
 
-#### Cas 1 : [Publicité cosmétique de luxe](https://x.com/aiwithaly/status/2057806821138858314) (par [@aiwithaly](https://x.com/aiwithaly)) `🔤 Text→Video`
+<a id="cas-1--publicité-cosmétique-de-luxe-par-aiwithaly"></a>
+### Cas 1 : [Publicité cosmétique de luxe](https://x.com/aiwithaly/status/2057806821138858314) (par [@aiwithaly](https://x.com/aiwithaly)) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/6d003859-eb77-4466-9f70-5a76a2269667
 
@@ -781,7 +937,8 @@ Create a cinematic 10-second ultra-realistic luxury cosmetic commercial in a hig
 
 ---
 
-#### Cas 2 : Montre-moi dans cette histoire `🖼️ Image→Video`
+<a id="cas-2--montre-moi-dans-cette-histoire"></a>
+### Cas 2 : Montre-moi dans cette histoire `🖼️ Image→Video`
 
 <table>
 <tr>
@@ -811,7 +968,8 @@ Show me in this story. Follow the story exactly in order starting top left. Enti
 
 ---
 
-#### Cas 3 : [Écran partagé 3x3](https://x.com/alexanderchen/status/2057861567396368841) (par [@alexanderchen](https://x.com/alexanderchen)) `🎬 Video→Video`
+<a id="cas-3--écran-partagé-3x3-par-alexanderchen"></a>
+### Cas 3 : [Écran partagé 3x3](https://x.com/alexanderchen/status/2057861567396368841) (par [@alexanderchen](https://x.com/alexanderchen)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/587fc95e-526f-4d8d-94c8-feefe34edba9
 
@@ -823,7 +981,8 @@ Generate a 3x3 split screen video based on different details you see here. Make 
 
 ---
 
-#### Cas 4 : [Replay d'action sous différents angles](https://x.com/jerrod_lew/status/2057838324140953773) (par [@jerrod_lew](https://x.com/jerrod_lew)) `🎬 Video→Video`
+<a id="cas-4--replay-daction-sous-différents-angles-par-jerrod_lew"></a>
+### Cas 4 : [Replay d'action sous différents angles](https://x.com/jerrod_lew/status/2057838324140953773) (par [@jerrod_lew](https://x.com/jerrod_lew)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/a1179492-74bd-488c-b594-6bc023269c10
 
@@ -835,7 +994,8 @@ Gemini Omni can create action replays from different angles. I referenced a vide
 
 ---
 
-#### Cas 5 : [Vidéo en écran partagé](https://x.com/jerrod_lew/status/2057944349846249975) (par [@jerrod_lew](https://x.com/jerrod_lew)) `🎬 Video→Video`
+<a id="cas-5--vidéo-en-écran-partagé-par-jerrod_lew"></a>
+### Cas 5 : [Vidéo en écran partagé](https://x.com/jerrod_lew/status/2057944349846249975) (par [@jerrod_lew](https://x.com/jerrod_lew)) `🎬 Video→Video`
 
 https://github.com/user-attachments/assets/8755d95d-a9b2-4f7c-a56d-bfbbcc47f80e
 
@@ -847,7 +1007,8 @@ Use a reference video and ask the agent for a split screen video.
 
 ### 🔤 Rendu de texte
 
-#### Cas 1 : Séquence d'objets alphabétiques `🔤 Text→Video`
+<a id="cas-1--séquence-dobjets-alphabétiques"></a>
+### Cas 1 : Séquence d'objets alphabétiques `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/f7693ec2-ac70-4ac8-813f-8fcb46d90d3d
 
@@ -859,7 +1020,8 @@ The video shows items of the alphabet. An unusual item starting with each letter
 
 ---
 
-#### Cas 2 : Synchronisation texte mot par mot `🔤 Text→Video`
+<a id="cas-2--synchronisation-texte-mot-par-mot"></a>
+### Cas 2 : Synchronisation texte mot par mot `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/03620abc-bcb2-4011-a52b-ce13409853c4
 
@@ -871,7 +1033,8 @@ word by word, one word on the screen at a time: did, you, know, that, this, mode
 
 ---
 
-#### Cas 3 : [Rendu de texte actualités IA](https://x.com/chrisfirst/status/2057863432469361098) (par [@chrisfirst](https://x.com/chrisfirst)) `🔤 Text→Video`
+<a id="cas-3--rendu-de-texte-actualités-ia-par-chrisfirst"></a>
+### Cas 3 : [Rendu de texte actualités IA](https://x.com/chrisfirst/status/2057863432469361098) (par [@chrisfirst](https://x.com/chrisfirst)) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/e7d23502-1ca0-4f47-be76-47ff05390508
 
@@ -883,7 +1046,8 @@ Static shot we see them turn the page 3 times. Every flip we see content on both
 
 ---
 
-#### Cas 4 : [Défilé de mode typographique](https://x.com/HBCoop_/status/2057856570558452142) (par [@HBCoop_](https://x.com/HBCoop_)) `🔤 Text→Video`
+<a id="cas-4--défilé-de-mode-typographique-par-hbcoop_"></a>
+### Cas 4 : [Défilé de mode typographique](https://x.com/HBCoop_/status/2057856570558452142) (par [@HBCoop_](https://x.com/HBCoop_)) `🔤 Text→Video`
 
 https://github.com/user-attachments/assets/395d767c-7d8e-4367-941b-0190da9a0284
 
@@ -895,7 +1059,8 @@ Create a 10-second avant-garde fashion editorial where every outfit is inspired 
 
 ## ⚖️ Comparaison
 
-#### Cas 1 : [Seedance 2.0 vs Gemini Omni Flash](https://x.com/JSFILMZ0412/status/2057926749598736635) (par [@JSFILMZ0412](https://x.com/JSFILMZ0412)) `⚖️ Comparison`
+<a id="cas-1--seedance-20-vs-gemini-omni-flash-par-jsfilmz0412"></a>
+### Cas 1 : [Seedance 2.0 vs Gemini Omni Flash](https://x.com/JSFILMZ0412/status/2057926749598736635) (par [@JSFILMZ0412](https://x.com/JSFILMZ0412)) `⚖️ Comparison`
 
 https://github.com/user-attachments/assets/a03e70b5-99c0-4ad8-b26b-9aed6e037f02
 
@@ -903,7 +1068,8 @@ https://github.com/user-attachments/assets/a03e70b5-99c0-4ad8-b26b-9aed6e037f02
 
 ---
 
-#### Cas 2 : [Gemini Omni vs Seedance 2.0 scènes d'action](https://x.com/CuriousRefuge/status/2057929340562907451) (par [@CuriousRefuge](https://x.com/CuriousRefuge)) `⚖️ Comparison`
+<a id="cas-2--gemini-omni-vs-seedance-20-scènes-daction-par-curiousrefuge"></a>
+### Cas 2 : [Gemini Omni vs Seedance 2.0 scènes d'action](https://x.com/CuriousRefuge/status/2057929340562907451) (par [@CuriousRefuge](https://x.com/CuriousRefuge)) `⚖️ Comparison`
 
 https://github.com/user-attachments/assets/33e09b7d-2357-481d-8536-dab39e75524b
 
@@ -911,7 +1077,8 @@ https://github.com/user-attachments/assets/33e09b7d-2357-481d-8536-dab39e75524b
 
 ## 🧪 Évaluation
 
-#### Cas 1 : [Évaluation de la qualité Gemini Omni](https://x.com/kenichiota0711/status/2057820346850660769) (par [@kenichiota0711](https://x.com/kenichiota0711)) `🧪 Evaluation`
+<a id="cas-1--évaluation-de-la-qualité-gemini-omni-par-kenichiota0711"></a>
+### Cas 1 : [Évaluation de la qualité Gemini Omni](https://x.com/kenichiota0711/status/2057820346850660769) (par [@kenichiota0711](https://x.com/kenichiota0711)) `🧪 Evaluation`
 
 https://github.com/user-attachments/assets/a9adf476-fac9-4ea2-b5ea-90a50192ccfb
 
@@ -988,6 +1155,13 @@ https://github.com/user-attachments/assets/df8dcb7c-c918-4fc2-b952-0cb2bcdddfee
 </tr>
 </table>
 
+<a id="related-repositories"></a>
+## 🔗 Dépôts associés
+
+- [Explorer le guide des API de modèles vidéo EvoLink](https://github.com/EvoLinkAI/awesome-ai-video-models-api-guide).
+- [Utiliser le dépôt EvoLink Media MCP](https://github.com/EvoLinkAI/evolink-media-mcp).
+- [Explorer Seedance 2.5 sur EvoLink](https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=related_seedance).
+
 ## 🙏 Remerciements
 
 Ce dépôt a été inspiré par d'excellentes collections de prompts ouverts et des exemples partagés par la communauté.
@@ -1002,4 +1176,4 @@ Merci à Google DeepMind pour la publication des démos officielles Gemini Omni 
 
 Si vous avez des cas de prompts intéressants à partager, n'hésitez pas à nous contacter pour nous aider à enrichir la bibliothèque de prompts Evolink.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/awesome-gemini-omni-api-and-prompt&type=Date)](https://www.star-history.com/#EvoLinkAI/awesome-gemini-omni-api-and-prompt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/awesome-gemini-omni-guide-api-and-prompt&type=Date)](https://www.star-history.com/#EvoLinkAI/awesome-gemini-omni-guide-api-and-prompt&Date)

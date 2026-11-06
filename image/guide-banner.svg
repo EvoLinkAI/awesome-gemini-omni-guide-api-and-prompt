@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title description">
+  <title id="title">Gemini Omni 1.2 Flash</title>
+  <desc id="description">Gemini Omni 1.2 Flash and EvoLink.ai model guide cover.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#142f52"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="24" fill="url(#background)"/>
+  <rect x="64" y="64" width="7" height="192" rx="3.5" fill="#53b7f6"/>
+  <text x="104" y="145" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="80" font-weight="700">Gemini Omni</text>
+  <text x="108" y="230" fill="#8bd2ff" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="600">1.2 Flash</text>
+  <text x="1216" y="86" text-anchor="end" fill="#c5e9ff" font-family="Arial, Helvetica, sans-serif" font-size="28">EvoLink.ai</text>
+</svg>
