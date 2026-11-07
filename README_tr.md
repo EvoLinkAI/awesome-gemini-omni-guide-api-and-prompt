@@ -24,7 +24,7 @@ Google, **5 Kasım 2026** tarihinde yayımlanan Gemini Omni 1.2 Flash modelini g
 
 - Metin, görüntü ve video girdileri; eşzamanlı konuşma, müzik ve ses efektleri içeren video çıktısı. Ses dosyası girdisi ve ses düzenleme desteklenmez.
 - Yerel **360p / 720p** çıktı; **1080p / 4K, çözünürlük yükseltmeyle elde edilir**, yerel 4K değildir. Belgelenen çıktı 24 fps olup 16:9 veya 9:16 en-boy oranındadır.
-- Metinden videoya üretim ve tek bir ilk kare görüntüsüyle üretim **3–15 saniyeyi** destekler. İlk ve son kare arasındaki ara kare üretimi **3–10 saniye** ile sınırlı kalır.
+- EvoLink’te **15 saniyelik** bir video üretmek için metinden videoya üretimi, tek bir ilk kareyle görüntüden videoya üretimi veya referans görselleri ve en fazla bir referans video kullanan üretimi seçin. İlk ve son kareyi birlikte ya da iki veya üç referans videoyu kullanıyorsanız **3–10 saniye** seçin.
 - Video uzatma **3–10 saniye** ekler; bu değer bitmiş videonun toplam süresi değil, eklenen süredir.
 
 ### Bir EvoLink görevi seçin

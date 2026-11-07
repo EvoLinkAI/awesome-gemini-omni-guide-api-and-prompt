@@ -1,5 +1,9 @@
 # Update log
 
+## 2026-11-07
+
+- Clarified which EvoLink routes support 15-second generation and which input combinations stay within 3–10 seconds across all eleven README languages.
+
 ## 2026-11-06
 
 - Added a Gemini Omni 1.2 Flash guide with six task-documentation links, route-specific limits, and platform/version distinctions.

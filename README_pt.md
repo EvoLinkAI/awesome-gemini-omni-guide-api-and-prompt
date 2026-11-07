@@ -24,7 +24,7 @@ O Google classifica o Gemini Omni 1.2 Flash como disponível para uso geral (GA)
 
 - Entradas de texto, imagem e vídeo; saída de vídeo com fala, música e efeitos sonoros sincronizados. Arquivos de áudio como entrada e edição de som não são compatíveis.
 - Saída nativa em **360p / 720p**; **1080p / 4K é obtido por ampliação**, não é 4K nativo. A saída documentada é de 24 fps, em 16:9 ou 9:16.
-- A geração de texto para vídeo e a geração com uma imagem de quadro inicial permitem **3–15 segundos**. A interpolação entre os quadros inicial e final permanece em **3–10 segundos**.
+- Para gerar **15 segundos** no EvoLink, escolha texto para vídeo, imagem para vídeo com um único quadro inicial ou geração com imagens de referência e, no máximo, um vídeo de referência. Com um par de quadros inicial e final ou dois a três vídeos de referência, use **3–10 segundos**.
 - A extensão acrescenta **3–10 segundos**; esse valor é a duração adicionada, não a duração total do vídeo final.
 
 ### Escolha uma tarefa da EvoLink

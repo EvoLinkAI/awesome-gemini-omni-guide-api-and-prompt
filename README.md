@@ -24,7 +24,7 @@ Google lists Gemini Omni 1.2 Flash as GA, released on **November 5, 2026**. Its 
 
 - Text, image, and video inputs; video output with synchronized speech, music, and sound effects. Audio-file input and sound editing are not supported.
 - Native **360p / 720p** output; **1080p / 4K is upscaled**, not native 4K. The documented output is 24 fps, in 16:9 or 9:16.
-- Text-to-video and one first-frame image support **3–15 seconds**. First-and-last-frame interpolation remains **3–10 seconds**.
+- On EvoLink, choose text-to-video, image-to-video with a single first frame, or reference-to-video with reference images and up to one reference video for a **15-second** generation. With a first-and-last-frame pair or two to three reference videos, use **3–10 seconds**.
 - Extension appends **3–10 seconds**; this value is the added duration, not the total finished length.
 
 ### Choose an EvoLink task
