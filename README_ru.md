@@ -61,6 +61,7 @@ Google указывает, что Gemini Omni 1.2 Flash находится в о
 - [Руководство по Gemini Omni 1.2 Flash](#omni-1-2-guide)
 - [Быстрый старт](#quick-start)
 - [Официальные демонстрации Gemini Omni 1.2](#omni12-demos)
+- [Демонстрации Gemini Omni 1.2 от сообщества](#omni12-community-demos)
 - [🎯 Ингредиенты промптов](#-ингредиенты-промптов)
 - [✂️ Редактирование](#️-редактирование)
   - [🔄 Замена элементов](#-замена-элементов)
@@ -214,6 +215,80 @@ Google указывает, что Gemini Omni 1.2 Flash находится в о
 [![Непрерывное отдаление от острова](image/omni-1.2/continuous-island-zoom-out.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Castaway_Crash_Zoom_Out_Demo.mp4)
 
 За один десятисекундный план камера отдаляется от крупного плана берега до общего вида острова.
+
+</td>
+</tr>
+</table>
+
+<a id="omni12-community-demos"></a>
+## 🎥 Демонстрации Gemini Omni 1.2 от сообщества
+
+Шесть видео Gemini Omni 1.2 Flash от авторов и команд, разрабатывающих инструменты. Нажмите на превью, чтобы посмотреть исходный клип. Заголовок ведёт к публикации или статье автора. Если автор поделился промптом, его можно найти там.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-1"></a>
+**[Смена образов в уличном стиле в такт](https://x.com/HarshithLucky3/status/2118401265273360530)** · HarshithLucky3
+
+[![Смена образов в уличном стиле в такт](image/omni-1.2/community/streetwear-beat-cuts.jpg)](https://video-s.twimg.com/amplify_video/2118400792348770305/vid/avc1/640x360/y-KZwoASoz81lFXx.mp4?tag=29)
+
+Во время проходки хлопки задают ритм быстрой смене одежды. Автор делится промптом.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-2"></a>
+**[День рождения в разных стилях](https://x.com/ash_twtz/status/2118393918794707053)** · ash_twtz
+
+[![День рождения в разных стилях](image/omni-1.2/community/mixed-style-party.jpg)](https://video-s.twimg.com/amplify_video/2118393860493905920/vid/avc1/640x360/W2r1uWl7T7aS8Bms.mp4?tag=29)
+
+Персонажи покадровой анимации, 3D, комиксов и аниме встречаются в одной сцене на дне рождения.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-3"></a>
+**[Реклама бутылки для воды с таймкодами](https://weel.co.jp/media/tech/gemini-omni-1-2-flash/)** · WEEL
+
+[![Реклама бутылки для воды с таймкодами](image/omni-1.2/community/timecoded-bottle-ad.jpg)](https://www.youtube.com/watch?v=u6P7rxZlSQI)
+
+WEEL тестирует 15-секундную рекламу товара с тремя заранее размеченными моментами. Промпт приведён в статье.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-4"></a>
+**[Презентация парфюма между двумя кадрами](https://blog.segmind.com/gemini-omni-1-2-flash-is-here-generate-and-edit-15-second-videos/)** · Segmind
+
+[![Презентация парфюма между двумя кадрами](image/omni-1.2/community/perfume-first-last-frames.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-12-flash/i2v-fl10.mp4)
+
+Два референсных кадра задают 10-секундную презентацию парфюма с переходом из тёмной студии к цветам на солнце. Промпт приведён в статье.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-5"></a>
+**[Керамист и ваза по референсам](https://blog.segmind.com/gemini-omni-1-2-flash-is-here-generate-and-edit-15-second-videos/)** · Segmind
+
+[![Керамист и ваза по референсам](image/omni-1.2/community/ceramic-artist-vase.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-12-flash/ref10.mp4)
+
+В кадре с устной презентацией товара отдельные референсы задают образ керамиста и вид вазы. Промпт приведён в статье.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-6"></a>
+**[Польский ужин с тремя голосами](https://promptif.fr/gemini-omni-1-2-flash-test/)** · Promptif
+
+[![Польский ужин с тремя голосами](image/omni-1.2/community/polish-dinner-dialogue.webp)](https://promptif.fr/wp-content/uploads/2026/11/omni12-cc251d82201c7f7e2cbd2d57b6e9715b.mp4)
+
+Сцена польского праздничного ужина проверяет, как трое участников говорят по очереди и насколько точно движения губ совпадают с речью.
 
 </td>
 </tr>

@@ -61,6 +61,7 @@ Google은 Gemini Omni 1.2 Flash를 **2026년 11월 5일** 출시한 GA 모델로
 - [Gemini Omni 1.2 Flash 가이드](#omni-1-2-guide)
 - [빠른 시작](#quick-start)
 - [Gemini Omni 1.2 공식 데모](#omni12-demos)
+- [Gemini Omni 1.2 커뮤니티 데모 모음](#omni12-community-demos)
 - [🎯 프롬프트 구성 요소](#-프롬프트-구성-요소)
 - [✂️ 편집](#️-편집)
   - [🔄 요소 교체](#-요소-교체)
@@ -214,6 +215,80 @@ Google이 **2026년 11월 5일** 공개한 공식 데모 8개입니다. [원본 
 [![섬에서 연속 줌아웃](image/omni-1.2/continuous-island-zoom-out.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Castaway_Crash_Zoom_Out_Demo.mp4)
 
 10초짜리 한 샷에서 해안의 클로즈업으로부터 섬의 넓은 전경까지 멀어집니다.
+
+</td>
+</tr>
+</table>
+
+<a id="omni12-community-demos"></a>
+## 🎥 Gemini Omni 1.2 커뮤니티 데모 모음
+
+크리에이터와 도구 개발팀이 공개한 Gemini Omni 1.2 Flash 영상 6편을 모았습니다. 미리보기를 선택하면 원본 영상을 재생할 수 있습니다. 제목은 제작자의 게시물이나 글로 연결되며, 공개된 프롬프트는 해당 출처에서 확인할 수 있습니다.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-1"></a>
+**[박자에 맞춰 바뀌는 스트리트웨어](https://x.com/HarshithLucky3/status/2118401265273360530)** · HarshithLucky3
+
+[![박자에 맞춰 바뀌는 스트리트웨어](image/omni-1.2/community/streetwear-beat-cuts.jpg)](https://video-s.twimg.com/amplify_video/2118400792348770305/vid/avc1/640x360/y-KZwoASoz81lFXx.mp4?tag=29)
+
+스트리트 스타일로 걷는 장면에서 손뼉 소리를 신호로 의상이 빠르게 바뀝니다. 제작자가 프롬프트를 공개했습니다.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-2"></a>
+**[여러 스타일이 어우러진 생일 파티](https://x.com/ash_twtz/status/2118393918794707053)** · ash_twtz
+
+[![여러 스타일이 어우러진 생일 파티](image/omni-1.2/community/mixed-style-party.jpg)](https://video-s.twimg.com/amplify_video/2118393860493905920/vid/avc1/640x360/W2r1uWl7T7aS8Bms.mp4?tag=29)
+
+스톱모션, 3D, 만화, 애니메이션 스타일의 캐릭터가 한 생일 파티 장면에 등장합니다.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-3"></a>
+**[타임코드로 구성한 물병 광고](https://weel.co.jp/media/tech/gemini-omni-1-2-flash/)** · WEEL
+
+[![타임코드로 구성한 물병 광고](image/omni-1.2/community/timecoded-bottle-ad.jpg)](https://www.youtube.com/watch?v=u6P7rxZlSQI)
+
+WEEL이 세 구간의 타이밍을 지정한 15초짜리 제품 광고를 실험합니다. 글에 프롬프트가 포함되어 있습니다.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-4"></a>
+**[첫 프레임과 마지막 프레임으로 연출한 향수 공개](https://blog.segmind.com/gemini-omni-1-2-flash-is-here-generate-and-edit-15-second-videos/)** · Segmind
+
+[![첫 프레임과 마지막 프레임으로 연출한 향수 공개](image/omni-1.2/community/perfume-first-last-frames.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-12-flash/i2v-fl10.mp4)
+
+참조 프레임 두 장으로 어두운 스튜디오에서 햇빛을 받는 꽃으로 이어지는 10초짜리 향수 영상을 연출합니다. 글에 프롬프트가 포함되어 있습니다.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-5"></a>
+**[도예가와 참조 이미지 속 꽃병](https://blog.segmind.com/gemini-omni-1-2-flash-is-here-generate-and-edit-15-second-videos/)** · Segmind
+
+[![도예가와 참조 이미지 속 꽃병](image/omni-1.2/community/ceramic-artist-vase.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-12-flash/ref10.mp4)
+
+도예가와 꽃병에 각각 다른 참조 자료를 사용해 음성이 들어간 제품 소개 장면을 연출합니다. 글에 프롬프트가 포함되어 있습니다.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-6"></a>
+**[폴란드 식탁에서 나누는 세 사람의 대화](https://promptif.fr/gemini-omni-1-2-flash-test/)** · Promptif
+
+[![폴란드 식탁에서 나누는 세 사람의 대화](image/omni-1.2/community/polish-dinner-dialogue.webp)](https://promptif.fr/wp-content/uploads/2026/11/omni12-cc251d82201c7f7e2cbd2d57b6e9715b.mp4)
+
+폴란드의 명절 저녁 식사를 배경으로 세 사람이 번갈아 말하는 흐름과 입 모양의 동기화를 시험합니다.
 
 </td>
 </tr>

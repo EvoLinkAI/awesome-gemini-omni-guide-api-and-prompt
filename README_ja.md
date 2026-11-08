@@ -61,6 +61,7 @@ Google は Gemini Omni 1.2 Flash を **2026年11月5日**公開の GA モデル�
 - [Gemini Omni 1.2 Flash ガイド](#omni-1-2-guide)
 - [クイックスタート](#quick-start)
 - [Gemini Omni 1.2 公式デモ](#omni12-demos)
+- [Gemini Omni 1.2 コミュニティデモ集](#omni12-community-demos)
 - [🎯 プロンプトの構成要素](#-プロンプトの構成要素)
 - [✂️ 編集](#️-編集)
   - [🔄 要素の置き換え](#-要素の置き換え)
@@ -214,6 +215,80 @@ Google が **2026年11月5日**に公開した8件の公式デモです。[元�
 [![島を映す連続ズームアウト](image/omni-1.2/continuous-island-zoom-out.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Castaway_Crash_Zoom_Out_Demo.mp4)
 
 10秒のショットで、海岸のクローズアップから島を広く見渡す構図まで引いていきます。
+
+</td>
+</tr>
+</table>
+
+<a id="omni12-community-demos"></a>
+## 🎥 Gemini Omni 1.2 コミュニティデモ集
+
+クリエイターやツール開発チームが公開した Gemini Omni 1.2 Flash の動画を6本紹介します。プレビューから元の動画を再生できます。タイトルからは作者の投稿や記事に移動でき、プロンプトが公開されている場合はそこで確認できます。
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-1"></a>
+**[ビートに合わせたストリートウェアの早着替え](https://x.com/HarshithLucky3/status/2118401265273360530)** · HarshithLucky3
+
+[![ビートに合わせたストリートウェアの早着替え](image/omni-1.2/community/streetwear-beat-cuts.jpg)](https://video-s.twimg.com/amplify_video/2118400792348770305/vid/avc1/640x360/y-KZwoASoz81lFXx.mp4?tag=29)
+
+ストリート風のウォーキングで、手拍子を合図に衣装が次々と切り替わります。作者がプロンプトを公開しています。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-2"></a>
+**[異なる表現が集まる誕生日パーティー](https://x.com/ash_twtz/status/2118393918794707053)** · ash_twtz
+
+[![異なる表現が集まる誕生日パーティー](image/omni-1.2/community/mixed-style-party.jpg)](https://video-s.twimg.com/amplify_video/2118393860493905920/vid/avc1/640x360/W2r1uWl7T7aS8Bms.mp4?tag=29)
+
+ストップモーション、3D、コミック、アニメ風のキャラクターが、同じ誕生日のシーンに登場します。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-3"></a>
+**[タイムコードで構成するボトル広告](https://weel.co.jp/media/tech/gemini-omni-1-2-flash/)** · WEEL
+
+[![タイムコードで構成するボトル広告](image/omni-1.2/community/timecoded-bottle-ad.jpg)](https://www.youtube.com/watch?v=u6P7rxZlSQI)
+
+WEEL が、タイミングを指定した3つの演出を組み込んだ15秒の商品広告を試しています。記事にプロンプトが掲載されています。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-4"></a>
+**[首尾のフレームでつなぐ香水の演出](https://blog.segmind.com/gemini-omni-1-2-flash-is-here-generate-and-edit-15-second-videos/)** · Segmind
+
+[![首尾のフレームでつなぐ香水の演出](image/omni-1.2/community/perfume-first-last-frames.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-12-flash/i2v-fl10.mp4)
+
+2枚の参照フレームを使い、暗いスタジオから陽の当たる花へ移る10秒の香水映像を作ります。記事にプロンプトが掲載されています。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-5"></a>
+**[陶芸家と参照画像の花瓶](https://blog.segmind.com/gemini-omni-1-2-flash-is-here-generate-and-edit-15-second-videos/)** · Segmind
+
+[![陶芸家と参照画像の花瓶](image/omni-1.2/community/ceramic-artist-vase.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-12-flash/ref10.mp4)
+
+陶芸家と花瓶に別々の参照素材を使い、語りを含む商品紹介のショットを作ります。記事にプロンプトが掲載されています。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-6"></a>
+**[ポーランドの食卓で交わす3人の会話](https://promptif.fr/gemini-omni-1-2-flash-test/)** · Promptif
+
+[![ポーランドの食卓で交わす3人の会話](image/omni-1.2/community/polish-dinner-dialogue.webp)](https://promptif.fr/wp-content/uploads/2026/11/omni12-cc251d82201c7f7e2cbd2d57b6e9715b.mp4)
+
+ポーランドの祝日の食卓を舞台に、3人が順番に話す流れとリップシンクを試しています。
 
 </td>
 </tr>

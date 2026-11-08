@@ -61,6 +61,7 @@ Yukarıdaki görev tablosundan metinden videoya, görüntüden videoya, referans
 - [Gemini Omni 1.2 Flash rehberi](#omni-1-2-guide)
 - [Hızlı başlangıç](#quick-start)
 - [Gemini Omni 1.2 resmî demoları](#omni12-demos)
+- [Gemini Omni 1.2 topluluk demoları](#omni12-community-demos)
 - [🎯 Prompt Bileşenleri](#-prompt-bileşenleri)
 - [✂️ Düzenleme](#️-düzenleme)
   - [🔄 Eleman Değiştirme](#-eleman-değiştirme)
@@ -214,6 +215,80 @@ Sonraki bir düzenleme, bir ahtapotun akıcı hareketini bir dansçının elbise
 [![Adadan kesintisiz uzaklaşan çekim](image/omni-1.2/continuous-island-zoom-out.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Castaway_Crash_Zoom_Out_Demo.mp4)
 
 On saniyelik bir çekim, kıyıdaki yakın plandan uzaklaşarak adanın geniş bir görünümüne ulaşır.
+
+</td>
+</tr>
+</table>
+
+<a id="omni12-community-demos"></a>
+## 🎥 Gemini Omni 1.2 topluluk demoları
+
+İçerik üreticilerinin ve araç geliştiren ekiplerin yayımladığı altı Gemini Omni 1.2 Flash videosu. Özgün klibi izlemek için bir önizleme görselini seçin. Başlık, içeriği hazırlayan kişinin gönderisine veya yazısına bağlantı verir. Paylaşıldıysa istemi de orada bulabilirsiniz.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-1"></a>
+**[Alkış ritmine uyan sokak giyimi değişimleri](https://x.com/HarshithLucky3/status/2118401265273360530)** · HarshithLucky3
+
+[![Alkış ritmine uyan sokak giyimi değişimleri](image/omni-1.2/community/streetwear-beat-cuts.jpg)](https://video-s.twimg.com/amplify_video/2118400792348770305/vid/avc1/640x360/y-KZwoASoz81lFXx.mp4?tag=29)
+
+Sokak stili yürüyüşünde hızlı kıyafet değişimlerini alkışlar tetikler. İçerik üreticisi istemi paylaşıyor.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-2"></a>
+**[Farklı tarzların buluştuğu doğum günü partisi](https://x.com/ash_twtz/status/2118393918794707053)** · ash_twtz
+
+[![Farklı tarzların buluştuğu doğum günü partisi](image/omni-1.2/community/mixed-style-party.jpg)](https://video-s.twimg.com/amplify_video/2118393860493905920/vid/avc1/640x360/W2r1uWl7T7aS8Bms.mp4?tag=29)
+
+Stop motion, 3D, çizgi roman ve anime tarzındaki karakterler aynı doğum günü sahnesinde buluşur.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-3"></a>
+**[Zaman kodlu su şişesi reklamı](https://weel.co.jp/media/tech/gemini-omni-1-2-flash/)** · WEEL
+
+[![Zaman kodlu su şişesi reklamı](image/omni-1.2/community/timecoded-bottle-ad.jpg)](https://www.youtube.com/watch?v=u6P7rxZlSQI)
+
+WEEL, zamanlaması belirlenmiş üç bölümden oluşan 15 saniyelik bir ürün reklamını test ediyor. Yazıda istem de yer alıyor.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-4"></a>
+**[İki kare arasında parfüm tanıtımı](https://blog.segmind.com/gemini-omni-1-2-flash-is-here-generate-and-edit-15-second-videos/)** · Segmind
+
+[![İki kare arasında parfüm tanıtımı](image/omni-1.2/community/perfume-first-last-frames.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-12-flash/i2v-fl10.mp4)
+
+İki referans kare, karanlık bir stüdyodan güneş alan çiçeklere uzanan 10 saniyelik parfüm tanıtımına yön verir. Yazıda istem de yer alıyor.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-5"></a>
+**[Seramik sanatçısı ve referans vazo](https://blog.segmind.com/gemini-omni-1-2-flash-is-here-generate-and-edit-15-second-videos/)** · Segmind
+
+[![Seramik sanatçısı ve referans vazo](image/omni-1.2/community/ceramic-artist-vase.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-12-flash/ref10.mp4)
+
+Konuşma içeren bir ürün çekiminde sanatçı ve vazo için ayrı referanslar kullanılır. Yazıda istem de yer alıyor.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-6"></a>
+**[Üç sesli Polonya bayram yemeği sahnesi](https://promptif.fr/gemini-omni-1-2-flash-test/)** · Promptif
+
+[![Üç sesli Polonya bayram yemeği sahnesi](image/omni-1.2/community/polish-dinner-dialogue.webp)](https://promptif.fr/wp-content/uploads/2026/11/omni12-cc251d82201c7f7e2cbd2d57b6e9715b.mp4)
+
+Polonya’daki bir bayram yemeği sahnesi, üç kişinin sırayla konuşmasını ve dudak senkronizasyonunu test eder.
 
 </td>
 </tr>

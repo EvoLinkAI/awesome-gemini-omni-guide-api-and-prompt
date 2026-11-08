@@ -61,6 +61,7 @@ Wähle in der obigen Aufgabentabelle Text-zu-Video, Bild-zu-Video, Referenzen, B
 - [Leitfaden zu Gemini Omni 1.2 Flash](#omni-1-2-guide)
 - [Schnellstart](#quick-start)
 - [Offizielle Demos zu Gemini Omni 1.2](#omni12-demos)
+- [Community-Demos zu Gemini Omni 1.2](#omni12-community-demos)
 - [🎯 Prompt-Zutaten](#-prompt-zutaten)
 - [✂️ Bearbeitung](#️-bearbeitung)
   - [🔄 Element-Ersetzung](#-element-ersetzung)
@@ -214,6 +215,80 @@ Das erste und letzte Bild verbinden Außen- und Innenansicht eines Ramen-Lokals;
 [![Durchgehendes Herauszoomen von einer Insel](image/omni-1.2/continuous-island-zoom-out.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Castaway_Crash_Zoom_Out_Demo.mp4)
 
 Eine zehnsekündige Aufnahme zieht sich von einer Nahansicht der Küste bis zu einer weiten Inselansicht zurück.
+
+</td>
+</tr>
+</table>
+
+<a id="omni12-community-demos"></a>
+## 🎥 Community-Demos zu Gemini Omni 1.2
+
+Sechs Videos zu Gemini Omni 1.2 Flash, veröffentlicht von Kreativen und Tool-Teams. Wähle ein Vorschaubild aus, um den Originalclip anzusehen. Der Titel führt zum Beitrag oder Artikel der Urheber, einschließlich des Prompts, sofern sie ihn veröffentlicht haben.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-1"></a>
+**[Streetwear-Wechsel im Takt](https://x.com/HarshithLucky3/status/2118401265273360530)** · HarshithLucky3
+
+[![Streetwear-Wechsel im Takt](image/omni-1.2/community/streetwear-beat-cuts.jpg)](https://video-s.twimg.com/amplify_video/2118400792348770305/vid/avc1/640x360/y-KZwoASoz81lFXx.mp4?tag=29)
+
+Bei einem Spaziergang im Streetstyle geben Klatscher das Signal für schnelle Outfitwechsel. Der Urheber teilt den Prompt.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-2"></a>
+**[Geburtstagsfeier mit gemischten Stilen](https://x.com/ash_twtz/status/2118393918794707053)** · ash_twtz
+
+[![Geburtstagsfeier mit gemischten Stilen](image/omni-1.2/community/mixed-style-party.jpg)](https://video-s.twimg.com/amplify_video/2118393860493905920/vid/avc1/640x360/W2r1uWl7T7aS8Bms.mp4?tag=29)
+
+Figuren aus Stop-Motion, 3D, Comics und Anime treten in derselben Geburtstagsszene auf.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-3"></a>
+**[Werbeclip für eine Trinkflasche mit Zeitmarken](https://weel.co.jp/media/tech/gemini-omni-1-2-flash/)** · WEEL
+
+[![Werbeclip für eine Trinkflasche mit Zeitmarken](image/omni-1.2/community/timecoded-bottle-ad.jpg)](https://www.youtube.com/watch?v=u6P7rxZlSQI)
+
+WEEL testet einen 15-sekündigen Produktwerbeclip mit drei zeitlich festgelegten Momenten. Der Artikel enthält den Prompt.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-4"></a>
+**[Parfüm in Szene gesetzt zwischen zwei Bildern](https://blog.segmind.com/gemini-omni-1-2-flash-is-here-generate-and-edit-15-second-videos/)** · Segmind
+
+[![Parfüm in Szene gesetzt zwischen zwei Bildern](image/omni-1.2/community/perfume-first-last-frames.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-12-flash/i2v-fl10.mp4)
+
+Zwei Referenzbilder geben die zehnsekündige Präsentation des Parfüms vor, vom dunklen Studio bis zu Blumen im Sonnenlicht. Der Artikel enthält den Prompt.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-5"></a>
+**[Keramikkunst und Vase als Referenz](https://blog.segmind.com/gemini-omni-1-2-flash-is-here-generate-and-edit-15-second-videos/)** · Segmind
+
+[![Keramikkunst und Vase als Referenz](image/omni-1.2/community/ceramic-artist-vase.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-12-flash/ref10.mp4)
+
+Getrennte Referenzen geben die Person und die Vase in einer Produktaufnahme mit Sprache vor. Der Artikel enthält den Prompt.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-6"></a>
+**[Polnisches Festessen mit drei Stimmen](https://promptif.fr/gemini-omni-1-2-flash-test/)** · Promptif
+
+[![Polnisches Festessen mit drei Stimmen](image/omni-1.2/community/polish-dinner-dialogue.webp)](https://promptif.fr/wp-content/uploads/2026/11/omni12-cc251d82201c7f7e2cbd2d57b6e9715b.mp4)
+
+Ein polnisches Festessen dient als Test für Sprecherwechsel und Lippensynchronität bei drei Personen.
 
 </td>
 </tr>

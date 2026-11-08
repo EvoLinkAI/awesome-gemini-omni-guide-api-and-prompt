@@ -1,5 +1,9 @@
 # Update log
 
+## 2026-11-08
+
+- Added six source-linked Gemini Omni 1.2 Flash demos from creators and tool teams, including four with prompts in the original sources.
+
 ## 2026-11-07
 
 - Clarified which EvoLink routes support 15-second generation and which input combinations stay within 3–10 seconds across all eleven README languages.

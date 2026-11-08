@@ -61,6 +61,7 @@ Google 将 Gemini Omni 1.2 Flash 列为 GA，发布日期为 **2026年11月5日*
 - [Gemini Omni 1.2 Flash 指南](#omni-1-2-guide)
 - [快速开始](#quick-start)
 - [Gemini Omni 1.2 官方演示](#omni12-demos)
+- [Gemini Omni 1.2 社区演示墙](#omni12-community-demos)
 - [🎯 提示词要素](#-提示词要素)
 - [✂️ 编辑](#️-编辑)
   - [🔄 元素替换](#-元素替换)
@@ -214,6 +215,80 @@ Google 于 **2026年11月5日**发布的八组官方演示。阅读[原始发布
 [![海岛连续拉远镜头](image/omni-1.2/continuous-island-zoom-out.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Castaway_Crash_Zoom_Out_Demo.mp4)
 
 一个 10 秒镜头从海岸特写连续拉远到海岛广角景观。
+
+</td>
+</tr>
+</table>
+
+<a id="omni12-community-demos"></a>
+## 🎥 Gemini Omni 1.2 社区演示墙
+
+收录创作者和工具团队发布的 6 段 Gemini Omni 1.2 Flash 视频。点击预览即可观看原片。标题链接至作者的帖子或文章，作者公开的提示词可在来源中查看。
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-1"></a>
+**[跟着节拍切换街头穿搭](https://x.com/HarshithLucky3/status/2118401265273360530)** · HarshithLucky3
+
+[![跟着节拍切换街头穿搭](image/omni-1.2/community/streetwear-beat-cuts.jpg)](https://video-s.twimg.com/amplify_video/2118400792348770305/vid/avc1/640x360/y-KZwoASoz81lFXx.mp4?tag=29)
+
+街头走秀以拍手声为切换信号，快速更换服装。创作者公开了提示词。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-2"></a>
+**[多种风格同台的生日派对](https://x.com/ash_twtz/status/2118393918794707053)** · ash_twtz
+
+[![多种风格同台的生日派对](image/omni-1.2/community/mixed-style-party.jpg)](https://video-s.twimg.com/amplify_video/2118393860493905920/vid/avc1/640x360/W2r1uWl7T7aS8Bms.mp4?tag=29)
+
+定格动画、3D、漫画和动漫风格的角色出现在同一个生日派对场景中。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-3"></a>
+**[按时间码编排的水瓶广告](https://weel.co.jp/media/tech/gemini-omni-1-2-flash/)** · WEEL
+
+[![按时间码编排的水瓶广告](image/omni-1.2/community/timecoded-bottle-ad.jpg)](https://www.youtube.com/watch?v=u6P7rxZlSQI)
+
+WEEL 测试了一条 15 秒的产品广告，为三段演出指定了时间节点。文章附有提示词。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-4"></a>
+**[用首尾帧呈现香水亮相](https://blog.segmind.com/gemini-omni-1-2-flash-is-here-generate-and-edit-15-second-videos/)** · Segmind
+
+[![用首尾帧呈现香水亮相](image/omni-1.2/community/perfume-first-last-frames.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-12-flash/i2v-fl10.mp4)
+
+两张参考帧引导 10 秒的香水展示从昏暗的摄影棚过渡到阳光下的花丛。文章附有提示词。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-5"></a>
+**[陶艺师与参考图中的花瓶](https://blog.segmind.com/gemini-omni-1-2-flash-is-here-generate-and-edit-15-second-videos/)** · Segmind
+
+[![陶艺师与参考图中的花瓶](image/omni-1.2/community/ceramic-artist-vase.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-12-flash/ref10.mp4)
+
+分别为陶艺师和花瓶提供参考素材，生成带口播的产品镜头。文章附有提示词。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-6"></a>
+**[波兰节日晚餐的三人对话](https://promptif.fr/gemini-omni-1-2-flash-test/)** · Promptif
+
+[![波兰节日晚餐的三人对话](image/omni-1.2/community/polish-dinner-dialogue.webp)](https://promptif.fr/wp-content/uploads/2026/11/omni12-cc251d82201c7f7e2cbd2d57b6e9715b.mp4)
+
+以波兰节日晚餐为背景，测试三人轮流说话时的衔接和口型同步。
 
 </td>
 </tr>
