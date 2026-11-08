@@ -24,7 +24,7 @@ Google indique que Gemini Omni 1.2 Flash est disponible en version générale (G
 
 - Entrées texte, image et vidéo ; sortie vidéo avec parole, musique et effets sonores synchronisés. Les fichiers audio en entrée et l’édition du son ne sont pas pris en charge.
 - Sortie native en **360p / 720p** ; le **1080p / 4K est obtenu par mise à l’échelle**, ce n’est pas du 4K natif. La sortie documentée est de 24 images par seconde, en 16:9 ou 9:16.
-- Le texte vers vidéo et la génération à partir d’une image initiale permettent **3–15 secondes**. L’interpolation entre les images initiale et finale reste limitée à **3–10 secondes**.
+- Pour générer **15 secondes** sur EvoLink, choisissez le texte vers vidéo, la génération à partir d’une seule image initiale ou la génération avec des images de référence et au plus une vidéo de référence. Avec une paire d’images initiale et finale ou deux à trois vidéos de référence, choisissez **3 à 10 secondes**.
 - L’extension ajoute **3–10 secondes** ; cette valeur correspond à la durée ajoutée, pas à la durée totale du résultat final.
 
 ### Choisir une tâche EvoLink

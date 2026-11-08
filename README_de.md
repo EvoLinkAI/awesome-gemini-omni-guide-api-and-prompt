@@ -24,7 +24,7 @@ Google führt Gemini Omni 1.2 Flash als allgemein verfügbar (GA), mit Veröffen
 
 - Text-, Bild- und Videoeingaben; Videoausgabe mit synchronisierter Sprache, Musik und Geräuschen. Audiodateien als Eingabe und Tonbearbeitung werden nicht unterstützt.
 - Native Ausgabe in **360p / 720p**; **1080p / 4K wird hochskaliert** und ist kein natives 4K. Dokumentiert sind 24 Bilder pro Sekunde sowie 16:9 oder 9:16.
-- Text-zu-Video und ein einzelnes Bild als Startbild unterstützen **3–15 Sekunden**. Die Interpolation zwischen erstem und letztem Bild bleibt auf **3–10 Sekunden** begrenzt.
+- Für **15 Sekunden** stehen bei EvoLink Text-zu-Video, Bild-zu-Video mit einem einzelnen Startbild oder Referenz-zu-Video mit Referenzbildern und höchstens einem Referenzvideo zur Wahl. Mit Start- und Endbild oder zwei bis drei Referenzvideos sind **3–10 Sekunden** möglich.
 - Die Videoverlängerung fügt **3–10 Sekunden** hinzu; dieser Wert bezeichnet die zusätzliche Dauer, nicht die Gesamtlänge des fertigen Videos.
 
 ### Eine EvoLink-Aufgabe auswählen
