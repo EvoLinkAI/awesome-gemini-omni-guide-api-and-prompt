@@ -61,6 +61,7 @@ Elige texto a video, imagen a video, referencias, edición, extensión o aumento
 - [Guía de Gemini Omni 1.2 Flash](#omni-1-2-guide)
 - [Inicio rápido](#quick-start)
 - [Demostraciones oficiales de Gemini Omni 1.2](#omni12-demos)
+- [Galería de demos de la comunidad de Gemini Omni 1.2](#omni12-community-demos)
 - [🎯 Ingredientes del Prompt](#-ingredientes-del-prompt)
 - [✂️ Edición](#️-edición)
   - [🔄 Reemplazo de Elementos](#-reemplazo-de-elementos)
@@ -214,6 +215,80 @@ El primer y el último fotograma conectan el exterior y el interior de un local 
 [![Alejamiento continuo de una isla](image/omni-1.2/continuous-island-zoom-out.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Castaway_Crash_Zoom_Out_Demo.mp4)
 
 Una toma de diez segundos se aleja de un primer plano de la costa hasta mostrar una vista amplia de la isla.
+
+</td>
+</tr>
+</table>
+
+<a id="omni12-community-demos"></a>
+## 🎥 Galería de demos de la comunidad de Gemini Omni 1.2
+
+Seis videos de Gemini Omni 1.2 Flash publicados por creadores y equipos que desarrollan herramientas. Selecciona una imagen de vista previa para ver el clip original. El título enlaza a la publicación o el artículo del autor, donde se incluye el prompt cuando este se ha compartido.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-1"></a>
+**[Cambios de ropa urbana al ritmo de las palmadas](https://x.com/HarshithLucky3/status/2118401265273360530)** · HarshithLucky3
+
+[![Cambios de ropa urbana al ritmo de las palmadas](image/omni-1.2/community/streetwear-beat-cuts.jpg)](https://video-s.twimg.com/amplify_video/2118400792348770305/vid/avc1/640x360/y-KZwoASoz81lFXx.mp4?tag=29)
+
+En un paseo de estilo urbano, las palmadas marcan los cambios rápidos de ropa. El creador comparte el prompt.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-2"></a>
+**[Fiesta de cumpleaños con estilos mezclados](https://x.com/ash_twtz/status/2118393918794707053)** · ash_twtz
+
+[![Fiesta de cumpleaños con estilos mezclados](image/omni-1.2/community/mixed-style-party.jpg)](https://video-s.twimg.com/amplify_video/2118393860493905920/vid/avc1/640x360/W2r1uWl7T7aS8Bms.mp4?tag=29)
+
+Personajes en stop motion, 3D, cómic y anime comparten una misma escena de cumpleaños.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-3"></a>
+**[Anuncio de una botella de agua con marcas de tiempo](https://weel.co.jp/media/tech/gemini-omni-1-2-flash/)** · WEEL
+
+[![Anuncio de una botella de agua con marcas de tiempo](image/omni-1.2/community/timecoded-bottle-ad.jpg)](https://www.youtube.com/watch?v=u6P7rxZlSQI)
+
+WEEL prueba un anuncio de producto de 15 segundos con tres momentos marcados. El artículo incluye el prompt.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-4"></a>
+**[Presentación de un perfume entre dos fotogramas](https://blog.segmind.com/gemini-omni-1-2-flash-is-here-generate-and-edit-15-second-videos/)** · Segmind
+
+[![Presentación de un perfume entre dos fotogramas](image/omni-1.2/community/perfume-first-last-frames.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-12-flash/i2v-fl10.mp4)
+
+Dos fotogramas de referencia guían una presentación de perfume de 10 segundos que pasa de un estudio oscuro a unas flores iluminadas por el sol. El artículo incluye el prompt.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-5"></a>
+**[Artista de la cerámica y jarrón de referencia](https://blog.segmind.com/gemini-omni-1-2-flash-is-here-generate-and-edit-15-second-videos/)** · Segmind
+
+[![Artista de la cerámica y jarrón de referencia](image/omni-1.2/community/ceramic-artist-vase.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-12-flash/ref10.mp4)
+
+Referencias separadas guían a la persona que trabaja la cerámica y al jarrón en un plano de producto con voz. El artículo incluye el prompt.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-6"></a>
+**[Cena festiva polaca con tres voces](https://promptif.fr/gemini-omni-1-2-flash-test/)** · Promptif
+
+[![Cena festiva polaca con tres voces](image/omni-1.2/community/polish-dinner-dialogue.webp)](https://promptif.fr/wp-content/uploads/2026/11/omni12-cc251d82201c7f7e2cbd2d57b6e9715b.mp4)
+
+Una cena festiva polaca pone a prueba la alternancia de turnos y la sincronización labial con tres interlocutores.
 
 </td>
 </tr>

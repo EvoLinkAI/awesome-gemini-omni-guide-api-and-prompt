@@ -12,3 +12,16 @@ The eight demos in the current README are published in [Google’s November 5, 2
 | [Octopus-to-Dancer Motion Transfer](../README.md#omni12-demo-6) | [Watch video](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Unexpected_Motion_Tracking_Demo_QRzpS2T.mp4) | [Get original poster](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/video_6110_wagtailvideo-ifrjvzw7.width-1400.format-webp.webp) |
 | [First-to-Last-Frame Ramen Shop](../README.md#omni12-demo-7) | [Watch video](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Ramen_Bar_Demo_jeWGtqx.mp4) | [Get original poster](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/video_6112_wagtailvideo-bd4742_g.width-1400.format-webp.webp) |
 | [Continuous Island Zoom-Out](../README.md#omni12-demo-8) | [Watch video](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Castaway_Crash_Zoom_Out_Demo.mp4) | [Get original poster](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/video_6108_wagtailvideo-wnkki5j2.width-1400.format-webp.webp) |
+
+## Community Demo Wall sources
+
+The examples link to the original public videos. Preview images are source posters or still frames from the linked videos.
+
+| Demo | Author and source | Playback | Preview source |
+|---|---|---|---|
+| [Beat-Synced Streetwear Changes](../README.md#omni12-community-1) | [HarshithLucky3](https://x.com/HarshithLucky3/status/2118401265273360530) | [Original video](https://video-s.twimg.com/amplify_video/2118400792348770305/vid/avc1/640x360/y-KZwoASoz81lFXx.mp4?tag=29) | [Original poster](https://pbs.twimg.com/amplify_video_thumb/2118400792348770305/img/uNkh3m21t01ImaVj.jpg) |
+| [Mixed-Style Birthday Party](../README.md#omni12-community-2) | [ash_twtz](https://x.com/ash_twtz/status/2118393918794707053) | [Original video](https://video-s.twimg.com/amplify_video/2118393860493905920/vid/avc1/640x360/W2r1uWl7T7aS8Bms.mp4?tag=29) | [Original poster](https://pbs.twimg.com/amplify_video_thumb/2118393860493905920/img/DKo0q6lYe-M9djoz.jpg) |
+| [Timecoded Water Bottle Ad](../README.md#omni12-community-3) | [WEEL](https://weel.co.jp/media/tech/gemini-omni-1-2-flash/) | [Original video](https://www.youtube.com/watch?v=u6P7rxZlSQI) | [Original poster](https://i.ytimg.com/vi/u6P7rxZlSQI/hqdefault.jpg) |
+| [Perfume Reveal Between Two Frames](../README.md#omni12-community-4) | [Segmind](https://blog.segmind.com/gemini-omni-1-2-flash-is-here-generate-and-edit-15-second-videos/) | [Original video](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-12-flash/i2v-fl10.mp4) | Still from the original video |
+| [Ceramic Artist and Reference Vase](../README.md#omni12-community-5) | [Segmind](https://blog.segmind.com/gemini-omni-1-2-flash-is-here-generate-and-edit-15-second-videos/) | [Original video](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-12-flash/ref10.mp4) | Still from the original video |
+| [Three-Voice Polish Dinner Scene](../README.md#omni12-community-6) | [Promptif](https://promptif.fr/gemini-omni-1-2-flash-test/) | [Original video](https://promptif.fr/wp-content/uploads/2026/11/omni12-cc251d82201c7f7e2cbd2d57b6e9715b.mp4) | [Original poster](https://promptif.fr/wp-content/uploads/2026/11/omni12-cc251d82201c7f7e2cbd2d57b6e9715b-kadr.webp) |

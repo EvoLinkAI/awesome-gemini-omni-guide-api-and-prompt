@@ -61,6 +61,7 @@ Choose text-to-video, image-to-video, references, editing, extension, or upscali
 - [Gemini Omni 1.2 Flash guide](#omni-1-2-guide)
 - [Quick Start](#quick-start)
 - [Gemini Omni 1.2 official demos](#omni12-demos)
+- [Gemini Omni 1.2 Community Demo Wall](#omni12-community-demos)
 - [🎯 Prompt Ingredients](#-prompt-ingredients)
 - [✂️ Edit](#️-edit)
   - [🔄 Element Replacement](#-element-replacement)
@@ -214,6 +215,80 @@ First and last frames connect a ramen-shop exterior and interior; Google's compa
 [![Continuous Island Zoom-Out](image/omni-1.2/continuous-island-zoom-out.webp)](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Castaway_Crash_Zoom_Out_Demo.mp4)
 
 A ten-second shot pulls from a shoreline close-up to a wide island view.
+
+</td>
+</tr>
+</table>
+
+<a id="omni12-community-demos"></a>
+## 🎥 Gemini Omni 1.2 Community Demo Wall
+
+Six Gemini Omni 1.2 Flash videos published by creators and tool teams. Select a preview to watch the original clip. The title links to the author’s post or write-up, with the prompt where the author shared it.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-1"></a>
+**[Beat-Synced Streetwear Changes](https://x.com/HarshithLucky3/status/2118401265273360530)** · HarshithLucky3
+
+[![Beat-Synced Streetwear Changes](image/omni-1.2/community/streetwear-beat-cuts.jpg)](https://video-s.twimg.com/amplify_video/2118400792348770305/vid/avc1/640x360/y-KZwoASoz81lFXx.mp4?tag=29)
+
+A street-style walk uses clap cues for rapid outfit changes. The creator shares the prompt.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-2"></a>
+**[Mixed-Style Birthday Party](https://x.com/ash_twtz/status/2118393918794707053)** · ash_twtz
+
+[![Mixed-Style Birthday Party](image/omni-1.2/community/mixed-style-party.jpg)](https://video-s.twimg.com/amplify_video/2118393860493905920/vid/avc1/640x360/W2r1uWl7T7aS8Bms.mp4?tag=29)
+
+Characters in stop motion, 3D, comics and anime share one birthday scene.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-3"></a>
+**[Timecoded Water Bottle Ad](https://weel.co.jp/media/tech/gemini-omni-1-2-flash/)** · WEEL
+
+[![Timecoded Water Bottle Ad](image/omni-1.2/community/timecoded-bottle-ad.jpg)](https://www.youtube.com/watch?v=u6P7rxZlSQI)
+
+WEEL tests a 15-second product ad with three timed beats. The article includes the prompt.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-4"></a>
+**[Perfume Reveal Between Two Frames](https://blog.segmind.com/gemini-omni-1-2-flash-is-here-generate-and-edit-15-second-videos/)** · Segmind
+
+[![Perfume Reveal Between Two Frames](image/omni-1.2/community/perfume-first-last-frames.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-12-flash/i2v-fl10.mp4)
+
+Two reference frames guide a 10-second perfume reveal from a dark studio to sunlit flowers. The article includes the prompt.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-5"></a>
+**[Ceramic Artist and Reference Vase](https://blog.segmind.com/gemini-omni-1-2-flash-is-here-generate-and-edit-15-second-videos/)** · Segmind
+
+[![Ceramic Artist and Reference Vase](image/omni-1.2/community/ceramic-artist-vase.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-12-flash/ref10.mp4)
+
+Separate references guide the artist and the vase in a spoken product shot. The article includes the prompt.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-6"></a>
+**[Three-Voice Polish Dinner Scene](https://promptif.fr/gemini-omni-1-2-flash-test/)** · Promptif
+
+[![Three-Voice Polish Dinner Scene](image/omni-1.2/community/polish-dinner-dialogue.webp)](https://promptif.fr/wp-content/uploads/2026/11/omni12-cc251d82201c7f7e2cbd2d57b6e9715b.mp4)
+
+A Polish holiday dinner tests turn-taking and lip sync with three speakers.
 
 </td>
 </tr>
