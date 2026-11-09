@@ -223,7 +223,7 @@ A ten-second shot pulls from a shoreline close-up to a wide island view.
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 Community Demo Wall
 
-Six Gemini Omni 1.2 Flash videos published by creators and tool teams. Select a preview to watch the original clip. The title links to the author’s post or write-up, with the prompt where the author shared it.
+Ten Gemini Omni 1.2 Flash examples from creators and tool teams. Select a preview to watch the original video. The title links to the author’s post or write-up, with the prompt where the author shared it.
 
 <table>
 <tr>
@@ -289,6 +289,56 @@ Separate references guide the artist and the vase in a spoken product shot. The 
 [![Three-Voice Polish Dinner Scene](image/omni-1.2/community/polish-dinner-dialogue.webp)](https://promptif.fr/wp-content/uploads/2026/11/omni12-cc251d82201c7f7e2cbd2d57b6e9715b.mp4)
 
 A Polish holiday dinner tests turn-taking and lip sync with three speakers.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-7"></a>
+**[Gameplay with a Facecam](https://x.com/rovvmut_/status/2118752554746270169)** · rovvmut_
+
+[![Gameplay with a Facecam](image/omni-1.2/community/gameplay-facecam.jpg)](https://video.twimg.com/amplify_video/2118752493798825984/vid/avc1/640x360/ABYvurfZ5k_VXKKA.mp4?tag=29)
+
+The creator prompts a game-stream layout with a driving scene, a corner facecam and English commentary. The post includes the prompt.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-8"></a>
+**[Locked-Camera Construction Hyperlapse](https://x.com/alecwilcock/status/2118716313275142188)** · alecwilcock
+
+[![Locked-Camera Construction Hyperlapse](image/omni-1.2/community/construction-hyperlapse.jpg)](https://video.twimg.com/amplify_video/2118715983812497409/vid/avc1/640x360/rLsfCIZnQmAvu0SI.mp4?tag=29)
+
+The creator compares Omni 1.2 Flash and Seedance 2.5 on a data-center construction time-lapse. The post includes the shared prompt.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-9"></a>
+**[Same Prompt, No Dialogue](https://x.com/husky__create/status/2118637071887953952)** · husky__create
+
+**Omni 1.2 Flash**
+
+[![Same Prompt, No Dialogue · Omni 1.2 Flash](image/omni-1.2/community/no-dialogue-comparison-1.jpg)](https://video-s.twimg.com/amplify_video/2118637038430015488/vid/avc1/640x360/goYQmD8hpI3NIsS5.mp4?tag=16)
+
+**Omni 1.1 Flash**
+
+[![Same Prompt, No Dialogue · Omni 1.1 Flash](image/omni-1.2/community/no-dialogue-comparison-2.jpg)](https://video-s.twimg.com/amplify_video/2118637056083787776/vid/avc1/640x360/srtblIdulfmUfOeA.mp4?tag=16)
+
+The creator compares Omni 1.2 Flash and 1.1 Flash using the same prompt with a no-dialogue instruction. Both outputs are included.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-10"></a>
+**[Still Collage in Motion](https://x.com/mmmiyama_D/status/2118467997870465516)** · mmmiyama_D
+
+[![Still Collage in Motion](image/omni-1.2/community/animated-collage.jpg)](https://video-s.twimg.com/amplify_video/2118467980497747968/vid/avc1/480x852/7oxu6hnjA__basp0.mp4?tag=16)
+
+The creator animates a still collage from the quoted post with Omni 1.2 Flash.
 
 </td>
 </tr>

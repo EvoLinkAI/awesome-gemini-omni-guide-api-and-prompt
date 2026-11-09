@@ -223,7 +223,7 @@ Google 于 **2026年11月5日**发布的八组官方演示。阅读[原始发布
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 社区演示墙
 
-收录创作者和工具团队发布的 6 段 Gemini Omni 1.2 Flash 视频。点击预览即可观看原片。标题链接至作者的帖子或文章，作者公开的提示词可在来源中查看。
+收录创作者和工具团队发布的 10 个 Gemini Omni 1.2 Flash 示例。点击预览即可观看原片。标题链接至作者的帖子或文章，作者公开的提示词可在来源中查看。
 
 <table>
 <tr>
@@ -289,6 +289,56 @@ WEEL 测试了一条 15 秒的产品广告，为三段演出指定了时间节�
 [![波兰节日晚餐的三人对话](image/omni-1.2/community/polish-dinner-dialogue.webp)](https://promptif.fr/wp-content/uploads/2026/11/omni12-cc251d82201c7f7e2cbd2d57b6e9715b.mp4)
 
 以波兰节日晚餐为背景，测试三人轮流说话时的衔接和口型同步。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-7"></a>
+**[带主播小窗的游戏画面](https://x.com/rovvmut_/status/2118752554746270169)** · rovvmut_
+
+[![带主播小窗的游戏画面](image/omni-1.2/community/gameplay-facecam.jpg)](https://video.twimg.com/amplify_video/2118752493798825984/vid/avc1/640x360/ABYvurfZ5k_VXKKA.mp4?tag=29)
+
+创作者用提示词设计游戏直播画面，包含驾驶场景、画面角落的主播小窗和英文解说。原帖公开了提示词。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-8"></a>
+**[固定视角的施工延时视频](https://x.com/alecwilcock/status/2118716313275142188)** · alecwilcock
+
+[![固定视角的施工延时视频](image/omni-1.2/community/construction-hyperlapse.jpg)](https://video.twimg.com/amplify_video/2118715983812497409/vid/avc1/640x360/rLsfCIZnQmAvu0SI.mp4?tag=29)
+
+创作者用数据中心施工延时视频对比 Omni 1.2 Flash 和 Seedance 2.5。原帖公开了两个模型共用的提示词。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-9"></a>
+**[同一提示词下的无对白对比](https://x.com/husky__create/status/2118637071887953952)** · husky__create
+
+**Omni 1.2 Flash**
+
+[![同一提示词下的无对白对比 · Omni 1.2 Flash](image/omni-1.2/community/no-dialogue-comparison-1.jpg)](https://video-s.twimg.com/amplify_video/2118637038430015488/vid/avc1/640x360/goYQmD8hpI3NIsS5.mp4?tag=16)
+
+**Omni 1.1 Flash**
+
+[![同一提示词下的无对白对比 · Omni 1.1 Flash](image/omni-1.2/community/no-dialogue-comparison-2.jpg)](https://video-s.twimg.com/amplify_video/2118637056083787776/vid/avc1/640x360/srtblIdulfmUfOeA.mp4?tag=16)
+
+创作者在同一提示词中要求不加对白，对比 Omni 1.2 Flash 和 1.1 Flash。两段输出均可观看。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-10"></a>
+**[让静态拼贴动起来](https://x.com/mmmiyama_D/status/2118467997870465516)** · mmmiyama_D
+
+[![让静态拼贴动起来](image/omni-1.2/community/animated-collage.jpg)](https://video-s.twimg.com/amplify_video/2118467980497747968/vid/avc1/480x852/7oxu6hnjA__basp0.mp4?tag=16)
+
+创作者用 Omni 1.2 Flash 为引用帖中的静态拼贴添加了动态效果。
 
 </td>
 </tr>

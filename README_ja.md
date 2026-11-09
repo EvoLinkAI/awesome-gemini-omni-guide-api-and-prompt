@@ -223,7 +223,7 @@ Google が **2026年11月5日**に公開した8件の公式デモです。[元�
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 コミュニティデモ集
 
-クリエイターやツール開発チームが公開した Gemini Omni 1.2 Flash の動画を6本紹介します。プレビューから元の動画を再生できます。タイトルからは作者の投稿や記事に移動でき、プロンプトが公開されている場合はそこで確認できます。
+クリエイターやツール開発チームが公開した Gemini Omni 1.2 Flash の作例を10件紹介します。プレビューから元の動画を再生できます。タイトルからは作者の投稿や記事に移動でき、プロンプトが公開されている場合はそこで確認できます。
 
 <table>
 <tr>
@@ -289,6 +289,56 @@ WEEL が、タイミングを指定した3つの演出を組み込んだ15秒の
 [![ポーランドの食卓で交わす3人の会話](image/omni-1.2/community/polish-dinner-dialogue.webp)](https://promptif.fr/wp-content/uploads/2026/11/omni12-cc251d82201c7f7e2cbd2d57b6e9715b.mp4)
 
 ポーランドの祝日の食卓を舞台に、3人が順番に話す流れとリップシンクを試しています。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-7"></a>
+**[顔出し小窓付きのゲーム配信風映像](https://x.com/rovvmut_/status/2118752554746270169)** · rovvmut_
+
+[![顔出し小窓付きのゲーム配信風映像](image/omni-1.2/community/gameplay-facecam.jpg)](https://video.twimg.com/amplify_video/2118752493798825984/vid/avc1/640x360/ABYvurfZ5k_VXKKA.mp4?tag=29)
+
+作者はプロンプトで、運転シーン、画面の隅に表示する顔出し映像、英語の実況を組み合わせたゲーム配信風の画面構成を指定しています。投稿にプロンプトが掲載されています。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-8"></a>
+**[固定カメラ視点の建設タイムラプス](https://x.com/alecwilcock/status/2118716313275142188)** · alecwilcock
+
+[![固定カメラ視点の建設タイムラプス](image/omni-1.2/community/construction-hyperlapse.jpg)](https://video.twimg.com/amplify_video/2118715983812497409/vid/avc1/640x360/rLsfCIZnQmAvu0SI.mp4?tag=29)
+
+データセンターの建設を描くタイムラプスで、作者が Omni 1.2 Flash と Seedance 2.5 を比較しています。投稿には両モデルに使ったプロンプトが掲載されています。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-9"></a>
+**[同じプロンプトでセリフなしの比較](https://x.com/husky__create/status/2118637071887953952)** · husky__create
+
+**Omni 1.2 Flash**
+
+[![同じプロンプトでセリフなしの比較 · Omni 1.2 Flash](image/omni-1.2/community/no-dialogue-comparison-1.jpg)](https://video-s.twimg.com/amplify_video/2118637038430015488/vid/avc1/640x360/goYQmD8hpI3NIsS5.mp4?tag=16)
+
+**Omni 1.1 Flash**
+
+[![同じプロンプトでセリフなしの比較 · Omni 1.1 Flash](image/omni-1.2/community/no-dialogue-comparison-2.jpg)](https://video-s.twimg.com/amplify_video/2118637056083787776/vid/avc1/640x360/srtblIdulfmUfOeA.mp4?tag=16)
+
+作者はセリフを入れないよう指示した同一のプロンプトで、Omni 1.2 Flash と 1.1 Flash を比較しています。両方の出力を掲載しています。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-10"></a>
+**[静止コラージュに動きをつける](https://x.com/mmmiyama_D/status/2118467997870465516)** · mmmiyama_D
+
+[![静止コラージュに動きをつける](image/omni-1.2/community/animated-collage.jpg)](https://video-s.twimg.com/amplify_video/2118467980497747968/vid/avc1/480x852/7oxu6hnjA__basp0.mp4?tag=16)
+
+作者は引用元の投稿にある静止コラージュを、Omni 1.2 Flash で動かしています。
 
 </td>
 </tr>

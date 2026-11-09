@@ -223,7 +223,7 @@ Google 於 **2026 年 11 月 5 日**發布的八組官方展示。請閱讀[原�
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 社群示範牆
 
-收錄創作者與工具開發團隊發布的 6 段 Gemini Omni 1.2 Flash 影片。點選預覽即可觀看原始片段。標題連至作者的貼文或文章，作者公開的提示詞可在來源中查看。
+收錄創作者與工具開發團隊發布的 10 個 Gemini Omni 1.2 Flash 範例。點選預覽即可觀看原始影片。標題連至作者的貼文或文章，作者公開的提示詞可在來源中查看。
 
 <table>
 <tr>
@@ -289,6 +289,56 @@ WEEL 測試了一支 15 秒的產品廣告，為三段演出設定時間點。�
 [![波蘭節日晚餐的三人對話](image/omni-1.2/community/polish-dinner-dialogue.webp)](https://promptif.fr/wp-content/uploads/2026/11/omni12-cc251d82201c7f7e2cbd2d57b6e9715b.mp4)
 
 以波蘭節日晚餐為背景，測試三人輪流說話時的銜接和嘴型同步。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-7"></a>
+**[帶實況主小視窗的遊戲畫面](https://x.com/rovvmut_/status/2118752554746270169)** · rovvmut_
+
+[![帶實況主小視窗的遊戲畫面](image/omni-1.2/community/gameplay-facecam.jpg)](https://video.twimg.com/amplify_video/2118752493798825984/vid/avc1/640x360/ABYvurfZ5k_VXKKA.mp4?tag=29)
+
+創作者用提示詞設計遊戲實況的畫面配置，加入駕駛場景、角落的實況主小視窗和英語解說。原貼文公開了提示詞。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-8"></a>
+**[固定視角的施工縮時影片](https://x.com/alecwilcock/status/2118716313275142188)** · alecwilcock
+
+[![固定視角的施工縮時影片](image/omni-1.2/community/construction-hyperlapse.jpg)](https://video.twimg.com/amplify_video/2118715983812497409/vid/avc1/640x360/rLsfCIZnQmAvu0SI.mp4?tag=29)
+
+創作者以資料中心施工的縮時影片比較 Omni 1.2 Flash 與 Seedance 2.5。原貼文公開了兩個模型共用的提示詞。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-9"></a>
+**[同一提示詞的無對白比較](https://x.com/husky__create/status/2118637071887953952)** · husky__create
+
+**Omni 1.2 Flash**
+
+[![同一提示詞的無對白比較 · Omni 1.2 Flash](image/omni-1.2/community/no-dialogue-comparison-1.jpg)](https://video-s.twimg.com/amplify_video/2118637038430015488/vid/avc1/640x360/goYQmD8hpI3NIsS5.mp4?tag=16)
+
+**Omni 1.1 Flash**
+
+[![同一提示詞的無對白比較 · Omni 1.1 Flash](image/omni-1.2/community/no-dialogue-comparison-2.jpg)](https://video-s.twimg.com/amplify_video/2118637056083787776/vid/avc1/640x360/srtblIdulfmUfOeA.mp4?tag=16)
+
+創作者在同一提示詞中要求不加入對白，藉此比較 Omni 1.2 Flash 與 1.1 Flash。兩段輸出皆可觀看。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-10"></a>
+**[讓靜態拼貼動起來](https://x.com/mmmiyama_D/status/2118467997870465516)** · mmmiyama_D
+
+[![讓靜態拼貼動起來](image/omni-1.2/community/animated-collage.jpg)](https://video-s.twimg.com/amplify_video/2118467980497747968/vid/avc1/480x852/7oxu6hnjA__basp0.mp4?tag=16)
+
+創作者以 Omni 1.2 Flash 將引用貼文裡的靜態拼貼製成動態影片。
 
 </td>
 </tr>

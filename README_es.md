@@ -223,7 +223,7 @@ Una toma de diez segundos se aleja de un primer plano de la costa hasta mostrar 
 <a id="omni12-community-demos"></a>
 ## 🎥 Galería de demos de la comunidad de Gemini Omni 1.2
 
-Seis videos de Gemini Omni 1.2 Flash publicados por creadores y equipos que desarrollan herramientas. Selecciona una imagen de vista previa para ver el clip original. El título enlaza a la publicación o el artículo del autor, donde se incluye el prompt cuando este se ha compartido.
+Diez ejemplos de Gemini Omni 1.2 Flash publicados por creadores y equipos que desarrollan herramientas. Selecciona una imagen de vista previa para ver el video original. El título enlaza a la publicación o el artículo del autor. Si el autor compartió el prompt, lo encontrarás allí.
 
 <table>
 <tr>
@@ -289,6 +289,56 @@ Referencias separadas guían a la persona que trabaja la cerámica y al jarrón 
 [![Cena festiva polaca con tres voces](image/omni-1.2/community/polish-dinner-dialogue.webp)](https://promptif.fr/wp-content/uploads/2026/11/omni12-cc251d82201c7f7e2cbd2d57b6e9715b.mp4)
 
 Una cena festiva polaca pone a prueba la alternancia de turnos y la sincronización labial con tres interlocutores.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-7"></a>
+**[Partida de videojuego con cámara del jugador](https://x.com/rovvmut_/status/2118752554746270169)** · rovvmut_
+
+[![Partida de videojuego con cámara del jugador](image/omni-1.2/community/gameplay-facecam.jpg)](https://video.twimg.com/amplify_video/2118752493798825984/vid/avc1/640x360/ABYvurfZ5k_VXKKA.mp4?tag=29)
+
+El creador pide un formato de transmisión de videojuegos con una escena de conducción, una cámara del jugador en una esquina y comentarios en inglés. La publicación incluye el prompt.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-8"></a>
+**[Obra en cámara rápida desde un plano fijo](https://x.com/alecwilcock/status/2118716313275142188)** · alecwilcock
+
+[![Obra en cámara rápida desde un plano fijo](image/omni-1.2/community/construction-hyperlapse.jpg)](https://video.twimg.com/amplify_video/2118715983812497409/vid/avc1/640x360/rLsfCIZnQmAvu0SI.mp4?tag=29)
+
+El creador compara Omni 1.2 Flash y Seedance 2.5 con una secuencia acelerada de la construcción de un centro de datos. La publicación incluye el prompt que se usó para ambos modelos.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-9"></a>
+**[El mismo prompt sin diálogos](https://x.com/husky__create/status/2118637071887953952)** · husky__create
+
+**Omni 1.2 Flash**
+
+[![El mismo prompt sin diálogos · Omni 1.2 Flash](image/omni-1.2/community/no-dialogue-comparison-1.jpg)](https://video-s.twimg.com/amplify_video/2118637038430015488/vid/avc1/640x360/goYQmD8hpI3NIsS5.mp4?tag=16)
+
+**Omni 1.1 Flash**
+
+[![El mismo prompt sin diálogos · Omni 1.1 Flash](image/omni-1.2/community/no-dialogue-comparison-2.jpg)](https://video-s.twimg.com/amplify_video/2118637056083787776/vid/avc1/640x360/srtblIdulfmUfOeA.mp4?tag=16)
+
+El creador compara Omni 1.2 Flash y 1.1 Flash con el mismo prompt, que indica que la escena debe carecer de diálogos. Se incluyen los dos resultados.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-10"></a>
+**[Un collage estático cobra movimiento](https://x.com/mmmiyama_D/status/2118467997870465516)** · mmmiyama_D
+
+[![Un collage estático cobra movimiento](image/omni-1.2/community/animated-collage.jpg)](https://video-s.twimg.com/amplify_video/2118467980497747968/vid/avc1/480x852/7oxu6hnjA__basp0.mp4?tag=16)
+
+El creador anima con Omni 1.2 Flash un collage estático de la publicación citada.
 
 </td>
 </tr>

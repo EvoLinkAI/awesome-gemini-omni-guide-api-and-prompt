@@ -1,5 +1,9 @@
 # Update log
 
+## 2026-11-09
+
+- Added four creator demos covering gameplay with a facecam, fixed-camera construction, a no-dialogue comparison and collage animation.
+
 ## 2026-11-08
 
 - Added six source-linked Gemini Omni 1.2 Flash demos from creators and tool teams, including four with prompts in the original sources.

@@ -223,7 +223,7 @@ Eine zehnsekündige Aufnahme zieht sich von einer Nahansicht der Küste bis zu e
 <a id="omni12-community-demos"></a>
 ## 🎥 Community-Demos zu Gemini Omni 1.2
 
-Sechs Videos zu Gemini Omni 1.2 Flash, veröffentlicht von Kreativen und Tool-Teams. Wähle ein Vorschaubild aus, um den Originalclip anzusehen. Der Titel führt zum Beitrag oder Artikel der Urheber, einschließlich des Prompts, sofern sie ihn veröffentlicht haben.
+Zehn Beispiele für Gemini Omni 1.2 Flash von Kreativen und Teams, die Tools entwickeln. Wähle ein Vorschaubild aus, um das Originalvideo anzusehen. Der Titel führt zum Beitrag oder Artikel der Urheber. Wenn sie den Prompt veröffentlicht haben, findest du ihn dort.
 
 <table>
 <tr>
@@ -289,6 +289,56 @@ Getrennte Referenzen geben die Person und die Vase in einer Produktaufnahme mit 
 [![Polnisches Festessen mit drei Stimmen](image/omni-1.2/community/polish-dinner-dialogue.webp)](https://promptif.fr/wp-content/uploads/2026/11/omni12-cc251d82201c7f7e2cbd2d57b6e9715b.mp4)
 
 Ein polnisches Festessen dient als Test für Sprecherwechsel und Lippensynchronität bei drei Personen.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-7"></a>
+**[Spielszene mit Facecam](https://x.com/rovvmut_/status/2118752554746270169)** · rovvmut_
+
+[![Spielszene mit Facecam](image/omni-1.2/community/gameplay-facecam.jpg)](https://video.twimg.com/amplify_video/2118752493798825984/vid/avc1/640x360/ABYvurfZ5k_VXKKA.mp4?tag=29)
+
+Der Urheber beschreibt im Prompt das Layout eines Gaming-Streams mit einer Fahrszene, einer Facecam in der Ecke und englischem Kommentar. Der Beitrag enthält den Prompt.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-8"></a>
+**[Bau im Zeitraffer mit fester Kamera](https://x.com/alecwilcock/status/2118716313275142188)** · alecwilcock
+
+[![Bau im Zeitraffer mit fester Kamera](image/omni-1.2/community/construction-hyperlapse.jpg)](https://video.twimg.com/amplify_video/2118715983812497409/vid/avc1/640x360/rLsfCIZnQmAvu0SI.mp4?tag=29)
+
+Der Urheber vergleicht Omni 1.2 Flash und Seedance 2.5 anhand einer Zeitrafferaufnahme vom Bau eines Rechenzentrums. Der Beitrag enthält den für beide Modelle verwendeten Prompt.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-9"></a>
+**[Gleicher Prompt ohne Dialog](https://x.com/husky__create/status/2118637071887953952)** · husky__create
+
+**Omni 1.2 Flash**
+
+[![Gleicher Prompt ohne Dialog · Omni 1.2 Flash](image/omni-1.2/community/no-dialogue-comparison-1.jpg)](https://video-s.twimg.com/amplify_video/2118637038430015488/vid/avc1/640x360/goYQmD8hpI3NIsS5.mp4?tag=16)
+
+**Omni 1.1 Flash**
+
+[![Gleicher Prompt ohne Dialog · Omni 1.1 Flash](image/omni-1.2/community/no-dialogue-comparison-2.jpg)](https://video-s.twimg.com/amplify_video/2118637056083787776/vid/avc1/640x360/srtblIdulfmUfOeA.mp4?tag=16)
+
+Der Urheber vergleicht Omni 1.2 Flash und 1.1 Flash mit demselben Prompt und der Vorgabe, dass die Szene keinen Dialog enthält. Beide Ergebnisse sind enthalten.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-10"></a>
+**[Statische Collage in Bewegung](https://x.com/mmmiyama_D/status/2118467997870465516)** · mmmiyama_D
+
+[![Statische Collage in Bewegung](image/omni-1.2/community/animated-collage.jpg)](https://video-s.twimg.com/amplify_video/2118467980497747968/vid/avc1/480x852/7oxu6hnjA__basp0.mp4?tag=16)
+
+Der Urheber animiert mit Omni 1.2 Flash eine statische Collage aus dem zitierten Beitrag.
 
 </td>
 </tr>

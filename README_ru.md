@@ -223,7 +223,7 @@ Google указывает, что Gemini Omni 1.2 Flash находится в о
 <a id="omni12-community-demos"></a>
 ## 🎥 Демонстрации Gemini Omni 1.2 от сообщества
 
-Шесть видео Gemini Omni 1.2 Flash от авторов и команд, разрабатывающих инструменты. Нажмите на превью, чтобы посмотреть исходный клип. Заголовок ведёт к публикации или статье автора. Если автор поделился промптом, его можно найти там.
+Десять примеров Gemini Omni 1.2 Flash от авторов и команд, разрабатывающих инструменты. Нажмите на превью, чтобы посмотреть исходное видео. Заголовок ведёт к публикации или статье автора. Если автор поделился промптом, его можно найти там.
 
 <table>
 <tr>
@@ -289,6 +289,56 @@ WEEL тестирует 15-секундную рекламу товара с т�
 [![Польский ужин с тремя голосами](image/omni-1.2/community/polish-dinner-dialogue.webp)](https://promptif.fr/wp-content/uploads/2026/11/omni12-cc251d82201c7f7e2cbd2d57b6e9715b.mp4)
 
 Сцена польского праздничного ужина проверяет, как трое участников говорят по очереди и насколько точно движения губ совпадают с речью.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-7"></a>
+**[Игровой процесс с фейскамом](https://x.com/rovvmut_/status/2118752554746270169)** · rovvmut_
+
+[![Игровой процесс с фейскамом](image/omni-1.2/community/gameplay-facecam.jpg)](https://video.twimg.com/amplify_video/2118752493798825984/vid/avc1/640x360/ABYvurfZ5k_VXKKA.mp4?tag=29)
+
+Автор задаёт промптом оформление игрового стрима со сценой вождения, окошком с лицом игрока в углу и комментариями на английском. Промпт приведён в публикации.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-8"></a>
+**[Гиперлапс строительства с неподвижной камерой](https://x.com/alecwilcock/status/2118716313275142188)** · alecwilcock
+
+[![Гиперлапс строительства с неподвижной камерой](image/omni-1.2/community/construction-hyperlapse.jpg)](https://video.twimg.com/amplify_video/2118715983812497409/vid/avc1/640x360/rLsfCIZnQmAvu0SI.mp4?tag=29)
+
+Автор сравнивает Omni 1.2 Flash и Seedance 2.5 на таймлапсе строительства дата-центра. В публикации приведён общий для двух моделей промпт.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-9"></a>
+**[Один промпт, без диалога](https://x.com/husky__create/status/2118637071887953952)** · husky__create
+
+**Omni 1.2 Flash**
+
+[![Один промпт, без диалога · Omni 1.2 Flash](image/omni-1.2/community/no-dialogue-comparison-1.jpg)](https://video-s.twimg.com/amplify_video/2118637038430015488/vid/avc1/640x360/goYQmD8hpI3NIsS5.mp4?tag=16)
+
+**Omni 1.1 Flash**
+
+[![Один промпт, без диалога · Omni 1.1 Flash](image/omni-1.2/community/no-dialogue-comparison-2.jpg)](https://video-s.twimg.com/amplify_video/2118637056083787776/vid/avc1/640x360/srtblIdulfmUfOeA.mp4?tag=16)
+
+Автор сравнивает Omni 1.2 Flash и 1.1 Flash на одном промпте с указанием обойтись без диалога. Приведены оба результата.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-10"></a>
+**[Статичный коллаж в движении](https://x.com/mmmiyama_D/status/2118467997870465516)** · mmmiyama_D
+
+[![Статичный коллаж в движении](image/omni-1.2/community/animated-collage.jpg)](https://video-s.twimg.com/amplify_video/2118467980497747968/vid/avc1/480x852/7oxu6hnjA__basp0.mp4?tag=16)
+
+Автор анимирует статичный коллаж из цитируемой публикации с помощью Omni 1.2 Flash.
 
 </td>
 </tr>
