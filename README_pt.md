@@ -223,7 +223,7 @@ Um plano de dez segundos se afasta de um close-up da orla até uma vista ampla d
 <a id="omni12-community-demos"></a>
 ## 🎥 Mural de demonstrações da comunidade do Gemini Omni 1.2
 
-Seis vídeos do Gemini Omni 1.2 Flash publicados por criadores e equipes que desenvolvem ferramentas. Selecione uma prévia para assistir ao clipe original. O título leva à publicação ou ao artigo do autor, onde você encontra o prompt quando ele foi compartilhado.
+Dez exemplos do Gemini Omni 1.2 Flash publicados por criadores e equipes que desenvolvem ferramentas. Selecione uma prévia para assistir ao vídeo original. O título leva à publicação ou ao artigo do autor, onde você encontra o prompt quando ele foi compartilhado.
 
 <table>
 <tr>
@@ -289,6 +289,56 @@ Referências distintas orientam a representação do ceramista e do vaso em uma 
 [![Jantar polonês com três vozes](image/omni-1.2/community/polish-dinner-dialogue.webp)](https://promptif.fr/wp-content/uploads/2026/11/omni12-cc251d82201c7f7e2cbd2d57b6e9715b.mp4)
 
 Uma cena de jantar festivo polonês testa a alternância de falas e a sincronia labial de três pessoas.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-7"></a>
+**[Gameplay com facecam](https://x.com/rovvmut_/status/2118752554746270169)** · rovvmut_
+
+[![Gameplay com facecam](image/omni-1.2/community/gameplay-facecam.jpg)](https://video.twimg.com/amplify_video/2118752493798825984/vid/avc1/640x360/ABYvurfZ5k_VXKKA.mp4?tag=29)
+
+O criador usa um prompt para compor o layout de uma transmissão de jogo, com uma cena ao volante, uma facecam no canto e comentários em inglês. A publicação inclui o prompt.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-8"></a>
+**[Hiperlapso de construção com câmera fixa](https://x.com/alecwilcock/status/2118716313275142188)** · alecwilcock
+
+[![Hiperlapso de construção com câmera fixa](image/omni-1.2/community/construction-hyperlapse.jpg)](https://video.twimg.com/amplify_video/2118715983812497409/vid/avc1/640x360/rLsfCIZnQmAvu0SI.mp4?tag=29)
+
+O criador compara o Omni 1.2 Flash e o Seedance 2.5 em um time-lapse da construção de um centro de dados. A publicação inclui o prompt usado nos dois modelos.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-9"></a>
+**[Mesmo prompt, sem diálogo](https://x.com/husky__create/status/2118637071887953952)** · husky__create
+
+**Omni 1.2 Flash**
+
+[![Mesmo prompt, sem diálogo · Omni 1.2 Flash](image/omni-1.2/community/no-dialogue-comparison-1.jpg)](https://video-s.twimg.com/amplify_video/2118637038430015488/vid/avc1/640x360/goYQmD8hpI3NIsS5.mp4?tag=16)
+
+**Omni 1.1 Flash**
+
+[![Mesmo prompt, sem diálogo · Omni 1.1 Flash](image/omni-1.2/community/no-dialogue-comparison-2.jpg)](https://video-s.twimg.com/amplify_video/2118637056083787776/vid/avc1/640x360/srtblIdulfmUfOeA.mp4?tag=16)
+
+O criador compara o Omni 1.2 Flash e o 1.1 Flash usando o mesmo prompt, que pede uma cena sem diálogo. Os dois resultados estão disponíveis.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-10"></a>
+**[Colagem estática em movimento](https://x.com/mmmiyama_D/status/2118467997870465516)** · mmmiyama_D
+
+[![Colagem estática em movimento](image/omni-1.2/community/animated-collage.jpg)](https://video-s.twimg.com/amplify_video/2118467980497747968/vid/avc1/480x852/7oxu6hnjA__basp0.mp4?tag=16)
+
+O criador usa o Omni 1.2 Flash para animar uma colagem estática da publicação citada.
 
 </td>
 </tr>

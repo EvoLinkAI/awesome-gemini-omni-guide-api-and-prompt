@@ -223,7 +223,7 @@ Google이 **2026년 11월 5일** 공개한 공식 데모 8개입니다. [원본 
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 커뮤니티 데모 모음
 
-크리에이터와 도구 개발팀이 공개한 Gemini Omni 1.2 Flash 영상 6편을 모았습니다. 미리보기를 선택하면 원본 영상을 재생할 수 있습니다. 제목은 제작자의 게시물이나 글로 연결되며, 공개된 프롬프트는 해당 출처에서 확인할 수 있습니다.
+크리에이터와 도구 개발팀이 공개한 Gemini Omni 1.2 Flash 사례 10개를 모았습니다. 미리보기를 선택하면 원본 영상을 재생할 수 있습니다. 제목은 제작자의 게시물이나 글로 연결되며, 공개된 프롬프트는 해당 출처에서 확인할 수 있습니다.
 
 <table>
 <tr>
@@ -289,6 +289,56 @@ WEEL이 세 구간의 타이밍을 지정한 15초짜리 제품 광고를 실험
 [![폴란드 식탁에서 나누는 세 사람의 대화](image/omni-1.2/community/polish-dinner-dialogue.webp)](https://promptif.fr/wp-content/uploads/2026/11/omni12-cc251d82201c7f7e2cbd2d57b6e9715b.mp4)
 
 폴란드의 명절 저녁 식사를 배경으로 세 사람이 번갈아 말하는 흐름과 입 모양의 동기화를 시험합니다.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-7"></a>
+**[얼굴 캠을 넣은 게임 플레이](https://x.com/rovvmut_/status/2118752554746270169)** · rovvmut_
+
+[![얼굴 캠을 넣은 게임 플레이](image/omni-1.2/community/gameplay-facecam.jpg)](https://video.twimg.com/amplify_video/2118752493798825984/vid/avc1/640x360/ABYvurfZ5k_VXKKA.mp4?tag=29)
+
+제작자는 운전 장면, 화면 모서리의 얼굴 캠, 영어 해설을 조합한 게임 방송 화면을 프롬프트로 지시합니다. 게시물에 프롬프트가 포함되어 있습니다.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-8"></a>
+**[고정 카메라 시점의 공사 타임랩스](https://x.com/alecwilcock/status/2118716313275142188)** · alecwilcock
+
+[![고정 카메라 시점의 공사 타임랩스](image/omni-1.2/community/construction-hyperlapse.jpg)](https://video.twimg.com/amplify_video/2118715983812497409/vid/avc1/640x360/rLsfCIZnQmAvu0SI.mp4?tag=29)
+
+제작자는 데이터 센터 공사 타임랩스로 Omni 1.2 Flash와 Seedance 2.5를 비교합니다. 게시물에 두 모델에 사용한 프롬프트가 포함되어 있습니다.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-9"></a>
+**[대사 없이 같은 프롬프트로 비교](https://x.com/husky__create/status/2118637071887953952)** · husky__create
+
+**Omni 1.2 Flash**
+
+[![대사 없이 같은 프롬프트로 비교 · Omni 1.2 Flash](image/omni-1.2/community/no-dialogue-comparison-1.jpg)](https://video-s.twimg.com/amplify_video/2118637038430015488/vid/avc1/640x360/goYQmD8hpI3NIsS5.mp4?tag=16)
+
+**Omni 1.1 Flash**
+
+[![대사 없이 같은 프롬프트로 비교 · Omni 1.1 Flash](image/omni-1.2/community/no-dialogue-comparison-2.jpg)](https://video-s.twimg.com/amplify_video/2118637056083787776/vid/avc1/640x360/srtblIdulfmUfOeA.mp4?tag=16)
+
+제작자는 대사를 넣지 말라는 지시가 포함된 같은 프롬프트로 Omni 1.2 Flash와 1.1 Flash를 비교합니다. 두 결과를 모두 볼 수 있습니다.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-10"></a>
+**[움직이는 정지 콜라주](https://x.com/mmmiyama_D/status/2118467997870465516)** · mmmiyama_D
+
+[![움직이는 정지 콜라주](image/omni-1.2/community/animated-collage.jpg)](https://video-s.twimg.com/amplify_video/2118467980497747968/vid/avc1/480x852/7oxu6hnjA__basp0.mp4?tag=16)
+
+제작자는 인용한 게시물의 정지 콜라주를 Omni 1.2 Flash로 움직이게 만듭니다.
 
 </td>
 </tr>

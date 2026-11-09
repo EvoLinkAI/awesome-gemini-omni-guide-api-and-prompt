@@ -223,7 +223,7 @@ Un plan de dix secondes passe d’un gros plan sur le rivage à une vue large de
 <a id="omni12-community-demos"></a>
 ## 🎥 Démonstrations de la communauté Gemini Omni 1.2
 
-Six vidéos Gemini Omni 1.2 Flash publiées par des créateurs et des équipes qui développent des outils. Sélectionnez une vignette pour regarder la vidéo originale. Le titre renvoie à la publication ou à l’article de l’auteur, avec le prompt lorsqu’il a été partagé.
+Dix exemples réalisés avec Gemini Omni 1.2 Flash, publiés par des créateurs et des équipes qui développent des outils. Sélectionnez une vignette pour regarder la vidéo originale. Le titre renvoie à la publication ou à l’article de l’auteur. Vous y trouverez le prompt lorsque l’auteur l’a partagé.
 
 <table>
 <tr>
@@ -289,6 +289,56 @@ Des références distinctes guident la représentation de l’artiste et du vase
 [![Dîner de fête polonais à trois voix](image/omni-1.2/community/polish-dinner-dialogue.webp)](https://promptif.fr/wp-content/uploads/2026/11/omni12-cc251d82201c7f7e2cbd2d57b6e9715b.mp4)
 
 Un dîner de fête polonais met à l’épreuve l’alternance des prises de parole et la synchronisation labiale avec trois personnes.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-7"></a>
+**[Séquence de jeu avec facecam](https://x.com/rovvmut_/status/2118752554746270169)** · rovvmut_
+
+[![Séquence de jeu avec facecam](image/omni-1.2/community/gameplay-facecam.jpg)](https://video.twimg.com/amplify_video/2118752493798825984/vid/avc1/640x360/ABYvurfZ5k_VXKKA.mp4?tag=29)
+
+Le créateur décrit dans son prompt une mise en page de stream de jeu avec une scène de conduite, une facecam dans un coin et des commentaires en anglais. La publication contient le prompt.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-8"></a>
+**[Chantier en accéléré avec caméra fixe](https://x.com/alecwilcock/status/2118716313275142188)** · alecwilcock
+
+[![Chantier en accéléré avec caméra fixe](image/omni-1.2/community/construction-hyperlapse.jpg)](https://video.twimg.com/amplify_video/2118715983812497409/vid/avc1/640x360/rLsfCIZnQmAvu0SI.mp4?tag=29)
+
+Le créateur compare Omni 1.2 Flash et Seedance 2.5 sur un accéléré de la construction d’un centre de données. La publication contient le prompt utilisé pour les deux modèles.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-9"></a>
+**[Même prompt sans dialogue](https://x.com/husky__create/status/2118637071887953952)** · husky__create
+
+**Omni 1.2 Flash**
+
+[![Même prompt sans dialogue · Omni 1.2 Flash](image/omni-1.2/community/no-dialogue-comparison-1.jpg)](https://video-s.twimg.com/amplify_video/2118637038430015488/vid/avc1/640x360/goYQmD8hpI3NIsS5.mp4?tag=16)
+
+**Omni 1.1 Flash**
+
+[![Même prompt sans dialogue · Omni 1.1 Flash](image/omni-1.2/community/no-dialogue-comparison-2.jpg)](https://video-s.twimg.com/amplify_video/2118637056083787776/vid/avc1/640x360/srtblIdulfmUfOeA.mp4?tag=16)
+
+Le créateur compare Omni 1.2 Flash et 1.1 Flash avec le même prompt, qui demande une scène sans dialogue. Les deux résultats sont présentés.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-10"></a>
+**[Un collage fixe prend vie](https://x.com/mmmiyama_D/status/2118467997870465516)** · mmmiyama_D
+
+[![Un collage fixe prend vie](image/omni-1.2/community/animated-collage.jpg)](https://video-s.twimg.com/amplify_video/2118467980497747968/vid/avc1/480x852/7oxu6hnjA__basp0.mp4?tag=16)
+
+Le créateur anime avec Omni 1.2 Flash un collage fixe tiré de la publication citée.
 
 </td>
 </tr>

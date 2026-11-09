@@ -223,7 +223,7 @@ On saniyelik bir çekim, kıyıdaki yakın plandan uzaklaşarak adanın geniş b
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 topluluk demoları
 
-İçerik üreticilerinin ve araç geliştiren ekiplerin yayımladığı altı Gemini Omni 1.2 Flash videosu. Özgün klibi izlemek için bir önizleme görselini seçin. Başlık, içeriği hazırlayan kişinin gönderisine veya yazısına bağlantı verir. Paylaşıldıysa istemi de orada bulabilirsiniz.
+İçerik üreticilerinin ve araç geliştiren ekiplerin yayımladığı on Gemini Omni 1.2 Flash örneği. Özgün videoyu izlemek için bir önizleme görselini seçin. Başlık, içeriği hazırlayan kişinin gönderisine veya yazısına bağlantı verir. İstem paylaşılmışsa onu da orada bulabilirsiniz.
 
 <table>
 <tr>
@@ -289,6 +289,56 @@ Konuşma içeren bir ürün çekiminde sanatçı ve vazo için ayrı referanslar
 [![Üç sesli Polonya bayram yemeği sahnesi](image/omni-1.2/community/polish-dinner-dialogue.webp)](https://promptif.fr/wp-content/uploads/2026/11/omni12-cc251d82201c7f7e2cbd2d57b6e9715b.mp4)
 
 Polonya’daki bir bayram yemeği sahnesi, üç kişinin sırayla konuşmasını ve dudak senkronizasyonunu test eder.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-7"></a>
+**[Yüz kameralı oyun görüntüsü](https://x.com/rovvmut_/status/2118752554746270169)** · rovvmut_
+
+[![Yüz kameralı oyun görüntüsü](image/omni-1.2/community/gameplay-facecam.jpg)](https://video.twimg.com/amplify_video/2118752493798825984/vid/avc1/640x360/ABYvurfZ5k_VXKKA.mp4?tag=29)
+
+İçerik üreticisi, sürüş sahnesi, köşede bir yüz kamerası ve İngilizce yorum içeren bir oyun yayını düzeni istiyor. Gönderide istem de yer alıyor.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-8"></a>
+**[Sabit kamerayla hızlandırılmış inşaat çekimi](https://x.com/alecwilcock/status/2118716313275142188)** · alecwilcock
+
+[![Sabit kamerayla hızlandırılmış inşaat çekimi](image/omni-1.2/community/construction-hyperlapse.jpg)](https://video.twimg.com/amplify_video/2118715983812497409/vid/avc1/640x360/rLsfCIZnQmAvu0SI.mp4?tag=29)
+
+İçerik üreticisi, bir veri merkezinin inşasını gösteren hızlandırılmış çekimde Omni 1.2 Flash ile Seedance 2.5’i karşılaştırıyor. Gönderide iki model için kullanılan ortak istem yer alıyor.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-9"></a>
+**[Aynı istemle diyalogsuz sahne](https://x.com/husky__create/status/2118637071887953952)** · husky__create
+
+**Omni 1.2 Flash**
+
+[![Aynı istemle diyalogsuz sahne · Omni 1.2 Flash](image/omni-1.2/community/no-dialogue-comparison-1.jpg)](https://video-s.twimg.com/amplify_video/2118637038430015488/vid/avc1/640x360/goYQmD8hpI3NIsS5.mp4?tag=16)
+
+**Omni 1.1 Flash**
+
+[![Aynı istemle diyalogsuz sahne · Omni 1.1 Flash](image/omni-1.2/community/no-dialogue-comparison-2.jpg)](https://video-s.twimg.com/amplify_video/2118637056083787776/vid/avc1/640x360/srtblIdulfmUfOeA.mp4?tag=16)
+
+İçerik üreticisi, diyalog olmamasını isteyen aynı istemle Omni 1.2 Flash ve 1.1 Flash’ı karşılaştırıyor. Her iki çıktı da sunuluyor.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-10"></a>
+**[Durağan kolaj hareketleniyor](https://x.com/mmmiyama_D/status/2118467997870465516)** · mmmiyama_D
+
+[![Durağan kolaj hareketleniyor](image/omni-1.2/community/animated-collage.jpg)](https://video-s.twimg.com/amplify_video/2118467980497747968/vid/avc1/480x852/7oxu6hnjA__basp0.mp4?tag=16)
+
+İçerik üreticisi, alıntılanan gönderideki durağan kolajı Omni 1.2 Flash ile hareketlendiriyor.
 
 </td>
 </tr>
