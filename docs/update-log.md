@@ -1,5 +1,10 @@
 # Update log
 
+## 2026-11-13
+
+- Added four Gemini Omni 1.2 Flash creator workflows with seven original video links: a prompt A/B test, a clip extension, a series of chat edits, and a talking character in Google Flow.
+- Updated all eleven READMEs and recorded the sources for the original videos and preview images.
+
 ## 2026-11-09
 
 - Added four creator demos covering gameplay with a facecam, fixed-camera construction, a no-dialogue comparison and collage animation.

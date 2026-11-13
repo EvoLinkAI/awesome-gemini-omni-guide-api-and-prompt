@@ -223,7 +223,7 @@ Google이 **2026년 11월 5일** 공개한 공식 데모 8개입니다. [원본 
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 커뮤니티 데모 모음
 
-크리에이터와 도구 개발팀이 공개한 Gemini Omni 1.2 Flash 사례 10개를 모았습니다. 미리보기를 선택하면 원본 영상을 재생할 수 있습니다. 제목은 제작자의 게시물이나 글로 연결되며, 공개된 프롬프트는 해당 출처에서 확인할 수 있습니다.
+크리에이터와 도구 개발팀이 공개한 Gemini Omni 1.2 Flash 사례 14개를 모았습니다. 미리보기를 선택하면 원본 영상을 재생할 수 있습니다. 제목은 제작자의 게시물이나 글로 연결되며, 공개된 프롬프트는 해당 출처에서 확인할 수 있습니다.
 
 <table>
 <tr>
@@ -339,6 +339,68 @@ WEEL이 세 구간의 타이밍을 지정한 15초짜리 제품 광고를 실험
 [![움직이는 정지 콜라주](image/omni-1.2/community/animated-collage.jpg)](https://video-s.twimg.com/amplify_video/2118467980497747968/vid/avc1/480x852/7oxu6hnjA__basp0.mp4?tag=16)
 
 제작자는 인용한 게시물의 정지 콜라주를 Omni 1.2 Flash로 움직이게 만듭니다.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-11"></a>
+**[앱 소개 영상 프롬프트 비교](https://www.segmind.com/@himanshu/gemini-omni-1-2-flash-prompts)** · Himanshu Goel
+
+**한 문장 지시**
+
+[![앱 소개 영상 프롬프트 비교 · 한 문장 지시](image/omni-1.2/community/app-explainer-brief.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex1_vague.mp4)
+
+**시간을 지정한 쇼트 목록**
+
+[![앱 소개 영상 프롬프트 비교 · 시간을 지정한 쇼트 목록](image/omni-1.2/community/app-explainer-shot-list.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex1_structured.mp4)
+
+Goel은 두 가지 프롬프트로 8초짜리 예산 관리 앱 소개 영상을 만들었습니다. 모델, 시드, 길이, 해상도를 같게 두고 한 문장으로 된 지시와 장면별 시간 지정이 있는 쇼트 목록을 비교했습니다.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-12"></a>
+**[여우 제빵사 영상 연장](https://www.segmind.com/@himanshu/gemini-omni-1-2-flash-prompts)** · Himanshu Goel
+
+**8초짜리 원본 영상**
+
+[![여우 제빵사 영상 연장 · 8초짜리 원본 영상](image/omni-1.2/community/fox-baker-source.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex3_ref.mp4)
+
+**13초로 연장한 영상**
+
+[![여우 제빵사 영상 연장 · 13초로 연장한 영상](image/omni-1.2/community/fox-baker-extended.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex5_extend.mp4)
+
+Goel은 점토로 만든 여우가 등장하는 8초짜리 빵집 영상을 5초 늘렸습니다. 연장한 13초 영상에는 영업시간이 적힌 칠판이 추가됩니다. 글에서 참조 이미지와 프롬프트를 볼 수 있습니다.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-13"></a>
+**[채팅으로 머그컵 영상 편집](https://www.aiformortals.co/blog/gemini-omni-flash-1-2-tested#gemini-omni-video-editing-three-rounds-of-chat-edits)** · Pat Simmons
+
+**배경을 바꾼 뒤**
+
+[![채팅으로 머그컵 영상 편집 · 배경을 바꾼 뒤](image/omni-1.2/community/mug-rainy-background.jpg)](https://uzgqbjufkfadoprvamcs.supabase.co/storage/v1/object/public/daily-img/gemini-omni-flash-1-2-tested/t3-edit1-background.mp4)
+
+**카메라 움직임을 빠르게 해 달라는 요청 뒤**
+
+[![채팅으로 머그컵 영상 편집 · 카메라 움직임을 빠르게 해 달라는 요청 뒤](image/omni-1.2/community/mug-pacing-request.jpg)](https://uzgqbjufkfadoprvamcs.supabase.co/storage/v1/object/public/daily-img/gemini-omni-flash-1-2-tested/t3-edit3-pacing.mp4)
+
+Simmons가 Gemini 앱에서 테스트한 결과, 배경을 비 오는 창가로 바꾸는 요청이 반영됐습니다. 이어 조명을 더 따뜻하게 바꾸고 카메라 움직임을 더 빠르게 해 달라고 요청했지만, 글에 따르면 눈에 띄는 변화가 없었습니다.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-14"></a>
+**[Flow에서 말하는 간장 마스코트](https://note.com/pharma_i_cist/n/n227466896971)** · 濱口貴光
+
+[![Flow에서 말하는 간장 마스코트](image/omni-1.2/community/flow-soy-sauce-character.jpg)](https://www.youtube.com/watch?v=SNDK6KC5atU)
+
+하마구치는 캐릭터 참조 이미지를 업로드하고 맞춤 일본어 음성을 추가해 Google Flow에서 말하는 마스코트를 생성했습니다. 글에서 설정과 생성 결과를 볼 수 있습니다.
 
 </td>
 </tr>

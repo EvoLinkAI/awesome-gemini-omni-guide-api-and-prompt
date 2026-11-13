@@ -223,7 +223,7 @@ Una toma de diez segundos se aleja de un primer plano de la costa hasta mostrar 
 <a id="omni12-community-demos"></a>
 ## 🎥 Galería de demos de la comunidad de Gemini Omni 1.2
 
-Diez ejemplos de Gemini Omni 1.2 Flash publicados por creadores y equipos que desarrollan herramientas. Selecciona una imagen de vista previa para ver el video original. El título enlaza a la publicación o el artículo del autor. Si el autor compartió el prompt, lo encontrarás allí.
+Catorce ejemplos de Gemini Omni 1.2 Flash publicados por creadores y equipos que desarrollan herramientas. Selecciona una imagen de vista previa para ver el video original. El título enlaza a la publicación o el artículo del autor. Si el autor compartió el prompt, lo encontrarás allí.
 
 <table>
 <tr>
@@ -339,6 +339,68 @@ El creador compara Omni 1.2 Flash y 1.1 Flash con el mismo prompt, que indica qu
 [![Un collage estático cobra movimiento](image/omni-1.2/community/animated-collage.jpg)](https://video-s.twimg.com/amplify_video/2118467980497747968/vid/avc1/480x852/7oxu6hnjA__basp0.mp4?tag=16)
 
 El creador anima con Omni 1.2 Flash un collage estático de la publicación citada.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-11"></a>
+**[Comparación A/B de prompts para explicar una aplicación](https://www.segmind.com/@himanshu/gemini-omni-1-2-flash-prompts)** · Himanshu Goel
+
+**Encargo de una sola frase**
+
+[![Comparación A/B de prompts para explicar una aplicación · Encargo de una sola frase](image/omni-1.2/community/app-explainer-brief.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex1_vague.mp4)
+
+**Lista de planos cronometrados**
+
+[![Comparación A/B de prompts para explicar una aplicación · Lista de planos cronometrados](image/omni-1.2/community/app-explainer-shot-list.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex1_structured.mp4)
+
+Goel crea un video de ocho segundos sobre una aplicación de presupuestos con dos prompts. Compara un encargo de una frase con una lista de planos cronometrados y mantiene el modelo, la semilla, la duración y la resolución.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-12"></a>
+**[Extensión del clip del zorro panadero](https://www.segmind.com/@himanshu/gemini-omni-1-2-flash-prompts)** · Himanshu Goel
+
+**Clip original de 8 segundos**
+
+[![Extensión del clip del zorro panadero · Clip original de 8 segundos](image/omni-1.2/community/fox-baker-source.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex3_ref.mp4)
+
+**Clip extendido de 13 segundos**
+
+[![Extensión del clip del zorro panadero · Clip extendido de 13 segundos](image/omni-1.2/community/fox-baker-extended.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex5_extend.mp4)
+
+Goel añade cinco segundos a un clip de ocho segundos ambientado en la panadería de un zorro de arcilla. En el resultado de 13 segundos aparece una pizarra con el horario del local. El artículo muestra las imágenes de referencia y los prompts.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-13"></a>
+**[Edición del clip de una taza en el chat](https://www.aiformortals.co/blog/gemini-omni-flash-1-2-tested#gemini-omni-video-editing-three-rounds-of-chat-edits)** · Pat Simmons
+
+**Después del cambio de fondo**
+
+[![Edición del clip de una taza en el chat · Después del cambio de fondo](image/omni-1.2/community/mug-rainy-background.jpg)](https://uzgqbjufkfadoprvamcs.supabase.co/storage/v1/object/public/daily-img/gemini-omni-flash-1-2-tested/t3-edit1-background.mp4)
+
+**Después de pedir un movimiento más rápido**
+
+[![Edición del clip de una taza en el chat · Después de pedir un movimiento más rápido](image/omni-1.2/community/mug-pacing-request.jpg)](https://uzgqbjufkfadoprvamcs.supabase.co/storage/v1/object/public/daily-img/gemini-omni-flash-1-2-tested/t3-edit3-pacing.mp4)
+
+En la prueba de Simmons con la aplicación de Gemini, el cambio de fondo a una ventana bajo la lluvia funcionó. Según su artículo, las dos solicitudes siguientes, de una iluminación más cálida y un movimiento de cámara más rápido, no produjeron cambios visibles.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-14"></a>
+**[Mascota parlante de salsa de soja en Flow](https://note.com/pharma_i_cist/n/n227466896971)** · 濱口貴光
+
+[![Mascota parlante de salsa de soja en Flow](image/omni-1.2/community/flow-soy-sauce-character.jpg)](https://www.youtube.com/watch?v=SNDK6KC5atU)
+
+Hamaguchi sube una imagen de referencia del personaje, añade una voz personalizada en japonés y genera la mascota parlante en Google Flow. El artículo muestra la configuración y el resultado original.
 
 </td>
 </tr>

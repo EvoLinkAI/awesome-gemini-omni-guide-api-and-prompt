@@ -223,7 +223,7 @@ On saniyelik bir çekim, kıyıdaki yakın plandan uzaklaşarak adanın geniş b
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 topluluk demoları
 
-İçerik üreticilerinin ve araç geliştiren ekiplerin yayımladığı on Gemini Omni 1.2 Flash örneği. Özgün videoyu izlemek için bir önizleme görselini seçin. Başlık, içeriği hazırlayan kişinin gönderisine veya yazısına bağlantı verir. İstem paylaşılmışsa onu da orada bulabilirsiniz.
+İçerik üreticilerinin ve araç geliştiren ekiplerin yayımladığı on dört Gemini Omni 1.2 Flash örneği. Özgün videoyu izlemek için bir önizleme görselini seçin. Başlık, içeriği hazırlayan kişinin gönderisine veya yazısına bağlantı verir. İstem paylaşılmışsa onu da orada bulabilirsiniz.
 
 <table>
 <tr>
@@ -339,6 +339,68 @@ Polonya’daki bir bayram yemeği sahnesi, üç kişinin sırayla konuşmasını
 [![Durağan kolaj hareketleniyor](image/omni-1.2/community/animated-collage.jpg)](https://video-s.twimg.com/amplify_video/2118467980497747968/vid/avc1/480x852/7oxu6hnjA__basp0.mp4?tag=16)
 
 İçerik üreticisi, alıntılanan gönderideki durağan kolajı Omni 1.2 Flash ile hareketlendiriyor.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-11"></a>
+**[Uygulama tanıtımında A/B istem karşılaştırması](https://www.segmind.com/@himanshu/gemini-omni-1-2-flash-prompts)** · Himanshu Goel
+
+**Tek cümlelik açıklama**
+
+[![Uygulama tanıtımında A/B istem karşılaştırması · Tek cümlelik açıklama](image/omni-1.2/community/app-explainer-brief.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex1_vague.mp4)
+
+**Zamanlaması belirtilmiş çekim listesi**
+
+[![Uygulama tanıtımında A/B istem karşılaştırması · Zamanlaması belirtilmiş çekim listesi](image/omni-1.2/community/app-explainer-shot-list.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex1_structured.mp4)
+
+Goel, bir bütçe uygulaması için iki farklı istemle sekiz saniyelik bir tanıtım hazırlıyor. Modeli, rastgelelik tohumunu, süreyi ve çözünürlüğü sabit tutarak tek cümlelik bir açıklamayı zamanlaması belirtilmiş bir çekim listesiyle karşılaştırıyor.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-12"></a>
+**[Fırıncı tilkinin klibini uzatma](https://www.segmind.com/@himanshu/gemini-omni-1-2-flash-prompts)** · Himanshu Goel
+
+**8 saniyelik kaynak klip**
+
+[![Fırıncı tilkinin klibini uzatma · 8 saniyelik kaynak klip](image/omni-1.2/community/fox-baker-source.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex3_ref.mp4)
+
+**13 saniyelik uzatılmış klip**
+
+[![Fırıncı tilkinin klibini uzatma · 13 saniyelik uzatılmış klip](image/omni-1.2/community/fox-baker-extended.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex5_extend.mp4)
+
+Goel, kilden bir tilkinin fırınını gösteren sekiz saniyelik klibe beş saniye ekliyor. 13 saniyelik sonuçta dükkânın çalışma saatlerini gösteren bir kara tahta beliriyor. Yazıda referans görseller ve istemler yer alıyor.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-13"></a>
+**[Kupa klibini sohbet üzerinden düzenleme](https://www.aiformortals.co/blog/gemini-omni-flash-1-2-tested#gemini-omni-video-editing-three-rounds-of-chat-edits)** · Pat Simmons
+
+**Arka plan düzenlemesinden sonra**
+
+[![Kupa klibini sohbet üzerinden düzenleme · Arka plan düzenlemesinden sonra](image/omni-1.2/community/mug-rainy-background.jpg)](https://uzgqbjufkfadoprvamcs.supabase.co/storage/v1/object/public/daily-img/gemini-omni-flash-1-2-tested/t3-edit1-background.mp4)
+
+**Daha hızlı kamera hareketi isteğinden sonra**
+
+[![Kupa klibini sohbet üzerinden düzenleme · Daha hızlı kamera hareketi isteğinden sonra](image/omni-1.2/community/mug-pacing-request.jpg)](https://uzgqbjufkfadoprvamcs.supabase.co/storage/v1/object/public/daily-img/gemini-omni-flash-1-2-tested/t3-edit3-pacing.mp4)
+
+Simmons’ın Gemini uygulamasıyla yaptığı testte, arka planı yağmurlu bir pencereyle değiştirme isteği sonuç verdi. Yazısına göre sonraki iki istek, yani daha sıcak aydınlatma ve daha hızlı kamera hareketi, görünür bir değişiklik yaratmadı.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-14"></a>
+**[Flow’da konuşan soya sosu maskotu](https://note.com/pharma_i_cist/n/n227466896971)** · 濱口貴光
+
+[![Flow’da konuşan soya sosu maskotu](image/omni-1.2/community/flow-soy-sauce-character.jpg)](https://www.youtube.com/watch?v=SNDK6KC5atU)
+
+Hamaguchi, karakterin referans görselini yükleyip Japonca özel bir ses ekliyor ve Google Flow’da konuşan maskotu oluşturuyor. Yazı, ayarları ve özgün sonucu gösteriyor.
 
 </td>
 </tr>

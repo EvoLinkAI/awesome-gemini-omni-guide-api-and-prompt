@@ -223,7 +223,7 @@ Google 於 **2026 年 11 月 5 日**發布的八組官方展示。請閱讀[原�
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 社群示範牆
 
-收錄創作者與工具開發團隊發布的 10 個 Gemini Omni 1.2 Flash 範例。點選預覽即可觀看原始影片。標題連至作者的貼文或文章，作者公開的提示詞可在來源中查看。
+收錄創作者與工具開發團隊發布的 14 個 Gemini Omni 1.2 Flash 範例。點選預覽即可觀看原始影片。標題連至作者的貼文或文章，作者公開的提示詞可在來源中查看。
 
 <table>
 <tr>
@@ -339,6 +339,68 @@ WEEL 測試了一支 15 秒的產品廣告，為三段演出設定時間點。�
 [![讓靜態拼貼動起來](image/omni-1.2/community/animated-collage.jpg)](https://video-s.twimg.com/amplify_video/2118467980497747968/vid/avc1/480x852/7oxu6hnjA__basp0.mp4?tag=16)
 
 創作者以 Omni 1.2 Flash 將引用貼文裡的靜態拼貼製成動態影片。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-11"></a>
+**[應用程式介紹影片的提示詞比較](https://www.segmind.com/@himanshu/gemini-omni-1-2-flash-prompts)** · Himanshu Goel
+
+**一句話指示**
+
+[![應用程式介紹影片的提示詞比較 · 一句話指示](image/omni-1.2/community/app-explainer-brief.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex1_vague.mp4)
+
+**標註時間的分鏡清單**
+
+[![應用程式介紹影片的提示詞比較 · 標註時間的分鏡清單](image/omni-1.2/community/app-explainer-shot-list.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex1_structured.mp4)
+
+Goel 用兩種提示詞製作了 8 秒的預算管理應用程式介紹影片。他固定模型、隨機種子、片長和解析度，比較一句話指示與標註時間的分鏡清單。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-12"></a>
+**[延長狐狸麵包師影片](https://www.segmind.com/@himanshu/gemini-omni-1-2-flash-prompts)** · Himanshu Goel
+
+**8 秒原始影片**
+
+[![延長狐狸麵包師影片 · 8 秒原始影片](image/omni-1.2/community/fox-baker-source.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex3_ref.mp4)
+
+**延長後的 13 秒影片**
+
+[![延長狐狸麵包師影片 · 延長後的 13 秒影片](image/omni-1.2/community/fox-baker-extended.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex5_extend.mp4)
+
+Goel 將一段 8 秒、以黏土狐狸為主角的麵包店影片延長了 5 秒。延長後的 13 秒影片加入一塊寫有營業時間的黑板。文章展示了參考圖片和提示詞。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-13"></a>
+**[在對話中編輯馬克杯影片](https://www.aiformortals.co/blog/gemini-omni-flash-1-2-tested#gemini-omni-video-editing-three-rounds-of-chat-edits)** · Pat Simmons
+
+**修改背景後**
+
+[![在對話中編輯馬克杯影片 · 修改背景後](image/omni-1.2/community/mug-rainy-background.jpg)](https://uzgqbjufkfadoprvamcs.supabase.co/storage/v1/object/public/daily-img/gemini-omni-flash-1-2-tested/t3-edit1-background.mp4)
+
+**提出加快運鏡的要求後**
+
+[![在對話中編輯馬克杯影片 · 提出加快運鏡的要求後](image/omni-1.2/community/mug-pacing-request.jpg)](https://uzgqbjufkfadoprvamcs.supabase.co/storage/v1/object/public/daily-img/gemini-omni-flash-1-2-tested/t3-edit3-pacing.mp4)
+
+Simmons 在 Gemini 應用程式中成功把背景改成雨天的窗邊。據他記錄，後續要求調暖燈光、加快運鏡的兩次編輯，均未出現可見的變化。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-14"></a>
+**[在 Flow 生成會說話的醬油吉祥物](https://note.com/pharma_i_cist/n/n227466896971)** · 濱口貴光
+
+[![在 Flow 生成會說話的醬油吉祥物](image/omni-1.2/community/flow-soy-sauce-character.jpg)](https://www.youtube.com/watch?v=SNDK6KC5atU)
+
+濱口上傳角色參考圖、加入自訂日語配音，在 Google Flow 中生成會說話的吉祥物。文章展示了設定方式和原始生成結果。
 
 </td>
 </tr>

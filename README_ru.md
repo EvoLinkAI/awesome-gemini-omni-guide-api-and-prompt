@@ -223,7 +223,7 @@ Google указывает, что Gemini Omni 1.2 Flash находится в о
 <a id="omni12-community-demos"></a>
 ## 🎥 Демонстрации Gemini Omni 1.2 от сообщества
 
-Десять примеров Gemini Omni 1.2 Flash от авторов и команд, разрабатывающих инструменты. Нажмите на превью, чтобы посмотреть исходное видео. Заголовок ведёт к публикации или статье автора. Если автор поделился промптом, его можно найти там.
+Четырнадцать примеров Gemini Omni 1.2 Flash от авторов и команд, разрабатывающих инструменты. Нажмите на превью, чтобы посмотреть исходное видео. Заголовок ведёт к публикации или статье автора. Если автор поделился промптом, его можно найти там.
 
 <table>
 <tr>
@@ -339,6 +339,68 @@ WEEL тестирует 15-секундную рекламу товара с т�
 [![Статичный коллаж в движении](image/omni-1.2/community/animated-collage.jpg)](https://video-s.twimg.com/amplify_video/2118467980497747968/vid/avc1/480x852/7oxu6hnjA__basp0.mp4?tag=16)
 
 Автор анимирует статичный коллаж из цитируемой публикации с помощью Omni 1.2 Flash.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-11"></a>
+**[Тест A/B промптов для ролика о приложении](https://www.segmind.com/@himanshu/gemini-omni-1-2-flash-prompts)** · Himanshu Goel
+
+**Бриф из одного предложения**
+
+[![Тест A/B промптов для ролика о приложении · Бриф из одного предложения](image/omni-1.2/community/app-explainer-brief.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex1_vague.mp4)
+
+**Список кадров с таймкодами**
+
+[![Тест A/B промптов для ролика о приложении · Список кадров с таймкодами](image/omni-1.2/community/app-explainer-shot-list.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex1_structured.mp4)
+
+Гоэл сравнивает два промпта для восьмисекундного ролика о приложении для ведения бюджета. Он сопоставляет бриф из одного предложения со списком кадров с таймкодами. Модель, seed, длительность и разрешение одинаковы.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-12"></a>
+**[Продление клипа с лисой-пекарем](https://www.segmind.com/@himanshu/gemini-omni-1-2-flash-prompts)** · Himanshu Goel
+
+**Исходный клип на 8 секунд**
+
+[![Продление клипа с лисой-пекарем · Исходный клип на 8 секунд](image/omni-1.2/community/fox-baker-source.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex3_ref.mp4)
+
+**Продлённый клип на 13 секунд**
+
+[![Продление клипа с лисой-пекарем · Продлённый клип на 13 секунд](image/omni-1.2/community/fox-baker-extended.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex5_extend.mp4)
+
+Гоэл продлевает восьмисекундный клип о глиняной лисе в пекарне на пять секунд. В 13-секундном результате появляется меловая доска с часами работы. В статье показаны референсные изображения и промпты.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-13"></a>
+**[Редактирование клипа с кружкой в чате](https://www.aiformortals.co/blog/gemini-omni-flash-1-2-tested#gemini-omni-video-editing-three-rounds-of-chat-edits)** · Pat Simmons
+
+**После редактирования фона**
+
+[![Редактирование клипа с кружкой в чате · После редактирования фона](image/omni-1.2/community/mug-rainy-background.jpg)](https://uzgqbjufkfadoprvamcs.supabase.co/storage/v1/object/public/daily-img/gemini-omni-flash-1-2-tested/t3-edit1-background.mp4)
+
+**После просьбы ускорить движение камеры**
+
+[![Редактирование клипа с кружкой в чате · После просьбы ускорить движение камеры](image/omni-1.2/community/mug-pacing-request.jpg)](https://uzgqbjufkfadoprvamcs.supabase.co/storage/v1/object/public/daily-img/gemini-omni-flash-1-2-tested/t3-edit3-pacing.mp4)
+
+В тесте Симмонса в приложении Gemini удалось заменить фон на окно с дождём. По его наблюдениям, следующие две просьбы сделать свет теплее и ускорить движение камеры не дали видимых изменений.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-14"></a>
+**[Говорящий маскот соевого соуса в Flow](https://note.com/pharma_i_cist/n/n227466896971)** · 濱口貴光
+
+[![Говорящий маскот соевого соуса в Flow](image/omni-1.2/community/flow-soy-sauce-character.jpg)](https://www.youtube.com/watch?v=SNDK6KC5atU)
+
+Хамагути загружает референсное изображение персонажа, добавляет собственную озвучку на японском и создаёт говорящего маскота в Google Flow. В статье показаны настройки и исходный результат.
 
 </td>
 </tr>

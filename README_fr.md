@@ -223,7 +223,7 @@ Un plan de dix secondes passe d’un gros plan sur le rivage à une vue large de
 <a id="omni12-community-demos"></a>
 ## 🎥 Démonstrations de la communauté Gemini Omni 1.2
 
-Dix exemples réalisés avec Gemini Omni 1.2 Flash, publiés par des créateurs et des équipes qui développent des outils. Sélectionnez une vignette pour regarder la vidéo originale. Le titre renvoie à la publication ou à l’article de l’auteur. Vous y trouverez le prompt lorsque l’auteur l’a partagé.
+Quatorze exemples réalisés avec Gemini Omni 1.2 Flash, publiés par des créateurs et des équipes qui développent des outils. Sélectionnez une vignette pour regarder la vidéo originale. Le titre renvoie à la publication ou à l’article de l’auteur. Vous y trouverez le prompt lorsque l’auteur l’a partagé.
 
 <table>
 <tr>
@@ -339,6 +339,68 @@ Le créateur compare Omni 1.2 Flash et 1.1 Flash avec le même prompt, qui deman
 [![Un collage fixe prend vie](image/omni-1.2/community/animated-collage.jpg)](https://video-s.twimg.com/amplify_video/2118467980497747968/vid/avc1/480x852/7oxu6hnjA__basp0.mp4?tag=16)
 
 Le créateur anime avec Omni 1.2 Flash un collage fixe tiré de la publication citée.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-11"></a>
+**[Comparaison A/B des prompts pour présenter une application](https://www.segmind.com/@himanshu/gemini-omni-1-2-flash-prompts)** · Himanshu Goel
+
+**Consigne d’une seule phrase**
+
+[![Comparaison A/B des prompts pour présenter une application · Consigne d’une seule phrase](image/omni-1.2/community/app-explainer-brief.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex1_vague.mp4)
+
+**Liste de plans minutés**
+
+[![Comparaison A/B des prompts pour présenter une application · Liste de plans minutés](image/omni-1.2/community/app-explainer-shot-list.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex1_structured.mp4)
+
+Goel réalise une vidéo de huit secondes sur une application de gestion de budget à partir de deux prompts. Il compare une consigne d’une phrase à une liste de plans minutés en gardant le même modèle, la même graine, la même durée et la même résolution.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-12"></a>
+**[Prolongement du clip du renard boulanger](https://www.segmind.com/@himanshu/gemini-omni-1-2-flash-prompts)** · Himanshu Goel
+
+**Clip source de 8 secondes**
+
+[![Prolongement du clip du renard boulanger · Clip source de 8 secondes](image/omni-1.2/community/fox-baker-source.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex3_ref.mp4)
+
+**Clip prolongé de 13 secondes**
+
+[![Prolongement du clip du renard boulanger · Clip prolongé de 13 secondes](image/omni-1.2/community/fox-baker-extended.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex5_extend.mp4)
+
+Goel prolonge de cinq secondes un clip de huit secondes situé dans la boulangerie d’un renard en argile. Le résultat de 13 secondes ajoute une ardoise indiquant les horaires de la boutique. L’article montre les images de référence et les prompts.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-13"></a>
+**[Montage d’un clip de tasse dans le chat](https://www.aiformortals.co/blog/gemini-omni-flash-1-2-tested#gemini-omni-video-editing-three-rounds-of-chat-edits)** · Pat Simmons
+
+**Après le changement d’arrière-plan**
+
+[![Montage d’un clip de tasse dans le chat · Après le changement d’arrière-plan](image/omni-1.2/community/mug-rainy-background.jpg)](https://uzgqbjufkfadoprvamcs.supabase.co/storage/v1/object/public/daily-img/gemini-omni-flash-1-2-tested/t3-edit1-background.mp4)
+
+**Après la demande d’un mouvement plus rapide**
+
+[![Montage d’un clip de tasse dans le chat · Après la demande d’un mouvement plus rapide](image/omni-1.2/community/mug-pacing-request.jpg)](https://uzgqbjufkfadoprvamcs.supabase.co/storage/v1/object/public/daily-img/gemini-omni-flash-1-2-tested/t3-edit3-pacing.mp4)
+
+Dans l’essai de Simmons avec l’application Gemini, le remplacement de l’arrière-plan par une fenêtre sous la pluie a fonctionné. Selon son article, les deux demandes suivantes, pour un éclairage plus chaud et un mouvement de caméra plus rapide, n’ont produit aucun changement visible.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-14"></a>
+**[Mascotte parlante de sauce soja dans Flow](https://note.com/pharma_i_cist/n/n227466896971)** · 濱口貴光
+
+[![Mascotte parlante de sauce soja dans Flow](image/omni-1.2/community/flow-soy-sauce-character.jpg)](https://www.youtube.com/watch?v=SNDK6KC5atU)
+
+Hamaguchi importe une image de référence du personnage, ajoute une voix personnalisée en japonais et génère la mascotte parlante dans Google Flow. L’article présente les réglages et le résultat original.
 
 </td>
 </tr>
