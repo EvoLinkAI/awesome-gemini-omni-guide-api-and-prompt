@@ -223,7 +223,7 @@ A ten-second shot pulls from a shoreline close-up to a wide island view.
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 Community Demo Wall
 
-Ten Gemini Omni 1.2 Flash examples from creators and tool teams. Select a preview to watch the original video. The title links to the author’s post or write-up, with the prompt where the author shared it.
+Fourteen Gemini Omni 1.2 Flash examples from creators and tool teams. Select a preview to watch the original video. The title links to the author’s post or write-up, with the prompt where the author shared it.
 
 <table>
 <tr>
@@ -339,6 +339,68 @@ The creator compares Omni 1.2 Flash and 1.1 Flash using the same prompt with a n
 [![Still Collage in Motion](image/omni-1.2/community/animated-collage.jpg)](https://video-s.twimg.com/amplify_video/2118467980497747968/vid/avc1/480x852/7oxu6hnjA__basp0.mp4?tag=16)
 
 The creator animates a still collage from the quoted post with Omni 1.2 Flash.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-11"></a>
+**[App Explainer Prompt A/B](https://www.segmind.com/@himanshu/gemini-omni-1-2-flash-prompts)** · Himanshu Goel
+
+**One-sentence brief**
+
+[![App Explainer Prompt A/B · One-sentence brief](image/omni-1.2/community/app-explainer-brief.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex1_vague.mp4)
+
+**Timed shot list**
+
+[![App Explainer Prompt A/B · Timed shot list](image/omni-1.2/community/app-explainer-shot-list.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex1_structured.mp4)
+
+An eight-second budgeting-app explainer made with two prompts. Goel compares a one-sentence brief with a timed shot list using the same model, seed, duration, and resolution.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-12"></a>
+**[Fox Baker Clip Extension](https://www.segmind.com/@himanshu/gemini-omni-1-2-flash-prompts)** · Himanshu Goel
+
+**8-second source clip**
+
+[![Fox Baker Clip Extension · 8-second source clip](image/omni-1.2/community/fox-baker-source.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex3_ref.mp4)
+
+**13-second extended clip**
+
+[![Fox Baker Clip Extension · 13-second extended clip](image/omni-1.2/community/fox-baker-extended.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex5_extend.mp4)
+
+Goel extends an eight-second clay fox bakery clip by five seconds. The 13-second result adds a chalkboard with the shop’s hours. The write-up shows the reference images and prompts.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-13"></a>
+**[Mug Clip Editing in Chat](https://www.aiformortals.co/blog/gemini-omni-flash-1-2-tested#gemini-omni-video-editing-three-rounds-of-chat-edits)** · Pat Simmons
+
+**After the background edit**
+
+[![Mug Clip Editing in Chat · After the background edit](image/omni-1.2/community/mug-rainy-background.jpg)](https://uzgqbjufkfadoprvamcs.supabase.co/storage/v1/object/public/daily-img/gemini-omni-flash-1-2-tested/t3-edit1-background.mp4)
+
+**After the pacing request**
+
+[![Mug Clip Editing in Chat · After the pacing request](image/omni-1.2/community/mug-pacing-request.jpg)](https://uzgqbjufkfadoprvamcs.supabase.co/storage/v1/object/public/daily-img/gemini-omni-flash-1-2-tested/t3-edit3-pacing.mp4)
+
+The rainy-window background edit worked in Simmons’s Gemini app test. The next two requests, for warmer lighting and a faster camera move, produced no visible changes according to his write-up.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-14"></a>
+**[Talking Soy Sauce Mascot in Flow](https://note.com/pharma_i_cist/n/n227466896971)** · 濱口貴光
+
+[![Talking Soy Sauce Mascot in Flow](image/omni-1.2/community/flow-soy-sauce-character.jpg)](https://www.youtube.com/watch?v=SNDK6KC5atU)
+
+Hamaguchi uploads a character reference image, adds a custom Japanese voice, and generates the talking mascot in Google Flow. The write-up shows the setup and the original result.
 
 </td>
 </tr>

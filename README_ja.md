@@ -223,7 +223,7 @@ Google が **2026年11月5日**に公開した8件の公式デモです。[元�
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 コミュニティデモ集
 
-クリエイターやツール開発チームが公開した Gemini Omni 1.2 Flash の作例を10件紹介します。プレビューから元の動画を再生できます。タイトルからは作者の投稿や記事に移動でき、プロンプトが公開されている場合はそこで確認できます。
+クリエイターやツール開発チームが公開した Gemini Omni 1.2 Flash の作例を14件紹介します。プレビューから元の動画を再生できます。タイトルからは作者の投稿や記事に移動でき、プロンプトが公開されている場合はそこで確認できます。
 
 <table>
 <tr>
@@ -339,6 +339,68 @@ WEEL が、タイミングを指定した3つの演出を組み込んだ15秒の
 [![静止コラージュに動きをつける](image/omni-1.2/community/animated-collage.jpg)](https://video-s.twimg.com/amplify_video/2118467980497747968/vid/avc1/480x852/7oxu6hnjA__basp0.mp4?tag=16)
 
 作者は引用元の投稿にある静止コラージュを、Omni 1.2 Flash で動かしています。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-11"></a>
+**[アプリ紹介動画のプロンプト比較](https://www.segmind.com/@himanshu/gemini-omni-1-2-flash-prompts)** · Himanshu Goel
+
+**1文の指示**
+
+[![アプリ紹介動画のプロンプト比較 · 1文の指示](image/omni-1.2/community/app-explainer-brief.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex1_vague.mp4)
+
+**時間指定付きのショットリスト**
+
+[![アプリ紹介動画のプロンプト比較 · 時間指定付きのショットリスト](image/omni-1.2/community/app-explainer-shot-list.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex1_structured.mp4)
+
+Goel は家計管理アプリを紹介する8秒の動画を、2種類のプロンプトで作成しました。モデル、シード、長さ、解像度をそろえ、1文の指示と各ショットの時間を指定した指示を比較しています。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-12"></a>
+**[キツネのパン屋の動画を延長](https://www.segmind.com/@himanshu/gemini-omni-1-2-flash-prompts)** · Himanshu Goel
+
+**元の8秒の動画**
+
+[![キツネのパン屋の動画を延長 · 元の8秒の動画](image/omni-1.2/community/fox-baker-source.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex3_ref.mp4)
+
+**延長後の13秒の動画**
+
+[![キツネのパン屋の動画を延長 · 延長後の13秒の動画](image/omni-1.2/community/fox-baker-extended.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex5_extend.mp4)
+
+Goel は粘土のキツネが登場するパン屋の8秒の動画を、5秒延長しました。延長後の13秒の動画には、営業時間を書いた黒板が登場します。記事に参照画像とプロンプトが掲載されています。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-13"></a>
+**[チャットでマグカップの動画を編集](https://www.aiformortals.co/blog/gemini-omni-flash-1-2-tested#gemini-omni-video-editing-three-rounds-of-chat-edits)** · Pat Simmons
+
+**背景の変更後**
+
+[![チャットでマグカップの動画を編集 · 背景の変更後](image/omni-1.2/community/mug-rainy-background.jpg)](https://uzgqbjufkfadoprvamcs.supabase.co/storage/v1/object/public/daily-img/gemini-omni-flash-1-2-tested/t3-edit1-background.mp4)
+
+**カメラの動きを速める指示の後**
+
+[![チャットでマグカップの動画を編集 · カメラの動きを速める指示の後](image/omni-1.2/community/mug-pacing-request.jpg)](https://uzgqbjufkfadoprvamcs.supabase.co/storage/v1/object/public/daily-img/gemini-omni-flash-1-2-tested/t3-edit3-pacing.mp4)
+
+Simmons が Gemini アプリで試したところ、背景を雨の窓辺に変える編集は反映されました。記事によると、その後に照明を暖色にする指示とカメラの動きを速める指示を出しましたが、目に見える変化はありませんでした。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-14"></a>
+**[Flow でしゃべるしょうゆのキャラクター](https://note.com/pharma_i_cist/n/n227466896971)** · 濱口貴光
+
+[![Flow でしゃべるしょうゆのキャラクター](image/omni-1.2/community/flow-soy-sauce-character.jpg)](https://www.youtube.com/watch?v=SNDK6KC5atU)
+
+濱口はキャラクターの参照画像をアップロードし、カスタムの日本語音声を追加して、しゃべるキャラクターを Google Flow で生成しました。記事で設定と生成結果を確認できます。
 
 </td>
 </tr>

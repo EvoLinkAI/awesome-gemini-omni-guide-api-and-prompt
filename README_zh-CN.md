@@ -223,7 +223,7 @@ Google 于 **2026年11月5日**发布的八组官方演示。阅读[原始发布
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 社区演示墙
 
-收录创作者和工具团队发布的 10 个 Gemini Omni 1.2 Flash 示例。点击预览即可观看原片。标题链接至作者的帖子或文章，作者公开的提示词可在来源中查看。
+收录创作者和工具团队发布的 14 个 Gemini Omni 1.2 Flash 示例。点击预览即可观看原片。标题链接至作者的帖子或文章，作者公开的提示词可在来源中查看。
 
 <table>
 <tr>
@@ -339,6 +339,68 @@ WEEL 测试了一条 15 秒的产品广告，为三段演出指定了时间节�
 [![让静态拼贴动起来](image/omni-1.2/community/animated-collage.jpg)](https://video-s.twimg.com/amplify_video/2118467980497747968/vid/avc1/480x852/7oxu6hnjA__basp0.mp4?tag=16)
 
 创作者用 Omni 1.2 Flash 为引用帖中的静态拼贴添加了动态效果。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-11"></a>
+**[应用介绍视频的提示词对比](https://www.segmind.com/@himanshu/gemini-omni-1-2-flash-prompts)** · Himanshu Goel
+
+**一句话指令**
+
+[![应用介绍视频的提示词对比 · 一句话指令](image/omni-1.2/community/app-explainer-brief.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex1_vague.mp4)
+
+**标明时间的分镜清单**
+
+[![应用介绍视频的提示词对比 · 标明时间的分镜清单](image/omni-1.2/community/app-explainer-shot-list.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex1_structured.mp4)
+
+Goel 用两种提示词制作了 8 秒的预算管理应用介绍视频。他固定模型、随机种子、时长和分辨率，对比一句话指令与标明时间的分镜清单。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-12"></a>
+**[狐狸面包师视频续写](https://www.segmind.com/@himanshu/gemini-omni-1-2-flash-prompts)** · Himanshu Goel
+
+**8 秒原片**
+
+[![狐狸面包师视频续写 · 8 秒原片](image/omni-1.2/community/fox-baker-source.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex3_ref.mp4)
+
+**续写后的 13 秒视频**
+
+[![狐狸面包师视频续写 · 续写后的 13 秒视频](image/omni-1.2/community/fox-baker-extended.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex5_extend.mp4)
+
+Goel 将一段 8 秒的黏土狐狸面包店视频续写了 5 秒。续写后的 13 秒视频多出一块写有营业时间的黑板。文章展示了参考图片和提示词。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-13"></a>
+**[通过对话编辑马克杯视频](https://www.aiformortals.co/blog/gemini-omni-flash-1-2-tested#gemini-omni-video-editing-three-rounds-of-chat-edits)** · Pat Simmons
+
+**修改背景后**
+
+[![通过对话编辑马克杯视频 · 修改背景后](image/omni-1.2/community/mug-rainy-background.jpg)](https://uzgqbjufkfadoprvamcs.supabase.co/storage/v1/object/public/daily-img/gemini-omni-flash-1-2-tested/t3-edit1-background.mp4)
+
+**提出加快运镜的请求后**
+
+[![通过对话编辑马克杯视频 · 提出加快运镜的请求后](image/omni-1.2/community/mug-pacing-request.jpg)](https://uzgqbjufkfadoprvamcs.supabase.co/storage/v1/object/public/daily-img/gemini-omni-flash-1-2-tested/t3-edit3-pacing.mp4)
+
+Simmons 在 Gemini 应用中成功将背景改成了下雨的窗边。据他记录，之后要求把灯光调暖、加快运镜的两次编辑，均未出现肉眼可见的变化。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-14"></a>
+**[在 Flow 中生成会说话的酱油吉祥物](https://note.com/pharma_i_cist/n/n227466896971)** · 濱口貴光
+
+[![在 Flow 中生成会说话的酱油吉祥物](image/omni-1.2/community/flow-soy-sauce-character.jpg)](https://www.youtube.com/watch?v=SNDK6KC5atU)
+
+滨口上传了角色参考图并添加自定义日语配音，在 Google Flow 中生成了会说话的吉祥物。文章展示了设置步骤和原始生成结果。
 
 </td>
 </tr>

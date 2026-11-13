@@ -223,7 +223,7 @@ Eine zehnsekündige Aufnahme zieht sich von einer Nahansicht der Küste bis zu e
 <a id="omni12-community-demos"></a>
 ## 🎥 Community-Demos zu Gemini Omni 1.2
 
-Zehn Beispiele für Gemini Omni 1.2 Flash von Kreativen und Teams, die Tools entwickeln. Wähle ein Vorschaubild aus, um das Originalvideo anzusehen. Der Titel führt zum Beitrag oder Artikel der Urheber. Wenn sie den Prompt veröffentlicht haben, findest du ihn dort.
+Vierzehn Beispiele für Gemini Omni 1.2 Flash von Kreativen und Teams, die Tools entwickeln. Wähle ein Vorschaubild aus, um das Originalvideo anzusehen. Der Titel führt zum Beitrag oder Artikel der Urheber. Wenn sie den Prompt veröffentlicht haben, findest du ihn dort.
 
 <table>
 <tr>
@@ -339,6 +339,68 @@ Der Urheber vergleicht Omni 1.2 Flash und 1.1 Flash mit demselben Prompt und der
 [![Statische Collage in Bewegung](image/omni-1.2/community/animated-collage.jpg)](https://video-s.twimg.com/amplify_video/2118467980497747968/vid/avc1/480x852/7oxu6hnjA__basp0.mp4?tag=16)
 
 Der Urheber animiert mit Omni 1.2 Flash eine statische Collage aus dem zitierten Beitrag.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-11"></a>
+**[A/B-Vergleich der Prompts für ein App-Erklärvideo](https://www.segmind.com/@himanshu/gemini-omni-1-2-flash-prompts)** · Himanshu Goel
+
+**Briefing in einem Satz**
+
+[![A/B-Vergleich der Prompts für ein App-Erklärvideo · Briefing in einem Satz](image/omni-1.2/community/app-explainer-brief.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex1_vague.mp4)
+
+**Einstellungsliste mit Zeitvorgaben**
+
+[![A/B-Vergleich der Prompts für ein App-Erklärvideo · Einstellungsliste mit Zeitvorgaben](image/omni-1.2/community/app-explainer-shot-list.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex1_structured.mp4)
+
+Goel erstellt mit zwei Prompts ein achtsekündiges Erklärvideo für eine Haushaltsbuch-App. Er vergleicht ein Briefing in einem Satz mit einer Liste von Einstellungen samt Zeitvorgaben. Modell, Seed, Dauer und Auflösung bleiben gleich.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-12"></a>
+**[Verlängerung des Clips mit dem Fuchsbäcker](https://www.segmind.com/@himanshu/gemini-omni-1-2-flash-prompts)** · Himanshu Goel
+
+**8-sekündiger Ausgangsclip**
+
+[![Verlängerung des Clips mit dem Fuchsbäcker · 8-sekündiger Ausgangsclip](image/omni-1.2/community/fox-baker-source.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex3_ref.mp4)
+
+**Verlängerter Clip mit 13 Sekunden**
+
+[![Verlängerung des Clips mit dem Fuchsbäcker · Verlängerter Clip mit 13 Sekunden](image/omni-1.2/community/fox-baker-extended.jpg)](https://segmind-resources.s3.amazonaws.com/blog/gemini-omni-prompts-ex5_extend.mp4)
+
+Goel verlängert einen achtsekündigen Clip über die Bäckerei eines Fuchses aus Knetmasse um fünf Sekunden. Im 13-sekündigen Ergebnis erscheint eine Kreidetafel mit den Öffnungszeiten. Der Artikel zeigt die Referenzbilder und Prompts.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-13"></a>
+**[Clip mit einer Tasse im Chat bearbeiten](https://www.aiformortals.co/blog/gemini-omni-flash-1-2-tested#gemini-omni-video-editing-three-rounds-of-chat-edits)** · Pat Simmons
+
+**Nach dem Hintergrundwechsel**
+
+[![Clip mit einer Tasse im Chat bearbeiten · Nach dem Hintergrundwechsel](image/omni-1.2/community/mug-rainy-background.jpg)](https://uzgqbjufkfadoprvamcs.supabase.co/storage/v1/object/public/daily-img/gemini-omni-flash-1-2-tested/t3-edit1-background.mp4)
+
+**Nach der Anfrage zur schnelleren Kamerabewegung**
+
+[![Clip mit einer Tasse im Chat bearbeiten · Nach der Anfrage zur schnelleren Kamerabewegung](image/omni-1.2/community/mug-pacing-request.jpg)](https://uzgqbjufkfadoprvamcs.supabase.co/storage/v1/object/public/daily-img/gemini-omni-flash-1-2-tested/t3-edit3-pacing.mp4)
+
+Im Test von Simmons mit der Gemini-App gelang der Hintergrundwechsel zu einem verregneten Fenster. Laut seinem Artikel führten die beiden folgenden Anfragen nach wärmerer Beleuchtung und einer schnelleren Kamerabewegung zu keiner sichtbaren Änderung.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-14"></a>
+**[Sprechendes Sojasoßen-Maskottchen in Flow](https://note.com/pharma_i_cist/n/n227466896971)** · 濱口貴光
+
+[![Sprechendes Sojasoßen-Maskottchen in Flow](image/omni-1.2/community/flow-soy-sauce-character.jpg)](https://www.youtube.com/watch?v=SNDK6KC5atU)
+
+Hamaguchi lädt ein Referenzbild der Figur hoch, fügt eine individuelle japanische Stimme hinzu und generiert das sprechende Maskottchen in Google Flow. Der Artikel zeigt die Einstellungen und das Originalergebnis.
 
 </td>
 </tr>
