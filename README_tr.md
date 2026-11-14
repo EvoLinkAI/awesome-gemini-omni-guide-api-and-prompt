@@ -223,7 +223,7 @@ On saniyelik bir çekim, kıyıdaki yakın plandan uzaklaşarak adanın geniş b
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 topluluk demoları
 
-İçerik üreticilerinin ve araç geliştiren ekiplerin yayımladığı on dört Gemini Omni 1.2 Flash örneği. Özgün videoyu izlemek için bir önizleme görselini seçin. Başlık, içeriği hazırlayan kişinin gönderisine veya yazısına bağlantı verir. İstem paylaşılmışsa onu da orada bulabilirsiniz.
+İçerik üreticilerinin ve araç geliştiren ekiplerin yayımladığı on sekiz Gemini Omni 1.2 Flash örneği. Özgün videoyu izlemek için bir önizleme görselini seçin. Başlık, içeriği hazırlayan kişinin gönderisine veya yazısına bağlantı verir. İstem paylaşılmışsa onu da orada bulabilirsiniz.
 
 <table>
 <tr>
@@ -401,6 +401,50 @@ Simmons’ın Gemini uygulamasıyla yaptığı testte, arka planı yağmurlu bir
 [![Flow’da konuşan soya sosu maskotu](image/omni-1.2/community/flow-soy-sauce-character.jpg)](https://www.youtube.com/watch?v=SNDK6KC5atU)
 
 Hamaguchi, karakterin referans görselini yükleyip Japonca özel bir ses ekliyor ve Google Flow’da konuşan maskotu oluşturuyor. Yazı, ayarları ve özgün sonucu gösteriyor.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-15"></a>
+**[360p ve 720p çözünürlükte engel atlama](https://x.com/nakaaki04/status/2120471927878025580)** · nakaaki04
+
+[![360p ve 720p çözünürlükte engel atlama](image/omni-1.2/community/hurdle-motion-test.jpg)](https://video.twimg.com/amplify_video/2120471854968369152/vid/avc1/480x852/9KTUc0EcXqsr-q66.mp4?tag=16)
+
+İçerik üreticisi, Flow’da üç kliplik bir testte kamerayı karakterin etrafında hareket ettirmeyi deniyor ve aynı engel atlama istemini 360p ve 720p’de tekrarlıyor. Testi anlatırken 720p çekimde karakterin bir bacağının engelin içinden geçtiğini gösteriyor.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-16"></a>
+**[Referans videoyla astronot hareketi karşılaştırması](https://x.com/cellcogai/status/2120170343859966025)** · cellcogai
+
+[![Referans videoyla astronot hareketi karşılaştırması](image/omni-1.2/community/astronaut-motion-reference.jpg)](https://video.twimg.com/ext_tw_video/2120169872483065856/pu/vid/avc1/640x360/MQ_iaATV6JRsycnX.mp4?tag=12)
+
+CellCog, çatıdaki bir astronotun referans hareketini Omni 1.2, Seedance 2.5 ve Kling 4.0 ile nasıl taklit ettiğini karşılaştırıyor. Ekip, Omni ve Seedance için referans videoyu üç klibe bölüyor, Kling’e ise tamamını veriyor. Özgün videoda her sonuç etiketleniyor.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-17"></a>
+**[Kahkahadan gözyaşına](https://x.com/ACampbellCinema/status/2120168688124862920)** · ACampbellCinema
+
+[![Kahkahadan gözyaşına](image/omni-1.2/community/laugh-to-tears.jpg)](https://video.twimg.com/amplify_video/2120167861247225856/vid/avc1/480x852/MOtZjYAYnb42jIfD.mp4?tag=14)
+
+Campbell, duygusal bir yakın planda Omni Flash 1.2 ile 1.1’i karşılaştırıyor. İnceleme, kahkahadan gözyaşına geçişi izliyor ve iki sürümü yan yana göstererek sona eriyor.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-18"></a>
+**[Ayçiçeği tarlasında bisiklet turu](https://x.com/EtherealxArt/status/2120154511901954472)** · EtherealxArt
+
+[![Ayçiçeği tarlasında bisiklet turu](image/omni-1.2/community/sunflower-bicycle.jpg)](https://video.twimg.com/amplify_video/2119871561221947393/vid/avc1/640x360/mnbbtEViiNZpNX5D.mp4)
+
+Flow’da hazırlanan bir demo, ayçiçeği tarlasında ilerleyen bir bisikletliyi takip ediyor. İçerik üreticisi bisikletin hareketine dikkat çekiyor. Video, tekerlek ve gidonun yakın çekimleri dahil olmak üzere hareketi farklı açılardan gösteriyor.
 
 </td>
 </tr>

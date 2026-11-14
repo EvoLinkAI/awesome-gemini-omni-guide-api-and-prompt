@@ -223,7 +223,7 @@ Eine zehnsekündige Aufnahme zieht sich von einer Nahansicht der Küste bis zu e
 <a id="omni12-community-demos"></a>
 ## 🎥 Community-Demos zu Gemini Omni 1.2
 
-Vierzehn Beispiele für Gemini Omni 1.2 Flash von Kreativen und Teams, die Tools entwickeln. Wähle ein Vorschaubild aus, um das Originalvideo anzusehen. Der Titel führt zum Beitrag oder Artikel der Urheber. Wenn sie den Prompt veröffentlicht haben, findest du ihn dort.
+Achtzehn Beispiele für Gemini Omni 1.2 Flash von Kreativen und Teams, die Tools entwickeln. Wähle ein Vorschaubild aus, um das Originalvideo anzusehen. Der Titel führt zum Beitrag oder Artikel der Urheber. Wenn sie den Prompt veröffentlicht haben, findest du ihn dort.
 
 <table>
 <tr>
@@ -401,6 +401,50 @@ Im Test von Simmons mit der Gemini-App gelang der Hintergrundwechsel zu einem ve
 [![Sprechendes Sojasoßen-Maskottchen in Flow](image/omni-1.2/community/flow-soy-sauce-character.jpg)](https://www.youtube.com/watch?v=SNDK6KC5atU)
 
 Hamaguchi lädt ein Referenzbild der Figur hoch, fügt eine individuelle japanische Stimme hinzu und generiert das sprechende Maskottchen in Google Flow. Der Artikel zeigt die Einstellungen und das Originalergebnis.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-15"></a>
+**[Hürdensprung in 360p und 720p](https://x.com/nakaaki04/status/2120471927878025580)** · nakaaki04
+
+[![Hürdensprung in 360p und 720p](image/omni-1.2/community/hurdle-motion-test.jpg)](https://video.twimg.com/amplify_video/2120471854968369152/vid/avc1/480x852/9KTUc0EcXqsr-q66.mp4?tag=16)
+
+In einem Flow-Test mit drei Clips probiert der Urheber eine Kamerafahrt um die Figur aus und verwendet denselben Prompt für den Hürdensprung in 360p und 720p. In der Erläuterung weist er darauf hin, dass in der 720p-Aufnahme ein Bein durch die Hürde geht.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-16"></a>
+**[Bewegungsvergleich mit einem Astronauten und Referenzvideo](https://x.com/cellcogai/status/2120170343859966025)** · cellcogai
+
+[![Bewegungsvergleich mit einem Astronauten und Referenzvideo](image/omni-1.2/community/astronaut-motion-reference.jpg)](https://video.twimg.com/ext_tw_video/2120169872483065856/pu/vid/avc1/640x360/MQ_iaATV6JRsycnX.mp4?tag=12)
+
+CellCog vergleicht, wie Omni 1.2, Seedance 2.5 und Kling 4.0 eine Referenzbewegung mit einem Astronauten auf einem Dach nachbilden. Für Omni und Seedance teilt das Team das Referenzvideo in drei Clips auf. Kling erhält den vollständigen Clip. Das Originalvideo kennzeichnet jedes Ergebnis.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-17"></a>
+**[Vom Lachen zum Weinen](https://x.com/ACampbellCinema/status/2120168688124862920)** · ACampbellCinema
+
+[![Vom Lachen zum Weinen](image/omni-1.2/community/laugh-to-tears.jpg)](https://video.twimg.com/amplify_video/2120167861247225856/vid/avc1/480x852/MOtZjYAYnb42jIfD.mp4?tag=14)
+
+Campbell vergleicht Omni Flash 1.2 und 1.1 in einer emotionalen Nahaufnahme. Die Analyse verfolgt den Wechsel vom Lachen zum Weinen und zeigt zum Schluss beide Versionen nebeneinander.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-18"></a>
+**[Fahrradfahrt durch ein Sonnenblumenfeld](https://x.com/EtherealxArt/status/2120154511901954472)** · EtherealxArt
+
+[![Fahrradfahrt durch ein Sonnenblumenfeld](image/omni-1.2/community/sunflower-bicycle.jpg)](https://video.twimg.com/amplify_video/2119871561221947393/vid/avc1/640x360/mnbbtEViiNZpNX5D.mp4)
+
+Eine Flow-Demo begleitet eine Person auf dem Fahrrad durch ein Sonnenblumenfeld. Der Urheber hebt die Bewegung des Fahrrads hervor. Das Video zeigt sie aus mehreren Blickwinkeln, darunter Nahaufnahmen von Rad und Lenker.
 
 </td>
 </tr>

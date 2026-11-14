@@ -223,7 +223,7 @@ Google 於 **2026 年 11 月 5 日**發布的八組官方展示。請閱讀[原�
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 社群示範牆
 
-收錄創作者與工具開發團隊發布的 14 個 Gemini Omni 1.2 Flash 範例。點選預覽即可觀看原始影片。標題連至作者的貼文或文章，作者公開的提示詞可在來源中查看。
+收錄創作者與工具開發團隊發布的 18 個 Gemini Omni 1.2 Flash 範例。點選預覽即可觀看原始影片。標題連至作者的貼文或文章，作者公開的提示詞可在來源中查看。
 
 <table>
 <tr>
@@ -401,6 +401,50 @@ Simmons 在 Gemini 應用程式中成功把背景改成雨天的窗邊。據他�
 [![在 Flow 生成會說話的醬油吉祥物](image/omni-1.2/community/flow-soy-sauce-character.jpg)](https://www.youtube.com/watch?v=SNDK6KC5atU)
 
 濱口上傳角色參考圖、加入自訂日語配音，在 Google Flow 中生成會說話的吉祥物。文章展示了設定方式和原始生成結果。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-15"></a>
+**[360p 與 720p 跨欄測試](https://x.com/nakaaki04/status/2120471927878025580)** · nakaaki04
+
+[![360p 與 720p 跨欄測試](image/omni-1.2/community/hurdle-motion-test.jpg)](https://video.twimg.com/amplify_video/2120471854968369152/vid/avc1/480x852/9KTUc0EcXqsr-q66.mp4?tag=16)
+
+創作者在 Flow 中用三段影片測試環繞角色的運鏡，並以同一則跨欄提示詞分別生成 360p 和 720p 影片。解說指出，720p 片段出現腿部穿過欄架的畫面。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-16"></a>
+**[太空人參考動作重現比較](https://x.com/cellcogai/status/2120170343859966025)** · cellcogai
+
+[![太空人參考動作重現比較](image/omni-1.2/community/astronaut-motion-reference.jpg)](https://video.twimg.com/ext_tw_video/2120169872483065856/pu/vid/avc1/640x360/MQ_iaATV6JRsycnX.mp4?tag=12)
+
+CellCog 讓屋頂上的太空人模仿參考動作，比較 Omni 1.2、Seedance 2.5 和 Kling 4.0 的結果。團隊將參考影片分成三段輸入 Omni 與 Seedance，並將完整影片輸入 Kling。原始影片標註了各結果對應的模型。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-17"></a>
+**[從大笑到落淚](https://x.com/ACampbellCinema/status/2120168688124862920)** · ACampbellCinema
+
+[![從大笑到落淚](image/omni-1.2/community/laugh-to-tears.jpg)](https://video.twimg.com/amplify_video/2120167861247225856/vid/avc1/480x852/MOtZjYAYnb42jIfD.mp4?tag=14)
+
+Campbell 以情緒變化的特寫比較 Omni Flash 1.2 和 1.1。解說呈現人物從大笑到落淚的過程，最後並排顯示兩個版本。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-18"></a>
+**[騎單車穿越向日葵花田](https://x.com/EtherealxArt/status/2120154511901954472)** · EtherealxArt
+
+[![騎單車穿越向日葵花田](image/omni-1.2/community/sunflower-bicycle.jpg)](https://video.twimg.com/amplify_video/2119871561221947393/vid/avc1/640x360/mnbbtEViiNZpNX5D.mp4)
+
+這段 Flow 示範影片跟著一名騎士穿越向日葵花田。創作者著重呈現單車的動態，從多個角度拍攝騎行場景，包括車輪和車把的特寫。
 
 </td>
 </tr>

@@ -223,7 +223,7 @@ Una toma de diez segundos se aleja de un primer plano de la costa hasta mostrar 
 <a id="omni12-community-demos"></a>
 ## 🎥 Galería de demos de la comunidad de Gemini Omni 1.2
 
-Catorce ejemplos de Gemini Omni 1.2 Flash publicados por creadores y equipos que desarrollan herramientas. Selecciona una imagen de vista previa para ver el video original. El título enlaza a la publicación o el artículo del autor. Si el autor compartió el prompt, lo encontrarás allí.
+Dieciocho ejemplos de Gemini Omni 1.2 Flash publicados por creadores y equipos que desarrollan herramientas. Selecciona una imagen de vista previa para ver el video original. El título enlaza a la publicación o el artículo del autor. Si el autor compartió el prompt, lo encontrarás allí.
 
 <table>
 <tr>
@@ -401,6 +401,50 @@ En la prueba de Simmons con la aplicación de Gemini, el cambio de fondo a una v
 [![Mascota parlante de salsa de soja en Flow](image/omni-1.2/community/flow-soy-sauce-character.jpg)](https://www.youtube.com/watch?v=SNDK6KC5atU)
 
 Hamaguchi sube una imagen de referencia del personaje, añade una voz personalizada en japonés y genera la mascota parlante en Google Flow. El artículo muestra la configuración y el resultado original.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-15"></a>
+**[Salto de valla a 360p y 720p](https://x.com/nakaaki04/status/2120471927878025580)** · nakaaki04
+
+[![Salto de valla a 360p y 720p](image/omni-1.2/community/hurdle-motion-test.jpg)](https://video.twimg.com/amplify_video/2120471854968369152/vid/avc1/480x852/9KTUc0EcXqsr-q66.mp4?tag=16)
+
+En una prueba de Flow con tres clips, el creador ensaya un movimiento de cámara alrededor del personaje y repite un prompt de salto de valla a 360p y 720p. En su explicación señala que una pierna atraviesa la valla en la toma a 720p.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-16"></a>
+**[Comparación de movimiento de un astronauta con video de referencia](https://x.com/cellcogai/status/2120170343859966025)** · cellcogai
+
+[![Comparación de movimiento de un astronauta con video de referencia](image/omni-1.2/community/astronaut-motion-reference.jpg)](https://video.twimg.com/ext_tw_video/2120169872483065856/pu/vid/avc1/640x360/MQ_iaATV6JRsycnX.mp4?tag=12)
+
+CellCog compara cómo Omni 1.2, Seedance 2.5 y Kling 4.0 reproducen un movimiento de referencia con un astronauta en una azotea. El equipo divide el video de referencia en tres clips para Omni y Seedance y utiliza el clip completo en Kling. El video original identifica cada resultado.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-17"></a>
+**[De la risa al llanto](https://x.com/ACampbellCinema/status/2120168688124862920)** · ACampbellCinema
+
+[![De la risa al llanto](image/omni-1.2/community/laugh-to-tears.jpg)](https://video.twimg.com/amplify_video/2120167861247225856/vid/avc1/480x852/MOtZjYAYnb42jIfD.mp4?tag=14)
+
+Campbell compara Omni Flash 1.2 y 1.1 en un primer plano emotivo. El análisis sigue la transición de la risa al llanto y termina con las dos versiones una al lado de la otra.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-18"></a>
+**[Paseo en bicicleta entre girasoles](https://x.com/EtherealxArt/status/2120154511901954472)** · EtherealxArt
+
+[![Paseo en bicicleta entre girasoles](image/omni-1.2/community/sunflower-bicycle.jpg)](https://video.twimg.com/amplify_video/2119871561221947393/vid/avc1/640x360/mnbbtEViiNZpNX5D.mp4)
+
+Una demostración en Flow sigue a un ciclista por un campo de girasoles. El creador destaca el movimiento de la bicicleta, que se ve desde varios ángulos, con primeros planos de la rueda y el manillar.
 
 </td>
 </tr>

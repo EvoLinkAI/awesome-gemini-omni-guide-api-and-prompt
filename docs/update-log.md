@@ -1,5 +1,10 @@
 # Update log
 
+## 2026-11-14
+
+- Added four creator demos covering a hurdle test, an astronaut motion reference comparison, an emotional close-up, and a bicycle ride.
+- Synchronized all eleven READMEs and indexed the original videos and posters.
+
 ## 2026-11-13
 
 - Added four Gemini Omni 1.2 Flash creator workflows with seven original video links: a prompt A/B test, a clip extension, a series of chat edits, and a talking character in Google Flow.

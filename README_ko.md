@@ -223,7 +223,7 @@ Google이 **2026년 11월 5일** 공개한 공식 데모 8개입니다. [원본 
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 커뮤니티 데모 모음
 
-크리에이터와 도구 개발팀이 공개한 Gemini Omni 1.2 Flash 사례 14개를 모았습니다. 미리보기를 선택하면 원본 영상을 재생할 수 있습니다. 제목은 제작자의 게시물이나 글로 연결되며, 공개된 프롬프트는 해당 출처에서 확인할 수 있습니다.
+크리에이터와 도구 개발팀이 공개한 Gemini Omni 1.2 Flash 사례 18개를 모았습니다. 미리보기를 선택하면 원본 영상을 재생할 수 있습니다. 제목은 제작자의 게시물이나 글로 연결되며, 공개된 프롬프트는 해당 출처에서 확인할 수 있습니다.
 
 <table>
 <tr>
@@ -401,6 +401,50 @@ Simmons가 Gemini 앱에서 테스트한 결과, 배경을 비 오는 창가로 
 [![Flow에서 말하는 간장 마스코트](image/omni-1.2/community/flow-soy-sauce-character.jpg)](https://www.youtube.com/watch?v=SNDK6KC5atU)
 
 하마구치는 캐릭터 참조 이미지를 업로드하고 맞춤 일본어 음성을 추가해 Google Flow에서 말하는 마스코트를 생성했습니다. 글에서 설정과 생성 결과를 볼 수 있습니다.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-15"></a>
+**[360p와 720p의 허들 넘기](https://x.com/nakaaki04/status/2120471927878025580)** · nakaaki04
+
+[![360p와 720p의 허들 넘기](image/omni-1.2/community/hurdle-motion-test.jpg)](https://video.twimg.com/amplify_video/2120471854968369152/vid/avc1/480x852/9KTUc0EcXqsr-q66.mp4?tag=16)
+
+제작자는 Flow에서 영상 세 편으로 캐릭터 주위를 도는 카메라 움직임을 시험하고, 같은 허들 넘기 프롬프트를 360p와 720p에 각각 사용합니다. 해설에서는 720p 영상에서 다리가 허들을 통과하는 장면을 짚습니다.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-16"></a>
+**[우주비행사의 참조 동작 재현 비교](https://x.com/cellcogai/status/2120170343859966025)** · cellcogai
+
+[![우주비행사의 참조 동작 재현 비교](image/omni-1.2/community/astronaut-motion-reference.jpg)](https://video.twimg.com/ext_tw_video/2120169872483065856/pu/vid/avc1/640x360/MQ_iaATV6JRsycnX.mp4?tag=12)
+
+CellCog는 옥상에 있는 우주비행사가 참조 영상의 동작을 따라 하도록 하고 Omni 1.2, Seedance 2.5, Kling 4.0의 결과를 비교합니다. Omni와 Seedance에는 참조 영상을 세 편으로 나누어 입력하고 Kling에는 전체 영상을 입력했습니다. 원본 영상에는 각 결과를 구분하는 표시가 있습니다.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-17"></a>
+**[웃음에서 눈물로](https://x.com/ACampbellCinema/status/2120168688124862920)** · ACampbellCinema
+
+[![웃음에서 눈물로](image/omni-1.2/community/laugh-to-tears.jpg)](https://video.twimg.com/amplify_video/2120167861247225856/vid/avc1/480x852/MOtZjYAYnb42jIfD.mp4?tag=14)
+
+Campbell은 감정 변화를 담은 클로즈업으로 Omni Flash 1.2와 1.1을 비교합니다. 해설은 웃다가 눈물을 흘리는 변화를 따라가고, 마지막에 두 버전의 영상을 나란히 보여 줍니다.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-18"></a>
+**[해바라기밭을 달리는 자전거](https://x.com/EtherealxArt/status/2120154511901954472)** · EtherealxArt
+
+[![해바라기밭을 달리는 자전거](image/omni-1.2/community/sunflower-bicycle.jpg)](https://video.twimg.com/amplify_video/2119871561221947393/vid/avc1/640x360/mnbbtEViiNZpNX5D.mp4)
+
+Flow 데모는 해바라기밭을 자전거로 달리는 사람을 따라갑니다. 제작자는 자전거의 움직임에 주목하며 바퀴와 핸들 클로즈업을 포함해 여러 각도에서 주행 장면을 보여 줍니다.
 
 </td>
 </tr>

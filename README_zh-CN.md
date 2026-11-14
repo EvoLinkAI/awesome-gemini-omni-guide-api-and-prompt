@@ -223,7 +223,7 @@ Google 于 **2026年11月5日**发布的八组官方演示。阅读[原始发布
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 社区演示墙
 
-收录创作者和工具团队发布的 14 个 Gemini Omni 1.2 Flash 示例。点击预览即可观看原片。标题链接至作者的帖子或文章，作者公开的提示词可在来源中查看。
+收录创作者和工具团队发布的 18 个 Gemini Omni 1.2 Flash 示例。点击预览即可观看原片。标题链接至作者的帖子或文章，作者公开的提示词可在来源中查看。
 
 <table>
 <tr>
@@ -401,6 +401,50 @@ Simmons 在 Gemini 应用中成功将背景改成了下雨的窗边。据他记�
 [![在 Flow 中生成会说话的酱油吉祥物](image/omni-1.2/community/flow-soy-sauce-character.jpg)](https://www.youtube.com/watch?v=SNDK6KC5atU)
 
 滨口上传了角色参考图并添加自定义日语配音，在 Google Flow 中生成了会说话的吉祥物。文章展示了设置步骤和原始生成结果。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-15"></a>
+**[360p 与 720p 跨栏测试](https://x.com/nakaaki04/status/2120471927878025580)** · nakaaki04
+
+[![360p 与 720p 跨栏测试](image/omni-1.2/community/hurdle-motion-test.jpg)](https://video.twimg.com/amplify_video/2120471854968369152/vid/avc1/480x852/9KTUc0EcXqsr-q66.mp4?tag=16)
+
+创作者在 Flow 中用三段视频测试环绕角色的运镜，并用同一条跨栏提示词分别生成 360p 和 720p 视频。讲解指出，720p 片段中出现了腿部穿过栏架的画面。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-16"></a>
+**[宇航员参考动作复现对比](https://x.com/cellcogai/status/2120170343859966025)** · cellcogai
+
+[![宇航员参考动作复现对比](image/omni-1.2/community/astronaut-motion-reference.jpg)](https://video.twimg.com/ext_tw_video/2120169872483065856/pu/vid/avc1/640x360/MQ_iaATV6JRsycnX.mp4?tag=12)
+
+CellCog 让屋顶上的宇航员模仿参考动作，对比 Omni 1.2、Seedance 2.5 和 Kling 4.0 的结果。团队为 Omni 和 Seedance 将参考视频分成三段，为 Kling 输入完整视频。原片标明了每个结果对应的模型。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-17"></a>
+**[从大笑到落泪](https://x.com/ACampbellCinema/status/2120168688124862920)** · ACampbellCinema
+
+[![从大笑到落泪](image/omni-1.2/community/laugh-to-tears.jpg)](https://video.twimg.com/amplify_video/2120167861247225856/vid/avc1/480x852/MOtZjYAYnb42jIfD.mp4?tag=14)
+
+Campbell 用一段情绪特写对比 Omni Flash 1.2 和 1.1。讲解展示了人物从大笑到落泪的变化，并在结尾并排呈现两个版本。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-18"></a>
+**[骑车穿过向日葵田](https://x.com/EtherealxArt/status/2120154511901954472)** · EtherealxArt
+
+[![骑车穿过向日葵田](image/omni-1.2/community/sunflower-bicycle.jpg)](https://video.twimg.com/amplify_video/2119871561221947393/vid/avc1/640x360/mnbbtEViiNZpNX5D.mp4)
+
+这段 Flow 演示跟随一名骑行者穿过向日葵田。创作者重点展示自行车的运动，从多个角度呈现骑行过程，包括车轮和车把的特写。
 
 </td>
 </tr>
