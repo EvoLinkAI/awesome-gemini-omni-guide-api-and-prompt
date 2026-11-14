@@ -223,7 +223,7 @@ Un plan de dix secondes passe d’un gros plan sur le rivage à une vue large de
 <a id="omni12-community-demos"></a>
 ## 🎥 Démonstrations de la communauté Gemini Omni 1.2
 
-Quatorze exemples réalisés avec Gemini Omni 1.2 Flash, publiés par des créateurs et des équipes qui développent des outils. Sélectionnez une vignette pour regarder la vidéo originale. Le titre renvoie à la publication ou à l’article de l’auteur. Vous y trouverez le prompt lorsque l’auteur l’a partagé.
+Dix-huit exemples réalisés avec Gemini Omni 1.2 Flash, publiés par des créateurs et des équipes qui développent des outils. Sélectionnez une vignette pour regarder la vidéo originale. Le titre renvoie à la publication ou à l’article de l’auteur. Vous y trouverez le prompt lorsque l’auteur l’a partagé.
 
 <table>
 <tr>
@@ -401,6 +401,50 @@ Dans l’essai de Simmons avec l’application Gemini, le remplacement de l’ar
 [![Mascotte parlante de sauce soja dans Flow](image/omni-1.2/community/flow-soy-sauce-character.jpg)](https://www.youtube.com/watch?v=SNDK6KC5atU)
 
 Hamaguchi importe une image de référence du personnage, ajoute une voix personnalisée en japonais et génère la mascotte parlante dans Google Flow. L’article présente les réglages et le résultat original.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-15"></a>
+**[Saut de haie en 360p et 720p](https://x.com/nakaaki04/status/2120471927878025580)** · nakaaki04
+
+[![Saut de haie en 360p et 720p](image/omni-1.2/community/hurdle-motion-test.jpg)](https://video.twimg.com/amplify_video/2120471854968369152/vid/avc1/480x852/9KTUc0EcXqsr-q66.mp4?tag=16)
+
+Dans un essai sur Flow en trois clips, le créateur teste un déplacement de caméra autour du personnage et reprend le même prompt de saut de haie en 360p et 720p. Il signale qu’une jambe traverse la haie dans la prise en 720p.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-16"></a>
+**[Comparaison de mouvements d’un astronaute à partir d’une vidéo de référence](https://x.com/cellcogai/status/2120170343859966025)** · cellcogai
+
+[![Comparaison de mouvements d’un astronaute à partir d’une vidéo de référence](image/omni-1.2/community/astronaut-motion-reference.jpg)](https://video.twimg.com/ext_tw_video/2120169872483065856/pu/vid/avc1/640x360/MQ_iaATV6JRsycnX.mp4?tag=12)
+
+CellCog compare la façon dont Omni 1.2, Seedance 2.5 et Kling 4.0 reproduisent un mouvement de référence avec un astronaute sur un toit. L’équipe divise la vidéo de référence en trois clips pour Omni et Seedance et fournit la vidéo entière à Kling. La vidéo originale identifie chaque résultat.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-17"></a>
+**[Du rire aux larmes](https://x.com/ACampbellCinema/status/2120168688124862920)** · ACampbellCinema
+
+[![Du rire aux larmes](image/omni-1.2/community/laugh-to-tears.jpg)](https://video.twimg.com/amplify_video/2120167861247225856/vid/avc1/480x852/MOtZjYAYnb42jIfD.mp4?tag=14)
+
+Campbell compare Omni Flash 1.2 et 1.1 sur un gros plan chargé d’émotion. L’analyse suit le passage du rire aux larmes et se termine par les deux versions côte à côte.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-18"></a>
+**[Balade à vélo dans un champ de tournesols](https://x.com/EtherealxArt/status/2120154511901954472)** · EtherealxArt
+
+[![Balade à vélo dans un champ de tournesols](image/omni-1.2/community/sunflower-bicycle.jpg)](https://video.twimg.com/amplify_video/2119871561221947393/vid/avc1/640x360/mnbbtEViiNZpNX5D.mp4)
+
+Une démonstration sur Flow suit une personne à vélo à travers un champ de tournesols. Le créateur souligne le mouvement du vélo, que la vidéo montre sous plusieurs angles, notamment en gros plan sur la roue et le guidon.
 
 </td>
 </tr>

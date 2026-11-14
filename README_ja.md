@@ -223,7 +223,7 @@ Google が **2026年11月5日**に公開した8件の公式デモです。[元�
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 コミュニティデモ集
 
-クリエイターやツール開発チームが公開した Gemini Omni 1.2 Flash の作例を14件紹介します。プレビューから元の動画を再生できます。タイトルからは作者の投稿や記事に移動でき、プロンプトが公開されている場合はそこで確認できます。
+クリエイターやツール開発チームが公開した Gemini Omni 1.2 Flash の作例を18件紹介します。プレビューから元の動画を再生できます。タイトルからは作者の投稿や記事に移動でき、プロンプトが公開されている場合はそこで確認できます。
 
 <table>
 <tr>
@@ -401,6 +401,50 @@ Simmons が Gemini アプリで試したところ、背景を雨の窓辺に変�
 [![Flow でしゃべるしょうゆのキャラクター](image/omni-1.2/community/flow-soy-sauce-character.jpg)](https://www.youtube.com/watch?v=SNDK6KC5atU)
 
 濱口はキャラクターの参照画像をアップロードし、カスタムの日本語音声を追加して、しゃべるキャラクターを Google Flow で生成しました。記事で設定と生成結果を確認できます。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-15"></a>
+**[360p と 720p のハードル跳び](https://x.com/nakaaki04/status/2120471927878025580)** · nakaaki04
+
+[![360p と 720p のハードル跳び](image/omni-1.2/community/hurdle-motion-test.jpg)](https://video.twimg.com/amplify_video/2120471854968369152/vid/avc1/480x852/9KTUc0EcXqsr-q66.mp4?tag=16)
+
+作者は Flow で3本のクリップを試し、キャラクターの周囲を回り込むカメラの動きと、同じハードル跳びのプロンプトを使った360p・720pの生成結果を紹介しています。解説では、720pの映像で脚がハードルをすり抜ける箇所を取り上げています。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-16"></a>
+**[宇宙飛行士の動きの再現を比較](https://x.com/cellcogai/status/2120170343859966025)** · cellcogai
+
+[![宇宙飛行士の動きの再現を比較](image/omni-1.2/community/astronaut-motion-reference.jpg)](https://video.twimg.com/ext_tw_video/2120169872483065856/pu/vid/avc1/640x360/MQ_iaATV6JRsycnX.mp4?tag=12)
+
+CellCog は屋上の宇宙飛行士に参照動画の動きを再現させ、Omni 1.2、Seedance 2.5、Kling 4.0 の結果を比較しています。Omni と Seedance には3分割した参照動画を、Kling には参照動画全体を入力しました。元の動画には各結果のラベルが付いています。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-17"></a>
+**[笑いから涙へ](https://x.com/ACampbellCinema/status/2120168688124862920)** · ACampbellCinema
+
+[![笑いから涙へ](image/omni-1.2/community/laugh-to-tears.jpg)](https://video.twimg.com/amplify_video/2120167861247225856/vid/avc1/480x852/MOtZjYAYnb42jIfD.mp4?tag=14)
+
+Campbell は感情の変化を捉えたクローズアップで、Omni Flash 1.2 と 1.1 を比較しています。解説では笑いから涙に変わる様子を追い、最後に両バージョンの映像を並べて表示します。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-18"></a>
+**[ひまわり畑を自転車で走る](https://x.com/EtherealxArt/status/2120154511901954472)** · EtherealxArt
+
+[![ひまわり畑を自転車で走る](image/omni-1.2/community/sunflower-bicycle.jpg)](https://video.twimg.com/amplify_video/2119871561221947393/vid/avc1/640x360/mnbbtEViiNZpNX5D.mp4)
+
+Flow の作例は、ひまわり畑を自転車で走る人物を追います。作者は自転車の動きに注目し、車輪やハンドルのクローズアップを含む複数の角度から走行シーンを見せています。
 
 </td>
 </tr>

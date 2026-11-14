@@ -223,7 +223,7 @@ A ten-second shot pulls from a shoreline close-up to a wide island view.
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 Community Demo Wall
 
-Fourteen Gemini Omni 1.2 Flash examples from creators and tool teams. Select a preview to watch the original video. The title links to the author’s post or write-up, with the prompt where the author shared it.
+Eighteen Gemini Omni 1.2 Flash examples from creators and tool teams. Select a preview to watch the original video. The title links to the author’s post or write-up, with the prompt where the author shared it.
 
 <table>
 <tr>
@@ -401,6 +401,50 @@ The rainy-window background edit worked in Simmons’s Gemini app test. The next
 [![Talking Soy Sauce Mascot in Flow](image/omni-1.2/community/flow-soy-sauce-character.jpg)](https://www.youtube.com/watch?v=SNDK6KC5atU)
 
 Hamaguchi uploads a character reference image, adds a custom Japanese voice, and generates the talking mascot in Google Flow. The write-up shows the setup and the original result.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-15"></a>
+**[Hurdle Jump at 360p and 720p](https://x.com/nakaaki04/status/2120471927878025580)** · nakaaki04
+
+[![Hurdle Jump at 360p and 720p](image/omni-1.2/community/hurdle-motion-test.jpg)](https://video.twimg.com/amplify_video/2120471854968369152/vid/avc1/480x852/9KTUc0EcXqsr-q66.mp4?tag=16)
+
+In a three-clip Flow test, the creator tries a camera move around the character and repeats a hurdle prompt at 360p and 720p. The walkthrough highlights a leg passing through the hurdle in the 720p take.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-16"></a>
+**[Astronaut Motion Reference Comparison](https://x.com/cellcogai/status/2120170343859966025)** · cellcogai
+
+[![Astronaut Motion Reference Comparison](image/omni-1.2/community/astronaut-motion-reference.jpg)](https://video.twimg.com/ext_tw_video/2120169872483065856/pu/vid/avc1/640x360/MQ_iaATV6JRsycnX.mp4?tag=12)
+
+CellCog compares a rooftop astronaut copying a reference move in Omni 1.2, Seedance 2.5, and Kling 4.0. The team splits the reference into three clips for Omni and Seedance, and gives Kling the full clip. The original video labels each result.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-17"></a>
+**[From Laughter to Tears](https://x.com/ACampbellCinema/status/2120168688124862920)** · ACampbellCinema
+
+[![From Laughter to Tears](image/omni-1.2/community/laugh-to-tears.jpg)](https://video.twimg.com/amplify_video/2120167861247225856/vid/avc1/480x852/MOtZjYAYnb42jIfD.mp4?tag=14)
+
+Campbell compares Omni Flash 1.2 and 1.1 on an emotional close-up. The breakdown follows the shift from laughter to tears and ends with the two versions shown side by side.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-18"></a>
+**[Bicycle Ride Through Sunflowers](https://x.com/EtherealxArt/status/2120154511901954472)** · EtherealxArt
+
+[![Bicycle Ride Through Sunflowers](image/omni-1.2/community/sunflower-bicycle.jpg)](https://video.twimg.com/amplify_video/2119871561221947393/vid/avc1/640x360/mnbbtEViiNZpNX5D.mp4)
+
+A Flow showcase follows a cyclist through a sunflower field. The creator highlights the bicycle motion, and the video shows it from several angles, including close-ups of the wheel and handlebars.
 
 </td>
 </tr>
